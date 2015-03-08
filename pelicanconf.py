@@ -20,7 +20,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('InPyCon', 'http://in.pycon.com/'),
+LINKS = (('InPyCon', 'http://in.pycon.org/'),
          ('Python.org', 'http://python.org/'),
          ('PSSI', 'http://pssi.org.in/'),)
 
