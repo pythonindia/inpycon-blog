@@ -21,7 +21,6 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('InPyCon', 'http://in.pycon.org/'),
-         ('Python.org', 'http://python.org/'),
          ('PSSI', 'http://pssi.org.in/'),)
 
 # Social widget
