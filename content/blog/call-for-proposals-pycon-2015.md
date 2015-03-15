@@ -39,15 +39,19 @@ This time our submission system allows the proposal to be in draft mode. As a re
 ### FAQ
 
 Q: Who can propose a session ?
+
 A: Anyone who works on python irrespective of the experience.
 
 Q: I am first time speaker, can I propose session ?
+
 A: Yes. We accept proposals from everyone.
 
 Q: Will someone help me fine tune the content ?
+
 A: Yes, we have set of reviewers who will review the content and give feedback from time to time.
 
 Q: Can I upload the content later ?
+
 A: Yes, it is advised to start with rough draft and iterate rather than postponing to last minute.
 
 Go ahead and propose a [session](http://in.pycon.org/cfp/pycon-india-2015/proposals/).
