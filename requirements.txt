@@ -1,1 +1,2 @@
 pelican==3.5.0
+markdown
