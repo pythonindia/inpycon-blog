@@ -1,5 +1,5 @@
 Title: Announcing PyCon India 2015!
-Date: 2015-03-16 10:20
+Date: 2015-03-15 10:20
 Category: 2015
 Slug: announcing-pycon-india-2015
 Summary: PyCon India 2015 - Announcement and Important dates.
