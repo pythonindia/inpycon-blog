@@ -5,7 +5,7 @@ Slug: call-for-volunteers-pycon-india-2015
 Summary: PyCon India 2015 - Call For Volunteers and Roles and Responsibilities.
 
 
-PyCon India is a community event. Here each and every task is done by a volunteer. And here is the opportunity for You to be a part of the community.
+[PyCon India](http://in.pycon.org/) is a community event. Here each and every task is done by a volunteer. And here is the opportunity for You to be a part of the community.
 
 But before you register to volunteer, there are few things you should be aware of -
 
