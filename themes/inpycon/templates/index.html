@@ -3,7 +3,10 @@
 {% block body %}
 {% for article in articles %}
   <article>
-    <h2 class="title"> {{article.title}}</h2>
+    <a href="{{SITEURL}}/{{article.url}}">
+        <h2 class="title"> {{article.title}}</h2>
+    </a>
+
     <div> {{article.content}}</div>
   </article>
 {% endfor %}
