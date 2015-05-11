@@ -6,7 +6,7 @@ Summary: PyCon India 2015 - Dev sprint announcement and planning.
 
 When we say we strive to make [PyCon India](https://in.pycon.org/2015/) better, we mean it. Concentrating on talk qualities, being inclusive and then getting onto having top notch workshops, believe it or not, PyCon India has never had a Dev Sprint. That, my friends, is going to be fixed this year!
 
-[Do take a moment to fill up this 1-minute Dev sprint survey form.](https://docs.google.com/forms/d/13WrLjKf0NIKhq1pgN9gNHTew-tjxgHI3zTJKg6Jm7-s/viewform)
+[Do take a moment to fill up this 1-minute Dev sprint survey form.](https://bit.ly/dev-sprint-survey)
 
 We are planning on conducting Dev sprints all across India within Local User Groups starting from this month onwards. If you would like to participate or offer suggestions, please join the [inpycon mailing list](https://mail.python.org/mailman/listinfo/inpycon).
 
