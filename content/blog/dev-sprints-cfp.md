@@ -8,7 +8,7 @@ Just under 2 months to go for this year's [PyCon India](https://in.pycon.org/201
 
 In case you are confused or if we sound too pretentious, think of Dev sprint as having a good time, coding hands-on with your fellow Python programmers. The atmosphere will be that of an intense one, extremely focused on projects, with mentors hanging around to help you overcome any roadblock that you might face. The usual outcome of these intense sprints are patches, bug fixes and numerous upstream pull requests from almost all the participants.
 
-Been dreaming about contributing to open source projects? Well, look no further because there won't be a better chance than this. We will open participant registrations next month.
+Been dreaming about contributing to open source projects? Well, look no further because there won't be a better chance than this. The Sprint will be held on **Oct 2nd from 9Am - 7.30 PM on the 1st floor of the conference venue**. We will open participant registrations next month.
 
 [Meanwhile, we have opened the CFP for the dev sprints!](https://in.pycon.org/cfp/pycon-india-dev-sprint-2015/proposals/)
 
