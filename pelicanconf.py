@@ -24,6 +24,11 @@ THEME = 'themes/inpycon'
 LINKS = (('InPyCon', 'http://in.pycon.org/'),
          ('PSSI', 'http://pssi.org.in/'),)
 
+ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
+ARTICLE_URL = '{date:%Y}/{slug}.html'
+
+YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/index.html'
+
 # Social widget
 # SOCIAL = (('You can add links in your config file', '#'),
 #           ('Another social link', '#'),)
