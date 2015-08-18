@@ -11,23 +11,23 @@ There will be three workshops running parallely in different Rooms, make sure th
 There are a lot of choices when it comes to Workshop:
 
 
-- Let's Learn Statistics by Bargava Subramanian
+- [Let's Learn Statistics](https://in.pycon.org/cfp/pycon-india-2015/proposals/lets-learn-statistics/) by Bargava Subramanian
 
-- Django Projects the Right way! by Saurabh Kumar
+- [Django Projects the Right way!](https://in.pycon.org/cfp/pycon-india-2015/proposals/starting-django-projects-the-right-way/) by Saurabh Kumar
 
-- Getting Started with Ansible by Aditya Patawari
+- [Getting Started with Ansible](https://in.pycon.org/cfp/pycon-india-2015/proposals/getting-started-with-ansible/) by Aditya Patawari
 
-- Reasoning under uncertainty with Python by Ronojoy Adhikakri
+- [Reasoning under uncertainty with Python](https://in.pycon.org/cfp/pycon-india-2015/proposals/reasoning-under-uncertainty-with-python/) by Ronojoy Adhikakri
 
-- Symbolic computation with Python using SymPy by Sumith Kulal
+- [Symbolic computation with Python using SymPy](https://in.pycon.org/cfp/pycon-india-2015/proposals/symbolic-computation-with-python-sympy/) by Sumith Kulal
 
-- Using devstack to contribute to OpenStack by Swapnil Kulkarni
+- [Using devstack to contribute to OpenStack](https://in.pycon.org/cfp/pycon-india-2015/proposals/using-devstack-to-contribute-to-openstack/) by Swapnil Kulkarni
 
-- Thinking in Functions by Anoop Thomas Mathew
+- [Thinking in Functions](https://in.pycon.org/cfp/pycon-india-2015/proposals/thinking-in-functions/) by Anoop Thomas Mathew
 
-- Building NextGen IoT solutions using Python and Cloud by Abhishek Narian
+- [Building NextGen IoT solutions using Python and Cloud](https://in.pycon.org/cfp/pycon-india-2015/proposals/building-nextgen-iot-solutions-using-python-and-cloud/) by Abhishek Narian
 
-- Python on your Mobile Phone (advanced concepts) by Akshay Aurora
+- [Python on your Mobile Phone (advanced concepts)](https://in.pycon.org/cfp/pycon-india-2015/proposals/python-on-your-mobile-phone/) by Akshay Aurora
 
 
 More details about individual workshops available at [PyConIndia2015-Proposals](https://in.pycon.org/cfp/pycon-india-2015/proposals/)
