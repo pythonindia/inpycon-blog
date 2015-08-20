@@ -12,7 +12,7 @@ The contents should be visible at http://localhost:8000
 
 ## New Blog
 
-To create a new blog or page creat a file in contents like `touch blog/my-new-blog.rst`.
+To create a new blog or page create a file in contents like `touch blog/my-new-blog.rst`.
 
 example of content can be:
 
