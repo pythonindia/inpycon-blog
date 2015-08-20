@@ -581,13 +581,40 @@ pre code {
     margin-bottom: 10px;
 }
 
+.archive-title {
+    color: #0e98c5;
+    margin-top: 0;
+    margin-bottom: 0px;
+    font-size: 30px;
+    font-weight: 400;
+    font-family: 'Lato', arial, sans-serif;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
 .blog article {
     margin-bottom: 60px;
+}
+
+.archive-summary {
+    color: #30A289;
+}
+
+.incomplete-border {
+    border-bottom: 3px solid #30A289;
+    position: relative;
+    width: 5%;
+    margin-top: -10px;
+}
+
+.date {
+    color: #E33258;
 }
 
 .blog .twitter-wrapper {
     padding: 50px;
 }
+
 .blog .tweetline {
     border: 2px solid #217c5b;
     padding: 10px;
@@ -596,8 +623,13 @@ pre code {
 
 .footer {
     padding: 20px 0 2px 0;
-    background: #49a0d0;
     color: #fff;
+    background-image: -webkit-gradient( linear, left top, left bottom, color-stop(0, #21A7D5), color-stop(1, #2477a4) );
+    background-image: -o-linear-gradient(bottom, #21A7D5 0%, #2477a4 100%);
+    background-image: -moz-linear-gradient(bottom, #21A7D5 0%, #2477a4 100%);
+    background-image: -webkit-linear-gradient(bottom, #21A7D5 0%, #2477a4 100%);
+    background-image: -ms-linear-gradient(bottom, #21A7D5 0%, #2477a4 100%);
+    background-image: linear-gradient(to bottom, #21A7D5 0%, #2477a4 100%);
 }
 .footertop {
     background-image: url('../images/footerbg.png');
