@@ -2,10 +2,6 @@
 Poster Presentation - Pycon India'2015
 ======================================
 
-:*Author*: 	Suprith Gangawar
-:*Mail Id*: 	sgangawa@redhat.com
-:*Date*: 	2015-08-27
-
 What is Poster Presentation?
 ============================
 Ideally, Poster presentation/session is an informal way to present your ideas, or research information at the conference with an academic focus and reach out to a larger audience on your topic. Basically the poster presentations are different from the soft, projector based presentations, where the  presenter/individual/speaker accompanies a poster, posts it on a black/white board in the space provided, stand there, talk to the rolling audience, explain the concept, take maximum questions on his topic. Each presentation is usually presented over a period of 10 minutes or more. 
