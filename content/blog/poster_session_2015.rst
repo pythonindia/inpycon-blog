@@ -93,8 +93,3 @@ Few FAQs
 Q: Can I submit both a poster and a talk proposal?
 --------------------------------------------------
 A: Absolutely! We encourage everyone to submit a poster proposal even if they have also submitted a talk proposal. If both are accepted, we encourage authors to adapt their presentation to make the best use of each venue. Even if a talk proposal can not be accommodated by the program committee, it may still be well suited for a poster presentation.
-
-Q:
---
-A:
-
