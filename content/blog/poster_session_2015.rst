@@ -4,7 +4,7 @@ Poster Presentation - Pycon India'2015
 
 What is Poster Presentation?
 ============================
-Ideally, Poster presentation/session is an informal way to present your ideas, or research information at the conference with an academic focus and reach out to a larger audience on your topic. Basically the poster presentations are different from the soft, projector based presentations, where the  presenter/individual/speaker accompanies a poster, posts it on a black/white board in the space provided, stand there, talk to the rolling audience, explain the concept, take maximum questions on his topic. Each presentation is usually presented over a period of 10 minutes or more. 
+Poster presentation/session is an informal way to present your ideas, or research information at the conference with an academic focus and reach out to a larger audience on your topic. Basically the poster presentations are different from the soft, projector based presentations, where the  presenter/individual/speaker accompanies a poster, posts it on a black/white board in the space provided, stand there, talk to the rolling audience, explain the concept, take maximum questions on his topic. Each presentation is usually presented over a period of 10 minutes or more. 
 Interestingly, at PyCon 2015, Bangalore, we’ll be having the Poster sessions and space will be reserved for the speakers to display their posters.
 
 What is the Motivation behind it?
@@ -21,7 +21,7 @@ Who can Participate?
 How to submit Posters?
 ======================
 Through Junction:
-https://in.pycon.org/cfp/pycon-india-2015/proposals/
+https://in.pycon.org/cfp/pycon-india-2015-poster-session/proposals/
 
 Posters Selection
 =================
