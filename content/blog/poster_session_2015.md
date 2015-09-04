@@ -39,27 +39,27 @@ Second, the poster itself. The poster is a visual aid for you to use in creating
 Certain Rules and guidelines that are suggested for an ideal poster presentation include:
 
 
-## Define the purpose
+### Define the purpose
 
 Heading should convey the entire message of your idea
 
 
-## Your message
+### Your message
 
 Sell your idea in seconds
 
 
-## Poster size
+### Poster size
 
 Not too big, not too small
 
 
-## Include Images, Graphs
+### Include Images, Graphs
 
 It’ll make the presentation more informative
 
 
-## Presentation Index should look like:
+### Presentation Index should look like:
 
 - Title
 - Introduction/Goal
@@ -72,33 +72,32 @@ It’ll make the presentation more informative
 - Thanking the audience for their attention provides a nice segue into the question and answer session.
 
 
-## Poster selection is the beginning
+### Poster selection is the beginning
 
 Consider the post presentation impact of your topic.
-7. QR Code
-----------
+### QR Code
 You do not have to use a QR, but it adds a level of professionalism to your work. It is often put in lower right hand corner with other contact information.
 
 
-## Literature Review
+### Literature Review
 
 Existing systems. Advantage of your idea over them.
 
 
-## Writing Style
+### Writing Style
 
 Proper fonts and colors wherever needed
 
 
-## Design, Layout
+### Design, Layout
 
 Poster content is always arranged in columns, on an invisible grid
 
 
-## FAQs
+### FAQs
 
 
-## Q: Can I submit both a poster and a talk proposal?
+### Q: Can I submit both a poster and a talk proposal?
 
 A: Absolutely! We encourage everyone to submit a poster proposal even if they have also submitted a talk proposal. If both are accepted, we encourage authors to adapt their presentation to make the best use of each venue. Even if a talk proposal can not be accommodated by the program committee, it may still be well suited for a poster presentation.
 
