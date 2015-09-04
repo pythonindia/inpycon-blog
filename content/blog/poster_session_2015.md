@@ -10,33 +10,31 @@ Poster presentation/session is an informal way to present your ideas, or researc
 Interestingly, at PyCon 2015, Bangalore, we’ll be having the Poster sessions and space will be reserved for the speakers to display their posters.
 
 
-# What is the Motivation behind it?
+## What is the Motivation behind it?
 
 Oral presentations are a richer medium than written documents. They allow you to establish stronger contact with the audience and better convince them with your viewpoint through verbal and nonverbal methods, as well as the ensuing interaction. Posters also act as hard copies providing in-depth details of the concepts of a talk a speaker aims to spread, where any participant can look back incase he missed a few pointers during the talk.
 
 
-# Who can Participate?
+## Who can Participate?
 
+- Professionals
+- Lecturers
+- College Students
+- Speakers
 
-1. Professionals
-2. Lecturers
-3. College Students
-4. Speakers
-
-
-# How to submit Posters?
+## How to submit Posters?
 
 Through Junction:
 [https://in.pycon.org/cfp/pycon-india-2015-poster-session/proposals/](https://in.pycon.org/cfp/pycon-india-2015-poster-session/proposals/)
 
 
-# What makes a good Poster Presentation?
+## What makes a good Poster Presentation?
 
 First and most important, a good proposal. Poster sessions are intended to give you the chance to present interesting ideas and start conversations with others. Additionally, proposal titles and abstracts are one of the major tools the audience will use to identify posters of interest.
 Second, the poster itself. The poster is a visual aid for you to use in creating a quick engaging presentation, and to refer to it answering questions and fuelling discussion.
 
 
-# Rules and Guidelines:
+## Rules and Guidelines:
 
 Certain Rules and guidelines that are suggested for an ideal poster presentation include:
 
@@ -74,7 +72,7 @@ It’ll make the presentation more informative
 - Thanking the audience for their attention provides a nice segue into the question and answer session.
 
 
-# Poster selection is the beginning
+## Poster selection is the beginning
 
 Consider the post presentation impact of your topic.
 7. QR Code
@@ -97,7 +95,7 @@ Proper fonts and colors wherever needed
 Poster content is always arranged in columns, on an invisible grid
 
 
-# FAQs
+## FAQs
 
 
 ## Q: Can I submit both a poster and a talk proposal?
