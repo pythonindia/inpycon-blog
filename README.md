@@ -8,7 +8,12 @@ $ pip install -r requirements.txt
 $ make html
 $ make serve
 ```
-The contents should be visible at http://localhost:8000
+The contents should be visible at [http://localhost:8000](http://localhost:8000)
+
+If you're contributing to the project, and want to auto generate outputs, run -
+
+    $ make devserver
+
 
 ## New Blog
 
