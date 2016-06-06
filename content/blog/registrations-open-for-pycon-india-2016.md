@@ -4,7 +4,7 @@ Category: 2016
 Slug: 2016-registrations-open
 Summary: PyCon India 2016 - Registration link and details.
 
-Registrations for [Pycon India](http://in.pycon.org/2016) is open now!
+Registrations for [PyCon India](http://in.pycon.org/2016) is open now!
 
 [Register Now!](https://in.explara.com/e/pycon-india-2016) Read the rest when you
 get back.
