@@ -27,7 +27,7 @@ each workshop that you want to attend. We'll announce them as soon as we finaliz
 [Get your tickets right away!](https://in.explara.com/e/pycon-india-2016)
 
 If you would like to talk Python at the conference, [take a look at our Proposal
-submission page](https://in.pycon.org/cfp/pycon-india-2016/proposals/). Put in a rough
+submission page](https://in.pycon.org/cfp/2016/proposals/). Put in a rough
 draft right away. You can think about prettifying it later on. Submissions deadline is
 on the 29th of June.
 
