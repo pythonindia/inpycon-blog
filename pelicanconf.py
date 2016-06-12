@@ -19,6 +19,7 @@ ARTICLE_PATHS = ['blog']
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 THEME = 'themes/inpycon2016'
+SITEURL = '/blog'
 
 # Blogroll
 LINKS = (('InPyCon', 'http://in.pycon.org/'),

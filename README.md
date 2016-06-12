@@ -1,19 +1,18 @@
-# inpycon-blog
-PyCon India Blog
+# Inpycon Blog
+
+PyCon India Blog (https://in.pycon.org/blog/)
 
 
-## Initial setup
+## Getting Started 
+
+Run the following commands in a virtualenv:
+
 ```
 $ pip install -r requirements.txt
-$ make html
-$ make serve
+$ ./develop_server.sh start
 ```
-The contents should be visible at [http://localhost:8000](http://localhost:8000)
 
-If you're contributing to the project, and want to auto generate outputs, run -
-
-    $ make devserver
-
+The contents should be visible at [http://localhost:8000/blog/](http://localhost:8000/blog/)
 
 ## New Blog
 
