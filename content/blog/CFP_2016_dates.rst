@@ -1,8 +1,13 @@
 Title: Important CFP Dates for PyCon India 2016
+
 Date: 2016-06-19 17:00
+
 Category: 2016
+
 Slug: 2016-CFP-Dates
+
 Summary: PyCon India 2016 - CFP link and details.
+
 
 As many of you folks know, [CFP](https://in.pycon.org/cfp/2016/proposals/) for PyConIndia has been open since March.
 
