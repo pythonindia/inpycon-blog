@@ -13,9 +13,9 @@ for the past two years to worthy Indian Pythonistas.
 
 **Past Years Nominations**
 
-1. 2013    **Baiju Muthukadan**      https://in.pycon.org/2013/blog/baijum-first-kenneth-gonsalves-award-recipient/
-2. 2014    **Prabhu Ramachandran**   https://in.pycon.org/2014/blog/prabhu-ramachandran-is-winner-of-kenneth-gonsalves-award-2014/
-3. 2015    **Vijay Kumar**           https://in.pycon.org/blog/2015/kg-award-winner.html
+- 2013    [Baiju Muthukadan](https://in.pycon.org/2013/blog/baijum-first-kenneth-gonsalves-award-recipient/)
+- 2014    [Prabhu Ramachandran](https://in.pycon.org/2014/blog/prabhu-ramachandran-is-winner-of-kenneth-gonsalves-award-2014/)
+- 2015    [Vijay Kumar](https://in.pycon.org/blog/2015/kg-award-winner.html)
 
 
 This award is instituted by PSSI (and in the past PSF) in the name of our late friend and mentor,
