@@ -20,7 +20,7 @@ in past years to worthy Indian Pythonistas.
 - 2015    [Vijay Kumar](https://in.pycon.org/blog/2015/kg-award-winner.html)
 
 
-This award is instituted by PSSI (and in the past PSF) in the name of our late friend and mentor,
+This award is instituted by PSSI in the name of our late friend and mentor,
 Kenneth Gonsalves who passed away in August 2012.
 
 KG, as he is fondly known in the community, was the founder of the Indian Python Software Society.
