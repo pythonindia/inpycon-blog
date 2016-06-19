@@ -13,11 +13,11 @@ It's such an immense support from our community that makes this event successful
 The important dates for CFP in [PyCon India](http://in.pycon.org/2016) are as below.
 
 
-CFP closes                            : Till midnight(IST) on 30 June,2016
-Acceptance of Talk                    : 10 July,2016.
-Presentation upload                   : Till Midnight 27 July,2016
-Final review of talks and workshops   : 10 August,2016
-Announcement of final schedule        : 25 August,2016
+- CFP closes                            : 30 June, 2016
+- Acceptance of Talk                    : 10 July, 2016.
+- Presentation upload                   : 27 July, 2016
+- Final review of talks and workshops   : 10 August, 2016
+- Announcement of final schedule        : 25 August, 2016
 
 Some suggestions from around the world on how to make your talk a success for speakers:
 
