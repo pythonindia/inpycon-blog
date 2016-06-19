@@ -1,6 +1,6 @@
 Title: Important CFP Dates for PyCon India 2016
 
-Date: 2016-06-19 17:00
+Date: 2016-06-19
 
 Category: 2016
 
@@ -12,7 +12,7 @@ Summary: PyCon India 2016 - CFP link and details.
 As many of you folks know, [CFP](https://in.pycon.org/cfp/2016/proposals/) for PyConIndia has been open since March.
 
 Thanks to all you folks we have had 79 proposals till date. Thanks for such a warm repsponse.
-It's such a immense support from our community that makes this event successfull year after. Thanks!
+It's such an immense support from our community that makes this event successfull year after. Thanks!
 
 
 The important dates for CFP in [PyCon India](http://in.pycon.org/2016) are as below.
@@ -24,7 +24,7 @@ Presentation upload                   : Till Midnight 27 July,2016
 Final review of talks and workshops   : 10 August,2016
 Announcement of final schedule        : 25 August,2016
 
-Some suggestions from around the world on how to make your talk a success! for speakers:
+Some suggestions from around the world on how to make your talk a success for speakers:
 
 - [A Hypocrite’s Guide to Public Speaking](https://www.youtube.com/watch?v=uH_-_mrksV4&feature=youtu.be)
 
