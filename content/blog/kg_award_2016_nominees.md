@@ -29,4 +29,4 @@ It is that time of the year, again, where we welcome nominations for a worthy ca
 If you know someone who has played a key role in the Indian Python community's development, please nominate their names.
 Do your part to help us find a deserving personality to accept the award this year.
 
-Please submit your nominations here.
+Please submit your nominations https://pssi.org.in/nomination/KG2016/
