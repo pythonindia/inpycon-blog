@@ -1,6 +1,6 @@
 Title: Important CFP Dates for PyCon India 2016
 
-Date: 2016-06-19
+Date: 2016-06-19 17:00
 
 Category: 2016
 
