@@ -19,4 +19,4 @@ This award is given for those who have done exemplary work in the community for 
 It is that time of the year, again, where we welcome nominations for a worthy candidate from all of you.
 If you know someone who has played a key role in the development of a local Python community or has contributed otherwise to adoption/advocacy of Python, please nominate their names for the Award.
 
-Please submit your [nominations](https://pssi.org.in/nomination/KG2016/)
+Please click [->here](https://pssi.org.in/nomination/KG2016/) to submit your nominations.
