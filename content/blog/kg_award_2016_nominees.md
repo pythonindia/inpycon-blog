@@ -4,11 +4,11 @@ Category: 2016
 Slug: kg-award-2016-nominations
 Summary: Nominations open for 2016 Kenneth Gonsalves award
 
-PyCon India 2016 is keeping with the tradition of giving out the annual Kenneth Gonsalves Award.
+PyCon India 2016 is continuing with the tradition of recognizing exemplary work in the Python community in India. The contributions could be in the field of advocacy, development of the Python programming language and/or increasing the adoption of Python.
 
-This award is instituted by PSSI in the name of our late friend and mentor, Kenneth Gonsalves who passed away in August 2012. KG, as he was fondly known in the community, was the founder of the Indian Python Software Society.
+The recognition is in the form of the KG Award which has been instituted by the PSSI. The award is in the name of Kenneth Gonsalves, a friend, mentor and founder of the Indian Python Software Society. Kenneth, or, KG passed away in August 2012. 
 
-This award is given for those who have done exemplary work in the community for development/adoption/advocacy of the Python programming language in India.
+The PSSI seeks and welcomes nominations for this award. If you would like to nominate someone who is deserving, please nominate them by clicking [->here](https://pssi.org.in/nomination/KG2016/) to submit nominations. Please ensure that you have adequate detail which highlight their contributions and their participation in the Python Community.
 
 **Past Years Winners**
 
@@ -16,7 +16,3 @@ This award is given for those who have done exemplary work in the community for 
 - 2014    [Prabhu Ramachandran](https://in.pycon.org/2014/blog/prabhu-ramachandran-is-winner-of-kenneth-gonsalves-award-2014/)
 - 2015    [Vijay Kumar](https://in.pycon.org/blog/2015/kg-award-winner.html)
 
-It is that time of the year, again, where we welcome nominations for a worthy candidate from all of you.
-If you know someone who has played a key role in the development of a local Python community or has contributed otherwise to adoption/advocacy of Python, please nominate their names for the Award.
-
-Please click [->here](https://pssi.org.in/nomination/KG2016/) to submit your nominations.
