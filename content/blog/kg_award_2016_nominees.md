@@ -10,7 +10,7 @@ The recognition is in the form of the KG Award which has been instituted by the 
 
 The PSSI seeks and welcomes nominations for this award. If you would like to nominate someone who is deserving, please nominate them by clicking [->here](https://pssi.org.in/nomination/KG2016/) to submit nominations. Please ensure that you have adequate detail which highlight their contributions and their participation in the Python Community.
 
-**Past Years Winners**
+**The recipients of the past 3 years are**
 
 - 2013    [Baiju Muthukadan](https://in.pycon.org/2013/blog/baijum-first-kenneth-gonsalves-award-recipient/)
 - 2014    [Prabhu Ramachandran](https://in.pycon.org/2014/blog/prabhu-ramachandran-is-winner-of-kenneth-gonsalves-award-2014/)
