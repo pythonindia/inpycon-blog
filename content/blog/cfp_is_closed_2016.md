@@ -132,7 +132,7 @@ Looking at submissions on the weekday shows, most submissions were on Thursday a
 
 <iframe width="600" height="400" src="https://live.amcharts.com/wZmE2/embed/" frameborder="0"></iframe>
 
-Hold on tight friends, it is going to be awesome this year!
+Do visit the [proposals page](https://in.pycon.org/cfp/2016/proposals/), vote for your favorite talks, comment on the ones that you would like to know more about and help us help you have the most awesome content ever. Hold on tight friends, it is going to be awesome this year!
 
 
 
