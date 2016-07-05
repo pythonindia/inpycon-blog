@@ -8,33 +8,33 @@ First of all, a big shout out to all those who worked on and submitted their pro
 
 This year, there is the total of 13 sections.
 
-Out of 165 proposals, 134 are talks and 31 are workshops.
+Out of 166 proposals, 135 are talks and 31 are workshops.
 
 <iframe width="600" height="400" src="https://live.amcharts.com/IwOTU/embed/" frameborder="0"></iframe>
 
 Breakdown of proposal sections
 
-- Python 3k: 8
+- Python 3k: 5
 
-- Web Development: 23
+- Web Development: 24
 
 - Standard library: 2
 
 - Infrastructure: 15
 
-- Network Programming: 2
+- Network Programming: 3
 
 - Testing: 12
 
 - Security: 10
 
-- Data Visualization and Analytics: 26
+- Data Visualization and Analytics: 27
 
-- Scientific Computing: 18
+- Scientific Computing: 17
 
-- Concurrency: 2
+- Concurrency: 3
 
-- Embedded Python: 9
+- Embedded Python: 10
 
 - Others: 25
 
@@ -70,29 +70,29 @@ There are no submissions in Standard library, Concurrency, Security sections for
 
 <iframe width="600" height="400" src="https://live.amcharts.com/JkNmF/embed/" frameborder="0"></iframe>
 
-131 talk submissions break up are
+135 talk submissions break up are
 
-- Python 3k: 6
+- Python 3k: 3
 
-- Web Development: 16
+- Web Development: 17
 
 - Standard library: 2
 
 - Infrastructure: 11
 
-- Network Programming: 1
+- Network Programming: 2
 
 - Testing: 11
 
 - Security: 10
 
-- Data Visualization and Analytics: 23
+- Data Visualization and Analytics: 24
 
-- Scientific Computing: 15
+- Scientific Computing: 14
 
-- Concurrency: 2
+- Concurrency: 3
 
-- Embedded Python: 7
+- Embedded Python:8
 
 - Others: 18
 
@@ -102,7 +102,7 @@ Top 4 sections contributes 55% in talk submissions.
 
 <iframe width="600" height="400" src="https://live.amcharts.com/xMDhj/embed/" frameborder="0"></iframe>
 
-41% of submissions were on last 6 days. 36 submissions on last day, that's 21.8%.
+41% of submissions were on last 6 days. 36 submissions on last day, that's 21.7%.
 
 - 26-06-2016: 9
 
@@ -124,7 +124,7 @@ Looking at submissions on the weekday shows, most submissions were on Thursday a
 
 - Thursday: 48
 
-- Friday- 10
+- Friday- 11
 
 - Saturday: 13
 
