@@ -59,7 +59,10 @@ Out of 166 proposals, 135 are talks and 31 are workshops.
 <iframe width="600" height="400" src="https://live.amcharts.com/U4OGZ/embed/" frameborder="0"></iframe>
 
 There are no submissions in Standard library, Concurrency, Security sections for the workshops.
-31 workshops submissions break up are,
+
+<iframe width="600" height="400" src="https://live.amcharts.com/JkNmF/embed/" frameborder="0"></iframe>
+
+31 workshops submissions break-down are,
 
 - Python 3k: 2
 
@@ -81,12 +84,12 @@ There are no submissions in Standard library, Concurrency, Security sections for
 
 - Core Python: 1
 
-<iframe width="600" height="400" src="https://live.amcharts.com/JkNmF/embed/" frameborder="0"></iframe>
-
-135 talk submissions break up are
-
 Top 4 sections Data Visualization and Analytics (24), Others (18), Web Development (17),
 Core Python (12) contributes 55% in talk submissions.
+
+<iframe width="600" height="400" src="https://live.amcharts.com/xMDhj/embed/" frameborder="0"></iframe>
+
+135 talk submissions break-down are
 
 - Python 3k: 3
 
@@ -121,7 +124,6 @@ Concurrency. These, along with Python 3K are topics which could be
 discussed more at meetups and mailing lists to generate
 awareness/interest and create expertise.
 
-<iframe width="600" height="400" src="https://live.amcharts.com/xMDhj/embed/" frameborder="0"></iframe>
 
 41% of submissions were on last 6 days. 36 submissions on last day, that's 21.7%.
 
@@ -137,6 +139,9 @@ awareness/interest and create expertise.
 
 Looking at submissions on the weekday shows, most submissions were on Thursday and least on Friday. Yes, last day of the submission is Thursday!
 
+<iframe width="600" height="400" src="https://live.amcharts.com/wZmE2/embed/" frameborder="0"></iframe>
+
+
 - Monday: 20
 
 - Tuesday: 23
@@ -151,7 +156,6 @@ Looking at submissions on the weekday shows, most submissions were on Thursday a
 
 - Sunday: 18
 
-<iframe width="600" height="400" src="https://live.amcharts.com/wZmE2/embed/" frameborder="0"></iframe>
 
 Do visit the [proposals page](https://in.pycon.org/cfp/2016/proposals/), vote for your favorite talks, comment on the ones that you would like to know more about and help us help you have the most awesome content ever. Hold on tight friends, it is going to be awesome this year!
 
