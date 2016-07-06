@@ -4,11 +4,25 @@ Category: 2016
 Slug: cfp-is-closed
 Summary: PyCon India 2016 - CFP is closed
 
-First of all, a big shout out to all those who worked on and submitted their proposals! 30th, June was the deadline for CFP. We received 165 proposals! 25 more compared to last year count.
+The CfP for PyCon India closed on 30th June. At close, we received a
+total of 166 proposals - 31 of which are for workshops. This number is
+25 more when compared with last year.
 
+A big shout-out to all those who put together these proposals,
+responded to feedback and tweaked their original pitches. The review
+team is looking forward to a good set of content being curated for
+this edition of the event.
+
+Big thanks to all the proposers for showing interest to speak.
+This gives wider pool for reviewers to pick the best ones and
+review team likes well-pitched proposals.
+
+We had a total of 13 sections and a quick break down indicates that
+the top 3 are - Data Visualization and Analytics (26) ; Web
+Development (23) and Scientific computing (18). These, along with a
+catch all Others (25) make up 50% of the proposal.
 This year, there is the total of 13 sections.
 
-Out of 166 proposals, 135 are talks and 31 are workshops.
 
 <iframe width="600" height="400" src="https://live.amcharts.com/IwOTU/embed/" frameborder="0"></iframe>
 
@@ -40,11 +54,12 @@ Breakdown of proposal sections
 
 - Core Python: 13
 
-50% of proposals are in 4 sections, Web Development, Data Visualization, Scientific Computing, Others.
+Out of 166 proposals, 135 are talks and 31 are workshops.
 
 <iframe width="600" height="400" src="https://live.amcharts.com/U4OGZ/embed/" frameborder="0"></iframe>
 
-31 workshops submissions break up are
+There are no submissions in Standard library, Concurrency, Security sections for the workshops.
+31 workshops submissions break up are,
 
 - Python 3k: 2
 
@@ -66,11 +81,12 @@ Breakdown of proposal sections
 
 - Core Python: 1
 
-There are no submissions in Standard library, Concurrency, Security sections for the workshops.
-
 <iframe width="600" height="400" src="https://live.amcharts.com/JkNmF/embed/" frameborder="0"></iframe>
 
 135 talk submissions break up are
+
+Top 4 sections Data Visualization and Analytics (24), Others (18), Web Development (17),
+Core Python (12) contributes 55% in talk submissions.
 
 - Python 3k: 3
 
@@ -98,7 +114,12 @@ There are no submissions in Standard library, Concurrency, Security sections for
 
 - Core Python: 12
 
-Top 4 sections contributes 55% in talk submissions.
+
+Looking at the break-down of submissions, the three sections which received
+the least interest are - Network Programming; Standard Library and
+Concurrency. These, along with Python 3K are topics which could be
+discussed more at meetups and mailing lists to generate
+awareness/interest and create expertise.
 
 <iframe width="600" height="400" src="https://live.amcharts.com/xMDhj/embed/" frameborder="0"></iframe>
 
