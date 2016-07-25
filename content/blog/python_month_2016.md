@@ -4,7 +4,7 @@ Category: 2016
 Slug: python-month-2016
 Summary: Python Month 2016
 
-<img src="https://pythonexpress.in/static/img/logo_python_express.png" alt="PythonExpress">
+<img src="https://pythonexpress.in/static/img/logo_python_express.png" alt="PythonExpress" width="300">
 
 PyCon India 2016 is just around the corner. This year’s event is being hosted at the JNU University in New Delhi from September 23rd to 25th. Moreover, we’re celebrating August 10th to September 10th as the Python Month! So get ready for a month of workshops and learning, leading into India’s biggest community run professional conference! Python Month is run-up for PyCon India. Initial edition in 2013 volunteers conducted 45 and so far highest.
 
