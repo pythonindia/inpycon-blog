@@ -44,4 +44,4 @@ Most of the tutors are volunteers, requesting the workshop as early as possible 
 Thanks for your effort.  This year we love to help you. Please go ahead to PythonExpress web app
 and request a workshop. Our volunteers will get back to you about the tutor.
 
-Have any questions or suggestions? Contact us at https://pythonexpress.in/contact/ or join the mailing list http://lists.pssi.org.in/cgi-bin/mailman/listinfo/pythonexpress.
+You can have a look at upcoming workshops in the [site](https://pythonexpress.in/workshops_upcoming/). Have any questions or suggestions? Contact us at https://pythonexpress.in/contact/ or join the mailing list http://lists.pssi.org.in/cgi-bin/mailman/listinfo/pythonexpress.
