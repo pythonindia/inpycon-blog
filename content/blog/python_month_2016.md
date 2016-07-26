@@ -21,7 +21,7 @@ This year, PyCon India is celebrating the month from 10th, August to 10th, Septe
 
 Python month will be organized and run by volunteers, anyone who wants to participate is welcome, and all help is appreciated.
 
-This is a big task to handle and therefore requires a lot of volunteer support. Create an account in [Python Express web application](https://pythonexpress.in) and become a volunteer. Here is how you can help.
+This is a large task to handle and therefore requires a lot of volunteer support. Create an account in [Python Express web application](https://pythonexpress.in) and become a volunteer. Here is how you can help.
 
 1. If you are a Python programmer, and please give a talk/workshop at a college in your city.
 2. If you are a professor or student, please facilitate a workshop in your college. Request a workshop in [Python Express site](https://pythonexpress.in). A volunteer will follow up about facilities and tutor.
