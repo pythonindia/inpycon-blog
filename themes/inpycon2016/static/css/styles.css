@@ -5,7 +5,7 @@ body
 {
     font-family: 'Ubuntu', sans-serif;
     font-size: 16px;
-
+    text-align: justify;
     color: #333;
     background: url('../images/bgimage.jpg') fixed;
     background-repeat: repeat-y;
