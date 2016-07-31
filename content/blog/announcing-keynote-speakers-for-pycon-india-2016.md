@@ -10,7 +10,7 @@ Summary: Announcing PyCon India 2016 Keynoters
 ###Baishampayan  Ghose
 
 
-![Baishampayan Ghose](https://in.pycon.org/2016/images/bghose.jpg)
+![Baishampayan Ghose](https://in.pycon.org/blog/theme/images/bghose.jpg)
 
 
 Our First kenote speaker, [Baishampayan Ghose (BeeGee)](https://github.com/ghoseb) is CTO/Co-founder at Helpshift, Inc. [BeeGee](https://github.com/ghoseb) is a
@@ -21,7 +21,7 @@ the intersection of Software, Culture and Society.
 
 ###Andreas Mueller
 
-![Andreas Mueller](https://in.pycon.org/2016/images/amueller.jpg)
+![Andreas Mueller](https://in.pycon.org/blog/theme/images/amueller.jpg)
 
 Our Second keynote speaker, [Andreas Mueller]( https://twitter.com/amuellerml)
 is a Research Engineer at the NYU Center for Data Science, building open source
