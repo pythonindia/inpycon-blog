@@ -1,8 +1,8 @@
-Title: Announcing Keynoters for PyCon India 2016!
+Title: Announcing Keynote Speakers for PyCon India 2016!
 Date: 2016-07-28 20:00
 Category: 2016
-Slug: announcing-keynoters-for-pycon-india-2016
-Summary: Announcing PyCon India 2016 Keynoters
+Slug: announcing-keynote-speakers-for-pycon-india-2016
+Summary: Announcing PyCon India 2016 Keynote Speakers
 
 
 **We are proud to announce our Keynote Speakers for PyCon India 2016.**
