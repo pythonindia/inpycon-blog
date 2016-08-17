@@ -28,7 +28,7 @@ There are few choices when it comes to Workshop:
 
 Further details about Workshops and Selected talks are available at [PyCon India 2016 - Proposals](https://in.pycon.org/cfp/2016/proposals/#proposals)
 
-We have limited seats for each Workshop. Grab your tickets as soon as possible if you don't want to miss out!
+We have limited seats for each Workshop. Grab your [tickets](https://in.explara.com/e/pycon-india-2016) as soon as possible if you don't want to miss out!
 
 Tickets to the Workshops are available [here](https://in.explara.com/e/pycon-india-2016)
 
