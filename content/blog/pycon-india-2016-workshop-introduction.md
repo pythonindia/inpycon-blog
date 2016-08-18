@@ -5,9 +5,9 @@ Slug: workshop-introduction-2016
 Summary: PyCon India 2016 - Workshop Introduction
 
 
-The workshops at [PyCon India](https://in.pycon.org/2016/) will be held on 23rd September, 2016. They are hands-on sessions of 2.30hr duration each and are taught by experts in the field. You don't want to miss them!
+The Workshops at [PyCon India](https://in.pycon.org/2016/) will be held on 23rd September, 2016. They are hands-on sessions of 3 hour duration each and are taught by experts in the field.
 
-We have selected a total of 6 workshops into this year's conference. There will be 3 workshops in parallel during the morning session and 3 of them in parallel during the afternoon session. Please make sure that you avoid schedule conflicts while purchasing tickets for the workshops.
+We have selected a total of 6 workshops into this year's conference. There will be 3 Workshops in parallel during the morning session and 3 of them in parallel during the afternoon session. Please make sure that you avoid schedule conflicts while purchasing tickets for the Workshops.
 
 
 There are few choices when it comes to Workshop:
@@ -28,7 +28,7 @@ There are few choices when it comes to Workshop:
 
 Further details about Workshops and Selected talks are available at [PyCon India 2016 - Proposals](https://in.pycon.org/cfp/2016/proposals/#proposals)
 
-We have limited seats for each Workshop. Grab your [tickets](https://in.explara.com/e/pycon-india-2016) as soon as possible if you don't want to miss out!
+We have only 25 seats for each Workshop. So hurry! grab your [tickets](https://in.explara.com/e/pycon-india-2016) as soon as possible if you don't want to miss out!
 
 Tickets to the Workshops are available [here](https://in.explara.com/e/pycon-india-2016)
 
