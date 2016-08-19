@@ -53,9 +53,12 @@ The Selected workshops are as follows
 
 [Get Your Workshop Tickets Here](https://in.explara.com/e/pycon-india-2016)
 
-Note:
+Note::
+
  1. You need to buy separate tickets for each workshop.
+
  2. The workshop seats are  limited to  25.
+
  3. If you are planning to attend PyCon India Conference, [Feel free to buy your tickets from here] (https://in.explara.com/e/pycon-india-2016)
 
 Hurry Up and book your tickets now!
