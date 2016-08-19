@@ -14,11 +14,11 @@ workshops out there, focusing more on quality than on quantity, ensuring
 more advance tracks. 
 
 We will be having just 2 workshops in each track this year.
-With a total of 6 workshops on the workshop day of 23rd September, 2016.
-Each workshop will be a hands-on sessions of 3 hours.
+With a total of 6 workshops on the workshop day of 23rd September 2016.
+Each workshop will be a hands-on session of 3 hours.
 
 This year, CFP committee had a tough job, selecting the workshops that hopefully would 
-appeal to every one while trying to maintain quality.
+appeal to everyone while trying to maintain quality.
 
 We would like to thank everyone who took time off from their busy schedules and 
 helped review the talks and interact with the proposers. You are a tough little group;
@@ -43,7 +43,7 @@ The Selected workshops are as follows
 
 2.Docker Workshop
 
-3.Talking to Machines : Optimizing Neural Networks with Theano
+3.Talking to Machines: Optimizing Neural Networks with Theano
 
 4.Productive Coding with PyCharm
 
@@ -54,8 +54,8 @@ The Selected workshops are as follows
 [Get Your Workshop Tickets Here](https://in.explara.com/e/pycon-india-2016)
 
 Note:
- 1. Separate tickets to be bought for each workshop 
- 2. The workshop seats are  limited to  25 seats .
+ 1. You need to buy separate tickets for each workshop.
+ 2. The workshop seats are  limited to  25.
  3. If you are planning to attend PyCon India Conference, [Feel free to buy your tickets from here] (https://in.explara.com/e/pycon-india-2016)
 
 Hurry Up and book your tickets now!
