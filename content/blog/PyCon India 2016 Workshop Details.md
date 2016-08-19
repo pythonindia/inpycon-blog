@@ -59,7 +59,8 @@ Note::
 
  2. The workshop seats are  limited to  25.
 
- 3. If you are planning to attend PyCon India Conference, [Feel free to buy your tickets from here] (https://in.explara.com/e/pycon-india-2016)
+ 3. If you are planning to attend PyCon India Conference. 
+ [Feel free to buy your tickets from here] (https://in.explara.com/e/pycon-india-2016)
 
 Hurry Up and book your tickets now!
 
