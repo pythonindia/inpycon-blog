@@ -10,7 +10,7 @@ Summary: PyCon India 2016 Workshop Details
 Many of you have been asking for details of workshops this year.
 
 The CFP team has been tirelessly working on choosing best possible
-workshops out there, focusing more on quality than on quantity,ensuring
+workshops out there, focusing more on quality than on quantity, ensuring
 more advance tracks. 
 
 We will be having just 2 workshops in each track this year.
