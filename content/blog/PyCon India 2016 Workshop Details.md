@@ -1,5 +1,5 @@
 Title: PyCon India 2016 Workshop Details
-Date: 2016-07-28 20:00
+Date: 2016-08-19 20:00
 Category: 2016
 Slug: pyconindia-2016-workshop-details
 Summary: PyCon India 2016 Workshop Details
