@@ -5,14 +5,14 @@ Slug: announcing-third-keynote-speaker-for-pycon-india-2016
 Summary: Announcing PyCon India 2016 Third Keynote Speaker
 
 
-**We are proud to announce our Keynote Speakers for PyCon India 2016.**
+**We are proud to announce Third Keynote Speaker for PyCon India 2016.**
 
 ###Van Lindberg
 
 
 ![Van Lindberg](https://in.pycon.org/blog/theme/images/van.jpg)
 
- [Van Lindberg ] Van Lindberg is an engineer, IP and open source lawyer, and part-time natural language hacker. 
+ [Van Lindberg](https://twitter.com/vanl) Van Lindberg is an engineer, IP and open source lawyer, and part-time natural language hacker. 
  He is a director, general counsel, and past chair of the Python Software Foundation, a director of the OpenStack Foundation,
  and Vice President and Associate General Counsel for Rackspace. As associate general counsel, 
  Lindberg oversees Rackspace's Intellectual Property program, directing Rackspace's strategy and policy around patent, 
