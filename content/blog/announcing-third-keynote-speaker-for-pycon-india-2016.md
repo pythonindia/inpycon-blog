@@ -1,5 +1,5 @@
 Title: Announcing Third Keynote Speaker for PyCon India 2016!
-Date: 2016-07-28 20:00
+Date: 2016-08-30 20:00
 Category: 2016
 Slug: announcing-third-keynote-speaker-for-pycon-india-2016
 Summary: Announcing PyCon India 2016 Third Keynote Speaker
