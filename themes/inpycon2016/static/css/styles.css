@@ -5,7 +5,9 @@ body
 {
     font-family: 'Ubuntu', sans-serif;
     font-size: 16px;
+
     text-align: justify;
+
     color: #333;
     background: url('../images/bgimage.jpg') fixed;
     background-repeat: repeat-y;
@@ -777,7 +779,7 @@ pre code
 {
     font-family: 'Lato', arial, sans-serif;
     font-size: 30px;
-    font-weight: 400;
+    font-weight: bold;
 
     margin-top: 0;
     margin-bottom: 0;
@@ -800,11 +802,6 @@ pre code
     padding-bottom: 10px;
 
     color: #da3127;
-}
-
-.blog article
-{
-    margin-bottom: 60px;
 }
 
 .archive-summary
@@ -984,6 +981,11 @@ pre code
 }
 img
 {
+    display: block;
+
+    max-width: 100%;
+    height: auto;
+
     vertical-align: middle;
 }
 .img-responsive
@@ -1592,4 +1594,23 @@ img
 .sponbox li .fa
 {
     color: #217c5b;
+}
+
+.blogpost
+{
+    max-width: 960px;
+    margin: 0 auto;
+    margin-bottom: 60px;
+    padding: 3em;
+
+    background: rgba(255, 255, 255, .9);
+    box-shadow: 2px 4px 1px #eee;
+}
+.blogpost p
+{
+    text-indent: 1em;
+}
+.blogpost img
+{
+    margin: 2em auto;
 }

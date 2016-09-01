@@ -1,8 +1,9 @@
 {% extends "base.html"%}
 
 {% block body %}
+<section class="blogpost-listings">
 {% for article in articles %}
-  <article>
+  <article class="blogpost">
     <a href="{{SITEURL}}/{{article.url}}">
         <h2 class="title"> {{article.title}}</h2>
     </a>
@@ -10,4 +11,5 @@
     <div><time datetime="{{article.date}}" itemprop="datePublished"><em><small>Published on: {{ article.date.strftime('%B %d, %Y') }}</small></em></time></div>
   </article>
 {% endfor %}
+</section>
 {% endblock %}

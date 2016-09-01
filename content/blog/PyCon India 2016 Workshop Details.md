@@ -37,30 +37,24 @@ While planning to buy tickets for workshops do make sure you do not buy tickets
 in same time slots in different halls.
 
 
-The Selected workshops are as follows
+The Selected workshops are as follows:
     
-1.Building a Lie Detector: Multi-Modal Sentiment Analysis
-
-2.Docker Workshop
-
-3.Talking to Machines: Optimizing Neural Networks with Theano
-
-4.Productive Coding with PyCharm
-
-5.Demystifying the Django REST Framework
-
-6.Scaling Django with Kubernetes
+1. Building a Lie Detector: Multi-Modal Sentiment Analysis
+2. Docker Workshop
+3. Talking to Machines: Optimizing Neural Networks with Theano
+4. Productive Coding with PyCharm
+5. Demystifying the Django REST Framework
+6. Scaling Django with Kubernetes
 
 [Get Your Workshop Tickets Here](https://in.explara.com/e/pycon-india-2016)
 
 Note::
 
- 1. You need to buy separate tickets for each workshop.
+- You need to buy separate tickets for each workshop.
+- The workshop seats are  limited to  25.
+- If you are planning to attend PyCon India Conference. 
 
- 2. The workshop seats are  limited to  25.
-
- 3. If you are planning to attend PyCon India Conference. 
- [Feel free to buy your tickets from here](https://in.explara.com/e/pycon-india-2016)
+[Feel free to buy your tickets from here](https://in.explara.com/e/pycon-india-2016)
 
 Hurry Up and book your tickets now!
 

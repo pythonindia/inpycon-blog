@@ -3,6 +3,8 @@
 {% block pagetitle %}{{article.title}} - {{ super() }}{% endblock %}
 
 {% block body %}
-    <h2 class="title"> {{article.title}}</h2>
-    <div> {{article.content}}</div>
+    <article class='blogpost'>
+        <h2 class="title"> {{article.title}}</h2>
+        <div> {{article.content}}</div>
+    </article>
 {% endblock %}
