@@ -8,7 +8,7 @@ It's PyCon India time again!! So exciting, isn't it? PyCon India has provided a 
 
 **What is an Open Space?**
 
-Literally, its a SPACE OPEN to anyone who wishes to talk about Python. Be it experience, learnigs, libraries, tools, frameworks, tests, correct code practices, an idea, a "what-not-do" talk or anything that is about Python.
+Literally, it's a SPACE OPEN to anyone who wishes to talk about Python. Be it experience, learnigs, libraries, tools, frameworks, tests, correct code practices, an idea, a "what-not-do" talk or anything that is about Python.
 
 **How it works?**
 
@@ -20,7 +20,7 @@ Just to make arrangements for rooms, projectors and other such requirements. On-
 
 **How to participate in Open Space?**
 
-Simply register yourself here (link). Remember you can also just walk in during the conference.
+Simply register yourself [here]((https://in.pycon.org/cfp/open-space-2016/proposals/). Remember you can also just walk in during the conference.
 
 **Guidelines**
 
