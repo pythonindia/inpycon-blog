@@ -1,5 +1,5 @@
 Title: Announcing call for papers for PyCon India 2016 open space
-Date: 2016-08-25 10:20
+Date: 2016-09-04 11:45
 Category: 2016
 Slug: open-space-registrations-2016
 Summary: Announcing call for papers for PyCon India 2016 open space
