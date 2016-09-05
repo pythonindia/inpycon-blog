@@ -20,7 +20,7 @@ Just to make arrangements for rooms, projectors and other such requirements. On-
 
 **How to participate in Open Space?**
 
-Simply register yourself [here]((https://in.pycon.org/cfp/open-space-2016/proposals/). Remember you can also just walk in during the conference.
+Simply register yourself [here](https://in.pycon.org/cfp/open-space-2016/proposals/). Remember you can also just walk in during the conference.
 
 **Guidelines**
 
