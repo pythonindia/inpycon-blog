@@ -52,7 +52,7 @@ A: Professionals, Lecturers, College Students - anyone who wishes to share
 
 Q: My talk is not selected for conference, can I opt for Open Space?
 
-A: Yes register here. This way people who are interested in the topic you proposed can catch up with you at the event itself.
+A: Yes register [here](https://in.pycon.org/cfp/open-space-2016/proposals/). This way people who are interested in the topic you proposed can catch up with you at the event itself.
 
 Q:What is the screening process of Open Space talk?
 
