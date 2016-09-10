@@ -2,12 +2,14 @@
 
 {% block body %}
 {% for article in dates %}
-  <article>
-    <a href="{{SITEURL}}/{{article.url}}">
-        <h2 class="title"> {{article.title}}</h2>
-    </a>
-    <div>{{article.content}}</div>
-    <div><time datetime="{{article.date}}" itemprop="datePublished"><em><small>Published on: {{ article.date.strftime('%B %d, %Y') }}</small></em></time></div>
-  </article>
+
+    <article class="blogpost">
+        <a href="{{SITEURL}}/{{article.url}}">
+            <h1 class="title"> {{article.title}}</h1>
+        </a>
+        <div class='meta'><time datetime="{{article.date}}" itemprop="datePublished"><small>Published: {{ article.date.strftime('%B %d, %Y') }}</small></time></div>
+
+        <div>{{article.content}}</div>
+    </article>
 {% endfor %}
 {% endblock %}

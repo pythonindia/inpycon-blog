@@ -6,8 +6,6 @@ body
     font-family: 'Ubuntu', sans-serif;
     font-size: 16px;
 
-    text-align: justify;
-
     color: #333;
     background: url('../images/bgimage.jpg') fixed;
     background-repeat: repeat-y;
@@ -783,11 +781,11 @@ pre code
 
     margin-top: 0;
     margin-bottom: 0;
-    margin-bottom: 10px;
+    margin-bottom: 2px;
     padding-bottom: 10px;
 
     color: #da3127;
-    border-bottom: 1px solid;
+    border-bottom: 2px solid #F8E0E0;
 }
 
 .archive-title
@@ -1601,14 +1599,26 @@ img
     max-width: 960px;
     margin: 0 auto;
     margin-bottom: 60px;
-    padding: 3em;
+    padding: 3em 4em;
 
     background: rgba(255, 255, 255, .9);
     box-shadow: 2px 4px 1px #eee;
 }
 
+@media (max-width: 767px){
+    .blogpost {
+        padding: 3em 2em;
+    }
+}
+
+
+.blogpost p {
+    margin: 0 0 1em;
+}
+
 .blogpost .meta {
     margin-bottom: 1em;
+    color: #AEAEAE;
 }
 .blogpost img
 {
