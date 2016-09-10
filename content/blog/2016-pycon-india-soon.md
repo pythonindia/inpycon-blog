@@ -1,5 +1,5 @@
 Title: PyCon India - Just a hand-reach away
-Date: 2016-09-09 22:16
+Date: 2016-09-10 22:16
 Category: 2016
 Slug: pycon-india-soon
 Summary: PyCon India - Just a hand-reach away
@@ -14,4 +14,4 @@ Dont' think, just grab your tickets [here](https://in.explara.com/e/pycon-india-
 
 Bhag Pythonista Bhag!!
 
-See at PyCon India :)
+<strong>See you at PyCon India :)</strong>

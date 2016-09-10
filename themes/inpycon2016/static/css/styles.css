@@ -1606,9 +1606,9 @@ img
     background: rgba(255, 255, 255, .9);
     box-shadow: 2px 4px 1px #eee;
 }
-.blogpost p
-{
-    text-indent: 1em;
+
+.blogpost .meta {
+    margin-bottom: 1em;
 }
 .blogpost img
 {
