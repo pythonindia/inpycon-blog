@@ -14,7 +14,7 @@ Summary: Announcing the Winner of Kenneth Gonsalves Award 2016
 
  Ajith Kumar B.P. has been working as a scientist, at Inter University Accelerator Centre, New Delhi, since 1987. He has done his M.Sc and Ph.d. in Nuclear Physics from the University of Calicut and M.Sc in Accelerator Physics, from University of Manitoba.  His work mainly involved in the design and development of particle accelerators and associated experimental facilities.
 
-For the past two decades, he has been involved in promoting Free Software tools in Education. He has put some efforts to make free and open source tools popular among the academic community , which include Python in their syllabus. He has also written a book on Python "Python for Education" for this purpose.
+For the past two decades, he has been involved in promoting Free Software Tools in Education. He has put some efforts to make free and open source tools popular among the academic community, which includes Python in their syllabus. He has also written a book on Python "Python for Education" for this purpose.
 
 He has developed control and data acquisition systems for particle accelerators using open source tools.
 
