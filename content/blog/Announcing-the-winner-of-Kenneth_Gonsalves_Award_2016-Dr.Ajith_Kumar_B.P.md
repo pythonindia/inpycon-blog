@@ -18,7 +18,7 @@ For the past two decades, he has been involved in promoting Free Software Tools 
 
 He has developed control and data acquisition systems for particle accelerators using open source tools.
 
-He has been leading a project, which aimed to develop an ejphotolow cost laboratory equipment using open source hardware and software tools. Python is used as "Data Analysis and Visualization" in this project, and the details are at [expeyes](expeyes.in). Training programs for college teachers are conducted under this project, enabling them to use Python and GNU/Linux for teaching mathematics and science, including experiments.
+He has been leading a project, which aimed to develop an ejphotolow cost laboratory equipment using open source hardware and software tools. Python is used as "Data Analysis and Visualization" in this project, and the details are at [expeyes](http://expeyes.in). Training programs for college teachers are conducted under this project, enabling them to use Python and GNU/Linux for teaching mathematics and science, including experiments.
 
 Ajith Kumar B.P will be presented this Award on 24th Sep, the opening day of PyCon India 2016.
 
