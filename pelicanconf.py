@@ -18,7 +18,7 @@ TRANSLATION_FEED_ATOM = None
 ARTICLE_PATHS = ['blog']
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-THEME = 'themes/inpycon2016'
+THEME = 'themes/inpycon2017'
 SITEURL = '/blog'
 
 # Blogroll

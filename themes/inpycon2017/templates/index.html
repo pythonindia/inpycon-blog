@@ -1,0 +1,16 @@
+{% extends "base.html"%}
+
+{% block body %}
+<section class="blogpost-listings">
+{% for article in articles %}
+  <article class="blogpost">
+    <a href="{{SITEURL}}/{{article.url}}">
+        <h1 class="title"> {{article.title}}</h1>
+    </a>
+    <div class='meta'><time datetime="{{article.date}}" itemprop="datePublished"><small>Published: {{ article.date.strftime('%B %d, %Y') }}</small></time></div>
+
+    <div>{{article.content}}</div>
+  </article>
+{% endfor %}
+</section>
+{% endblock %}
