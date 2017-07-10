@@ -13,6 +13,7 @@ from pelicanconf import *
 SITEURL = 'http://in.pycon.org/blog'
 RELATIVE_URLS = True
 
+FEED_DOMAIN = SITEURL
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
