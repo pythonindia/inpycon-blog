@@ -9,11 +9,11 @@ Summary: PyCon India 2016 Workshop Details
 
 Many of you have been asking for details of workshops this year.
 
-The CFP team has been tirelessly working on choosing best possible
+The CFP team has been working tirelessly to select best possible
 workshops out there, focusing more on quality than on quantity, ensuring
-more advance tracks. 
+more advanced tracks. 
 
-We will be having just 2 workshops in each track this year.
+This year, each track will have 2 workshops.
 With a total of 6 workshops on the workshop day of 23rd September 2016.
 Each workshop will be a hands-on session of 3 hours.
 
