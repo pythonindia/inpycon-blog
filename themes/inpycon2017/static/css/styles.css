@@ -335,6 +335,99 @@ pre code
 	text-align: center;
 	background: #484848;
 }
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+@media (max-width: 990px) {
+    #pyconLogo {
+        width: 170px;
+    }
+}
+@media (max-width: 767px) {
+    .tg-navigation {
+        top: 100%;
+        right: 0;
+        border: 0;
+        width: 100%;
+        background: #fff;
+        position: absolute;
+    }
+    .tg-nav .navbar-toggle {
+        margin: 0;
+        border: 0;
+        background: #fff;
+        padding: 13px 10px;
+    }
+    .tg-nav {
+        padding: 0;
+    }
+    .tg-nav, .tg-btnbookseat {
+        float: right;
+    }
+    .tg-navigationarea {
+        width: auto;
+        position: static;
+    }
+    .tg-nav .navbar-toggle .icon-bar {
+        width: 25px;
+    }
+    .tg-nav .navbar-toggle .icon-bar {
+        background: #00aad4;
+    }
+    .tg-navigation > ul > li {
+        margin: 0;
+        float: left;
+        width: 95%;
+    }
+    .tg-navigation ul li a, .tg-navigation > ul > li.menu-item-has-children > a {
+        padding: 13px 15px;
+        color: #444349;
+    }
+    .tg-navigation ul li + li {
+        border-top: 1px solid #dbdbdb;
+    }
+    .tg-dropdowarrow {
+        display: block;
+    }
+    .tg-navigation ul li a, .tg-navigation > ul > li.menu-item-has-children > a {
+        padding: 13px 15px;
+        color: #444349;
+    }
+    .sub-menu {
+        border: 0;
+        opacity: 1;
+        clear: both;
+        width: 100%;
+        float: left;
+        display: none;
+        position: static;
+        box-shadow: none;
+        background: #fff;
+        visibility: visible;
+        transition: all 300ms ease-in-out;
+    }
+    .tg-navigation ul li .sub-menu li a {
+        padding: 0 15px;
+    }
+    .icon-chevron-right {
+        margin: 0px;
+        padding: 0px;
+        left: -10px;
+    }
+    .menu-item-has-children > a:before {
+        display: none;
+    }
+}
+@media (max-width: 1199px) {
+    .tg-nav {
+        padding: 8px 0;
+    }
+    .tg-navigation > ul > li {
+        padding: 0;
+        margin: 0 10px;
+    }
+}
 /* ======= Home Section ======= */
 
 .home
