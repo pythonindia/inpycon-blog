@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<<<<<<< HEAD
 <!--[if IE 8]>
 
 <html lang="en" class="ie8">
@@ -15,6 +16,9 @@
 <!--
 <![endif]-->
 
+=======
+<html lang="en">
+>>>>>>> 475321760a0ea3d6a8aca2334f8e7a9a4fdc5650
   <head>
     <title>
       {% block pagetitle %}PyCon India 2017 in New Delhi | November 2nd to 5th{% endblock %}
@@ -39,6 +43,14 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js">
       </script>
     <![endif]-->
+    {% if FEED_ALL_ATOM %}
+        <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
+    {% endif %}
+    {% if FEED_ALL_RSS %}
+        <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Full RSS Feed" />
+    {% endif %}
+    {% block head %}
+    {% endblock %}
   </head>
   <body data-spy="scroll">
     <header id="tg-header" class="tg-header tg-haslayout">
@@ -59,16 +71,15 @@
 						<div id="tg-navigation" class="collapse navbar-collapse tg-navigation">
 							<ul>
 								<li><a href="https://in.pycon.org/2016/">2016</a></li>
-								<li><a href="sponsorship.html">Sponsorship</a></li>
-								<li><a href="gallery.html">Gallery</a></li>
-								<li><a href="faqs.html">FAQs</a></li>
+								<li><a href="/2017/sponsorship.html">Sponsorship</a></li>
+								<li><a href="/2017/gallery.html">Gallery</a></li>
+								<li><a href="/2017/faqs.html">FAQs</a></li>
 								<li class="menu-item-has-children"><span class="tg-dropdowarrow"><i class="icon-chevron-right"></i></span>
 									<a href="javascript:void(0);">More</a>
 									<ul class="sub-menu">
-										<li><a href="/#speakers">Speakers</a></li>
-										<li><a href="https://in.pycon.org/blog/">Blog</a></li>
-										<li><a href="#">Team</a></li>
-										<li><a href="coc.html">Code of Conduct</a></li>
+										<li><a href="/2017/#speakers">Speakers</a></li>
+										<li><a href="/2017/#team">Team</a></li>
+										<li><a href="/2017/coc.html">Code of Conduct</a></li>
 									</ul>
 								</li>
 							</ul>
@@ -95,5 +106,13 @@
       </div>
       <!--//container-->
     </footer>
+    <script>
+        (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+        function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+        e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+        e.src='//www.google-analytics.com/analytics.js';
+        r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+        ga('create','UA-60420410-1','auto');ga('send','pageview');
+    </script>
   </body>
 </html>

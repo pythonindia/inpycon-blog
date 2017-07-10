@@ -13,8 +13,8 @@ DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
 FEED_DOMAIN = None
-FEED_ALL_RSS = 'feeds/rss.xml'
-FEED_ALL_ATOM = 'feeds/atom.xml'
+FEED_ALL_RSS = None
+FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 ARTICLE_PATHS = ['blog']
@@ -39,4 +39,4 @@ YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/index.html'
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# RELATIVE_URLS = True
