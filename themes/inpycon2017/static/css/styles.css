@@ -335,7 +335,7 @@ pre code
 	text-align: center;
 	background: #484848;
 }
-ul {
+.tg-navigation ul, .menu-item-has-children ul {
     margin: 0px;
     padding: 0px;
 }
