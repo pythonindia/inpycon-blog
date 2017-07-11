@@ -360,7 +360,7 @@ pre code
         padding: 13px 10px;
     }
     .tg-nav {
-        padding: 0;
+        padding: 0 !important;
     }
     .tg-nav, .tg-btnbookseat {
         float: right;
