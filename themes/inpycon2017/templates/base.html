@@ -38,7 +38,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-				<strong class="tg-logo"><a href="index.html"><img src="https://pythonindia.github.io/inpycon2017/images/logo.png" alt="company logo here"></a></strong>
+				<strong class="tg-logo"><a href="index.html"><img id="pyconLogo" src="https://pythonindia.github.io/inpycon2017/images/logo.png" alt="company logo here"></a></strong>
 				<div class="tg-navigationarea">
 					<nav id="tg-nav" class="tg-nav">
 						<div class="navbar-header">
@@ -55,7 +55,7 @@
 								<li><a href="/2017/sponsorship.html">Sponsorship</a></li>
 								<li><a href="/2017/gallery.html">Gallery</a></li>
 								<li><a href="/2017/faqs.html">FAQs</a></li>
-								<li class="menu-item-has-children"><span class="tg-dropdowarrow"><i class="icon-chevron-right"></i></span>
+								<li class="menu-item-has-children">
 									<a href="javascript:void(0);">More</a>
 									<ul class="sub-menu">
 										<li><a href="/2017/#speakers">Speakers</a></li>
@@ -87,6 +87,19 @@
       </div>
       <!--//container-->
     </footer>
+    <script src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script>
+      /* COLLAPSE MENU SMALL DEVICES */
+      function collapseMenu(){
+        jQuery('.menu-item-has-children').prepend('<span class="tg-dropdowarrow"><i class="fa fa-chevron-right" aria-hidden="true"></i></span>');
+        jQuery('.menu-item-has-children span').on('click', function() {
+          jQuery(this).next().next().slideToggle(300);
+          jQuery(this).parent('.menu-item-has-children').toggleClass('tg-open');
+        });
+      }
+      collapseMenu();
+    </script>
     <script>
         (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
         function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
