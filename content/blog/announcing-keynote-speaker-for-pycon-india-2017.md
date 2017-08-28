@@ -1,5 +1,5 @@
-Title: Announcing Keynote Speakers for PyCon India 2017 - Ola Sitarska
-Date: 2017-08-28 18:23
+Title: Announcing Keynote Speakers for PyCon India 2017 - Peter Wang
+Date: 2017-08-28 09:15
 Category: 2017
 Slug: announcing-keynote-speakers-for-pycon-india-2017
 Summary: Announcing PyCon India 2017 Keynote Speakers
