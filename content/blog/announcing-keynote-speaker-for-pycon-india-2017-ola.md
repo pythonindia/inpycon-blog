@@ -8,7 +8,7 @@ We are proud to announce **Ola Sitarska** as one of the Keynote Speakers for PyC
 
 ###Ola Sitarska
 
-![Ola Sitarka](https://in.pycon.org/2017/images/speakers/ola-sitarski.jpg)
+![Ola Sitarka]( https://in.pycon.org/blog/theme/images/)
 
 [Ola ](https://twitter.com/olasitarska) is a core contributor to the Django Web Framework. She co-founded [Django Girls](https://djangogirls.org/) , a non-profit organization with the aim of teaching programming to women. Started by two girls in Berlin and now organized all over the world, Django Girls aims to inspire women to fall in love with programming.
 
