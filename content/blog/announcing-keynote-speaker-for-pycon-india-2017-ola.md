@@ -20,9 +20,6 @@ TechCrunch listed her in Top 100 women in [Tech from Europe](https://techcrunch.
 
 Besides teaching Python, organizing conferences and giving tech talks, she likes to travel and play board games.
 
-
-Ola will share with you how she went from not knowing anything about teaching programming or feminism to know a little bit more thanks to thousands of people who participated in the workshop formula Django Girls created. You’ll learn the secrets of explaining the Internet, servers or ORM to people who never done this before. And how to find 100+ women who want to learn to code just about anywhere.
-
 She can be found on the internet at @[olasitarska](https://twitter.com/olasitarska)
 
 
