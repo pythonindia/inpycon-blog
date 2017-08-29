@@ -8,7 +8,7 @@ Welcoming **Peter Wang** as a Keynote Speaker for PyCon India 2017.
 
 ###Peter Wang
 
-![Peter Wang](https://in.pycon.org/2017/images/speakers/peter_wang.jpg)
+![Peter Wang](https://in.pycon.org/blog/theme/images/peter_wang.jpg)
 
 Peter Wang is the Co-Founder and CTO of Continuum Analytics.
 His interests in the fundamentals of vector computing and interactive 
