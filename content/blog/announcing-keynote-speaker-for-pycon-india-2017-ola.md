@@ -1,7 +1,7 @@
 Title: Announcing Keynote Speakers for PyCon India 2017 - Ola Sitarska
 Date: 2017-08-28 18:23
 Category: 2017
-Slug: announcing-keynote-speakers-for-pycon-india-2017
+Slug: announcing-keynote-speakers-for-pycon-india-2017-ola
 Summary: Announcing PyCon India 2017 Keynote Speakers
 
 We are proud to announce **Ola Sitarska** as one of the Keynote Speakers for PyCon India 2017.
