@@ -68,6 +68,7 @@ Q: Will someone help me fine tune the content ?<br>
 A: Yes, we have a set of reviewers who will review the content and give feedback from time to time. You can also go through these resources to make your talk successful:
 
 - [A Hypocrite’s Guide to Public Speaking](https://www.youtube.com/watch?v=uH_-_mrksV4&feature=youtu.be)
+- [Pycon India 2016 talks](https://www.youtube.com/playlist?list=PL4Aox7_vWyu-zYSgYkeo90cFrnwmeMSdd)
 - [Pycon India 2015 talks](https://www.youtube.com/playlist?list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m)
 
 Q: Can I upload the content later ?<br>

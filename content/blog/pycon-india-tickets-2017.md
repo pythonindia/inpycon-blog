@@ -6,8 +6,7 @@ Summary: Details about the different tickets for PyCon India 2017.
 
 PyCon India, the premier conference in India on using and developing the Python programming language is conducted annually by the Python developer community. 
 
-This time Pycon India 2017 is scheduled from 2nd-5th November, 2017 with exciting workshops, talks and dev sprints from the experts. for the developers from the experts.
-
+This time PyCon India 2017 is scheduled from 2nd-5th November, 2017 with exciting workshops, talks and dev sprints from the experts.
 ###Tickets Structure###
 
 **Supporter:**
