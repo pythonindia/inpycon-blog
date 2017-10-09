@@ -4,7 +4,7 @@ Category: 2017
 Slug: travel-and-hotel-2017
 Summary: Address, how to reach and hotels to stay nearby
 
-Here are few options one might consider for their travel or accomodation while attending the conference.
+Here are few options one might consider for their travel or accommodation while attending the conference.
 
 + Address and how to reach.
 	- Address: Shaheed Sukhdev College of Business Studies, PSP Area IV, Dr. K.N. Katju Marg, Sector 16, Rohini, New Delhi, Delhi 110089.
