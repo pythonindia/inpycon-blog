@@ -28,5 +28,4 @@ Here are few options one might consider for their travel or accommodation while 
 	  Shiv Sakhi Stay |	--
 	  Hotel Sarvasa | --
 	  Seven Seas Hotel | --
-	  Seven Seas Hotel | --
 	  Sewa Dham Inn | --
