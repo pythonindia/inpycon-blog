@@ -16,17 +16,16 @@ Here are few options one might consider for their travel or accommodation while 
 		* If travelling through Violet line - Then take a straight metro for kashmiri gate from your respective metro station and change red line metro from there towards Rithala.		
 		* If travelling through Airport line metro - Then deboard at New Delhi metro station and take a yellow line metro station for Kashmiri Gate metro station and take red line metro from there towards Rithala metro station.
 + List of hotels nearby:
-	- Hotels name | Price per room
-	  ------------ | -------------
-	  OYO Premium 710 |	₹ 2348
-	  Ap Holiday Inn | ₹ 2612
-	  Hotel Sandberry |	₹ 2950
-	  Sweet Holiday Home | ₹ 2749
-	  Hotel Goel Residency | ₹ 2799
-	  Ap Holiday Inn | ₹ 2612
-	  Crowne Plaza New | ₹ 7235
-	  Shiv Sakhi Stay |	--
-	  Hotel Sarvasa | --
-	  Seven Seas Hotel | --
-	  Seven Seas Hotel | --
-	  Sewa Dham Inn | --
+	- Hotels Name | Price/Night		| 		Address
+	  :-- | :-: 		| :--
+	  OYO Premium 710 |	₹ 2348 | Pocket 8, Block B ICICI Bank Building, Sector 15, Rohini, Delhi
+	  Ap Holiday Inn | ₹ 2612 | Plot No.8, Pocket- 8B,, ICICI Bank Building,, Sector-15, Rohini,, Delhi
+	  Hotel Sandberry |	₹ 2950 | D-14, Main Outer Ring Road, Near PVC Cinema, Prashant Vihar, Delhi
+	  Sweet Holiday Home | ₹ 2749 | A-305, Prashant Vihar, Rohini, Behind P V R Cinema, New Delhi, Delhi
+	  Hotel Goel Residency | -------------------- | A-1/84, Sector-8, Rohini, Near Rohini East Metro Station, Delhi
+	  Crowne Plaza New | ₹ 7235 | Twin District Centre, Sector 10, Rohini, New Delhi, Delhi
+	  Shiv Sakhi Stay |	₹ 1380 |  Pocket 8, Sector 5, Rohini, Delhi 
+	  Hotel Sarvasa | ₹ 3733 | Plot No. 104, 104, Pocket 27, Rohini, Delhi
+	  Seven Seas Hotel | ₹ 1035 | 12, Mangalam Place, Sector 3, Rohini, New Delhi, Delhi 
+	  Sewa Dham Inn | ₹ 2613 | F1-43/44/45, Kotla Rd, Pocket 1, Sector 11F, Rohini, Delhi
+	  Hotel Sunrise | -------------------- | 4/52, WEA, Saraswati Marg, Karol Bagh, New Delhi, Delhi
