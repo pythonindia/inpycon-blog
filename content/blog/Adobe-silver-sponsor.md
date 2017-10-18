@@ -1,5 +1,5 @@
 Title: Announcing Adobe as Silver Sponsor
-Date: 2017-10-18 05:51
+Date: 2017-10-18 10:32
 Category: 2017
 Slug: silver-sponsor-Adobe
 Summary: Silver Sponsor Adobe
