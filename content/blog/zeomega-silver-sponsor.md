@@ -4,7 +4,7 @@ Category: 2017
 Slug: silver-sponsor-zeomega
 Summary: Silver Sponsor Zeomega
 
-<img src="https://in.pycon.org/2017/images/sponsor/zeomega.png">
+<img height="320" width="320" src="https://in.pycon.org/2017/images/sponsor/zeomega.png">
 
 **[ZeOmega](http://www.zeomega.com/)** is the premier enabler of value-based care. Providing a low-cost, rapidly-deployable, HIE-enabled population health management infrastructure that enables healthcare organizations to overcome interoperability issues and achieve Triple Aim goals of lowering the per-capita cost of care, increasing care quality, and improving the care experience.
 

@@ -4,7 +4,7 @@ Category: 2017
 Slug: silver-sponsor-fossee
 Summary: Silver Sponsor FOSSEE
 
-<img src="http://fossee.in/sites/all/themes/software_responsive_theme/img/logo.png">
+<img height="300" width="300" src="http://fossee.in/sites/all/themes/software_responsive_theme/img/logo.png">
 
 **[FOSSEE (Free and Open Source Software in Education) project](http://fossee.in/)** promotes the use of FOSS tools to improve the quality of education in India. FOSSEE aims to reduce dependency on proprietary software in educational institutions. FOSSEE encourages the use of Free and Open Source Software(FOSS) through various activities to ensure commercial software is replaced by equivalent **FOSS tools**. FOSSEE also develops new FOSS tools and upgrade existing tools to meet requirements in academia and research.
 
