@@ -16,5 +16,3 @@ There are multiple ways to showcase your work at PyCon India:
 Community space is a place where you can set up a booth on the conference day with two members and a table, you can carry one standee of your community. You are free to hand over stickers, brochures to visitors.This allows you to freely communicate in a relaxed and casual way while showcasing your growing community to other people. 
 
 We believe every community that helps the Python ecosystem should be known to the people.This helps the community in gaining exposure and finding new contributors which in turn makes the whole Python ecosystem stronger. And what could be a better place for this than the premier Python conference of India, PyCon India 2017. Thus community spaces can be obtained free of cost by filling the [form](https://docs.google.com/forms/d/e/1FAIpQLSdfS0FYzg1BG5uR2xyUKwU4ljLVftak1zkfhJRoCp1AlM8fKQ/viewform).
-
-
