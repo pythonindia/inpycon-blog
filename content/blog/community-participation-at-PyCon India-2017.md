@@ -1,4 +1,4 @@
-﻿Title: Community Participation at Pycon India
+﻿Title: Community Participation at PyCon India
 Date: 2017-10-21 3:50
 Category: 2017
 Slug: announcing-community-spaces
