@@ -1764,8 +1764,8 @@ img
     }
 
     .wrap-iframe {
-    		height:400px;
-    		width:230px;
+    		max-height:400px;
+    		max-width:350px;
     		overflow-y:auto;
     		overflow-x:auto;
 		}
