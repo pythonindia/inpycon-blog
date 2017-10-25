@@ -40,3 +40,9 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
+
+STATIC_PATHS = ['images']
+USE_SHORTCUT_ICONS=True
+EXTRA_PATH_METADATA = {
+    'images/favicon.png': {'path': 'favicon.png'}
+}
