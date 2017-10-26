@@ -1764,16 +1764,11 @@ img
     }
 
     .wrap-iframe {
-    		max-height:400px;
-    		max-width:350px;
+    		max-width:450px;
     		overflow-y:auto;
     		overflow-x:auto;
 		}
 
-		.wrap-iframe iframe {
-		    width:600px;
-		    height:400px;
-		}
 }
 
 
