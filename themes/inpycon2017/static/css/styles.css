@@ -1762,6 +1762,13 @@ img
     .blogpost {
         padding: 3em 2em;
     }
+
+    .wrap-iframe {
+    		max-width:450px;
+    		overflow-y:auto;
+    		overflow-x:auto;
+		}
+
 }
 
 
