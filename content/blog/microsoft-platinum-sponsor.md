@@ -8,7 +8,7 @@ Summary: Microsoft as Platinum Sponsor
 
 Our Cloud platform, [Microsoft Azure](https://azure.microsoft.com/en-in/) supports the broadest selection of operating systems, programming languages, frameworks, tools, databases and devices. Run Linux containers with Docker integration, build apps with JavaScript, Python, .NET, PHP, Java and Node.js, build back-ends for iOS, Android and Windows devices. Azure cloud service supports the same technologies millions of developers and IT professionals already rely on and trust.
 
-<img width="800" src="https://in.pycon.org/2017/images/sponsor/microsoft.png">
+<img src="https://blogs.microsoft.com/wp-content/uploads/2012/08/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen.jpg">
 
 Learn how to build and deploy Python Apps on Azure and use Python scripts to use and manage your Azure resources. Also, get access to 12,100 INR worth of Free Azure Credits by explore more about our cloud platform.
 
