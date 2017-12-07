@@ -64,7 +64,7 @@ a:hover
 {
     text-decoration: none;
 
-    color: #217c5b;
+    color: #555;
 }
 h2
 {
@@ -72,7 +72,7 @@ h2
 
     text-transform: uppercase;
 
-    color: #217c5b;
+    color: rgba(70, 133, 185, 1);
 }
 h5
 {
