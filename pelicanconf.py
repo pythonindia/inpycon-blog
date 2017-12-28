@@ -20,7 +20,7 @@ TRANSLATION_FEED_ATOM = None
 ARTICLE_PATHS = ['blog']
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-THEME = 'themes/inpycon2017'
+THEME = 'themes/inpycon2018'
 SITEURL = '/blog'
 
 # Blogroll

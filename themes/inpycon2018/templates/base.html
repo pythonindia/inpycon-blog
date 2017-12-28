@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<!--[if IE 8]>
+
+<html lang="en" class="ie8">
+
+<![endif]-->
+<!--[if IE 9]>
+
+<html lang="en" class="ie9">
+
+<![endif]-->
+<!--[if !IE]>
+<!-->
+<html lang="en">
+<!--
+<![endif]-->
+
+  <head>
+    <title>
+      {% block pagetitle %}PyCon India 2018 in Bangalore | August 22 to 26{% endblock %}
+    </title>
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Pycon India">
+    <link rel="shortcut icon" href="favicon.png">
+    <!-- Global CSS -->
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.2/css/bootstrap.min.css">
+    <link href="/blog/theme/css/animate.css" rel="stylesheet" />
+    <!-- Squad theme CSS -->
+    <link href="/blog/theme/css/styles.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat+Alternates:300,400,500,600" rel="stylesheet">
+
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js">
+      </script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js">
+      </script>
+    <![endif]-->
+  </head>
+  <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
+  <!-- Preloader -->
+  <!-- <div id="preloader">
+    <div id="load"></div>
+  </div> -->
+
+    <nav class="navbar navbar-custom navbar-fixed-top top-nav-collapse">
+      <div class="container">
+        <a href="https://in.pycon.org/2018/"> <img src="/blog/theme/images/banner-logo.png" class="logo" alt="banner-logo" id="logo" style="width: 150px; display: inline-block; float:left;"></a>
+        <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        </button>      
+        </div>
+
+       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav nav-justified">
+            <li><a href="https://in.pycon.org/2018/#home">Home</a></li>
+            <li><a href="https://in.pycon.org/2018/#journey">Journey</a></li>
+            <li><a href="https://in.pycon.org/2018/#speakers">Speakers</a></li>
+            <li><a href="https://in.pycon.org/2018/#conference">Schedule</a></li>
+            <li><a href="https://in.pycon.org/2018/#sponsors">Sponsors</a></li>
+            <li class="active"><a href="https://in.pycon.org/blog/">Blog</a></li>
+            <li><a href="https://in.pycon.org/2018/#venue">Venue</a></li>
+            <li><a href="https://in.pycon.org/2018/faq.html">Faq</a></li>
+            <li><a href="https://in.pycon.org/2018/coc.html">Coc  </a></li>
+          </ul>
+        </div>     
+      </div>    
+    </nav>
+
+    <section id="blog" class="blog section offset-header">
+      <div class="container">
+        {% block body %}
+        {% endblock %}
+      </div>
+    </section>
+
+
+    <footer>
+    <div class="container">
+      <div class="row">
+      <!-- <div class="wow shake" data-wow-delay="0.4s">
+            <div class="page-scroll marginbot-30">
+            <a href="#speakers" id="totop" class="btn btn-circle">
+      <i class="fa fa-angle-double-up animated"></i>
+      </a>
+            </div>
+          </div> -->
+        <div class="col-md-4">
+        </div>
+        <div class="col-md-4">
+          <img src="/blog/theme/images/footer-logo.png" alt="image"><br>
+          <p>Copyright © 2018 Python Software Society of India</p>
+          <ul class="list-inline">
+            <li><img src="/blog/theme/images/fb.png" alt="image"></li>
+            <li><img src="/blog/theme/images/twitt.png" alt="image"></li>
+          <ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+  </body>
+</html>
