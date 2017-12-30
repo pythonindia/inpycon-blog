@@ -30,7 +30,7 @@ International Exhibition Centre. It can take in a lot more people, has more
 halls for multiple tracks, allows for easier movement between them and is
 generally a whole lot bigger than all the other venues we've had so far.
 
-[Bangalore International Exhibition Centre](http://biec.in/)
+`Bangalore International Exhibition Centre <http://biec.in/>`_
 
 10th Mile, Tumkur Road, Madavara Post,
 
@@ -39,10 +39,6 @@ Dasanapura Hobli,
 Bangalore 562 123,
 
 INDIA
-
-
-
-
 
 
 As you might have guessed, the discussions and preparations are under full swing
@@ -92,4 +88,4 @@ an expert overnight. So seize the opportunity and let's get you on that stage.
 
 Now the question is...
 
-Are * you * ready?
+Are **you** ready?
