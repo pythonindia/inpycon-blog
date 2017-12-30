@@ -1,7 +1,7 @@
 Announcing PyCon India 2018!
 ############################
 
-:Date: 2018-12-07 20:30
+:Date: 2017-12-07 20:30
 :Category: 2018
 
 A decade of unity in diversity presents - the 10th year anniversary edition of
