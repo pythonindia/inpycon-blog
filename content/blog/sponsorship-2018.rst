@@ -1,7 +1,7 @@
 Sponsorships are open now!
 ############################
 
-:Date: 2017-12-30 20:30
+:Date: 2018-01-02 20:30
 :Category: 2018
 
 While the preparations are under full swing to celebrate the 10th year
