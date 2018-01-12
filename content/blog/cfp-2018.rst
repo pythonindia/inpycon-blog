@@ -1,0 +1,45 @@
+Announcing the Call For Proposals
+#################################
+
+:Date: 2018-01-12 18:05
+:Category: 2018
+
+No matter who you are, whatever you do, please - consider submitting a proposal!
+
+`Head over to this years junction and submit one right away.
+<https://in.pycon.org/cfp/pycon-india-2018/proposals>`_
+
+Important dates
+***************
+
+* CFP opens: 15th January, 2018
+* Closes: 26th May, 2018
+* Early bird review closes: 28th July, 2018
+* Review closes: 18th July, 2018
+* Schedule: 25th July, 2018
+
+Proposal sections
+*****************
+
+If you have a topic in mind that you think is worth presenting, then do put it
+down by all means. However, just in case you are looking for topics to think
+about, here are a few:
+
+* Core Python
+* Data Analytics
+* Artificial Intelligence
+* Internet of Things
+* Web Development
+* Mobile Application Development
+* Security
+* Scientific Computing
+* Network Programming
+* Game Programming
+* Infrastructure
+* Automation
+* Testing
+
+As we said in the opening statement, and our announcement post, we encourage
+people from all walks of life to submit proposals. Fight the impostor syndrome,
+and put in a draft anyway. You can flesh it out over time with the help of your
+friends and our reviewers.
