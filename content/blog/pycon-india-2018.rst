@@ -11,16 +11,16 @@ While a walk down memory lane would be apt at this point, let's keep the long
 story short for now by saying we've done it! A conference started by volunteers,
 handed and taken over from one group to another, from one city to another, we
 start drawing another arc of the full circle this year when the conference
-reaches back to its city of origin - Bangalore.
+reaches back to its city of origin - Hyderabad.
 
 Dates
 -----
 
-The Conference will be from August 22nd (Wednesday) to 26th (Sunday).
+The Conference will be from October 5th (Friday) to 9th (Tuesday).
 
-- Conference  : 22nd (Wed) - 24th (Fri)
-- Workshop    : 25th (Sat) - 26th (Sun)
-- Dev sprints : 25th (Sat) - 26th (Sun)
+- Conference  : 6th (Sat) - 7th (Sun)
+- Workshop    : 5th (Fri)
+- Dev sprints : 8th (Mon) - 9th (Tue)
 
 Venue
 -----
@@ -30,15 +30,19 @@ International Exhibition Centre. It can take in a lot more people, has more
 halls for multiple tracks, allows for easier movement between them and is
 generally a whole lot bigger than all the other venues we've had so far.
 
-`Bangalore International Exhibition Centre <http://biec.in/>`_
+`Hyderabad International Convention Centre <http://biec.in/>`_
 
-10th Mile, Tumkur Road, Madavara Post,
 
-Dasanapura Hobli,
+Novotel and HICC Complex,
 
-Bangalore 562 123,
+Kondapur,
+
+Hyderabad,
+
+Telangana 500081
 
 INDIA
+
 
 
 As you might have guessed, the discussions and preparations are under full swing
