@@ -12,10 +12,7 @@ We are proud to announce **Noufal Ibrahim** as one of the Keynote Speakers for P
 
 The story of [Noufal Ibrahim](http://nibrahim.net.in/) and PyCon goes way back to the first ever PyCon India Conference. PyCon India 2009 was the first Python Conference in our country and it would not have been possible without Noufal and a group of dedicated volunteers.
 
-Noufal is an industry veteran with over 15 years of experience. 
-He founded [Hamon](https://hamon.in/about/) and worked for Cisco systems, Synopsys, The Internet Archive and other organisations mostly in infrastructure engineering positions.
-
-Noufal is also a trainer and loves to help people out on [stackoverflow](http://stackoverflow.com/users/229602/noufal-ibrahim). Apart from this he has a collection of [calligraphy](http://calligraffiti.in/) sheets on this website which he maintains to be beautiful.
+Noufal is an industry veteran with over 15 years of experience. He founded [Hamon](https://hamon.in/about/) and worked for Cisco systems, Synopsys, The Internet Archive and other organisations mostly in infrastructure engineering positions. Noufal is also a trainer and loves to help people out on [stackoverflow](http://stackoverflow.com/users/229602/noufal-ibrahim). Apart from this he has a collection of [calligraphy](http://calligraffiti.in/) sheets on this website which he maintains to be beautiful.
 
 Noufal also founded [The Lycӕum](http://thelycaeum.in/), which is an experimental educational endeavour started in 2013. It is currently based in Kozhikode, Kerala and focusses on IT education.
 
