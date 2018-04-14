@@ -3,4 +3,4 @@
 *.pyc
 .idea/
 *.pid
-.venv
+
