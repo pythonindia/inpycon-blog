@@ -33,7 +33,7 @@ We’re incorporating workgroup structure which will take responsibility of gett
 
 **CFP**
 
-- Opens : April 10th.
+- Opens : TBD
 - Closes : July 1st
 - Last date to upload final presentation : July 15th
 - Talk acceptance : Aug 4th.
