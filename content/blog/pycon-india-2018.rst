@@ -4,6 +4,8 @@ Announcing PyCon India 2018!
 :Date: 2017-12-07 20:30
 :Category: 2018
 
+**This blog post is old. There has been a change in PyCon India 2018 Location. The Announcement can be found in this** `blog post <https://in.pycon.org/blog/2018/pycon-india-2018-reschedule.html>`_.
+
 A decade of unity in diversity presents - the 10th year anniversary edition of
 PyCon India!
 
