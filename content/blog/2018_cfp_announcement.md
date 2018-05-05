@@ -9,7 +9,6 @@ The time has come! And we are thrilled to announce the opening of Call for Propo
 
 Here are some of the important dates to keep in mind:
 
-- **1st May**: Proposal submission starts
 - **1st July**: Proposal submission deadline
 - **22nd July**: 1st round decision
 - **12th August**: Intimation of Acceptance
