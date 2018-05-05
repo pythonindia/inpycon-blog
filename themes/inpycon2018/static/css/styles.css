@@ -157,7 +157,7 @@ a:focus {
 
 .navbar-custom ul.nav ul.dropdown-menu {
 
-    border-radius: 0; 
+    border-radius: 0;
 
 }
 
@@ -512,10 +512,10 @@ footer p {
     height: 70px;
     margin-top: 15px;
     padding: 7px 16px;
-    
+
     border-radius: 50%;
     font-size: 40px;
-    
+
     background: 0 0;
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
@@ -545,7 +545,7 @@ footer p {
     -moz-animation-timing-function: linear;
 }
 
-@-webkit-keyframes pulse {    
+@-webkit-keyframes pulse {
     0 {
         -webkit-transform: scale(1);
         transform: scale(1);
@@ -562,7 +562,7 @@ footer p {
     }
 }
 
-@-moz-keyframes pulse {    
+@-moz-keyframes pulse {
     0 {
         -moz-transform: scale(1);
         transform: scale(1);
@@ -637,11 +637,11 @@ footer p {
     .navbar-custom .nav.navbar-nav {
     background-color: rgba(255,255,255,.4);
     }
-    
+
     .navbar.navbar-custom.navbar-fixed-top {
         margin-bottom: 30px;
     }
-    
+
     .tp-banner-container {
         padding-top:40px;
     }
@@ -655,7 +655,7 @@ footer p {
         border-radius: 50%;
         font-size: 20px;
     }
-    
+
 }
 @media screen and (max-width: 767px){
   .pycon-card img{
@@ -670,4 +670,9 @@ footer p {
     height: 100% !important;
   }
   ol{padding: 0;}
+}
+
+.icon:hover {
+  opacity:0.5;
+  z-index:10;
 }
