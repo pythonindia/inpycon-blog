@@ -9,9 +9,10 @@ The time has come! And we are thrilled to announce the opening of Call for Propo
 
 Here are some of the important dates to keep in mind:
 
-- **1st July**: Proposal submission deadline
-- **22nd July**: 1st round decision
-- **12th August**: Intimation of Acceptance
+- **July 1**: Proposal submission deadline
+- **July 29**: Workshop finalization and first round decision for talks
+- **August 12**: Final round decision for talks
+- **September 1**: Schedule announcement on the webstie
 
 ###PROPOSAL TYPE###
 
@@ -24,13 +25,13 @@ The proposals can be of two type:
 
 Here are some sections under which you can submit your talk or workshop:
 
-1. **Core python and Standard library** - Language Features, Python Implementations, Standard Library, Algorithms, C APIs
-2. **Data science** - Data Analysis and Visualization, Scientific/Numeric Libraries
-3. **Developer tools and Automation** - Automation, Deployment
-4. **Web Development** - Web Development, API design etc ...
-5. **Embedded python** - Embedded Python, Device Interfacing, Robotics, Raspberry Pi, Arduino
-6. **Networking and Security** - Socket programming, Async IO, Twisted, Gevent, Web Security, Server Security, Cryptography, Encryption
-7. **Others** - Others
+1. **Core python and Standard library** - Language Features, Python Implementations, Extending Python and Standard Library 
+2. **Data science** - Data Analysis, Scientific Computing, Machine Learning and Data Visualization 
+3. **Developer tools and Automation** - Testing, CI/CD, Containers, Orchestration, Logging and Monitoring 
+4. **Web Development** - Web frameworks and RESTful APIs 
+5. **Embedded python** - MicroPython, Python on Hardware, Robotics, Arduino and Raspberry Pi 
+6. **Networking and Security** - Network Programming, Async, Network Security and Encryption 
+7. **Others** - Everything else that may be of interest to the audience of PyCon India 
 
 ###PROPOSAL GUIDELINES###
 
