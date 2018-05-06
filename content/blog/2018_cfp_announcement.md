@@ -5,7 +5,7 @@ Slug: announcing-cfp-2018
 Summary: PyCon India 2018 - Call For Proposals is open!
 
 
-The time has come! And we are thrilled to announce the opening of Call for Proposals. We encourage everyone to [submit a proposal](https://in.pycon.org/cfp/pycon-india-2018/proposals/) on any topic they would like to share with the community. 
+The time has come! And we are thrilled to announce the opening of Call for Proposals. We encourage everyone to [submit a proposal](https://in.pycon.org/cfp/2018/proposals/) on any topic they would like to share with the community.
 
 Here are some of the important dates to keep in mind:
 
