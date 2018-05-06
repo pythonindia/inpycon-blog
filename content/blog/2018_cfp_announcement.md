@@ -38,13 +38,19 @@ Here are some sections under which you can submit your talk or workshop:
 - The proposal should have an objective with clear expectation for the audience.
 - The proposal description should be short and to the point.
 - The proposal should have proper prerequisites like environment setup, library version.
-- No proposal will be selected without a link to appropriate session content like presentation, pdf, code snippets etc ...
+- Appropriate session content like presentation, pdf, code snippets etc. are a plus.
 - Proposal content links can be updated later.
 - Proposal content should adhere to [code of conduct](http://in.pycon.org/2018/coc.html).
 - Proposal content shouldn't have a company name throughout the content. Mention of the employer is allowed only at the beginning of the content (presentation/pdf).
 - Background image/wallpaper shouldn't contain company name/logos.
 - Selection/Rejection about talks will be notified via email.
 - For any questions, please write to contact@in.pycon.org.
+
+###Mentors###
+
+Presenters, regardless of experience, sometimes want a little help. If you’d like any help in proposing, preparing, or presenting your talk, feel free to contact one of our mentors! A mentor is an experienced presenter who has volunteered to help other presenters.
+
+If you are a first-time speaker, or looking for help to give a shape to the idea that you have in your mind, or just appreciate another set of eyes, our mentors are here to help. If you would like to be matched with a mentor to help with your proposal(s), [request a mentor here](https://goo.gl/forms/eOE9d7VelcT9Qjs03).
 
 ###FAQ###
 
