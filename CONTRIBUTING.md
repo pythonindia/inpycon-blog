@@ -1,8 +1,8 @@
 # Contribution Guidelines
 
-Thanks for your interest in contributing to PyCon India 2018 website. Your valuable contribution is much appreciated.
+Thanks for your interest in contributing to PyCon India Blog. Your valuable contribution is much appreciated.
 
-The following is a set of guidelines for contributing to PyCon India 2018.
+The following is a set of guidelines for contributing to PyCon India Blog.
 
 ## How Can I Help?
 
@@ -39,7 +39,7 @@ If you are stuck or have some questions on an issue that you are working on, the
 -->
 - Reviews to Pull Request created can be requested by mentioning **@pythonindia/pycon-2018-team** in the Pull Request body or comments
 
-- Anyone is free to Review any Pull Request but merge access will be limited to the Web Working Group of PyCon India 2018
+- Anyone is free to Review any Pull Request but merge access will be limited to the Web Working Group of PyCon India Blog
 
 - Feature Changes will be reviewed by the Web Working Group or other contributors, while Hotfixes can be merged without a review or even directly pushed by the Web Working group without the need of a PR
 
