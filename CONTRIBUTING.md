@@ -8,7 +8,7 @@ The following is a set of guidelines for contributing to PyCon India 2018.
 
 Start looking through the issues and watch out for any issues with the `bug` or `help wanted` labels. Issues marked with these labels haven't been assigned to anyone yet and we would love for you to work on them.
 
-### Request a feature
+## Request a feature
 
 If you think there is a cool feature you would like to add please create an issue for that and we will assign that to you if the feature looks good to add.
 
@@ -31,12 +31,12 @@ You're welcome to review issues and pull requests, provide feedback, and answer 
 
 If you have a question or need help, please leave a comment on the issue you have a question about or are working on. We will try to answer your question and help you as soon as possible.
 
-If you are stuck on some issue and would like help from someone in the community you can ask help in the mailing list of PyCon India. Be sure to mention the Issue # and mention **Website Contribution** in Subject line so it will be easier for people to help you in this regard.
+If you are stuck or have some questions on an issue that you are working on, then feel free to ask the community on the mailing list of PyCon India. Be sure to mention the Issue # and mention **Website Contribution** in Subject line so it will be easier for people to help you in this regard.
 
 ## Workflow & Merging Pull Requests
-
+<!--
 - We will be using master branch for development and gh-pages branch for viewing the website directly using github pages
-
+-->
 - Reviews to Pull Request created can be requested by mentioning **@pythonindia/pycon-2018-team** in the Pull Request body or comments
 
 - Anyone is free to Review any Pull Request but merge access will be limited to the Web Working Group of PyCon India 2018
