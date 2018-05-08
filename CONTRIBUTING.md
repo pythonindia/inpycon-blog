@@ -10,7 +10,7 @@ Start looking through the issues and watch out for any issues with the `bug` or 
 
 ## Request a feature
 
-If you think there is a cool feature you would like to add please create an issue for that and we will assign that to you if the feature looks good to add.
+If you think there is a cool feature you would like to add please create an issue for that. You can also mention if you would like to work on this issue and it can be assigned to you by moderators. If you don't know how to create an issue, please follow [these instructions](https://help.github.com/articles/creating-an-issue/). If possible create a mock up as well.
 
 ## Reporting bugs
 
@@ -18,7 +18,7 @@ If you find any bugs, it would be great if you would let us know so we can look 
 
 ## Creating Pull Requests
 
-After you've created a patch that fixes an issue, please submit a pull request for it. Mention **@pythonindia/pycon-2018-team** to get the Pull Request reviewed. If you're not sure how to create a pull request, please follow [these instructions](https://help.github.com/articles/creating-a-pull-request/). In general we'd like to ask you to please target the master branch with your pull requests.
+After you've created a patch that fixes an issue, please submit a pull request for it. If you're not sure how to create a pull request, please follow [these instructions](https://help.github.com/articles/creating-a-pull-request/). In general we'd like to ask you to please target the master branch with your pull requests.
 
 We recommend creating a new branch for each feature task/bug since it makes easier to edit commits in future if needed.
 
@@ -36,10 +36,10 @@ If you are stuck or have some questions on an issue that you are working on, the
 ## Workflow & Merging Pull Requests
 <!--
 - We will be using master branch for development and gh-pages branch for viewing the website directly using github pages
--->
-- Reviews to Pull Request created can be requested by mentioning **@pythonindia/pycon-2018-team** in the Pull Request body or comments
 
-- Anyone is free to Review any Pull Request but merge access will be limited to the Web Working Group of PyCon India Blog
+- Reviews to Pull Request created can be requested by mentioning **@pythonindia/pycon-2018-team** in the Pull Request body or comments
+-->
+- Anyone is free to Review any Pull Request but only the Website Working Group of PyCon India Team has the access to merge pull requests.
 
 - Feature Changes will be reviewed by the Web Working Group or other contributors, while Hotfixes can be merged without a review or even directly pushed by the Web Working group without the need of a PR
 
