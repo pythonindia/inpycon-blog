@@ -14,9 +14,9 @@ $ ./develop_server.sh start
 
 The contents should be visible at [http://localhost:8000/blog/](http://localhost:8000/blog/)
 
-## Contributing to the Website
+## Contributing to the Blog site
 
-Please read our [Contribution Guidelines](CONTRIBUTING.md) to Contribute to the Website
+Please read our [Contribution Guidelines](CONTRIBUTING.md) to Contribute to the Blog site
 
 ## New Blog
 
