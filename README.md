@@ -14,6 +14,10 @@ $ ./develop_server.sh start
 
 The contents should be visible at [http://localhost:8000/blog/](http://localhost:8000/blog/)
 
+## Contributing to the Website
+
+Please read our [Contribution Guidelines](CONTRIBUTING.md) to Contribute to the Website
+
 ## New Blog
 
 To create a new blog or page create a file in contents like `touch blog/my-new-blog.rst`.
