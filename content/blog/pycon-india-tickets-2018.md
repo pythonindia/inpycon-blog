@@ -6,7 +6,9 @@ Summary: Details about the different tickets for PyCon India 2018.
 
 PyCon India 2018, the tenth edition of the premier conference in India on using and developing the Python programming language is conducted annually by the Python developer community has started ticket sales for the mega event that is scheduled from 5th - 9th October 2018. 
 
-The conference will be having a tight schedule of workshops,  keynotes, talks, workshops, and dev-sprints strung together through 3 different tracks. Any person who has a conference ticket is eligible to attend the Devsprints. The ticket structure is as follows:- **Grab the early bird tickets now from [Explara](https://in.explara.com/e/pycon-india-2018/).**
+The conference will be having a tight schedule of workshops,  keynotes, talks, workshops, and dev-sprints strung together through 3 different tracks. Any person who has a conference ticket is eligible to attend the Devsprints. The ticket structure is as follows:- 
+
+**Grab the early bird tickets now from [Explara](https://in.explara.com/e/pycon-india-2018/).**
 
 ##Tickets Structure##
 
@@ -23,9 +25,6 @@ A regular ticket reserves your seat for the conference on 6th - 7th October, 201
 
 ### Late Bird Ticket ###
 A late bird ticket reserves your seat for the conference on 6th - 7th October, 2018, with a pricing of INR 2500 (GST applicable), the sale of late bird begins on 1st September 2018.
-
-### Supporter Ticket ###
-Will be announced soon. 
 
 ###Payment Options###
 You can pay through Citrus or EBS gateway via Credit Card, Debit Card or Netbanking. You can also use Paytm for your registration by accepting the terms and conditions of Explara.
