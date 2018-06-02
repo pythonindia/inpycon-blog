@@ -36,6 +36,7 @@ If you are stuck or have some questions on an issue that you are working on, the
 ## Workflow & Merging Pull Requests
 <!--
 - We will be using master branch for development and gh-pages branch for viewing the website directly using github pages
+
 - Reviews to Pull Request created can be requested by mentioning **@pythonindia/pycon-2018-team** in the Pull Request body or comments
 -->
 - Anyone is free to Review any Pull Request but only the Website Working Group of PyCon India Team has the access to merge pull requests.
