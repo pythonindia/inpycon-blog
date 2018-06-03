@@ -1,6 +1,6 @@
 * **Please check if the PR fulfills these requirements**
-- [ ] The commit message follows our guidelines
-- [ ] Unit Tests for the changes that have been added (for bug fixes / features)
+<!-- - [ ] The commit message follows our guidelines -->
+- [ ] Screenshots for changes (for bug fixes / features)
 - [ ] Docs have been added / updated (for bug fixes / features)
 
 
@@ -16,8 +16,5 @@
 
 
 
-* **Does this PR introduce a breaking change?** (What changes might users need to make in their application due to this PR?)
-
-
-
+<!-- * **Does this PR introduce a breaking change?** (What changes might users need to make in their application due to this PR?) -->
 * **Other information**:
