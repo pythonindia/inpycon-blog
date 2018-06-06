@@ -8,17 +8,19 @@ PyCon India 2018, the tenth edition of the premier conference in India on using 
 
 The conference will be having a tight schedule of workshops,  keynotes, talks, workshops, and dev-sprints strung together through 3 different tracks. Any person who has a conference ticket is eligible to attend the Devsprints. Although the Developer Sprints are free, we would be having registrations beforehand to manage the logistics. The ticket structure is as follows:- 
 
-**Grab the early bird tickets now from [Explara](https://in.explara.com/e/pycon-india-2018/).**
+**Grab the Student and Regular tickets now from [Explara](https://in.explara.com/e/pycon-india-2018/).**
 
 ##Tickets Structure##
 
 ### Early Bird Tickets ###
 An Early bird ticket reserves your seat for the conference on 6th - 7th October, 2018, with a pricing of INR 1200 (GST applicable), the sale of early bird tickets ends on 30 June 2018 or completion of 300 tickets. 
 
-**UPDATE: 200 early-bird tickets already sold**
+**UPDATE: Early-bird tickets have been sold out.**
 
 ### Student Ticket ###
 A student ticket reserves your seat for the conference on 6th - 7th October, 2018, with a pricing of INR 1000 (GST applicable), the sale of student tickets ends on 30 September 2018 or completion of 300 tickets. 
+
+**UPDATE: 100 Student tickets have already been sold. Get yours now !!**
 
 ### Regular Ticket  
 A regular ticket reserves your seat for the conference on 6th - 7th October, 2018, with a pricing of INR 1700 (GST applicable), the sale of regular tickets begins on 1st July 2018.
@@ -31,4 +33,4 @@ You can pay through Citrus or EBS gateway via Credit Card, Debit Card or Netbank
 
 **See you there at the Conference!!**
 
-_Want to come for the conference, but not sure how to pitch the same to your boss. Leave it to us, check out [Convince My Boss](http://www.in.pycon.org/convince-my-boss.html)._
+_Want to come for the conference, but not sure how to pitch the same to your boss. Leave it to us, check out [Convince My Boss](http://www.in.pycon.org/2018/convince-my-boss.html)._
