@@ -33,4 +33,4 @@ You can pay through Citrus or EBS gateway via Credit Card, Debit Card or Netbank
 
 **See you there at the Conference!!**
 
-_Want to come for the conference, but not sure how to pitch the same to your boss. Leave it to us, check out [Convince My Boss](http://www.in.pycon.org/2018/convince-my-boss.html)._
+_Want to come for the conference, but not sure how to pitch the same to your boss. Leave it to us, check out [Convince My Boss](https://in.pycon.org/2018/convince-my-boss.html)._
