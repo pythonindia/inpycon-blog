@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 pelican = "==3.5.0"
-markdown = "*"
+Markdown = "==2.6.11"
 
 [dev-packages]
 
