@@ -14,6 +14,10 @@ $ ./develop_server.sh start
 
 The contents should be visible at [http://localhost:8000/blog/](http://localhost:8000/blog/)
 
+## Want to Contribute?
+
+Thank you for your you interest in contributing to PyCon India blog site, please read our [Contribution Guidelines](CONTRIBUTING.md) to get started. Submit an issue in the Issues section for reporting/fixing bugs and to request new features.
+
 ## New Blog
 
 To create a new blog or page create a file in contents like `touch blog/my-new-blog.rst`.
