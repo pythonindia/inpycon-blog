@@ -8,6 +8,8 @@ While the preparations are under full swing to celebrate the 10th year
 anniversary edition of PyCon India and make the event a grand success, here's a
 chance for you and your organisation to make it even better!
 
+.. PELICAN_END_SUMMARY
+
 The entire organising team and the community at large are extremely thankful to
 all the sponsors who have supported us throughout out the years. It is no secret
 that without your support, we wouldn't have been able to even think about taking

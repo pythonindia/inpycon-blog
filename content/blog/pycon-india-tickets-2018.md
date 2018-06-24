@@ -2,9 +2,9 @@ Title: PyCon India Tickets 2018
 Date: 2018-05-31 12:45
 Category: 2018
 Slug: pycon-india-tickets-2018
-Summary: Details about the different tickets for PyCon India 2018.
 
-PyCon India 2018, the tenth edition of the premier conference in India on using and developing the Python programming language is conducted annually by the Python developer community has started ticket sales for the mega event that is scheduled from 5th - 9th October 2018. 
+PyCon India 2018, the tenth edition of the premier conference in India on using and developing the Python programming language is conducted annually by the Python developer community has started ticket sales for the mega event that is scheduled from 5th - 9th October 2018.
+<!-- PELICAN_END_SUMMARY -->
 
 The conference will be having a tight schedule of workshops, keynotes, talks, workshops, and dev-sprints strung together through 3 different tracks. Any person who has a conference ticket is eligible to attend the Devsprints. Although the Developer Sprints are free, we would be having registrations beforehand to manage the logistics. The ticket structure is as follows:- 
 
