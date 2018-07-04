@@ -9,7 +9,7 @@ The time has come! And we are thrilled to announce the opening of Call for Propo
 
 Here are some of the important dates to keep in mind:
 
-- **July 1**: Proposal submission deadline
+- **July 10**: Proposal submission deadline
 - **July 29**: Workshop finalization and first round decision for talks
 - **August 12**: Final round decision for talks
 - **September 1**: Schedule announcement on the webstie
