@@ -2,10 +2,10 @@ Title: PyCon India 2018 : Update in Venue, Addition of HydPy
 Date: 2018-04-07 10:00
 Category: 2018
 Slug: pycon-india-2018-reschedule
-Summary: Reschedule of PyCon India 2018
 
 
-There has been few major changes in the organisation of PyCon India 2018 due to some unavoidable circumstances & to have a successful PyCon India. 
+There has been few major changes in the organisation of PyCon India 2018 due to some unavoidable circumstances & to have a successful PyCon India.
+<!-- PELICAN_END_SUMMARY -->
 
 ## To the City of Nizams
 
