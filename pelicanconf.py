@@ -44,11 +44,11 @@ SUMMARY_MAX_LENGTH = None
 # SOCIAL = (('You can add links in your config file', '#'),
 #           ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 5
-PAGINATION_PATTERNS = (
-    (1, '{base_name}/', '{base_name}/index.html'),
-    (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
-)
+# DEFAULT_PAGINATION = 5
+# PAGINATION_PATTERNS = (
+#     (1, '{base_name}/', '{base_name}/index.html'),
+#     (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
+# )
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
