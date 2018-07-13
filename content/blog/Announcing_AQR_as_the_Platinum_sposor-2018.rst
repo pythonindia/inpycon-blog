@@ -11,4 +11,7 @@ Hi Everyone, it is our pleasure to announce the PyCon India 2018’s first plati
  
 The firm is headquartered in Greenwich, Connecticut, with offices in Boston, Chicago, Hong Kong, London, Los Angeles, and Sydney. As of March 31, 2018, AQR had approximately $225 billion in assets under management.
 
-.. image:: https://image.ibb.co/eH7GST/AQR_Cyan_rgb_hires.jpg
+.. image:: https://in.pycon.org/2018/img/sponsor/aqr.jpg
+    :height: 200px
+    :alt: AQR logo
+    :align: center
