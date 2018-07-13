@@ -15,3 +15,5 @@ The firm is headquartered in Greenwich, Connecticut, with offices in Boston, Chi
     :height: 200px
     :alt: AQR logo
     :align: center
+    :target: https://www.aqr.com/
+
