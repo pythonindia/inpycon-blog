@@ -5,7 +5,7 @@ Slug: announcing-aqr-as-platinum-sponsor
 
 <p class="text-center">
 	<a href="https://www.aqr.com/" target="_blank">
-		<img src="https://in.pycon.org/2018/img/sponsor/aqr.jpg" alt="AQR" height="200"/>
+		<img src="https://raw.githubusercontent.com/pythonindia/inpycon2018/master/img/sponsors/aqr.jpg" alt="AQR" height="200"/>
 	</a>
 </p>
 
