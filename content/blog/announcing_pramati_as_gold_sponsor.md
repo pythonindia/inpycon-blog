@@ -6,7 +6,7 @@ Slug: announcing-pramati-technologies-as-gold-sponsor
 <p class="text-center">
 	<a href="https://www.pramati.com/" target="_blank">
 		<img src="https://raw.githubusercontent.com/pythonindia/inpycon2018/master/img/sponsors/logo_pramati_trans_152.png
-" alt="Pramati" height="200"/>
+" alt="Pramati" width="280" height="70"/>
 	</a>
 </p>
 
