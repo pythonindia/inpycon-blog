@@ -9,7 +9,7 @@ Slug: announcing-de-shaw-india-as-platinum-sponsor
 	</a>
 </p>
 
-Hi Everyone, it is our pleasure to announce the PyCon India 2018’s second platinum sponsor D. E. Shaw India.
+Hi Everyone, it is our pleasure to announce PyCon India 2018’s platinum sponsor D. E. Shaw India.
 <!-- PELICAN_END_SUMMARY -->
 
 **[D. E. SHAW INDIA PRIVATE LIMITED ("DESIS")](http://www.deshawindia.com/)** is a part of the [D. E. Shaw group](http://www.deshaw.com/), a global investment and technology development firm founded in 1988 with more than $50 billion in investment capital as of April 1, 2018, and offices in North America, Europe, and Asia. Our firm has earned an international reputation for successful investing based on innovation, careful risk management, and the quality and depth of our staff. We have a significant presence in the world's capital markets, investing in a wide range of companies and financial instruments in both developed and developing economies.
