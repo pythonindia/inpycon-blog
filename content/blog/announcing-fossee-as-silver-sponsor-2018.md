@@ -5,7 +5,7 @@ Slug: announcing-fossee-as-silver-sponsor
 
 <p class="text-center">
 	<a href="https://fossee.in/" target="_blank">
-		<img src="img/fossee.png" alt="FOSSEE" height="200"/>
+		<img src="https://raw.githubusercontent.com/rahulkumaran/inpycon-blog/master/content/images/fossee.png" alt="FOSSEE" height="200"/>
 	</a>
 </p>
 
