@@ -1,7 +1,9 @@
 {% extends "base.html"%}
 
+{% block pagetitle %} PyCon India - Blog Archives {% endblock %}
+
 {% block body %}
-{% for article in articles %}
+{% for article in dates %}
   <article>
     <a href="{{SITEURL}}/{{article.url}}">
       <h3 class="archive-title"> {{article.title}}</h3>

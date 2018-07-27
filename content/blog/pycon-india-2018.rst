@@ -9,6 +9,8 @@ Announcing PyCon India 2018!
 A decade of unity in diversity presents - the 10th year anniversary edition of
 PyCon India!
 
+.. PELICAN_END_SUMMARY
+
 While a walk down memory lane would be apt at this point, let's keep the long
 story short for now by saying we've done it! A conference started by volunteers,
 handed and taken over from one group to another, from one city to another, we
