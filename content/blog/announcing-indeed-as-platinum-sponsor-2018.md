@@ -11,8 +11,9 @@ Slug: announcing-indeed-as-platinum-sponsor
 
 Hi Everyone, it is our pleasure to announce PyCon India 2018’s platinum sponsor Indeed.
 <!-- PELICAN_END_SUMMARY -->
+Below is Indeed in their own Words.
 
-**We help people get jobs**
+**"We help people get jobs"**
 
 At Indeed, we help people get jobs, but it's more than just our mission. It’s a promise that extends to all our employees, as well as job seekers and employers. As the world’s #1 job site, we take pride in helping people get to where they want to be in their careers. Whether you’re still in school or looking for your next opportunity to make an impact, Indeed is dedicated to helping people explore their passions while giving them the tools to succeed with Indeed and beyond. 
 
