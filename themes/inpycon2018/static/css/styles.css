@@ -689,3 +689,8 @@ footer p {
     border:1px solid transparent;
     border-radius:4px
 }
+
+.thumbnail {
+  display: inline-block;
+  padding: 10px;
+}
