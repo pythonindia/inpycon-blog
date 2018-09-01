@@ -1,5 +1,5 @@
 Title: Announcing FOSSEE as Silver Sponsor
-Date: 2018-08-01 10:00
+Date: 2018-09-01 10:00
 Category: 2018
 Slug: announcing-fossee-as-silver-sponsor
 
