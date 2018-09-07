@@ -6,7 +6,7 @@ Slug: understanding-dev-sprints-2018
 Have you always wanted to get started with contributing to Open Source Software (OSS) but simply don’t know where to start? Are you an experienced OSS contributor looking for projects that could use your help? Are you the maintainer/contributor of an OSS project and need help with fixing bugs and/or managing the project? Or did you try contributing to an Open-Source project but got lost somewhere in the middle due to lack of guidance or motivation? If you answered “Yes!” to any of the above, then Dev Sprints are here for you!
 <!-- PELICAN_END_SUMMARY -->
 
-PyCon India 2018 is a place for developers from across across the country (and beyond) to get together and celebrate Python. But what good is a PyCon without getting your hands dirty writing some code? Hence, for all Open Source enthusiasts out there, the PyCon India team is happy to announce Dev Sprints @ PyCon India 2018.
+PyCon India 2018 is a place for developers from across the country (and beyond) to get together and celebrate Python. But what good is a PyCon without getting your hands dirty writing some code? Hence, for all Open Source enthusiasts out there, the PyCon India team is happy to announce Dev Sprints @ PyCon India 2018.
 
 During Dev sprints, Mentors/Contributors of OSS projects guide participants through the end to end process of OSS contribution, right from setting up build environments, to developing and testing code, to submitting patches for bugs. If you are stuck, mentors are all available to help you figure out issues and get you back up and running! From past experiences, we’ve seen a lot of people start off contributing to OSS through Dev Sprints and later go on to become regular contributors to various projects across the web.
 
