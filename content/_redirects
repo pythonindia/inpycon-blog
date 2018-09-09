@@ -1,0 +1,8 @@
+# Redirects from what the browser requests to what we serve
+/blog/theme/css/animate.css         /theme/css/animate.css
+/blog/theme/css/styles.css          /theme/css/styles.css
+/blog/theme/images/banner-logo.png  /theme/images/banner-logo.png
+/blog/theme/images/footer-logo.png  /theme/images/footer-logo.png
+/blog/theme/images/fb.png           /theme/images/fb.png
+/blog/theme/images/twitt.png        /theme/images/twitt.png
+/blog/images/OYO_Logo-1024x370.png  /images/OYO_Logo-1024x370.png
