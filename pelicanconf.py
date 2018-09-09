@@ -53,7 +53,7 @@ SUMMARY_MAX_LENGTH = None
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', '_redirects']
 USE_SHORTCUT_ICONS=True
 EXTRA_PATH_METADATA = {
     'images/favicon.png': {'path': 'favicon.png'}
