@@ -658,6 +658,10 @@ footer p {
 
 }
 @media screen and (max-width: 767px){
+  .navbar-toggle .icon-bar {
+    background: #fff;
+  }
+
   .pycon-card img{
     width: auto !important;
   }
@@ -693,4 +697,8 @@ footer p {
 .thumbnail {
   display: inline-block;
   padding: 10px;
+}
+
+#bs-example-navbar-collapse-1 > ul > li.dropdown.open > ul > li:nth-child(2) > a.dropdown-toggle {
+  display: none;
 }
