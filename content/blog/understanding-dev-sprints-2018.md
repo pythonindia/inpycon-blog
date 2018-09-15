@@ -12,8 +12,8 @@ During Dev sprints, Mentors/Contributors of OSS projects guide participants thro
 
 > Dev sprints are for everybody who want to participate and learn, as issues on repositories don't discriminate.
 
-If you are a contributor or have been involved in maintenance of any Open source project, please come forward. You can submit your proposal for the Dev sprint [here](https://in.pycon.org/cfp/devsprint-2018/proposals/). This project can be any interesting Open source project which is based on Python. Ideally, you should have a history with the project through previous code commits. Your responsibility will be to help your team set up their development environment, list out beginner friendly bugs (preferrably tag them using `good-first-issue`), and guide them on any problems they face during the event. **Deadline for submitting proposals is 30 September 2018**.
+If you are a contributor or have been involved in maintenance of any Open source project, please come forward. You can submit your proposal for the Dev sprint [here](https://in.pycon.org/cfp/devsprint-2018/proposals/). This project can be any interesting Open source project which is based on Python. Ideally, you should have a history with the project through previous code commits. Your responsibility will be to help your team set up their development environment, list out beginner friendly bugs (preferably tag them using `good-first-issue`), and guide them on any problems they face during the event. **Deadline for submitting proposals is 30 September 2018**.
 
-Registrations for participants will be annouced very soon. Please watch this space and the PyCon social media channels for updates.
+Registrations for participants will be announced very soon. Please watch this space and the PyCon social media channels for updates.
 
 Dev Sprints @ PyCon India 2018 will be held on the 8th & 9th October 2018. We look forward to bringing developers together to collaborate with the shared language of code!
