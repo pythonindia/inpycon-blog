@@ -4,11 +4,11 @@ Category: 2016
 Slug: open-space-registrations-2016
 Summary: Announcing call for papers for PyCon India 2016 open space
 
-It's PyCon India time again!! So exciting, isn't it? PyCon India has provided a platform for like-minded enthusiats to get together and share their experiences and learnings. We are glad to continue with the tradition of having open space this time as well. Having such talks help attendees learn from other's experiences and interact with more people making the community a vibrant one.
+It's PyCon India time again!! So exciting, isn't it? PyCon India has provided a platform for like-minded enthusiasts to get together and share their experiences and learnings. We are glad to continue with the tradition of having open space this time as well. Having such talks help attendees learn from other's experiences and interact with more people making the community a vibrant one.
 
 **What is an Open Space?**
 
-Literally, it's a SPACE OPEN to anyone who wishes to talk about Python. Be it experience, learnigs, libraries, tools, frameworks, tests, correct code practices, an idea, a "what-not-do" talk or anything that is about Python.
+Literally, it's a SPACE OPEN to anyone who wishes to talk about Python. Be it experience, learnings, libraries, tools, frameworks, tests, correct code practices, an idea, a "what-not-do" talk or anything that is about Python.
 
 **How it works?**
 

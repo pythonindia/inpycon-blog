@@ -14,6 +14,6 @@ The story of [Noufal Ibrahim](http://nibrahim.net.in/) and PyCon goes way back t
 
 Noufal is an industry veteran with over 15 years of experience. He founded [Hamon](https://hamon.in/about/) and worked for Cisco systems, Synopsys, The Internet Archive and other organisations mostly in infrastructure engineering positions. Noufal is also a trainer and loves to help people out on [stackoverflow](http://stackoverflow.com/users/229602/noufal-ibrahim). Apart from this he has a collection of [calligraphy](http://calligraffiti.in/) sheets on this website which he maintains to be beautiful.
 
-Noufal also founded [The Lycӕum](http://thelycaeum.in/), which is an experimental educational endeavour started in 2013. It is currently based in Kozhikode, Kerala and focusses on IT education.
+Noufal also founded [The Lycӕum](http://thelycaeum.in/), which is an experimental educational endeavour started in 2013. It is currently based in Kozhikode, Kerala and focuses on IT education.
 
 [Grab your tickets](https://bit.ly/PyConIndiaTickets) now and meet Noufal Ibrahim and other cool people hacking with python.

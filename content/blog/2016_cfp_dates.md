@@ -6,8 +6,8 @@ Summary: PyCon India 2016 - CFP link and details.
 
 As many of you folks know, [CFP](https://in.pycon.org/cfp/2016/proposals/) for PyConIndia has been open since March.
 
-Thanks to all you folks we have had 79 proposals till date. Thanks for such a warm repsponse.
-It's such an immense support from our community that makes this event successfull year after. Thanks!
+Thanks to all you folks we have had 79 proposals till date. Thanks for such a warm response.
+It's such an immense support from our community that makes this event successful year after. Thanks!
 
 
 The important dates for CFP in [PyCon India](http://in.pycon.org/2016) are as below.
