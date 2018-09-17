@@ -676,6 +676,12 @@ footer p {
   ol{padding: 0;}
 }
 
+.icon {
+  color: #e23e89;
+  font-size: 24px;
+  padding: 5px;
+}
+
 .icon:hover {
   opacity:0.5;
   z-index:10;
