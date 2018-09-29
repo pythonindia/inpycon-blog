@@ -4,7 +4,7 @@ Category: 2018
 Slug: announcing_zauba_as_gold_sponsor
 
 <p class="text-center">
-	<a href="#" target="_blank">
+	<a href="https://zauba.company/" target="_blank">
 		<img src="https://raw.githubusercontent.com/pythonindia/inpycon2018/master/img/sponsors/zaubacloud.png" alt="Zauba Cloud" height="200"/>
 	</a>
 </p>
