@@ -1,5 +1,5 @@
 Title: Announcing Zauba as Gold Sponsor
-Date: 2018-09-29 13:30
+Date: 2018-10-01 8:30
 Category: 2018
 Slug: announcing_zauba_as_gold_sponsor
 
@@ -12,4 +12,4 @@ Slug: announcing_zauba_as_gold_sponsor
 Hi Everyone, it is our pleasure to announce Zauba Cloud, as PyCon India 2018’s gold sponsor.
 <!-- PELICAN_END_SUMMARY -->
 
-Zauba Cloud is a next generation cloud computing platform that accelerates product development,reduces cost and increases overall performance and reliability of assets on cloud
+[Zauba Cloud](https://zauba.company/) is a next generation cloud computing platform that accelerates product development,reduces cost and increases overall performance and reliability of assets on cloud
