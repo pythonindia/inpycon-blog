@@ -4,7 +4,7 @@ Category: 2018
 Slug: announcing-google-as-gold-sponsor
 
 <p class="text-center">
-	<a href="https://www.google.com/" target="_blank">
+	<a href="https://developers.google.com/" target="_blank">
 		<img src="https://raw.githubusercontent.com/pythonindia/inpycon2018/master/img/sponsors/google_developers.png" alt="Google Developers" height="180" width="1150"/>
 	</a>
 </p>
