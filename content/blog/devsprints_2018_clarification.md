@@ -1,9 +1,9 @@
 Title: Clarifications on Dev Sprints
-Date: 2018-09-02 01:00
+Date: 2018-10-02 01:00
 Category: 2018
 Slug: clarification-on-devpsints-2018
 
-We have been receiving few queries about Dev Sprints, so this blog clarifies most of such queries and doubts, please read the other [blog](https://in.pycon.org/blog/2018/devsprints-ticket-are-open.html) we posted for dev sprints before this, if you haven't yet.
+We have been receiving few queries about Dev Sprints, so this blog clarifies most of such queries and doubts, please read the other [blog](https://in.pycon.org/blog/2018/devsprints-ticket-are-open.html) we posted for Dev sprints before this, if you haven't yet.
 <!-- PELICAN_END_SUMMARY -->
 
 **Ques** - Why should I register for Dev Sprints?<br />
@@ -16,4 +16,4 @@ We have been receiving few queries about Dev Sprints, so this blog clarifies mos
 **Ans** - We have opened only **50%** of dev sprint tickets on 29th September. As we expected,  all ticket were sold out within 24 hours. The remaining **50%** of tickets would be opened on the second day of the conference **7th Oct, 11:00 a.m.**
 The rationale for opening **50%** tickets later: Considering the limited capacity at the venue, we wanted to give equal opportunity to everyone willing to attend dev sprints.
 
-Hope this clarifies some of the questions we have been receiving via different channels, if you have any further questions please write to contact@in.pycon.org.
+Hope this clarifies some of the questions we have been receiving via different channels, if you have any further questions please write to [contact@in.pycon.org](contact@in.pycon.org).
