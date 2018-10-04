@@ -6,6 +6,8 @@ Slug: devsprints-ticket-are-open
 PyCon India 2018 Devsprints will happen on 8th and 9th October at Talent Sprint, PSR Prime Tower, Beside DLF Cyber City, Gachibowli, Hyderabad. We are excited to announce that tickets for Devsprints are open now!
 <!-- PELICAN_END_SUMMARY -->
 
+Location: [Map link](https://goo.gl/maps/FaoEcJBjbDF2)
+
 Get your ticket at [https://in.explara.com/e/pycon-india-2018/checkout](https://in.explara.com/e/pycon-india-2018/checkout).
 
 **Update:** 50% of the Devsprints tickets are sold out and another 50% of the tickets will be opened on 7th Oct, 11:00 AM.
