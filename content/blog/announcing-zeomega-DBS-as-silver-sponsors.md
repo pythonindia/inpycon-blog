@@ -1,5 +1,5 @@
 Title: Announcing Zeomega & DBS as Silver Sponsors of PyCon India 2018
-Date: 2018-10-05 3:45
+Date: 2018-10-04 19:00
 Category: 2018
 Slug: announcing-zeomega-dbs-silver-sponsors-pycon-india-2018
 
