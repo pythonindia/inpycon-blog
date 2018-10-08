@@ -23,6 +23,10 @@ body {
 
 ul, ol{list-style: none;}
 
+.list {
+  list-style: disc;
+}
+
 p {
 
     margin: 0 0 20px;
