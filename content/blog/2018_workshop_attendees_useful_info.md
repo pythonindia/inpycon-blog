@@ -14,8 +14,6 @@ Here are a few things we would like to bring to your attention.
 ## Reaching to Hyderabad:
 Please find information at https://in.pycon.org/2018/travel.html.
 
-## Reaching the venue (HICC):
-For attendees using public transport, shuttles will be available between Hitex Charminar (Arch)  and the venue - [HICC](https://goo.gl/maps/SrZKN3PhAau). For any further guidance, please reach out to our transport team @ Subhash - 9963754460
 
 ## At the Registration Desk:
 The first step is to register and collect your kit from the front desk. Please carry your ticket as the team would be looking for the registration number on it.  The queues will be organized by Registration Number.
