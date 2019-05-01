@@ -21,7 +21,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 ARTICLE_PATHS = ['blog']
-THEME = 'themes/inpycon2018'
+THEME = 'themes/inpycon2019'
 
 # Blogroll
 LINKS = (('InPyCon', 'http://in.pycon.org/'),
