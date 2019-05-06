@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <title>
+      {% block pagetitle %} PyCon India 2019 in Chennai | October 12th to 15th {% endblock %}
+    </title>
+    <meta content="width=device-width, initial-scale=1.0" name="Viewport"/>
+    <link rel="shortcut icon" href="/blog/theme/images/favicon.png"/>
+    <link rel="stylesheet" href="/blog/theme/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="/blog/theme/css/styles.css"/>
+  </head>
+
+<body>
+  <header>
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+	<div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <div class="web text-center">
+            <a class="navbar-brand" href="#">
+              <img src="/blog/theme/images/logosmall.png" alt="PyCon India 2019 Logo" width="100%"/>
+            </a>
+            <a class="navbar-brand-1 " style="display: none" href="#">
+              <img src="/blog/theme/images/logosmall.png" alt="PyCon India 2019 Logo" width="100%"/>
+            </a>
+	  </div>
+	</div>
+
+	<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav main-menu">
+            <li><a href="/2019/">Home</a></li>
+            <li class="current"><a href="/blog">Blog</a></li>	    
+            <li><a href="/2019/index.html#sponsorship">Sponsorship</a></li>
+	    <li class="dropdown">
+              <a href="#" class="dropbtn">CFP&nbsp;&nbsp;{% include 'icons/down-arrow.svg' %}</a>
+              <div class="dropdown-content">
+		<a href="https://in.pycon.org/cfp/2019/proposals/">Submit a Talk</a>
+		<a href="https://in.pycon.org/cfp/workshops-2019/proposals/">Submit a Workshop</a>
+              </div>
+            </li>
+            <li><a href="/2019/code-of-conduct.html">Code Of Conduct</a></li>
+          </ul>
+	</div>
+      </div>
+    </nav>
+  </header>
+
+  <div class="blog">
+    {% block body %}
+    {% endblock %}
+  </div>
+
+  <footer>
+    <div class="container">
+      <div class="row">
+	<div class="col-md-3 text-center">
+          <ul class="list-inline">
+            <li><a target="_blank" href="https://www.facebook.com/PyConIndia/">
+		<img src="/blog/theme/images/fb.png" alt="Facebook"/>
+	    </a></li>
+            <li><a target="_blank" href="https://twitter.com/pyconindia">
+		<img src="/blog/theme/images/tw.png" alt="Twitter"/>
+	    </a></li>
+          </ul>
+	</div>
+	<div class="col-md-6 text-center">
+          <img src="/blog/theme/images/logosmall.png" alt="PyCon India 2019 Logo" width="70%"/>
+	</div>
+	<div class="col-md-3 text-center">
+          <p class="design-by">Design by</p>
+          <a target="_blank" href="http://webchirpy.com">
+	    <img src="/blog/theme/images/wclogo.png" alt="Webchirpy Logo" width="40%"/>
+	  </a>
+	</div>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
