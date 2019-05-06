@@ -36,9 +36,15 @@
 	<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav main-menu">
             <li><a href="/2019/">Home</a></li>
-            <li><a class="current" href="/blog">Blog</a></li>	    
-            <li><a href="/2019/sponsorship-prospectus.html">Sponsorship</a></li>
-            <li><a href="/2019/cfp.html">Submit A Talk</a></li>
+            <li class="current"><a href="/blog">Blog</a></li>	    
+            <li><a href="/2019/index.html#sponsorship">Sponsorship</a></li>
+	    <li class="dropdown">
+              <a href="#" class="dropbtn">CFP&nbsp;&nbsp;{% include 'icons/down-arrow.svg' %}</a>
+              <div class="dropdown-content">
+		<a href="https://in.pycon.org/cfp/2019/proposals/">Submit a Talk</a>
+		<a href="https://in.pycon.org/cfp/workshops-2019/proposals/">Submit a Workshop</a>
+              </div>
+            </li>
             <li><a href="/2019/code-of-conduct.html">Code Of Conduct</a></li>
           </ul>
 	</div>
