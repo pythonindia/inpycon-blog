@@ -43,10 +43,14 @@ If you're still interested in volunteering, here is what you should do next:
     track the progress being made. If you can contribute to any of the
     issues, please feel free to pitch-in.
 
-    - Workgroups task tracking: https://github.com/pythonindia/inpycon2019-tasks 
-    - Website: https://github.com/pythonindia/inpycon2019
-    - Blog: https://github.com/pythonindia/inpycon-blog
-    - CFP software: https://github.com/pythonindia/junction
+    - Workgroups task tracking:
+      [https://github.com/pythonindia/inpycon2019-tasks](https://github.com/pythonindia/inpycon2019-tasks)
+    - Website:
+      [https://github.com/pythonindia/inpycon2019](https://github.com/pythonindia/inpycon2019)
+    - Blog:
+      [https://github.com/pythonindia/inpycon-blog](https://github.com/pythonindia/inpycon-blog)
+    - CFP software:
+      [https://github.com/pythonindia/junction](https://github.com/pythonindia/junction)
 
 Hope this article has served as a starting point for volunteering. If
 you have any questions, please drop a mail to the mailing list, but
