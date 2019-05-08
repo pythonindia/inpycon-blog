@@ -1084,3 +1084,16 @@ a {
 .blog ul {
   list-style: initial;
 }
+
+.blog img {
+  max-width: 100%;
+  height: auto;
+}
+
+hr {
+  margin: 50px 0;
+}
+
+.blogpost-summary {
+  margin-top: 30px;
+}
