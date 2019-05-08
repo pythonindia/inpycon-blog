@@ -10,6 +10,9 @@
     <div class='meta'><time datetime="{{article.date}}" itemprop="datePublished"><small>Published: {{ article.date.strftime('%B %d, %Y') }}</small></time></div>
 
     <div>{{article.summary}}</div>
+    <p>
+      <a href="{{SITEURL}}/{{article.url}}">Read More &gt;&gt;&gt;</a>
+    </p>
   </article>
 {% endfor %}
 </section>
