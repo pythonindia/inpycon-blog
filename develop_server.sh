@@ -103,3 +103,5 @@ elif [[ $1 == "start" ]]; then
 else
   usage
 fi
+
+trap shut_down SIGINT SIGTERM EXIT
