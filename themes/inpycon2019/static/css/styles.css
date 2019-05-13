@@ -1088,6 +1088,7 @@ a {
 .blog img {
   max-width: 100%;
   height: auto;
+  max-height: 200px;
 }
 
 hr {
