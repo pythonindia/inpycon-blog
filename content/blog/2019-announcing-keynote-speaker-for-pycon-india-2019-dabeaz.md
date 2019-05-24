@@ -1,5 +1,5 @@
 Title: Announcing Keynote Speaker for PyCon India 2019 - David Beazley
-Date: 2019-05-14 09:00
+Date: 2019-05-24 09:00
 Category: 2019
 Slug: announcing-keynote-speaker-for-pycon-india-2019-dabeaz
 
