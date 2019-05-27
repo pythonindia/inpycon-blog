@@ -17,4 +17,5 @@ and Prodigy, an annotation tool for radically efficient machine teaching.
 
 <br>
 
-She can be reached at her twitter handle:[@explosion_ai](https://twitter.com/explosion_ai).
+She can be reached at her twitter handle:
+[@explosion_ai](https://twitter.com/explosion_ai).
