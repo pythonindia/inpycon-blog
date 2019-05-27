@@ -24,7 +24,7 @@ ARTICLE_PATHS = ['blog']
 THEME = 'themes/inpycon2019'
 
 # Blogroll
-LINKS = (('InPyCon', 'http://in.pycon.org/'),
+LINKS = (('InPyCon', 'https://in.pycon.org/'),
          ('PSSI', 'http://pssi.org.in/'),)
 
 ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
