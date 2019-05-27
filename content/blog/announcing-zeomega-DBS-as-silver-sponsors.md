@@ -5,7 +5,8 @@ Slug: announcing-zeomega-dbs-silver-sponsors-pycon-india-2018
 
 <p class="text-center">
 	<a href="http://www.zeomega.com/" target="_blank">
-		<img src="http://www.zeomega.com/wp-content/uploads/WEB-235-ZeOmega-Logo.png" alt="zeomega" height="57" width="235" hspace="30"/>
+		<img alt="zeomega" height="57" width="235" hspace="30" src="https://in.pycon.org/2017/images/sponsor/zeomega.png">
+	</a>
 	<a href="https://www.dbs.com/" target="_blank">
 		<img src="https://github.com/pythonindia/inpycon2018/raw/master/img/sponsors/DBS_Logo.png" alt="DBS" height="80" width="240"/>
 	</a>
