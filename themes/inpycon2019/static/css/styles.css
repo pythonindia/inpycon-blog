@@ -59,7 +59,7 @@ section {
 }
 
 .dropdown-content {
-  left: -50px;
+  right: 30%;
 }
 
 .navbar-nav {
@@ -68,6 +68,7 @@ section {
 
 .nav>li>a {
   padding: 30px 13px;
+  margin-top: 8px;
 }
 
 .navbar-default .navbar-nav>li>a:hover,
@@ -76,7 +77,8 @@ section {
 }
 
 .navbar-brand>img {
-  padding: 5px 0;
+  padding: 5px 5px;
+  margin-top: -2px;
 }
 
 .navbar-brand {
@@ -88,12 +90,12 @@ section {
   color: #fff;
 }
 
-.book-tickets {
-  border: 1px solid #fff;
-  padding: 10px 15px !important;
-  margin-top: 4px;
-  border-radius: 5px;
+.navbar-default .navbar-nav>li>a:hover > .down-arrow,
+.navbar-default .navbar-nav>li>a:focus > .down-arrow {
+  stroke: #f39a3a;
+  transition: all 0.5s;
 }
+
 
 /* Dropdown Button */
 
@@ -124,6 +126,23 @@ section {
 
 .dropdown:hover .dropdown-content {
   display: block;
+}
+
+@media screen and (max-width: 768px) {
+  .dropdown {
+    position: static;
+  }
+
+  .dropdown-content {
+    position: static;
+    width: 180px;
+    margin: auto;
+  }
+  
+  .dropdown-content a {
+    padding: 8px 10px;
+    text-align: center;
+  }
 }
 
 /*banner styles */
@@ -886,9 +905,13 @@ a {
   background: #dcdbdb !important;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
   .navbar-brand {
-    width: 60%
+    width: 60%;
+  }
+
+  .navbar-toggle {
+    margin-top: 3.2%;
   }
 
   .navbar-default .navbar-nav>li>a {
@@ -981,9 +1004,22 @@ a {
   }
 }
 
-@media screen and (min-width: 600px) and (max-width: 768px) {
+@media screen and (min-width: 601px) and (max-width: 910px) {
   .navbar-nav {
-    float: left;
+    float: none;
+    margin-left: 22vw;
+  }
+
+  .navbar-toggle {
+    margin-top: 3.2%;
+  }
+
+  .navbar-default .navbar-nav>li>a {
+    text-align: center;
+  }
+
+  .nav>li>a {
+    padding: 15px 13px;
   }
 
   .navbar-brand {
