@@ -51,8 +51,8 @@ ways for people to interact, and benefit from the event.
 
 We all know that during the conference, people get to share their
 ideas and learn from others. But that benefit is just the tip of an
-ice-berg. There is lot more to it, people get inspired from other
-people's work, they make new friends, reconnect with old friends, get
-their first job, these bonds and relationships open up doors to
+ice-berg. There is lot more to it. People get inspired from other
+people's work, make new friends, reconnect with old friends, get their
+first job, and so on. These bonds and relationships open up doors to
 endless possibilities. After the conference, the world will not be
 quite the same place, and we are teaming up to make that magic happen!
