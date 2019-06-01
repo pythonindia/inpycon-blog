@@ -1,4 +1,8 @@
-Title: Convince Your Boss With This Email : PyCon India 2019 Date: 2019-06-01 09:00 Category: 2019 Slug: convince-your-boss-with-this-email-pycon-india-2019 Summary: Save time composing a email to convince your boss to send you to PyCon India. We got you covered.
+Title:Convince Your Boss With This Email : PyCon India 2019 
+Date:2019-06-01 09:00 
+Category:2019 
+Slug:convince-your-boss-with-this-email-pycon-india-2019 
+Summary:Save time composing a email to convince your boss to send you to PyCon India. We got you covered.
 
 There a gazillion things to be gained attending PyCon India. Unfortunately, it takes time to sit and compose a neat little email to send to your boss enumerating them. Now consider that atleast half of our attendees attempt to do that, we would lose so many hours of productivity reinventing the wheel ;) . So PyCon India is here to save the day. We have composed a convince-the-boss letter to save you time. Of course, feel free to edit it as you like, remove some, add some or use as is. 
 
