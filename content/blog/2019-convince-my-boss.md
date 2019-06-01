@@ -1,7 +1,7 @@
-Title:Convince Your Boss With This Email : PyCon India 2019 
+Title:Convince Your Boss With This Email 
 Date:2019-06-01 09:00 
 Category:2019 
-Slug:convince-your-boss-with-this-email-pycon-india-2019 
+Slug:convince-your-boss-with-this-email 
 Summary:Save time composing a email to convince your boss to send you to PyCon India. We got you covered.
 
 There are a gazillion things to be gained attending PyCon India. Unfortunately, it takes time to sit and compose a neat little email to send to your boss enumerating them. Now consider that atleast half of our attendees attempt to do that, we would lose so many hours of productivity reinventing the wheel ;) . So PyCon India is here to save the day. We have composed a convince-the-boss letter to save you time. Of course, feel free to edit it as you like, remove some, add some or use as is. 
@@ -30,7 +30,7 @@ It would be great if I get an opportunity to attend this conference as there wil
 
 There is an Early Bird ticket offer on for the first 300 tickets sold before 30th June 2019 and it costs only Rs 1100. Booking later (or after the first 300 tickets) would cost Rs 1600. The tickets include access to all PyCon India keynotes & talks, sponsor showcase, community spaces, an official PyCon India T-shirt along with lunch and high-tea in the evening for both days (12th-13th October).
 
-I would be happy to write a post-conference report detailing what I've learnt and to recommend any changes that we could implement to improve our practices. Please let me know if you have any questions or concerns. I hope we make use this opportunity to benefit our company.
+I would be happy to write a post-conference report detailing what I've learnt and to recommend any changes that we could implement to improve our practices. Please let me know if you have any questions or concerns. I hope we make use this opportunity for the benefit of our company.
 
 Thank you,
 
