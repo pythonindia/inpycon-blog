@@ -1,4 +1,4 @@
-Title: Making PyCon India Accessible: A First Step  
+Title: Making PyCon India Accessible: The First Step  
 Date: 2019-06-02 09:00 
 Category: 2019 
 Slug: 2019-making-pycon-india-accessible-first-step 
@@ -28,7 +28,7 @@ the Python community.
 ## Registration
 
   - For those who cannot use our ticketing platform, an alternative
-    booking mechansim through NEFT transfer will be provided. Please
+    booking mechanism through NEFT transfer will be provided. Please
     contact [tickets@in.pycon.org](mailto:tickets@in.pycon.org)
 
   - During the registration, you can specify if you have a
