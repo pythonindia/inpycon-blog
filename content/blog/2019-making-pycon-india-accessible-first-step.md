@@ -53,7 +53,7 @@ We have ensured the following at both the venues:
 
   - Doorways and important routes are at least 32 inches wide.
 
-  - Stage is accessible to for wheelchair users.
+  - Stage is accessible for wheelchair users.
 
   - Empty spaces in front or back of halls for wheelchair users.
 
