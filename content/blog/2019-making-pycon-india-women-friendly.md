@@ -21,12 +21,12 @@ women to welcome their participation:
 <!-- PELICAN_END_SUMMARY -->
 
   * For parents travelling with young kids, childcare services will be
-    provided at the venue for kids 5 years or below. If you want to
+    provided at the venue for kids aged 5 years or below. If you want to
     avail childcare for your kid, please mark the checkbox for the
     same in the ticket registration page. 
 
   * The organizers will arrange a Kids Corner with games,
-    entertainment and activities for kids above 5 upto 12. If you want
+    entertainment and activities for kids of age 5 to 12. If you want
     to avail Kids Corner for your kid, please mark the checkbox for
     the same in the ticket registration page.
 
