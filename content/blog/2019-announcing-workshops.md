@@ -35,7 +35,7 @@ tickets](https://www.townscript.com/e/pycon-india-2019/booking)
 
     - Speakers: Usha Rengaraju, Abinash Panda
   
-### Evening Workshops
+### Afternoon Workshops
 
   * [Build Your Own Async](https://in.pycon.org/2019/workshop-build-your-own-async.html)
 
