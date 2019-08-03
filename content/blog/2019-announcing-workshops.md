@@ -4,10 +4,30 @@ Category: 2019
 Slug: announcing-workshops
 
 The workshop tickets are open, the list of workshops are provided
-below. [Click here to book
+below. Each workshop is 2.5 hours duration. There are a total of 6
+parallel tracks, with two workshops in each track, one in the morning
+and one in the afternoon. You can attend a maximum of two workshops,
+morning and afternoon.
+
+[Click here to book
 tickets](https://www.townscript.com/e/pycon-india-2019/booking)
 
+## Attending Multiple Workshops
+
+The ticketing platform is designed to allow booking of only one
+morning ticket and one afternoon ticket. But if you are booking
+tickets in two separate purchases, ensure that you are not booking two
+workshops in the same session i.e. two morning or two afternoon.
+
+## Attending Workshops and Devsprints
+
+It might be possible to attend *one* workshop and the devsprints. If
+you book two workshops, you will be able to attend the devsprints only
+on the second day.
+
 <!-- PELICAN_END_SUMMARY -->
+
+## List of Workshops
 
 ### Morning Workshops
 
