@@ -1,5 +1,5 @@
 Title: A Lucent Guide to Poster Presentation
-Date: 2019-08-07 09:00
+Date: 2019-08-08 09:00
 Category: 2019
 
 Hello Pythonistas, in this blog, we will discuss about posters and walk you through the process of making a great poster presentation at PyCon India 2019.
