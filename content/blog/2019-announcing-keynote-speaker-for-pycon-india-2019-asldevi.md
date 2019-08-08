@@ -25,5 +25,5 @@ inception, as a volunteer and as a speaker
 
 <br>
 
-She can be reached at her twitter
+She can be reached at her Twitter
 handle: [@asldevi](https://twitter.com/asldevi).
