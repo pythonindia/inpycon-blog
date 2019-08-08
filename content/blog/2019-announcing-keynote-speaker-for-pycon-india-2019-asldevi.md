@@ -13,7 +13,7 @@ She is a long term Pythonista and her work spans diverse domains ranging
 from developing high-performance math libraries and cryptography to
 architecting complex web applications.
 
-Through her work that surpassed over a decade, she has experienced diverse
+Through her work that has surpassed over a decade, she has experienced diverse
 work cultures at small startups, MNCs and remote teams where she has been
 through the lows and highs women in tech from different perspectives.
 She has been an active member of the PyCon India community since its
