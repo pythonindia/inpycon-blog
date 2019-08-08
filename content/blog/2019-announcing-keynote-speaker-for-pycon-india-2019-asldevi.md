@@ -10,7 +10,7 @@ for PyCon India 2019!
 
 Devi is an independent software consultant, based in Bangalore.
 She is a long term Pythonista and her work spans diverse domains ranging
-from developing high-performance math libraries, cryptography to
+from developing high-performance math libraries and cryptography to
 architecting complex web applications.
 
 Through her work that surpassed over a decade, she has experienced diverse
