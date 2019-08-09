@@ -4,6 +4,8 @@ Category: 2019
 
 Hello Pythonistas, in this blog, we will discuss about posters and walk you through the process of making a great poster presentation at PyCon India 2019.
 
+<!-- PELICAN_END_SUMMARY -->
+
 ### What is a Poster?
 
 Posters are graphical summary of projects or ideas. They are usually presented with an A0 size poster, but any creative ways are always welcome. The poster session provides an opportunity to network with the conference attendees and acts as a starting point for further discussions. While talks generally need to appeal to a wide section of the community, posters can cover niche topics.
