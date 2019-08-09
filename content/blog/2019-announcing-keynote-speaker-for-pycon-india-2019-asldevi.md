@@ -1,5 +1,5 @@
 Title: Announcing Keynote Speaker for PyCon India 2019 - Devi A S L
-Date: 2019-08-09 09:00
+Date: 2019-08-08 09:00
 Category: 2019
 Slug: announcing-keynote-speaker-for-pycon-india-2019-asldevi
 
