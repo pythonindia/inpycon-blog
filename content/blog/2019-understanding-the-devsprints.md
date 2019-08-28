@@ -1,7 +1,7 @@
 Title: Understanding the Devsprints
 Date: 2019-08-28 11:00
 Category: 2019
-Slug: understanding-devsprints-2019
+Slug: understanding-devsprints
 
 ## What is a Devsprint?
 
@@ -38,7 +38,7 @@ you moving. We can say this from experience, that participants of
 these Devsprints have not been limited to their open source
 contribution just for the conference days.They are still active
 contributors. You can purchase Devsprints ticket
-[here](https://in.pycon.org/2019/#tickets).
+[here](https://in.pycon.org/2019/).
 
 ## Who can run a Devsprints?
 
@@ -62,11 +62,11 @@ Devsprint setup .
 
 ## Where will the Devsprints be?
 
-The Devsprints will take place at [IITM Research
-Park](https://goo.gl/maps/3Jk2Aw4Suun1PCQK7), Chennai on 14th & 15th
-Oct, 2019.
+The Devsprints will take place at IITM Research Park, Chennai on 14th
+& 15th Oct, 2019.
 
 >*"Devsprints are a great opportunity to get connected with, and start
   contributing to your favorite Python project"*
 
-Credits: Partly based on https://us.pycon.org/2019/community/sprints/
+Credits: Partly based on
+[https://us.pycon.org/2019/community/sprints/](https://us.pycon.org/2019/community/sprints/)
