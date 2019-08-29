@@ -1,4 +1,4 @@
-Title: Understanding the Devsprints
+Title: Understanding Devsprints
 Date: 2019-08-28 11:00
 Category: 2019
 Slug: understanding-devsprints
@@ -40,7 +40,7 @@ contribution just for the conference days.They are still active
 contributors. You can purchase Devsprints ticket
 [here](https://in.pycon.org/2019/).
 
-## Who can run a Devsprints?
+## Who can run a Devsprint?
 
 ***You!*** If you are a contributor or have been involved in the
 maintenance of any Open source project place, please come forward. You
