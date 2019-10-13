@@ -44,7 +44,7 @@ contributors. You can purchase Devsprints ticket
 
 ***You!*** If you are a contributor or have been involved in the
 maintenance of any Open source project place, please come forward. You
-can submit your proposal for your Devsprints here. This project can be
+can submit your proposal for your Devsprints [here](https://in.pycon.org/cfp/devsprint-2019/proposals/). This project can be
 any interesting open source project which is based on Python. You
 should have enough contributions to the project. Your responsibility
 will be to help your team set up their development environment, list
