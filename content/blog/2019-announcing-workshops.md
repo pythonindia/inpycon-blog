@@ -74,9 +74,6 @@ on the second day.
 
     - Speaker: Suriyadeepan Ramamoorthy
 
-  * [Distributed Machine learning in python using Apache Spark](https://in.pycon.org/cfp/workshops-2019/proposals/distributed-machine-learning-in-python-using-apache-spark~e5vBa/)
-
-    - Speaker: Satwik Kansal
 
   * [Deploying Machine Learning Models at the Edge](https://in.pycon.org/cfp/workshops-2019/proposals/deploying-machine-learning-models-at-the-edge~eVq1d/)
 
