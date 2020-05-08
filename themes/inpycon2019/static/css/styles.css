@@ -138,7 +138,7 @@ section {
     width: 180px;
     margin: auto;
   }
-  
+
   .dropdown-content a {
     padding: 8px 10px;
     text-align: center;
@@ -581,12 +581,12 @@ section {
 /*.rot1{
   position: absolute;
   bottom: 0;
-  left: 0; 
+  left: 0;
 }
 .rot2{
   position: absolute;
   bottom: 0;
-  left: 0; 
+  left: 0;
 }*/
 .bluewind {
   position: absolute;
@@ -1122,9 +1122,11 @@ a {
 }
 
 .blog img {
-  max-width: 100%;
-  height: auto;
-  max-height: 200px;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 hr {
