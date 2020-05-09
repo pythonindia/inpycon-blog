@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'PSSI'
+AUTHOR = u'PyCon India Content Team'
 SITENAME = u'In PyCon Blog'
 SITEURL = '/blog'
 

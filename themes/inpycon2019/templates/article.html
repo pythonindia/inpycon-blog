@@ -8,10 +8,12 @@
 
     <div class='meta'>
       <time datetime="{{article.date}}" itemprop="datePublished">
-	<small>Published: {{ article.date.strftime('%B %d, %Y') }}</small>
+	    <small>
+          Published: {{ article.date.strftime('%B %d, %Y') }}  |  Author: {{ article.author | default("PyCon India Content Team", true) }}
+        </small>
       </time>
     </div>
 
-    <div> {{ article.content }}</div>
+    <div>{{ article.content }}</div>
 </article>
 {% endblock %}
