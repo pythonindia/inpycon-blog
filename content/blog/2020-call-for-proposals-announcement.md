@@ -3,7 +3,7 @@ Date: 2020-05-09 10:00
 Author: Vipul Gupta
 Category: 2020
 
-That time is upon us again, folks. PyCon India is back and the call for proposals ([https://in.pycon.org/cfp/2020/proposals/](https://in.pycon.org/cfp/2020/proposals/)) has officially opened.
+That time is upon us again, folks. PyCon India is back, it's online and the [call for proposals](https://in.pycon.org/cfp/2020/proposals/) has officially opened! 2020 just became a lot better.
 
 <!-- PELICAN_END_SUMMARY -->
 <div class="text-center">
@@ -27,23 +27,23 @@ Please make note of some important dates as mentioned below:
 
 ## Where should you submit your proposal?
 
-After signing up for an account on [https://in.pycon.org/cfp/2020/proposals/](https://in.pycon.org/cfp/2020/proposals/), you will be redirected to create a **New Proposal** page which is where you can create and submit your proposal.
+Read the `Call for Proposals` editorial on [https://in.pycon.org/cfp/2020/proposals/](https://in.pycon.org/cfp/2020/proposals/). Next, start with drafting your proposal in the **New Proposal** page after signing up for an account.
 
 <div class="text-center">
   <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" height="650px" width="200px">
 </div>
 
-*Do make sure to read the best practices before you start typing them up your proposals especially if you are a first time speaker!*
+*Do make sure to read the [best practices](https://github.com/pythonindia/junction/wiki/Speaker-best-practices) before you start typing them up your proposals especially if you are a first time speaker!*
 
-## Guidelines for creating the video preview
+## Guidelines for creating `Preview Video`
 
 With PyCon India 2020 being online this year, we are trying to introduce preview videos that participants can upload while submitting their proposals. These **preview videos** are about you talking about your talk, topics you intend to cover, and how you intend to cover them that our reviewers will take into account before making final decisions on your talk proposal. Please keep in mind to strictly follow all guidelines for creating your video preview as mentioned below:-
 
 **Duration & orientation**
-1 -3 Minute video to be recorded. The video should be recorded preferably in portrait mode.
+A 1-3 minute video to be recorded, preferably in portrait mode.
 
 **Upload to YouTube**
-The video has to be uploaded on Youtube. If you don’t want other people to find it, mark it as unlisted. Don’t mark it as private or disallow embedding, or we won’t be able to see it.​
+The video has to be uploaded on Youtube. If you don’t want other people to find it, mark it as unlisted. Don’t mark it as private or disallow embedding, or we won’t be able to see it. ​
 
 **Only you talking about your talk**
 The video should contain nothing except you talking about your talk.​ Try to make a video that holds our attention and helps us understand more deeply about what's your talk is all about.
