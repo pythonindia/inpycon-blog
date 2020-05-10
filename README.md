@@ -27,6 +27,7 @@ Title: Announcing X as Titanium Sponsor
 Date: 2020-05-10 10:00
 Author: John Doe
 Category: 2020
+Slug: announcing-X-as-titanium-sponsor
 
 We are happy to introduce our Titanium sponsor **X**! This is also the summary line that will be displayed on the index page.
 
