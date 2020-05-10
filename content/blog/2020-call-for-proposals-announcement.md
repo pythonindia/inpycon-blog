@@ -1,9 +1,10 @@
 Title: Calling all Pythonistas in the world, Call for Proposals for PyCon India 2020 is now open!
 Date: 2020-05-09 10:00
-Author: Vipul Gupta
+Author: Vipul Gupta (@vipulgupta2048)
 Category: 2020
+Slug: 2020-call-for-proposals-announcement
 
-That time is upon us again, folks. PyCon India is back, it's online and the [call for proposals](https://in.pycon.org/cfp/2020/proposals/) has officially opened! 2020 just became a lot better.
+That time is upon us again, folks. PyCon India is back, it's online and the [call for proposals](https://in.pycon.org/cfp/2020/proposals/) has officially opened! 2020 is just about to become better!
 
 <!-- PELICAN_END_SUMMARY -->
 <div class="text-center">
@@ -37,7 +38,7 @@ Read the `Call for Proposals` editorial on [https://in.pycon.org/cfp/2020/propos
 
 ## Guidelines for creating `Preview Video`
 
-With PyCon India 2020 being online this year, we are trying to introduce preview videos that participants can upload while submitting their proposals. These **preview videos** are about you talking about your talk, topics you intend to cover, and how you intend to cover them that our reviewers will take into account before making final decisions on your talk proposal. Please keep in mind to strictly follow all guidelines for creating your video preview as mentioned below:-
+With PyCon India 2020 being online this year, we are introducing preview videos to our proposal submission workflow. **Preview videos** are you talking about your proposal, topics you intend to cover in the talk, and how you intend to cover them. Participants are strongly suggested to upload links of their preview videos while submitting their proposals. It will be immensely helpful for reviewers to go through preview videos and take that into account before making final decisions on your talk proposal. Please keep in mind to strictly follow all guidelines for creating your video preview as mentioned below:-
 
 **Duration & orientation**
 A 1-3 minute video to be recorded, preferably in portrait mode.
@@ -59,16 +60,16 @@ Try to keep your voice clear and check that its being recorded properly. Make su
 
 ## Have any more questions? We are here to help!
 
-Ping us on [Zulip](https://pyconindia.zulipchat.com/) or IRC (#pyconindia) Or contact the coordinators through email:
+Feel free to ping us on [Zulip](https://pyconindia.zulipchat.com/) or IRC (#pyconindia) or contact the coordinators through email:
 
 - Anirudha - [anirudhastark@gmail.com](mailto:anirudhastark@gmail.com)
 - Ritesh - [udr.ritesh@gmail.com](mailto:udr.ritesh@gmail.com)
 - The team: [cfp@in.pycon.org](mailto:cfp@in.pycon.org)
 
-We look forward to seeing all of your proposals filling our inboxes in the coming months!
+We look forward to seeing your proposals filling our inboxes in the coming months! Till then stay safe, stay vanilla!
 
 <div class="text-center">
   <img src="https://media.giphy.com/media/f0TvnEmF5yPLO/giphy.gif">
 </div>
 
-Written by Vipul Gupta (@vipulgupta2048)
+Written by Vipul Gupta ([@vipulgupta2048](https://twitter.com/vipulgupta2048))
