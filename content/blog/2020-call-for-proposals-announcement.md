@@ -28,7 +28,7 @@ Please make note of some important dates as mentioned below:
 
 ## Where should you submit your proposal?
 
-Read the `Call for Proposals` editorial on [https://in.pycon.org/cfp/2020/proposals/](https://in.pycon.org/cfp/2020/proposals/). Next, start with drafting your proposal in the **New Proposal** page after signing up for an account.
+Read the `Call for Proposals` editorial on [https://in.pycon.org/cfp/2020/proposals/](https://in.pycon.org/cfp/2020/proposals/). Next, start with drafting your proposal in the [**New Proposal**](https://in.pycon.org/cfp/2020/proposals/create/) page after signing up for an account.
 
 <div class="text-center">
   <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" height="650px" width="200px">
@@ -36,26 +36,26 @@ Read the `Call for Proposals` editorial on [https://in.pycon.org/cfp/2020/propos
 
 *Do make sure to read the [best practices](https://github.com/pythonindia/junction/wiki/Speaker-best-practices) before you start typing them up your proposals especially if you are a first time speaker!*
 
-## Guidelines for creating `Preview Video`
+## Guidelines for creating Preview Video
 
-With PyCon India 2020 being online this year, we are introducing preview videos to our proposal submission workflow. **Preview videos** are you talking about your proposal, topics you intend to cover in the talk, and how you intend to cover them. Participants are strongly suggested to upload links of their preview videos while submitting their proposals. It will be immensely helpful for reviewers to go through preview videos and take that into account before making final decisions on your talk proposal. Please keep in mind to strictly follow all guidelines for creating your video preview as mentioned below:-
-
-**Duration & orientation**
+With PyCon India 2020 being online this year, we are introducing preview videos to our proposal submission workflow. **Preview videos** are you talking about your proposal, topics you intend to cover in the talk, and how you intend to cover them. Participants are strongly suggested to upload links of their preview videos while submitting their proposals. It will be immensely helpful for reviewers to go through preview videos and take that into account before making final decisions on your talk proposal. Please keep in mind to strictly follow all guidelines for creating your video preview as mentioned below:-  
+  
+**Duration & orientation**  
 A 1-3 minute video to be recorded, preferably in portrait mode.
 
-**Upload to YouTube**
+**Upload to YouTube**  
 The video has to be uploaded on Youtube. If you don’t want other people to find it, mark it as unlisted. Don’t mark it as private or disallow embedding, or we won’t be able to see it. ​
 
-**Only you talking about your talk**
+**Only you talking about your talk**  
 The video should contain nothing except you talking about your talk.​ Try to make a video that holds our attention and helps us understand more deeply about what's your talk is all about.
 
-**No effects & No Music.**
+**No effects & No Music**  
 Please do not add any background music to your video. ​No screenshots or postproduction wizardry please; we don’t want this to turn into a video making contest. If you’re going to spend time making something cool, put that into your slides & proposal instead.
 
-**No Script**
+**No Script**  
 Please do not recite a script written beforehand. Just talk spontaneously as you would to a friend. People delivering memorized speeches (or worse still, reading text off the screen) usually come off as dull and uninspiring. Think of this as fun activity and let your heart do the talking. Be vanilla!
 
-**Check Audio**
+**Check Audio**  
 Try to keep your voice clear and check that its being recorded properly. Make sure there isn't any background noise. Try to record this in an empty room if possible without much going on in the background.
 
 ## Have any more questions? We are here to help!
