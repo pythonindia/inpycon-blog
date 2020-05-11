@@ -1,5 +1,5 @@
 Title: Calling all Pythonistas in the world, Call for Proposals for PyCon India 2020 is now open!
-Date: 2020-05-09 10:00
+Date: 2020-05-11 10:00
 Author: Vipul Gupta (@vipulgupta2048)
 Category: 2020
 Slug: 2020-call-for-proposals-announcement
@@ -8,7 +8,7 @@ That time is upon us again, folks. PyCon India is back, it's online and the [cal
 
 <!-- PELICAN_END_SUMMARY -->
 <div class="text-center">
-  <img src="https://media.giphy.com/media/kgsBIWtPd5Q5Pw11Rq/giphy.gif" height="500px" width="400px">
+  <img src="https://media.giphy.com/media/kgsBIWtPd5Q5Pw11Rq/giphy.gif">
 </div>
 
 2020 has been a rollercoaster for all of us. As this year's PyCon India 2020 is being organized online ([Announcement tweet!](https://twitter.com/pyconindia/status/1253732245635952643?s=20)), we want your support to make the conference bigger, better, and more accessible to all. After all, PyCon India is made by you, for you and with you at its center.
@@ -28,10 +28,10 @@ Please make note of some important dates as mentioned below:
 
 ## Where should you submit your proposal?
 
-Read the `Call for Proposals` editorial on [https://in.pycon.org/cfp/2020/proposals/](https://in.pycon.org/cfp/2020/proposals/). Next, start with drafting your proposal in the [**New Proposal**](https://in.pycon.org/cfp/2020/proposals/create/) page after signing up for an account.
+Read the [call for proposals editorial](https://in.pycon.org/cfp/2020/proposals/) for more information on writing proposals. Next, start with drafting your proposal in the [**New Proposal**](https://in.pycon.org/cfp/2020/proposals/create/) page after signing up for an account.
 
 <div class="text-center">
-  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" height="650px" width="200px">
+  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif">
 </div>
 
 *Do make sure to read the [best practices](https://github.com/pythonindia/junction/wiki/Speaker-best-practices) before you start typing them up your proposals especially if you are a first time speaker!*
