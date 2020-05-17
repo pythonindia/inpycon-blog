@@ -1,0 +1,33 @@
+{% extends "base.html"%}
+
+{% block body %}
+  <section class="blogpost-listings">
+    {% for article in articles_page.object_list %}
+      <article class="blogpost">
+        <a href="{{SITEURL}}/{{article.url}}">
+          <h1 class="title"> {{article.title}}</h1>
+        </a>
+
+        <div class="meta">
+          <time datetime="{{article.date}}" itemprop="datePublished">
+            <small>Published: {{ article.date.strftime("%B %d, %Y") }}</small>
+          </time>
+        </div>
+
+      <div class="blogpost-summary">{{article.summary}}</div>
+
+      <br>
+      <p>
+        <a href="{{SITEURL}}/{{article.url}}">Read More &rarr;</a>
+      </p>
+    </article>
+
+    <hr>
+  {% endfor %}
+</section>
+
+{% if articles_page.has_other_pages() %}
+  {% include "pagination.html" %}
+{% endif %}
+
+{% endblock %}

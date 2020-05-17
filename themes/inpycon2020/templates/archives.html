@@ -1,0 +1,18 @@
+{% extends "base.html"%}
+
+{% block pagetitle %} PyCon India - Blog Archives {% endblock %}
+
+{% block body %}
+{% for article in dates %}
+  <article>
+    <a href="{{SITEURL}}/{{article.url}}">
+      <h3 class="archive-title"> {{article.title}}</h3>
+     </a>
+  	 <div class="incomplete-border"></div> 
+  	 <h5 class="date">{{article.date|strftime('%d %B %Y')}}</h5>
+  	 <div class="archive-summary">
+  	 	{{ article.summary }}
+  	 </div>
+  </article>
+{% endfor %}
+{% endblock %}
