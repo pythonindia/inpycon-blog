@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'PSSI'
+AUTHOR = u'PyCon India Content Team'
 SITENAME = u'In PyCon Blog'
 SITEURL = '/blog'
 
@@ -21,7 +21,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 ARTICLE_PATHS = ['blog']
-THEME = 'themes/inpycon2019'
+THEME = 'themes/inpycon2020'
 
 # Blogroll
 LINKS = (('InPyCon', 'https://in.pycon.org/'),
