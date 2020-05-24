@@ -32,7 +32,7 @@ LINKS = (('InPyCon', 'https://in.pycon.org/'),
 ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
 ARTICLE_URL = '{date:%Y}/{slug}.html'
 
-CATEGORY_SAVE_AS = False
+CATEGORY_SAVE_AS = ''
 
 YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/index.html'
 
