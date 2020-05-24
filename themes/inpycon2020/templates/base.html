@@ -15,13 +15,13 @@
     <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
     <meta property="og:title" content="{{ article.title | replace("\"", "&quot;") }}" />
     <meta property="og:description" content="{{ article.content | striptags | replace("\"", "&quot;") | truncate(124, False, '...') }}" />
-    <meta property="og:image" content="/blog/theme/images/opengraph-default.png" />
+    <meta property="og:image" content="https://in.pycon.org/blog/theme/images/opengraph-default.png" />
     {% else %}
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ SITEURL }}/{{ output_file }}" />
     <meta property="og:title" content="{{ SITENAME }}" />
     <meta property="og:description" content="{{ DESCRIPTION }}" />
-    <meta property="og:image" content="/blog/theme/images/opengraph-default.png" />
+    <meta property="og:image" content="https://in.pycon.org/blog/theme/images/opengraph-default.png" />
     {% endif %}
   </head>
 
