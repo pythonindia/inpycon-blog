@@ -1,10 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os
 
 AUTHOR = u'PyCon India Content Team'
 SITENAME = u'In PyCon Blog'
-SITEURL = '/blog'
+SITEURL = os.getenv('SITEURL', '')
+RELATIVE_URLS = True
 
 PATH = 'content'
 TIMEZONE = 'Asia/Kolkata'
