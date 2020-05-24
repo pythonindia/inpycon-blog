@@ -7,9 +7,9 @@
       {% block pagetitle %} PyCon India 2020 Online | October 2nd to 5th {% endblock %}
     </title>
     <meta content="width=device-width, initial-scale=1.0" name="Viewport"/>
-    <link rel="shortcut icon" href="/blog/theme/images/favicon.png"/>
-    <link rel="stylesheet" href="/blog/theme/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="/blog/theme/css/styles.css"/>
+    <link rel="shortcut icon" href="{{ SITEURL }}/theme/images/favicon.png"/>
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/styles.css"/>
   </head>
 
 <body>
@@ -25,10 +25,10 @@
           </button>
           <div class="web text-center">
             <a class="navbar-brand" href="/2020/">
-              <img src="/blog/theme/images/logosmall.png" alt="PyCon India 2020 Logo" width="100%"/>
+              <img src="{{ SITEURL }}/theme/images/logosmall.png" alt="PyCon India 2020 Logo" width="100%"/>
             </a>
             <a class="navbar-brand-1 " style="display: none" href="/2020/">
-              <img src="/blog/theme/images/logosmall.png" alt="PyCon India 2020 Logo" width="100%"/>
+              <img src="{{ SITEURL }}/theme/images/logosmall.png" alt="PyCon India 2020 Logo" width="100%"/>
             </a>
           </div>
         </div>
@@ -36,7 +36,7 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav main-menu">
             <li><a href="/2020/">Home</a></li>
-            <li class="current"><a href="/blog/">Blog</a></li>
+            <li class="current"><a href="{{ SITEURL }}/">Blog</a></li>
             <li><a href="/2020/coc.html">Code Of Conduct</a></li>
           </ul>
         </div>
@@ -55,20 +55,20 @@
 	<div class="col-md-3 text-center">
           <ul class="list-inline">
             <li><a target="_blank" href="https://www.facebook.com/PyConIndia/">
-		<img src="/blog/theme/images/fb.png" alt="Facebook"/>
+		<img src="{{ SITEURL }}/theme/images/fb.png" alt="Facebook"/>
 	    </a></li>
             <li><a target="_blank" href="https://twitter.com/pyconindia">
-		<img src="/blog/theme/images/tw.png" alt="Twitter"/>
+		<img src="{{ SITEURL }}/theme/images/tw.png" alt="Twitter"/>
 	    </a></li>
           </ul>
 	</div>
 	<div class="col-md-6 text-center">
-          <img src="/blog/theme/images/logosmall.png" alt="PyCon India 2019 Logo" width="70%"/>
+          <img src="{{ SITEURL }}/theme/images/logosmall.png" alt="PyCon India 2019 Logo" width="70%"/>
 	</div>
 	<div class="col-md-3 text-center">
           <p class="design-by">Design by</p>
           <a target="_blank" href="http://webchirpy.com">
-	    <img src="/blog/theme/images/wclogo.png" alt="Webchirpy Logo" width="40%"/>
+	    <img src="{{ SITEURL }}/theme/images/wclogo.png" alt="Webchirpy Logo" width="40%"/>
 	  </a>
 	</div>
       </div>
