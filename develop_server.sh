@@ -63,13 +63,11 @@ function start_up(){
   local port=$1
   echo "Starting up Pelican and HTTP server"
   shift
-  echo $PELICANOPTS
   $PELICAN --debug --autoreload -r $INPUTDIR -o $OUTPUTDIR -s $CONFFILE $PELICANOPTS &
   pelican_pid=$!
   echo $pelican_pid > $PELICAN_PID
-  mkdir $OUTPUTROOTDIR
-  cd $OUTPUTROOTDIR
-  python -m pelican.server $port
+  mkdir -p $OUTPUTROOTDIR && cd $OUTPUTROOTDIR
+  python -m pelican.server $port &
   srv_pid=$!
   echo $srv_pid > $SRV_PID
   cd $BASEDIR
@@ -82,6 +80,18 @@ function start_up(){
     return 1
   fi
   echo 'Pelican and HTTP server processes now running in background.'
+}
+
+function start_devserver(){
+  local port=$1
+  echo "Starting up Pelican and HTTP server"
+  echo "Hit Ctrl+C to stop server"
+  shift
+  $PELICAN --debug --autoreload -r $INPUTDIR -o $OUTPUTDIR -s $CONFFILE $PELICANOPTS &
+  pelican_pid=$!
+  mkdir -p $OUTPUTROOTDIR && cd $OUTPUTROOTDIR
+  python -m pelican.server $port
+  kill $pelican_pid
 }
 
 ###
@@ -100,6 +110,9 @@ elif [[ $1 == "start" ]]; then
   if ! start_up $port; then
     shut_down
   fi
+elif [[ $1 == "start_devserver" ]]; then
+  start_devserver $port
 else
   usage
 fi
+

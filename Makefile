@@ -45,6 +45,13 @@ endif
 
 devserver:
 ifdef PORT
+	$(BASEDIR)/develop_server.sh start_devserver $(PORT)
+else
+	$(BASEDIR)/develop_server.sh start_devserver 8000
+endif
+
+startserver:
+ifdef PORT
 	$(BASEDIR)/develop_server.sh restart $(PORT)
 else
 	$(BASEDIR)/develop_server.sh restart 8000
