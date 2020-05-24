@@ -8,6 +8,8 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
+PORT ?= 8000
+BIND ?= 127.0.0.1
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
@@ -44,16 +46,7 @@ else
 endif
 
 devserver:
-ifdef PORT
-	$(BASEDIR)/develop_server.sh restart $(PORT)
-else
-	$(BASEDIR)/develop_server.sh restart 8000
-endif
-
-stopserver:
-	kill -9 `cat pelican.pid`
-	kill -9 `cat srv.pid`
-	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
+	$(PELICAN) --listen --autoreload $(INPUTDIR) --settings $(CONFFILE) --port $(PORT) --bind $(BIND) $(PELICANOPTS)
 
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
