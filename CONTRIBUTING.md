@@ -24,7 +24,7 @@ We recommend creating a new branch for each feature task/bug since it makes easi
 
 ## Reviewing Issues and Pull Requests
 
-You're welcome to review issues and pull requests, provide feedback, and answer questions. Please remember to be friendly and respectful when commenting on issues or pull requests, and always follow our [Code of Conduct](https://in.pycon.org/2018/coc.html). It's okay for people to make mistakes and ask questions! 
+You're welcome to review issues and pull requests, provide feedback, and answer questions. Please remember to be friendly and respectful when commenting on issues or pull requests, and always follow our [Code of Conduct](https://in.pycon.org/2020/coc.html). It's okay for people to make mistakes and ask questions!
 
 
 ## How Can I Get Help?
@@ -45,4 +45,4 @@ If you are stuck or have some questions on an issue that you are working on, the
 
 
 
-The Contribution Guidelines have been based on CONTRIBUTING.md from the [2017 DjanoCon U.S. website repo](https://github.com/djangocon/2017.djangocon.us) 
+The Contribution Guidelines have been based on CONTRIBUTING.md from the [2017 DjanoCon U.S. website repo](https://github.com/djangocon/2017.djangocon.us)
