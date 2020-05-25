@@ -5,14 +5,14 @@ PyCon India Blog (https://in.pycon.org/blog/)
 
 ## Getting Started
 
-Run the following commands in a virtualenv:
+Run the following commands in a `virtualenv`:
 
 ```
 $ pip install -r requirements.txt
-$ ./develop_server.sh start
+$ make serve
 ```
 
-The contents should be visible at [http://localhost:8000/blog/](http://localhost:8000/blog/)
+The contents should be visible at [http://localhost:8000/](http://localhost:8000/)
 
 ## Want to Contribute?
 
@@ -36,4 +36,4 @@ We are happy to introduce our Titanium sponsor **X**! This is also the summary l
 Blog content goes here in the following lines.
 ```
 
-For more details look up, https://docs.getpelican.com/en/4.2.0/content.html
+For more details look up, https://docs.getpelican.com/en/stable/content.html
