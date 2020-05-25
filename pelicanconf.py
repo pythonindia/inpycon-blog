@@ -14,10 +14,10 @@ TIMEZONE = 'Asia/Kolkata'
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
-FEED_DOMAIN = None
+FEED_DOMAIN = SITEURL or None
 FEED_ALL_RSS = None
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
+FEED_ALL_ATOM = os.getenv('FEED_ALL_ATOM', None) or None
+CATEGORY_FEED_ATOM = os.getenv('CATEGORY_FEED_ATOM', None) or None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
