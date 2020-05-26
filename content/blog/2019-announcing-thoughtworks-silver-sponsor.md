@@ -8,7 +8,7 @@ We are happy to introduce our Silver sponsor **ThoughtWorks**!
 <br>
 <div class="text-center">
   <a href="https://thght.works/2O8u6n8" target="_blank">
-    <img src="{filename}/images/sponsors/thoughtworks.png" alt="ThoughtWorks">
+    <img src="{static}/images/sponsors/thoughtworks.png" alt="ThoughtWorks">
   </a>
 </div>
 <br>
