@@ -8,7 +8,7 @@ We are happy to introduce our Gold sponsor **Mad Street Den**!
 <br>
 <div class="text-center">
   <a href="https://www.madstreetden.com/" target="_blank">
-    <img src="{filename}/images/sponsors/madstreetden.png" alt="Mad Street Den">
+    <img src="{static}/images/sponsors/madstreetden.png" alt="Mad Street Den">
   </a>
 </div>
 <br>
