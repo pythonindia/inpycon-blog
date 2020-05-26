@@ -8,7 +8,7 @@ We are happy to introduce our Associate sponsor **Real Python**!
 <br>
 <div class="text-center">
   <a href="https://realpython.com" target="_blank">
-    <img src="{filename}/images/sponsors/realpython.png" alt="Real Python">
+    <img src="{static}/images/sponsors/realpython.png" alt="Real Python">
   </a>
 </div>
 <br>
