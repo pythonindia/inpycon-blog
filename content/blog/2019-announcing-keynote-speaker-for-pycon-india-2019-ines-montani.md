@@ -13,7 +13,7 @@ and Prodigy, an annotation tool for radically efficient machine teaching.
 
 <br>
 
-![Ines Montani]({filename}/images/ines.jpg)
+![Ines Montani]({static}/images/ines.jpg)
 
 <br>
 
