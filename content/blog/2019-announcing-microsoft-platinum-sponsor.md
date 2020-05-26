@@ -8,7 +8,7 @@ We are happy to introduce our Platinum sponsor **Microsoft**!
 <br>
 <div class="text-center">
   <a href="https://docs.microsoft.com/en-us/azure/python/" target="_blank">
-    <img src="{filename}/images/sponsors/microsoft.png" alt="Microsoft">
+    <img src="{static}/images/sponsors/microsoft.png" alt="Microsoft">
   </a>
 </div>
 <br>
