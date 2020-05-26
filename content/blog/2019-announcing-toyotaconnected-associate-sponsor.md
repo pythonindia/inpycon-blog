@@ -8,7 +8,7 @@ We are happy to introduce our Associate sponsor **Toyota Connected**!
 <br>
 <div class="text-center">
   <a href="https://www.toyotaconnected.co.in" target="_blank">
-    <img src="{filename}/images/sponsors/toyota.jpg" alt="Toyota Connected">
+    <img src="{static}/images/sponsors/toyota.jpg" alt="Toyota Connected">
   </a>
 </div>
 <br>
