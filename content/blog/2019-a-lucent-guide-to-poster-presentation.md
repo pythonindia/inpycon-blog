@@ -27,7 +27,7 @@ enlarge.
        	    width="230" style="margin: 5px">
     </a>
 
-    <a href="{filename}/images/posters/pysangamam_2018_3.jpg">
+    <a href="{static}/images/posters/pysangamam_2018_3.jpg">
        <img src="{static}/images/posters/pysangamam_2018_3.jpg" alt="PySangamam 2018"
        	    width="230" style="margin: 5px">
     </a>
