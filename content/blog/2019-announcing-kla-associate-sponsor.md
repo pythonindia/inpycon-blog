@@ -8,7 +8,7 @@ We are happy to introduce our Associate sponsor **KLA**!
 <br>
 <div class="text-center">
   <a href="https://www.kla.com/" target="_blank">
-    <img src="{filename}/images/sponsors/kla.png" alt="KLA">
+    <img src="{static}/images/sponsors/kla.png" alt="KLA">
   </a>
 </div>
 <br>
