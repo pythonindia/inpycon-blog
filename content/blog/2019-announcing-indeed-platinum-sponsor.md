@@ -8,7 +8,7 @@ We are happy to introduce our Platinum sponsor **Indeed**!
 <br>
 <div class="text-center">
   <a href="https://www.indeed.jobs" target="_blank">
-    <img src="{filename}/images/sponsors/indeed.png" alt="Indeed">
+    <img src="{static}/images/sponsors/indeed.png" alt="Indeed">
   </a>
 </div>
 <br>
