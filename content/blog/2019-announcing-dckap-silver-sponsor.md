@@ -8,7 +8,7 @@ We are happy to introduce our Silver sponsor **DCKAP**!
 <br>
 <div class="text-center">
   <a href="https://www.dckap.com/" target="_blank">
-    <img src="{filename}/images/sponsors/dckap.png" alt="DCKAP">
+    <img src="{static}/images/sponsors/dckap.png" alt="DCKAP">
   </a>
 </div>
 <br>
