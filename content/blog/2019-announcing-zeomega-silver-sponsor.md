@@ -8,7 +8,7 @@ We are happy to introduce our Silver sponsor **ZeOmega**!
 <br>
 <div class="text-center">
   <a href="http://www.zeomega.com/" target="_blank">
-    <img src="{filename}/images/sponsors/zeomega.png" alt="ZeOmega">
+    <img src="{static}/images/sponsors/zeomega.png" alt="ZeOmega">
   </a>
 </div>
 <br>
