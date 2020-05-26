@@ -15,7 +15,7 @@ been involved with Python since 1996.
 
 <br>
 
-![David Beazley]({filename}/images/david-beazley.jpg)
+![David Beazley]({static}/images/david-beazley.jpg)
 
 <br>
 
