@@ -8,7 +8,7 @@ We are happy to introduce our Associate sponsor **cppsecrets.com**!
 <br>
 <div class="text-center">
   <a href="https://cppsecrets.com" target="_blank">
-    <img src="{filename}/images/sponsors/cppsecrets.png" alt="cppsecrets.com">
+    <img src="{static}/images/sponsors/cppsecrets.png" alt="cppsecrets.com">
   </a>
 </div>
 <br>
