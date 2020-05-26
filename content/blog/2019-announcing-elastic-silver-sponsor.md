@@ -8,7 +8,7 @@ We are happy to introduce our Silver sponsor **Elastic**!
 <br>
 <div class="text-center">
   <a href="https://www.elastic.co/" target="_blank">
-    <img src="{filename}/images/sponsors/elastic.png" alt="Elastic">
+    <img src="{static}/images/sponsors/elastic.png" alt="Elastic">
   </a>
 </div>
 <br>
