@@ -8,7 +8,7 @@ We are really excited to announce **Van Lindberg** as our third Keynote Speaker 
 
 ### Van Lindberg
 
-![Van Lindberg]({filename}/images/2016-van.jpg)
+![Van Lindberg]({static}/images/2016-van.jpg)
 
 [Van Lindberg](https://twitter.com/vanl) is an engineer, IP and open source lawyer, and part-time natural language hacker. 
 
