@@ -8,7 +8,7 @@ We are happy to introduce our Silver sponsor **Pramati Technologies**!
 <br>
 <div class="text-center">
   <a href="https://www.pramati.com" target="_blank">
-    <img src="{filename}/images/sponsors/pramati.png" alt="Pramati Technologies">
+    <img src="{static}/images/sponsors/pramati.png" alt="Pramati Technologies">
   </a>
 </div>
 <br>
