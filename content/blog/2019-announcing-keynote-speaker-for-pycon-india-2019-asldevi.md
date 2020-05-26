@@ -21,7 +21,7 @@ inception, as a volunteer and a speaker.
 
 <br>
 
-![Devi A S L]({filename}/images/asldevi.jpg)
+![Devi A S L]({static}/images/asldevi.jpg)
 
 <br>
 
