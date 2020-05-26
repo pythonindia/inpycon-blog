@@ -8,7 +8,7 @@ We are happy to introduce our Gold sponsor **JetBrains**!
 <br>
 <div class="text-center">
   <a href="https://www.jetbrains.com/" target="_blank">
-    <img src="{filename}/images/sponsors/jetbrains.png" alt="JetBrains">
+    <img src="{static}/images/sponsors/jetbrains.png" alt="JetBrains">
   </a>
 </div>
 <br>
