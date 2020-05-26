@@ -5,7 +5,7 @@ Slug: announcing-go-jek-as-platinum-sponsor
 
 <p class="text-center">
 	<a href="https://www.go-jek.com/" target="_blank">
-		<img src="/blog/images/go-jek-logo.png" alt="Go-Jek" height="200"/>
+		<img src="/content/images/go-jek-logo.png" alt="Go-Jek" height="200"/>
 	</a>
 </p>
 
