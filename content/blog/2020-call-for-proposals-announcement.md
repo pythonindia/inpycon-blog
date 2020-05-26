@@ -4,7 +4,7 @@ Author: Vipul Gupta (@vipulgupta2048)
 Category: 2020
 Slug: 2020-call-for-proposals-announcement
 
-That time is upon us again, folks. PyCon India is back, it's online and the [call for proposals](https://in.pycon.org/cfp/2020/proposals/) has officially opened! 2020 is just about to become better!
+That time is upon us again, folks. PyCon India is back, it's online and the [call for proposals](https://in.pycon.org/cfp/2020/proposals/) has officially opened!
 
 <!-- PELICAN_END_SUMMARY -->
 <div class="text-center">
@@ -39,24 +39,31 @@ Read the [call for proposals editorial](https://in.pycon.org/cfp/2020/proposals/
 ## Guidelines for creating Preview Video
 
 With PyCon India 2020 being online this year, we are introducing preview videos to our proposal submission workflow. **Preview videos** are you talking about your proposal, topics you intend to cover in the talk, and how you intend to cover them. Participants are strongly suggested to upload links of their preview videos while submitting their proposals. It will be immensely helpful for reviewers to go through preview videos and take that into account before making final decisions on your talk proposal. Please keep in mind to strictly follow all guidelines for creating your video preview as mentioned below:-  
+
   
-**Duration & orientation**  
+1. **Duration & orientation**  
 A 1-3 minute video to be recorded, preferably in portrait mode.
 
-**Upload to YouTube**  
+
+2. **Upload to YouTube**  
 The video has to be uploaded on Youtube. If you don’t want other people to find it, mark it as unlisted. Don’t mark it as private or disallow embedding, or we won’t be able to see it. ​
 
-**Only you talking about your talk**  
+
+3. **Only you talking about your talk**  
 The video should contain nothing except you talking about your talk.​ Try to make a video that holds our attention and helps us understand more deeply about what's your talk is all about.
 
-**No effects & No Music**  
+
+4. **No effects & No Music**  
 Please do not add any background music to your video. ​No screenshots or postproduction wizardry please; we don’t want this to turn into a video making contest. If you’re going to spend time making something cool, put that into your slides & proposal instead.
 
-**No Script**  
+
+5. **No Script**  
 Please do not recite a script written beforehand. Just talk spontaneously as you would to a friend. People delivering memorized speeches (or worse still, reading text off the screen) usually come off as dull and uninspiring. Think of this as fun activity and let your heart do the talking. Be vanilla!
 
-**Check Audio**  
+
+6. **Check Audio**  
 Try to keep your voice clear and check that its being recorded properly. Make sure there isn't any background noise. Try to record this in an empty room if possible without much going on in the background.
+
 
 ## Have any more questions? We are here to help!
 

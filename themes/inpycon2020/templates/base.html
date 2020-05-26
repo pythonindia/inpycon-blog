@@ -7,9 +7,22 @@
       {% block pagetitle %} PyCon India 2020 Online | October 2nd to 5th {% endblock %}
     </title>
     <meta content="width=device-width, initial-scale=1.0" name="Viewport"/>
-    <link rel="shortcut icon" href="{{ SITEURL }}/theme/images/favicon.png"/>
-    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/styles.css"/>
+    <link rel="shortcut icon" href="/blog/theme/images/favicon.png"/>
+    <link rel="stylesheet" href="/blog/theme/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="/blog/theme/css/styles.css"/>
+    {% if article is defined %}
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
+    <meta property="og:title" content="{{ article.title | replace("\"", "&quot;") }}" />
+    <meta property="og:description" content="{{ article.content | striptags | replace("\"", "&quot;") | truncate(124, False, '...') }}" />
+    <meta property="og:image" content="https://in.pycon.org/blog/theme/images/opengraph-default.png" />
+    {% else %}
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ SITEURL }}/{{ output_file }}" />
+    <meta property="og:title" content="{{ SITENAME }}" />
+    <meta property="og:description" content="{{ DESCRIPTION }}" />
+    <meta property="og:image" content="https://in.pycon.org/blog/theme/images/opengraph-default.png" />
+    {% endif %}
   </head>
 
 <body>

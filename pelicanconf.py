@@ -8,10 +8,7 @@ SITENAME = u'In PyCon Blog'
 SITEURL = os.getenv('SITEURL', '')
 RELATIVE_URLS = True
 
-PATH = 'content'
-TIMEZONE = 'Asia/Kolkata'
-
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = "en"
 
 # Feed generation is usually not desired when developing
 FEED_DOMAIN = SITEURL or None
@@ -22,19 +19,18 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-ARTICLE_PATHS = ['blog']
-THEME = 'themes/inpycon2020'
+ARTICLE_PATHS = ["blog"]
+THEME = "themes/inpycon2020"
 
 # Blogroll
-LINKS = (('InPyCon', 'https://in.pycon.org/'),
-         ('PSSI', 'http://pssi.org.in/'),)
+LINKS = (("InPyCon", "https://in.pycon.org/"), ("PSSI", "http://pssi.org.in/"))
 
-ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
-ARTICLE_URL = '{date:%Y}/{slug}.html'
+ARTICLE_SAVE_AS = "{date:%Y}/{slug}.html"
+ARTICLE_URL = "{date:%Y}/{slug}.html"
 
 CATEGORY_SAVE_AS = ''
 
-YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/index.html'
+YEAR_ARCHIVE_SAVE_AS = "{date:%Y}/index.html"
 
 PLUGIN_PATHS = ["./plugins/"]
 PLUGINS = ["summary"]
@@ -55,8 +51,6 @@ SUMMARY_MAX_LENGTH = None
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-STATIC_PATHS = ['images', '_redirects']
-USE_SHORTCUT_ICONS=True
-EXTRA_PATH_METADATA = {
-    'images/favicon.png': {'path': 'favicon.png'}
-}
+STATIC_PATHS = ["images", "_redirects"]
+USE_SHORTCUT_ICONS = True
+EXTRA_PATH_METADATA = {"images/favicon.png": {"path": "favicon.png"}}
