@@ -8,7 +8,7 @@ We are happy to introduce our Associate sponsor **Zilogic Systems**!
 <br>
 <div class="text-center">
   <a href="http://www.zilogic.com" target="_blank">
-    <img src="{filename}/images/sponsors/zilogic.png" alt="Zilogic Systems">
+    <img src="{static}/images/sponsors/zilogic.png" alt="Zilogic Systems">
   </a>
 </div>
 <br>
