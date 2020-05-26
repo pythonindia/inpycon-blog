@@ -8,7 +8,7 @@ We are happy to introduce our Gold sponsor **Merit**!
 <br>
 <div class="text-center">
   <a href="https://www.meritgroup.co.uk/" target="_blank">
-    <img src="{filename}/images/sponsors/merit.png" alt="Merit Group">
+    <img src="{static}/images/sponsors/merit.png" alt="Merit Group">
   </a>
 </div>
 <br>
