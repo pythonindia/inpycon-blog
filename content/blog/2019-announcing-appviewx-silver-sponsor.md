@@ -8,7 +8,7 @@ We are happy to introduce our Silver sponsor **AppViewX**!
 <br>
 <div class="text-center">
   <a href="https://www.appviewx.com" target="_blank">
-    <img src="{filename}/images/sponsors/appviewx.png" alt="AppViewX">
+    <img src="{static}/images/sponsors/appviewx.png" alt="AppViewX">
   </a>
 </div>
 <br>
