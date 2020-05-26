@@ -8,7 +8,7 @@ We are happy to introduce our Associate sponsor **Grofers**!
 <br>
 <div class="text-center">
   <a href="http://grofers.careers/tech" target="_blank">
-    <img src="{filename}/images/sponsors/grofers.png" alt="Grofers">
+    <img src="{static}/images/sponsors/grofers.png" alt="Grofers">
   </a>
 </div>
 <br>
