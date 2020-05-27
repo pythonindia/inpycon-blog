@@ -8,7 +8,7 @@ We are happy to introduce our Associate sponsor **AirAsia**!
 <br>
 <div class="text-center">
   <a href="https://www.airasia.com" target="_blank">
-    <img src="{static}/images/sponsors/airasia.png" alt="AirAsia">
+    <img src="{filename}/images/sponsors/airasia.png" alt="AirAsia">
   </a>
 </div>
 <br>
