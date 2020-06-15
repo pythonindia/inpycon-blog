@@ -8,7 +8,7 @@ We are happy to introduce our Platinum sponsor **AQR Capital India Services LLP*
 <br>
 <div class="text-center">
   <a href="https://www.aqr.com/" target="_blank">
-    <img src="{filename}/images/sponsors/aqr.jpg" alt="AQR">
+    <img src="{static}/images/sponsors/aqr.jpg" alt="AQR">
   </a>
 </div>
 <br>

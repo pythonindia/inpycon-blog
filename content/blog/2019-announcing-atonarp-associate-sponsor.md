@@ -8,7 +8,7 @@ We are happy to introduce our Associate sponsor **ATONARP**!
 <br>
 <div class="text-center">
   <a href="https://www.atonarp.com" target="_blank">
-    <img src="{filename}/images/sponsors/atonarp.png" alt="ATONARP">
+    <img src="{static}/images/sponsors/atonarp.png" alt="ATONARP">
   </a>
 </div>
 <br>

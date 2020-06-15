@@ -31,6 +31,6 @@ Aroma Rodrigues is an alumnus of National Institute of Technology Warangal and i
 
 Lack of inclusion, diversity are not just societal problems, they are also technology problems. The fact that we, being women, are technologists today would also mean that we are one of the privileged few in this world, at least for our gender. Empowering the rest can also be a technology-based problem statement. I've been given this platform, and I feel blessed to have it, looking forward to sharing it with y'all in the near future.
 
-![Aroma with Dr. Charles at PyCon India 2018]({filename}/images/pyladies_aroma.jpg)
+![Aroma with Dr. Charles at PyCon India 2018]({static}/images/pyladies_aroma.jpg)
 
 The vision of PyCon India 2019 is to create an inclusive environment that promotes knowledge sharing and diversity in thoughts and ideas. If you're interested to attend, give a talk/workshop or present a poster at PyCon India 2019, please visit: [in.pycon.org](https://in.pycon.org/) 

@@ -16,7 +16,7 @@ visualization tools, particularly the Altair and Vega-Lite libraries.
 
 <br>
 
-![Jake VanderPlas]({filename}/images/jake-vanderplas.jpg)
+![Jake VanderPlas]({static}/images/jake-vanderplas.jpg)
 
 <br>
 

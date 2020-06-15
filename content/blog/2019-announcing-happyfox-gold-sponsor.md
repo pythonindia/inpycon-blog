@@ -8,7 +8,7 @@ We are happy to introduce our Gold sponsor <a href="https://happyfox.com" target
 <br>
 <div class="text-center">
   <a href="https://happyfox.com" target="_blank">
-    <img src="{filename}/images/sponsors/happyfox.png" alt="HappyFox">
+    <img src="{static}/images/sponsors/happyfox.png" alt="HappyFox">
   </a>
 </div>
 <br>

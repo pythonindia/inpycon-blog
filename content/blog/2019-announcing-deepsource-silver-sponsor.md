@@ -8,7 +8,7 @@ We are happy to introduce our Silver sponsor **DeepSource**!
 <br>
 <div class="text-center">
   <a href="https://deepsource.io" target="_blank">
-    <img src="{filename}/images/sponsors/deepsource.png" alt="DeepSource">
+    <img src="{static}/images/sponsors/deepsource.png" alt="DeepSource">
   </a>
 </div>
 <br>

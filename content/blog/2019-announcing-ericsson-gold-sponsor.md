@@ -8,7 +8,7 @@ We are happy to introduce our Gold sponsor **Ericsson**!
 <br>
 <div class="text-center">
   <a href="https://www.ericsson.com" target="_blank">
-    <img src="{filename}/images/sponsors/ericsson.png" alt="Ericsson">
+    <img src="{static}/images/sponsors/ericsson.png" alt="Ericsson">
   </a>
 </div>
 <br>

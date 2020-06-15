@@ -8,7 +8,7 @@ We are happy to introduce our Silver sponsor **Red Hat**!
 <br>
 <div class="text-center">
   <a href="https://www.redhat.com/en/global/india" target="_blank">
-    <img src="{filename}/images/sponsors/redhat.png" alt="Red Hat">
+    <img src="{static}/images/sponsors/redhat.png" alt="Red Hat">
   </a>
 </div>
 <br>

@@ -8,7 +8,7 @@ We are happy to introduce our in-kind sponsor **Sticker Mule**!
 <br>
 <div class="text-center">
   <a href="https://www.stickermule.com/supports/pyconindia19" target="_blank">
-    <img src="{filename}/images/sponsors/stickermule.png" alt="Sticker Mule">
+    <img src="{static}/images/sponsors/stickermule.png" alt="Sticker Mule">
   </a>
 </div>
 <br>

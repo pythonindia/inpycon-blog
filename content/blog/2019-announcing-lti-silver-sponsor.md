@@ -8,7 +8,7 @@ We are happy to introduce our Silver sponsor **Larsen and Toubro Infotech**!
 <br>
 <div class="text-center">
   <a href="https://www.lntinfotech.com" target="_blank">
-    <img src="{filename}/images/sponsors/lti.png" alt="Larsen and Toubro Infotech">
+    <img src="{static}/images/sponsors/lti.png" alt="Larsen and Toubro Infotech">
   </a>
 </div>
 <br>

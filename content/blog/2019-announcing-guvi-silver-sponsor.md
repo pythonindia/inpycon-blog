@@ -8,7 +8,7 @@ We are happy to introduce our Silver sponsor **GUVI**!
 <br>
 <div class="text-center">
   <a href="https://www.guvi.in" target="_blank">
-    <img src="{filename}/images/sponsors/guvi.png" alt="GUVI">
+    <img src="{static}/images/sponsors/guvi.png" alt="GUVI">
   </a>
 </div>
 <br>

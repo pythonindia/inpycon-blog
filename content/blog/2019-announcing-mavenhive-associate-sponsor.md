@@ -8,7 +8,7 @@ We are happy to introduce our Associate sponsor **MavenHive**!
 <br>
 <div class="text-center">
   <a href="https://www.mavenhive.in/" target="_blank">
-    <img src="{filename}/images/sponsors/mavenhive.png" alt="MavenHive">
+    <img src="{static}/images/sponsors/mavenhive.png" alt="MavenHive">
   </a>
 </div>
 <br>

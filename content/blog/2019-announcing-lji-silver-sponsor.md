@@ -8,7 +8,7 @@ We are happy to introduce our Silver sponsor **Loyalty Juggernaut**!
 <br>
 <div class="text-center">
   <a href="https://lji.io" target="_blank">
-    <img src="{filename}/images/sponsors/lji.png" alt="Loyalty Juggernaut">
+    <img src="{static}/images/sponsors/lji.png" alt="Loyalty Juggernaut">
   </a>
 </div>
 <br>

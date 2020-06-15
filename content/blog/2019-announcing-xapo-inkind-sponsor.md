@@ -8,7 +8,7 @@ We are happy to introduce our InKind sponsor **Xapo**!
 <br>
 <div class="text-center">
   <a href="https://www.xapo.com/" target="_blank">
-    <img src="{filename}/images/sponsors/xapo.png" alt="Xapo">
+    <img src="{static}/images/sponsors/xapo.png" alt="Xapo">
   </a>
 </div>
 <br>

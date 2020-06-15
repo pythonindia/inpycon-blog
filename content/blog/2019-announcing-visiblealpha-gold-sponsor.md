@@ -8,7 +8,7 @@ We are happy to introduce our Gold sponsor **Visible Alpha**!
 <br>
 <div class="text-center">
   <a href="https://visiblealpha.com/" target="_blank">
-    <img src="{filename}/images/sponsors/visiblealpha.png" alt="Visible Alpha">
+    <img src="{static}/images/sponsors/visiblealpha.png" alt="Visible Alpha">
   </a>
 </div>
 <br>

@@ -8,7 +8,7 @@ We are happy to introduce our Associate sponsor **Instazen**!
 <br>
 <div class="text-center">
   <a href="http://instazen.com" target="_blank">
-    <img src="{filename}/images/sponsors/instazen.png" alt="Instazen">
+    <img src="{static}/images/sponsors/instazen.png" alt="Instazen">
   </a>
 </div>
 <br>

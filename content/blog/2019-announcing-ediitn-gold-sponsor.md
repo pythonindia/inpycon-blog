@@ -8,7 +8,7 @@ We are happy to introduce our Gold sponsor **EDII-TN**!
 <br>
 <div class="text-center">
   <a href="https://editn.in/" target="_blank">
-    <img src="{filename}/images/sponsors/ediitn.png" alt="EDII-TN">
+    <img src="{static}/images/sponsors/ediitn.png" alt="EDII-TN">
   </a>
 </div>
 <br>

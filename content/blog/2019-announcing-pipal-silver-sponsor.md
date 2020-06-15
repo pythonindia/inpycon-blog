@@ -8,7 +8,7 @@ We are happy to introduce our Silver sponsor **Pipal Academy**!
 <br>
 <div class="text-center">
   <a href="https://pipal.in/" target="_blank">
-    <img src="{filename}/images/sponsors/pipal.jpg" alt="Pipal Academy">
+    <img src="{static}/images/sponsors/pipal.jpg" alt="Pipal Academy">
   </a>
 </div>
 <br>

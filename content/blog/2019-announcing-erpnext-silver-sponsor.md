@@ -8,7 +8,7 @@ We are happy to introduce our Silver sponsor **ERPNext Foundation**!
 <br>
 <div class="text-center">
   <a href="https://erpnext.org/" target="_blank">
-    <img src="{filename}/images/sponsors/erpnext.png" alt="ERPNext Foundation">
+    <img src="{static}/images/sponsors/erpnext.png" alt="ERPNext Foundation">
   </a>
 </div>
 <br>

@@ -8,7 +8,7 @@ We are happy to introduce our Gold sponsor **Amazon Web Services**!
 <br>
 <div class="text-center">
   <a href="https://aws.amazon.com" target="_blank">
-    <img src="{filename}/images/sponsors/aws.png" alt="Amazon Web Services">
+    <img src="{static}/images/sponsors/aws.png" alt="Amazon Web Services">
   </a>
 </div>
 <br>

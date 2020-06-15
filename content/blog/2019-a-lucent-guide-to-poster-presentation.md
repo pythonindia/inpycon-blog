@@ -17,18 +17,18 @@ give you a better idea of the poster session. Click on the image to
 enlarge.
 
 <div class="text-center">
-    <a href="{filename}/images/posters/pysangamam_2018_1.jpg">
-       <img src="{filename}/images/posters/pysangamam_2018_1.jpg" alt="PySangamam 2018"
+    <a href="{static}/images/posters/pysangamam_2018_1.jpg">
+       <img src="{static}/images/posters/pysangamam_2018_1.jpg" alt="PySangamam 2018"
        	    width="230" style="margin: 5px">
     </a>
 
-    <a href="{filename}/images/posters/pysangamam_2018_2.jpg">
-       <img src="{filename}/images/posters/pysangamam_2018_2.jpg" alt="PySangamam 2018"
+    <a href="{static}/images/posters/pysangamam_2018_2.jpg">
+       <img src="{static}/images/posters/pysangamam_2018_2.jpg" alt="PySangamam 2018"
        	    width="230" style="margin: 5px">
     </a>
 
-    <a href="{filename}/images/posters/pysangamam_2018_3.jpg">
-       <img src="{filename}/images/posters/pysangamam_2018_3.jpg" alt="PySangamam 2018"
+    <a href="{static}/images/posters/pysangamam_2018_3.jpg">
+       <img src="{static}/images/posters/pysangamam_2018_3.jpg" alt="PySangamam 2018"
        	    width="230" style="margin: 5px">
     </a>
 </div>
@@ -37,7 +37,7 @@ enlarge.
 ### Why do a poster presentation at PyCon India?
 
 <div class="text-center">
-    <img src="{filename}/images/posters/why_poster.png" alt="Why do a Poster" style="max-height: 500px">
+    <img src="{static}/images/posters/why_poster.png" alt="Why do a Poster" style="max-height: 500px">
 </div>
 <br>
 
@@ -46,7 +46,7 @@ Now, let’s get into the actual process – The Preparation.
 ### How to prepare a Poster?
 
 <div class="text-center">
-    <img src="{filename}/images/posters/poster_guide.png" alt="Steps to prepare a poster presentation" style="max-height: 500px">
+    <img src="{static}/images/posters/poster_guide.png" alt="Steps to prepare a poster presentation" style="max-height: 500px">
 </div>
 <br>
 

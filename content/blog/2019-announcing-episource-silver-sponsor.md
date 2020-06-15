@@ -8,7 +8,7 @@ We are happy to introduce our Silver sponsor **Episource**!
 <br>
 <div class="text-center">
   <a href="https://www.episource.com" target="_blank">
-    <img src="{filename}/images/sponsors/episource.png" alt="Episource">
+    <img src="{static}/images/sponsors/episource.png" alt="Episource">
   </a>
 </div>
 <br>

@@ -8,7 +8,7 @@ We are happy to introduce our Gold sponsor **Innovaccer**!
 <br>
 <div class="text-center">
   <a href="https://www.innovaccer.com/" target="_blank">
-    <img src="{filename}/images/sponsors/innovaccer.png" alt="Innovaccer">
+    <img src="{static}/images/sponsors/innovaccer.png" alt="Innovaccer">
   </a>
 </div>
 <br>

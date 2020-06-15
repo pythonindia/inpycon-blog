@@ -5,7 +5,7 @@ Slug: announcing-oyo-rooms-as-accomodation-partner
 
 <p class="text-center">
 	<a href="https://www.oyorooms.com/" target="_blank">
-		<img src="/blog/images/OYO_Logo-1024x370.png" alt="OYO Rooms" height="200"/>
+		<img src="/content/images/OYO_Logo-1024x370.png" alt="OYO Rooms" height="200"/>
 	</a>
 </p>
 

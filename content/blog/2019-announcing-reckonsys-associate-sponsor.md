@@ -8,7 +8,7 @@ We are happy to introduce our Associate sponsor **Reckonsys**!
 <br>
 <div class="text-center">
   <a href="https://www.reckonsys.com/" target="_blank">
-    <img src="{filename}/images/sponsors/reckonsys.png" alt="Reckonsys">
+    <img src="{static}/images/sponsors/reckonsys.png" alt="Reckonsys">
   </a>
 </div>
 <br>

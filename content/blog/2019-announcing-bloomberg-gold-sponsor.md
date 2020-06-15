@@ -8,7 +8,7 @@ We are happy to introduce our Gold sponsor **Bloomberg**!
 <br>
 <div class="text-center">
   <a href="https://www.techatbloomberg.com/" target="_blank">
-    <img src="{filename}/images/sponsors/bloomberg.png" alt="Bloomberg">
+    <img src="{static}/images/sponsors/bloomberg.png" alt="Bloomberg">
   </a>
 </div>
 <br>
