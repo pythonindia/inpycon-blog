@@ -26,9 +26,9 @@ When submitting a proposal for a workshop, you would need to fill the following 
 Give your workshop a name that accurately describes the workshop's focus in regards to potential attendees.
 
 
-### Desription
+### Description
 
-A brief description of the workshop. Provide as much detail as you can guiding us through your plans for the workshop. One can provide a rough timeline if possible to explain it better.
+A brief description of the workshop. Provide as much detail as you can to guide us through your plans for the workshop. One can provide a rough timeline if possible to explain it better.
 
 
 ### Audience Level
@@ -50,7 +50,7 @@ With PyCon India 2020 being online this year, we are introducing preview videos 
 
 You'll be asked to enter your biography and the information will be made public. Here, you may wish to include more information for reviewers to complement information about your previous experience. This can include your subject matter experience, past workshops if any, past speaking events if any, or anything else that would help us understand and gauge your abilities as a workshop presenter. A link to a video would be ideal (to be added in speaker URLs)
 
-In the end, we would like to mention workshop selection process attempts to choose a good variety of workshop topics and levels that will be in demand, i.e., it doesn't just select the best proposals! The selection process has also tended to prefer Python-related topics over more general software development tools or practices that aren't Python-specific.
+In the end, we would like to mention the workshop selection process attempts to choose a good variety of workshop topics and levels that will be in demand, i.e., it doesn't just select the best proposals! The selection process has also tended to prefer Python-related topics over more general software development tools or practices that aren't Python-specific.
 
 
 ## Where to submit your proposal
