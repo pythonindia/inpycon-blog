@@ -7,9 +7,9 @@
       {% block pagetitle %} PyCon India 2020 Online | October 2nd to 5th {% endblock %}
     </title>
     <meta content="width=device-width, initial-scale=1.0" name="Viewport"/>
-    <link rel="shortcut icon" href="/blog/theme/images/favicon.png"/>
-    <link rel="stylesheet" href="/blog/theme/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="/blog/theme/css/styles.css"/>
+    <link rel="shortcut icon" href="{{ SITEURL }}/theme/images/favicon.png"/>
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/styles.css"/>
     {% if article is defined %}
     <meta property="og:type" content="article" />
     <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
