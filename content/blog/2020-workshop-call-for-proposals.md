@@ -55,7 +55,7 @@ In the end, we would like to mention the workshop selection process attempts to 
 
 ## Where to submit your proposal
 
-Read the [call for proposals editorial](https://in.pycon.org/cfp/2020/proposals/) for more information on writing proposals. Next, start with drafting your proposal in the [**New Proposal**](https://in.pycon.org/cfp/2020/proposals/create/) page after signing up for an account.
+Read the [call for proposals editorial](https://in.pycon.org/cfp/2020/proposals/) for more information on writing proposals. Next, start with drafting your proposal in the [**New Proposal**](https://in.pycon.org/cfp/2020/proposals/create/) page after signing up for an account. Before submitting the proposal, do make sure that the `Proposal type` is seleceted as **`Workshop`** from the Proposal type dropdown.
 
 <div class="text-center">
   <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif">
