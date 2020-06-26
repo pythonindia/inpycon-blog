@@ -1,4 +1,4 @@
-Title: Tips on writing a kickass workshop proposal for PyCon India.
+Title: Tips on writing a kickass workshop proposal for PyCon India
 Date: 2020-06-22 10:00
 Author: Vipul Gupta (@vipulgupta2048)
 Category: 2020
@@ -28,7 +28,7 @@ Give your workshop a name that accurately describes the workshop's focus in rega
 
 ### Description
 
-A brief description of the workshop. Provide as much detail as you can to guide us through your plans for the workshop. One can provide a rough timeline if possible to explain it better.
+A brief description of the workshop is needed here. Do provide as much detail as you can to guide us through your plans for the workshop. The workshop duration is needed to be 2.5 hours. Hence, a rough timeline detailing how you will be spending time explaining the concept would be a great idea to start with. 
 
 
 ### Audience Level
@@ -55,7 +55,9 @@ In the end, we would like to mention the workshop selection process attempts to 
 
 ## Where to submit your proposal
 
-Read the [call for proposals editorial](https://in.pycon.org/cfp/2020/proposals/) for more information on writing proposals. Next, start with drafting your proposal in the [**New Proposal**](https://in.pycon.org/cfp/2020/proposals/create/) page after signing up for an account. Before submitting the proposal, do make sure that the `Proposal type` is seleceted as **`Workshop`** from the Proposal type dropdown.
+1. Read the [call for proposals editorial](https://in.pycon.org/cfp/2020/proposals/) for more information on writing proposals. 
+2. Next, start with drafting your proposal in the [**New Proposal**](https://in.pycon.org/cfp/2020/proposals/create/) page after signing up for an account. 
+3. Do make sure that the `Proposal type` is selected as **`Workshop`** from the Proposal type dropdown.
 
 <div class="text-center">
   <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif">
@@ -78,4 +80,4 @@ We look forward to seeing your proposals filling our inboxes in the coming month
   <img src="https://media.giphy.com/media/f0TvnEmF5yPLO/giphy.gif">
 </div>
 
-Written by Vipul Gupta ([@vipulgupta2048](https://twitter.com/vipulgupta2048))
+Inspired by [PyCon US's 2019 Tutorials CFP](https://us.pycon.org/2019/speaking/tutorials/). Adapted by Vipul Gupta [@vipulgupta2048](https://twitter.com/vipulgupta2048)
