@@ -9,11 +9,12 @@ The [call for proposals](https://in.pycon.org/cfp/2020/proposals/) for workshops
 <!-- PELICAN_END_SUMMARY -->
 Here's a question for you.
 
-Do you think that you would be able to assemble 3 hours of material and lead an online session full of PyCon attendees through learning a new skill, library, or technology? Then you might be someone we are looking for. Apply to host your workshop at PyCon India 2020! PyCon India 2020 workshops will be held online on October 4th, 2020.
+Do you think that you would be able to assemble 2.5 hours of material and lead an online session full of PyCon attendees through learning a new skill, library, or technology? Then you might be someone we are looking for. Apply to host your workshop at PyCon India 2020! PyCon India 2020 workshops will be held online on **October 4th, 2020**.
 
-As with the talks, we are looking for workshops that can grow this community at any level. We aim for workshops that will advance Python, advance this community, and shape the future. Each workshop runs for 3 full hours plus a break for coffee. As workshops are longer, more in-depth than talks, they require much more preparation. Much more when it comes to writing your proposal.
+As with the talks, we are looking for workshops that can grow this community at any level. We aim for workshops that will advance Python, advance this community, and shape the future. Each workshop runs for 2.5 hours plus a break for coffee. As workshops are longer, more in-depth than talks, they require much more preparation. Much more when it comes to writing your proposal.
 
-
+CFP for Workshops closes on **31st August, 2020**.
+ 
 ## Guide to writing amazing proposals
 
 As you think about your experiences, skills, and knowledge that you would want to bring to the table. We also want you to focus on the proposal that you will be submitting to us. A well thought out proposal means everything here at this point. Take your time to go through our team's advice on preparing a kickass proposal that turns heads (virtually):
