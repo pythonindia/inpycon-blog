@@ -7,6 +7,7 @@ body of your articles.
 """
 
 from __future__ import unicode_literals
+from bs4 import BeautifulSoup
 from pelican import signals
 from pelican.generators import ArticlesGenerator, StaticGenerator, PagesGenerator
 import re
@@ -28,7 +29,7 @@ def initialized(pelican):
 def extract_summary(instance):
     # if summary is already specified, use it
     # if there is no content, there's nothing to do
-    if hasattr(instance, '_summary'):
+    if hasattr(instance, '_summary') or 'summary' in instance.metadata:
         instance.has_summary = True
         return
 
@@ -41,7 +42,7 @@ def extract_summary(instance):
     use_first_paragraph = instance.settings['SUMMARY_USE_FIRST_PARAGRAPH']
     remove_markers = True
 
-    content = instance._content
+    content = instance._update_content(instance._content, instance.settings['SITEURL'])
     begin_summary = -1
     end_summary = -1
     if begin_marker:
@@ -77,11 +78,16 @@ def extract_summary(instance):
         if end_summary:
             content = content.replace(end_marker, '', 1)
 
-    summary = re.sub(r"<div.*>", "", summary)
-    summary = re.sub(r"</div>", "", summary)
+    summary = str(BeautifulSoup(summary, 'html.parser'))
 
     instance._content = content
-    instance._summary = summary
+    # default_status was added to Pelican Content objects after 3.7.1.
+    # Its use here is strictly to decide on how to set the summary.
+    # There's probably a better way to do this but I couldn't find it.
+    if hasattr(instance, 'default_status'):
+        instance.metadata['summary'] = summary
+    else:
+        instance._summary = summary
     instance.has_summary = True
 
 
