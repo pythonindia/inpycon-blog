@@ -34,11 +34,11 @@ Read the [call for proposals editorial](https://in.pycon.org/cfp/2020/proposals/
   <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif">
 </div>
 
-*Do make sure to read the [best practices](https://github.com/pythonindia/junction/wiki/Speaker-best-practices) before you start typing them up your proposals especially if you are a first time speaker!*
+*Do make sure to read the [best practices](https://github.com/pythonindia/junction/wiki/Speaker-best-practices) before you start typing them proposals especially if you are a first time speaker!*
 
 ## Guidelines for creating Preview Video
 
-With PyCon India 2020 being online this year, we are introducing preview videos to our proposal submission workflow. **Preview videos** are you talking about your proposal, topics you intend to cover in the talk, and how you intend to cover them. Participants are strongly suggested to upload links of their preview videos while submitting their proposals. It will be immensely helpful for reviewers to go through preview videos and take that into account before making final decisions on your talk proposal. Please keep in mind to strictly follow all guidelines for creating your video preview as mentioned below:-  
+With PyCon India 2020 being online this year, we are introducing preview videos to our proposal submission workflow. **Preview videos** are you talking about your proposal, topics you intend to cover in the talk, and how you intend to cover them. Participants are strongly suggested to upload links of their preview videos while submitting their proposals. It will be immensely helpful for reviewers to go through preview videos and take that into account before making final decisions on your talk proposal. Please keep in mind to strictly follow all guidelines for creating your video preview as mentioned below:-
 
   
 1. **Duration & orientation**  
