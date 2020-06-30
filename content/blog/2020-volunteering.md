@@ -65,13 +65,13 @@ Now that you’re aware of what it takes and what it means to volunteer, if you 
 
 * You can also pro-actively "Watch" the following repos on GitHub where you can stay up to date with the progress of various tasks and even contribute where you feel you can help. Feel free to actively participate in any discussion, open an issue, or file a Pull Request for any contribution you feel will be helpful to the conference.
 
-  * Workgroups task tracking: https://github.com/pythonindia/inpycon2020-tasks
+  * [Workgroups task tracking](https://github.com/pythonindia/inpycon2020-tasks)
 
-  * Website: https://github.com/pythonindia/inpycon2020
+  * [PyCon 2020 Website](https://github.com/pythonindia/inpycon2020)
 
-  * Blog: https://github.com/pythonindia/inpycon-blog
+  * [PyCon Blog](https://github.com/pythonindia/inpycon-blog)
 
-  * CFP software: https://github.com/pythonindia/junction
+  * Our CFP software, [Junction](https://github.com/pythonindia/junction)
 
 If you have any questions, please drop a mail to the [mailing list](https://mail.python.org/mailman/listinfo/inpycon), but make sure to check the mailing list archives, for previous discussions, before posting. You should also check out the [PyCon India Handbook](https://github.com/pythonindia/pyconindia-handbook), containing the experiences and guidelines from previous organizers, which might be helpful to you in your volunteering journey. 
 
