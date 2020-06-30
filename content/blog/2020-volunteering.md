@@ -73,7 +73,7 @@ Now that you’re aware of what it takes and what it means to volunteer, if you 
 
   * Our CFP software, [Junction](https://github.com/pythonindia/junction)
 
-If you have any questions, please drop a mail to the [mailing list](https://mail.python.org/mailman/listinfo/inpycon), but make sure to check the mailing list archives, for previous discussions, before posting. You should also check out the [PyCon India Handbook](https://github.com/pythonindia/pyconindia-handbook), containing the experiences and guidelines from previous organizers, which might be helpful to you in your volunteering journey. 
+If you have any questions, please drop a mail to the [mailing list](https://mail.python.org/mailman/listinfo/inpycon), but make sure to check the [mailing list archives](https://mail.python.org/pipermail/inpycon/), for previous discussions, before posting. You should also check out the [PyCon India Handbook](https://github.com/pythonindia/pyconindia-handbook), containing the experiences and guidelines from previous organizers, which might be helpful to you in your volunteering journey. 
 
 *Happy volunteering!*
 
