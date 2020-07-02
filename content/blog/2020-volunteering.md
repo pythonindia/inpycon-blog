@@ -45,6 +45,20 @@ All the aspects of the conference are managed by the volunteers. There are a var
 
 We don’t have any specific requirements for our volunteers. Any contributions to any area of the conference which will make the event better are welcome. If you need any help with any kind of work or contribution, feel free to reach out to any of us at our [Zulip channel](https://pyconindia.zulipchat.com/). 
 
+All the workgroup leaders and volunteers have a weekly meeting to brief about the progress in their respective workgroup so that everyone's on the same page. Here is a list of our workgroups and their contact persons:
+
+  * __Code of Conduct__ - Sayan Chowdhury
+  * __Accessibility__ - Saptak Sengupta
+  * __CFP (Call For Proposal)__ - Kumar Anirudha
+  * __Design__ - Saptak Sengupta
+  * __Social Media__ - Pradhvan Bisht
+  * __Dev Sprint/Workshops__ - Ananyo Maiti
+  * __Mentorship/Editorial__ - Vipul Siddharth
+  * __Review Panel__ - Ritesh Agarwal
+  * __Content__ - Vipul Gupta
+  * __Platform__ - Chandan Kumar
+  * __Technology__ - Nabarun Pal
+
 ## What’s in it for you?
 
 You might be wondering, what will you get out of helping us make the event better? What will you gain for providing the conference hours of your time? Other than having an insight and say into the decisions and the direction of the conference you will be attending, there are also some other benefits to volunteering too. 
@@ -65,13 +79,13 @@ Now that you’re aware of what it takes and what it means to volunteer, if you 
 
 * You can also pro-actively "Watch" the following repos on GitHub where you can stay up to date with the progress of various tasks and even contribute where you feel you can help. Feel free to actively participate in any discussion, open an issue, or file a Pull Request for any contribution you feel will be helpful to the conference.
 
-  * [Workgroups task tracking](https://github.com/pythonindia/inpycon2020-tasks)
+    * [Workgroups task tracking](https://github.com/pythonindia/inpycon2020-tasks)
 
-  * [PyCon 2020 Website](https://github.com/pythonindia/inpycon2020)
+    * [PyCon 2020 Website](https://github.com/pythonindia/inpycon2020)
 
-  * [PyCon Blog](https://github.com/pythonindia/inpycon-blog)
+    * [PyCon Blog](https://github.com/pythonindia/inpycon-blog)
 
-  * Our CFP software, [Junction](https://github.com/pythonindia/junction)
+    * Our CFP software, [Junction](https://github.com/pythonindia/junction)
 
 If you have any questions, please drop a mail to the [mailing list](https://mail.python.org/mailman/listinfo/inpycon), but make sure to check the [mailing list archives](https://mail.python.org/pipermail/inpycon/), for previous discussions, before posting. You should also check out the [PyCon India Handbook](https://github.com/pythonindia/pyconindia-handbook), containing the experiences and guidelines from previous organizers, which might be helpful to you in your volunteering journey. 
 
