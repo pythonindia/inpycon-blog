@@ -15,7 +15,7 @@ Have you ever wished you could contribute or give back to the Python community? 
 
 Before you embark on a journey helping the community make the conference even more amazing, there are a few things you should know:
 
-* There is a lot of work that goes into a conference, and all of it is done by the volunteers. So, naturally, volunteering requires a lot of time and effort, and some activities like handling social media and registrations, a lot more than others. So, make sure you can allocate sufficient time to your volunteering efforts. 
+* There is a lot of work that goes into a conference, and all of it is done by the volunteers. So, naturally, volunteering requires a lot of time and effort, and some activities like running outreach and social media, building content, and finding speakers, a lot more than others. So, make sure you can allocate sufficient time to your volunteering efforts. 
 
 
 * If you are engaged in a volunteering activity while a session is going on, you might not be able to attend that session. If someone needs your assistance with a task, you need to be there. So, plan your conference schedule accordingly. 
