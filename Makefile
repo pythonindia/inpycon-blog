@@ -6,6 +6,8 @@ INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 
+PLUGIN_REQUIREMENTS=$(wildcard plugins/*/requirements.txt)
+
 PORT ?= 8000
 BIND ?= 127.0.0.1
 
@@ -33,6 +35,12 @@ help:
 	@echo 'Set PUBLISH to True in `make html` to publish, e.g. make html PUBLISH=True   '
 	@echo '                                                                       		'
 
+requirements:
+	pip install -r requirements.txt
+	for requirement in $(PLUGIN_REQUIREMENTS); do \
+		pip install -r $$requirement; \
+	done
+
 html: $(INPUTDIR) $(CONFFILE) $(OUTPUTDIR)
 
 $(OUTPUTDIR):
@@ -41,6 +49,8 @@ ifeq ($(PUBLISH), True)
 else
 	$(GENERATOR)
 endif
+
+build: requirements html
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
