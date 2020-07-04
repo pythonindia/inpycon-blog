@@ -1,0 +1,3 @@
+[build]
+publish = "output/"
+command = "make build"
