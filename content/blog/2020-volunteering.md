@@ -1,5 +1,5 @@
-Title: Making PyCon India even more amazing with your help
-Date: 2020-06-30 22:00
+Title: Wanna help make PyCon India even more amazing? Join the team!
+Date: 2020-07-04 15:30
 Author: Nikhil Maan (@sc0rpi0n101)
 Category: 2020
 Slug: 2020-call-for-volunteers
