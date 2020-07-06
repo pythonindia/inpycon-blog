@@ -1,3 +1,2 @@
-beautifulsoup4==4.9.1
-Markdown
+Markdown==3.2.2
 pelican==4.2.0
