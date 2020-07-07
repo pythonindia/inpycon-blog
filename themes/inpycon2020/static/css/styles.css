@@ -153,7 +153,7 @@ section {
 
 .header-wrapper .center-content .center-details .conference-details .conference-name img {
   max-width: 31.1rem;
-  width: 100%;
+  width: 50vw;
   height: auto;
 }
 
@@ -181,6 +181,12 @@ section {
   position: absolute;
   width: 50%;
   left: -95%;
+}
+
+@media screen and (min-width: 601px) and (max-width: 1024px) {
+  .header-wrapper .right-content .lamp {
+    width: 32%;
+  }
 }
 
 .header-wrapper .right-content .rectangle {
