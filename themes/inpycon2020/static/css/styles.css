@@ -1295,7 +1295,7 @@ a {
 
 .blog {
   margin: 20px auto;
-  max-width: 940px;
+  max-width: 970px;
   line-height: 3.5rem;
 }
 
@@ -1330,6 +1330,10 @@ a {
 
 hr {
   margin: 50px 0;
+}
+
+.blogpost {
+  padding: 0 15px;
 }
 
 .blogpost-summary {
