@@ -27,6 +27,49 @@
 
 <body>
   <header>
+    <div class="header-wrapper">
+      <div class="left-content">
+        <span class="rectangle">
+          <img src="{{ SITEURL }}/theme/images/left-matrix.svg" />
+        </span>
+        <span class="small-circle">
+          <img class="rangoli" src="{{ SITEURL }}/theme/images/rangoli-left-top.svg" />
+        </span>
+        <span class="circle">
+          <img class="rangoli" src="{{ SITEURL }}/theme/images/rangoli-medium.svg" />
+        </span>
+      </div>
+      <div class="center-content">
+        <div class="image-container">
+          <img class="rangoli-shade" src="{{ SITEURL }}/theme/images/rangoli-center.svg" />
+        </div>
+        <div class="center-details">
+          <div class="logo">
+            <img src="{{ SITEURL }}/theme/images/cnf-logo.svg" />
+          </div>
+          <div class="conference-details">
+            <div class="conference-name">
+              <img src="{{ SITEURL }}/theme/images/cnf-name.svg" />
+            </div>
+            <div class="year-wrapper">
+              <span class="year">2020,</span>
+              <span class="status">Online</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="right-content">
+        <span class="lamp">
+          <img src="{{ SITEURL }}/theme/images/lamp.svg" />
+        </span>
+        <span class="rectangle">
+          <img src="{{ SITEURL }}/theme/images/right-matrix.svg" />
+        </span>
+        <span class="circle">
+          <img class="rangoli" src="{{ SITEURL }}/theme/images/rangoli-small.svg" />
+        </span>
+      </div>
+    </div>
     <nav class="navbar navbar-default">
       <div class="container-fluid">
         <div class="navbar-header">
@@ -36,21 +79,16 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <div class="web text-center">
-            <a class="navbar-brand" href="https://in.pycon.org/2020/">
-              <img src="{{ SITEURL }}/theme/images/logosmall.png" alt="PyCon India 2020 Logo" width="100%"/>
-            </a>
-            <a class="navbar-brand-1 " style="display: none" href="https://in.pycon.org/2020/">
-              <img src="{{ SITEURL }}/theme/images/logosmall.png" alt="PyCon India 2020 Logo" width="100%"/>
-            </a>
-          </div>
         </div>
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-          <ul class="nav navbar-nav main-menu">
+          <ul class="nav navbar-nav main-menu navbar-center">
             <li><a href="https://in.pycon.org/2020/">Home</a></li>
+            <li><a href="https://in.pycon.org/2020/#about">About</a></li>
+            <li><a href="https://in.pycon.org/2020/#cfp">CFP</a></li>
             <li class="current"><a href="{{ SITEURL }}/">Blog</a></li>
-            <li><a href="https://in.pycon.org/2020/coc.html">Code Of Conduct</a></li>
+            <li><a href="https://in.pycon.org/2020/#sponsor">Sponsors</a></li>
+            <li><a href="https://in.pycon.org/2020/coc.html">CoC</a></li>
           </ul>
         </div>
       </div>
@@ -63,27 +101,24 @@
   </div>
 
   <footer>
-    <div class="container">
-      <div class="row">
-	<div class="col-md-3 text-center">
-          <ul class="list-inline">
-            <li><a target="_blank" href="https://www.facebook.com/PyConIndia/">
-		<img src="{{ SITEURL }}/theme/images/fb.png" alt="Facebook"/>
-	    </a></li>
-            <li><a target="_blank" href="https://twitter.com/pyconindia">
-		<img src="{{ SITEURL }}/theme/images/tw.png" alt="Twitter"/>
-	    </a></li>
-          </ul>
-	</div>
-	<div class="col-md-6 text-center">
-          <img src="{{ SITEURL }}/theme/images/logosmall.png" alt="PyCon India 2019 Logo" width="70%"/>
-	</div>
-	<div class="col-md-3 text-center">
-          <p class="design-by">Design by</p>
-          <a target="_blank" href="http://webchirpy.com">
-	    <img src="{{ SITEURL }}/theme/images/wclogo.png" alt="Webchirpy Logo" width="40%"/>
-	  </a>
-	</div>
+    <div class="footer-details">
+      <div class="conf-image">
+        <img src="{{ SITEURL }}/theme/images/footer-logo.svg" />
+      </div>
+      <div class="copyright-details">
+        <div class="copyright-text">Copyright 2020 PyCon India</div>
+      </div>
+      <div class="social-media-details">
+        <div>
+          <a href="#" rel="nofollow noreferrer" target="_blank">
+            <img src="{{ SITEURL }}/theme/images/facebook.svg" alt="facebook" />
+          </a>
+        </div>
+        <div>
+          <a href="#" rel="nofollow noreferrer" target="_blank">
+            <img src="{{ SITEURL }}/theme/images/twitter.svg" alt="twitter" />
+          </a>
+        </div>
       </div>
     </div>
   </footer>

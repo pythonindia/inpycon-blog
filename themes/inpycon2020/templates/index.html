@@ -11,7 +11,7 @@
         <div class="meta">
           <time datetime="{{article.date}}" itemprop="datePublished">
             <small>
-              Published: {{ article.date.strftime("%B %d, %Y") }} | Author: {{ article.author | default("PyCon India Content Team", true) }}
+              By {{ article.author | default("PyCon India Content Team", true) }}  |  {{ article.date.strftime('%B %d, %Y') }}
             </small>
           </time>
         </div>
@@ -20,7 +20,7 @@
 
       <br>
       <p>
-        <a href="{{SITEURL}}/{{article.url}}">Read More &rarr;</a>
+        <a class="read-more" href="{{SITEURL}}/{{article.url}}">Read More &rarr;</a>
       </p>
     </article>
 
