@@ -10,13 +10,13 @@ Slug: 2020-outreach-partners
 
 We are the largest gathering of Python users and admirers in India who come together once a year to celebrate the language and share our experience and expertise with the community.
 
-We would love to make PyCon India a great conference using the combined effort of our communities. 
+Let's make make PyCon India a great conference using the combined effort of our communities. 
 
 ## What we expect from you 
 
-We would love for you to spread a word about the conference amongst your members who are looking to learn something regarding Python. We expect our outreach partners to help us in the following ways: 
+We would love for you to spread a word about the conference among your members who are looking to learn something regarding Python. We expect our outreach partners to help us in the following ways: 
 
-* Send emails to their mailing lists and post content on their social media channels on our behalf to make your community members aware of the conference. 
+* Send emails to your mailing lists and post content on their social media channels on our behalf to make your community members aware of the conference. 
 * Spread the word about our call for proposals for talks, workshops & Dev sprint and help us find speakers, mentors, and reviewers from your community for the conference.
 
 ## What you can expect from us
