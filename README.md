@@ -49,3 +49,11 @@ Blog content goes here in the following lines.
 ```
 
 If you need any help with writing content in plecan, please check out [the documentation](https://docs.getpelican.com/en/stable/content.html).
+
+## First time contributors
+
+1) If you're wondering what to write in your commit messages, check out this guide on [how to write good commit messages](https://chris.beams.io/posts/git-commit/)
+2) For a begineers guide on using Github, Visit [Hello World-Github](https://guides.github.com/activities/hello-world/).
+3) For a guide to set up git for the first time, visit [Setting up Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup).
+4) For a detailed Git guide, you can read the book [pro git](https://git-scm.com/book/en/v2).
+5) For markdown cheat sheet, [click here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code).
