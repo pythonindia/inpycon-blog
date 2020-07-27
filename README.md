@@ -28,9 +28,11 @@ Thank you for your you interest in contributing to PyCon India blog site, please
 ```
 git clone https://github.com/<username>/inpycon-blog.git
 ```
-2. To run a local copy of the website, open the command prompt or your preferred CLI, change the directory to the address of the repository and use the command `make devserver` to set up a development server. You can find a working copy of your work at [http://localhost:8000/](http://localhost:8000/).
+2. Follow the [Getting Started](#getting-started) guidelines to set-up the blog.
 
-3. To create a new blog, create a markdown file (.md) in the `content/blog` directory. For Pelican to parse the content properly, make sure the Metadata syntax at the start of your new blog is follows the pattern given below:
+3. To run a local copy of the website, open the command prompt or your preferred CLI, change the directory to the address of the repository and use the command `make devserver` to set up a development server. You can find a working copy of your work at [http://localhost:8000/](http://localhost:8000/).
+
+4. To create a new blog, create a markdown file (.md) in the `content/blog` directory. For Pelican to parse the content properly, make sure the Metadata syntax at the start of your new blog is follows the pattern given below:
 
 ```
 Title: Announcing X as Titanium Sponsor
@@ -57,3 +59,5 @@ If you need any help with writing content in plecan, please check out [the docum
 3) For a guide to set up git for the first time, visit [Setting up Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup).
 4) For a detailed Git guide, you can read the book [pro git](https://git-scm.com/book/en/v2).
 5) For markdown cheat sheet, [click here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code).
+
+For any more questions, please contact the admins of [#content](https://pyconindia.zulipchat.com/#narrow/stream/246476-wg.2Fcontent) stream on the [PyCon India Zulip](https://pyconindia.zulipchat.com/).
