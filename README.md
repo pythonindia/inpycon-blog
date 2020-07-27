@@ -50,7 +50,7 @@ Blog content goes here in the following lines.
 
 If you need any help with writing content in plecan, please check out [the documentation](https://docs.getpelican.com/en/stable/content.html).
 
-## First time contributors
+## Instructions for First-Time Contributors
 
 1) If you're wondering what to write in your commit messages, check out this guide on [how to write good commit messages](https://chris.beams.io/posts/git-commit/)
 2) For a begineers guide on using Github, Visit [Hello World-Github](https://guides.github.com/activities/hello-world/).
