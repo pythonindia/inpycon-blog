@@ -17,7 +17,9 @@ We know it's not always easy to find the right words when you have something to 
 ### Recommended Resources from the Content Team 
 
 Prospective speakers of PyCon India can take a look at our curated blog posts on writing better talk and workshop proposals.  
+
 * [Tips on writing a “kickass” proposal](https://in.pycon.org/blog/2020/2020-workshop-cfp-announcement.html)  
+
 * [Guidelines on creating video previews](https://in.pycon.org/blog/2020/2020-call-for-proposals-announcement.html)  
 
 ### Join us on Zulip for faster answers to any questions
