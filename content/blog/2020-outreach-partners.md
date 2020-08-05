@@ -24,6 +24,6 @@ For supporting the conference, our outreach partners can expect following in ret
 * We will display your Logos and Names on the conference website. 
 * We will also promote your community on our social media channels as a supporter of the conference.
 
-If you are an organization or a community interested in becoming an outreach partner for PyCon India 2020, please reach out to us at [link]
+If you are an organization or a community interested in becoming an outreach partner for PyCon India 2020, please fill the [outreach partners form.](https://docs.google.com/forms/d/e/1FAIpQLSd4wR-TW1l18e6LS-fVUxW2OQlva6GF3INhRnNi0xEbL1UxHA/viewform)
 
 To know more about PyCon India please visit : [About Us](https://in.pycon.org/2020/about/)
