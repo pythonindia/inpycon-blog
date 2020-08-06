@@ -2,7 +2,8 @@ Title: Writing a proposal for the first time? Our Mentorship team is here to hel
 Date: 2020-07-28 12:34 
 Author: Ankita Prakash (@Anpr1211)
 Category: 2020 
-Slug: announce-pycon-india-mentorship 
+Slug: announce-pycon-india-mentorship
+Summary: Announcing PyCon India Mentorship team's resources, contact links, and weekly calls for first-time speakers as well as veterans. 
 
 Announcing PyCon India Mentorship team's resources, contact links, and weekly calls for first-time speakers as well as veterans.
 
