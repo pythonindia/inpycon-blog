@@ -3,6 +3,7 @@ Date: 2020-06-22 10:00
 Author: Vipul Gupta (@vipulgupta2048)
 Category: 2020
 Slug: 2020-workshop-cfp-announcement
+Summary: The [call for proposals](https://in.pycon.org/cfp/2020/proposals/) for workshops has been officially opened! If you are slight to moderately unsure of submitting a workshop proposal, you won't be after reading this.
 
 The [call for proposals](https://in.pycon.org/cfp/2020/proposals/) for workshops has been officially opened! If you are slight to moderately unsure of submitting a workshop proposal, you won't be after reading this.
 

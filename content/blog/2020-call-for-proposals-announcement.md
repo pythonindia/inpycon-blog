@@ -3,10 +3,10 @@ Date: 2020-05-11 10:00
 Author: Vipul Gupta (@vipulgupta2048)
 Category: 2020
 Slug: 2020-call-for-proposals-announcement
+Summary: That time is upon us again, folks. PyCon India is back, it's online and the [call for proposals](https://in.pycon.org/cfp/2020/proposals/) has officially opened!
 
 That time is upon us again, folks. PyCon India is back, it's online and the [call for proposals](https://in.pycon.org/cfp/2020/proposals/) has officially opened!
 
-<!-- PELICAN_END_SUMMARY -->
 <div class="text-center">
   <img src="https://media.giphy.com/media/kgsBIWtPd5Q5Pw11Rq/giphy.gif">
 </div>

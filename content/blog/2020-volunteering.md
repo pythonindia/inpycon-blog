@@ -3,11 +3,9 @@ Date: 2020-07-04 15:30
 Author: Nikhil Maan (@sc0rpi0n101)
 Category: 2020
 Slug: 2020-call-for-volunteers
+Summary: Have you ever wished you could contribute or give back to the Python community? Well, here’s an awesome opportunity for you to do it with the year's premier conference for the Python programming language, **PyCon India 2020**.
 
 Have you ever wished you could contribute or give back to the Python community? Well, here’s an awesome opportunity for you to do it with the year's premier conference for the Python programming language, **PyCon India 2020**.
-
-
-<!-- PELICAN_END_SUMMARY -->
 
 [PyCon India](https://in.pycon.org/2020/) is a grass-roots, volunteer-driven conference. What that means is every year for the past 12 years Python communities across the nation have come together to help plan, organize, manage, and run the conference. The conference is operated entirely by volunteers from planning to finding the speakers to managing call for proposals to handling the mega event successfully without fail.
 

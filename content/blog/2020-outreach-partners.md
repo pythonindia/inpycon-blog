@@ -3,6 +3,7 @@ Date: 2020-07-23 13:00
 Author: Nikhil Maan (@sc0rpi0n101)
 Category: 2020
 Slug: 2020-outreach-partners
+Summary: [**PyCon India**](https://in.pycon.org/2020/) is looking for outreach partners that can help spread the word about our conference in communities all over the world and bring fresh faces to the platform in hopes of creating a more inclusive, accessible conference this year.
 
 [**PyCon India**](https://in.pycon.org/2020/) is looking for outreach partners that can help spread the word about our conference in communities all over the world and bring fresh faces to the platform in hopes of creating a more inclusive, accessible conference this year.
 
