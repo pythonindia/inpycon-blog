@@ -39,7 +39,6 @@ Title: Announcing X as Titanium Sponsor
 Date: 2020-05-10 10:00
 Author: John Doe
 Category: 2020
-Tags: pelican, publishing
 Slug: announcing-X-as-titanium-sponsor
 Summary: Short version for index and feeds
 
