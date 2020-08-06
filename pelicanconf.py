@@ -4,7 +4,8 @@ from __future__ import unicode_literals
 import os
 
 AUTHOR = u'PyCon India Content Team'
-SITENAME = u'In PyCon Blog'
+SITENAME = u'PyCon India Blog'
+DESCRIPTION = "PyCon India's official channel for all announcements and updates related to the conference."
 SITEURL = os.getenv('SITEURL', '')
 RELATIVE_URLS = True
 
