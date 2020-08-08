@@ -28,7 +28,7 @@ For supporting the conference, our outreach partners can expect following in ret
 * There will not be any discounts on ticket prices or any other financial benefits of any kind, since PyCon India 2020 is a volunteer driven event.  
 * Outreach partners for PyCon India 2020 will not be carried forward to further years.  
 
-_Please that the The primary channel for communication will be **[Zulip](https://pyconindia.zulipchat.com/)**, post confirmation._ 
+**Please note that the primary channel for communication will be [Zulip](https://pyconindia.zulipchat.com/), post confirmation.**
 
 If you are an organization or a community interested in becoming an outreach partner for PyCon India 2020, please fill the [outreach partners form.](https://docs.google.com/forms/d/e/1FAIpQLSd4wR-TW1l18e6LS-fVUxW2OQlva6GF3INhRnNi0xEbL1UxHA/viewform)
 
