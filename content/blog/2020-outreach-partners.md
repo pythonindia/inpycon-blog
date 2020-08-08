@@ -1,5 +1,5 @@
 Title: Bringing PyCon India to a wider audience with your help
-Date: 2020-07-23 13:00
+Date: 2020-08-06 23:00
 Author: Nikhil Maan (@sc0rpi0n101)
 Category: 2020
 Slug: 2020-outreach-partners
