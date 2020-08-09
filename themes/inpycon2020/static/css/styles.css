@@ -1361,3 +1361,12 @@ hr {
   line-height: 17px;
   color: #F0060B;
 }
+
+/* Pagination */
+.paginator {
+  font-size: 13pt;
+}
+
+.paginator i {
+  color: #DD0E12;
+}
