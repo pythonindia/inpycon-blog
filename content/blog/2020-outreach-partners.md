@@ -1,4 +1,4 @@
-Title: We are looking for outreach partners
+Title: We are looking for outreach partners for PyCon India 2020
 Date: 2020-08-06 23:00
 Author: Nikhil Maan (@sc0rpi0n101)
 Category: 2020
