@@ -1,4 +1,4 @@
-Title: Bringing PyCon India to a wider audience with your help
+Title: We are looking for outreach partners
 Date: 2020-08-06 23:00
 Author: Nikhil Maan (@sc0rpi0n101)
 Category: 2020
