@@ -7,8 +7,6 @@ Summary: Announcing PyCon India Mentorship team's resources, contact links, and 
 
 Announcing PyCon India Mentorship team's resources, contact links, and weekly calls for first-time speakers as well as veterans.
 
-<!-- PELICAN_END_SUMMARY -->
-
 > Do you have that one idea that can make the world “a better place”? (Silicon Valley Fans, Assemble!)
 
 Do you wish to submit a proposal to PyCon India 2020 but cannot figure out the flow of your talk or how to present it?

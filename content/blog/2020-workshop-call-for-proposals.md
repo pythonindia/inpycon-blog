@@ -7,7 +7,6 @@ Summary: The [call for proposals](https://in.pycon.org/cfp/2020/proposals/) for 
 
 The [call for proposals](https://in.pycon.org/cfp/2020/proposals/) for workshops has been officially opened! If you are slight to moderately unsure of submitting a workshop proposal, you won't be after reading this.
 
-<!-- PELICAN_END_SUMMARY -->
 Here's a question for you.
 
 Do you think that you would be able to assemble 2.5 hours of material and lead an online session full of PyCon attendees through learning a new skill, library, or technology? Then you might be someone we are looking for. Apply to host your workshop at PyCon India 2020! PyCon India 2020 workshops will be held online on **October 4th, 2020**.
