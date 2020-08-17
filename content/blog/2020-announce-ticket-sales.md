@@ -18,11 +18,11 @@ We have started with the ticket sales of our mega event and the details for the 
 
 ### Early Bird
 
-An Early bird ticket reserves your seat for 2 days of the conference, with the pricing of INR 149 (GST excluded), the sale of early bird tickets ends in 5 days after their release or when the sale of 200 tickets has been completed, whichever comes earlier.
+An Early bird ticket reserves your seat for 2 days of the conference, with the pricing of INR 149 (GST excluded), the sale of early bird tickets ends in 5 days after their release or when the sale of tickets has been completed, whichever comes earlier.
 
 ### Regular
 
-A regular ticket reserves your seat for 2 days of the conference, with the pricing of INR 199 (GST excluded), the sale of regular tickets begins after the sale of early bird tickets ends till the sale of 700 tickets have been completed.
+A regular ticket reserves your seat for 2 days of the conference, with the pricing of INR 199 (GST excluded), the sale of regular tickets begins after the sale of early bird tickets ends till the sale of tickets have been completed.
 
 ### Late Bird
 
