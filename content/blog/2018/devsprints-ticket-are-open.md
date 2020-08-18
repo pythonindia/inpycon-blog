@@ -18,4 +18,4 @@ Due to the limited capacity at the Devsprints venue which can accomodate only ab
 
 To know more about what is a Devsprint and the list of projects check the [Devsprints page](https://in.pycon.org/cfp/devsprint-2018/proposals/). Also in case you want to mentor for a Devesprint project please add one there.
 
-See you there at Devsprints !
+See you there at Devsprints!
