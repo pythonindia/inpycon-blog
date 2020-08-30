@@ -11,7 +11,7 @@ There is lots to be gained by attending PyCon India 2020. Unfortunately, it take
 
 Dear `{BOSS}`,
 
-I am excited to brief you about PyCon India 2020, India's premier conference on using and developing the Python programming language that takes place online from October 2-5, 2020. About a 1500+ of the industry's Pythonistas from different fields and all over the world are bound to be in attendance for the 12th edition of this mega event.
+I am excited to brief you about PyCon India 2020, India's premier conference on using and developing the Python programming language that takes place online from October 2-5, 2020. About 1500+ Pythonistas from diverse fields and all over the world are bound to be in attendance for the 12th edition of this mega event.
 
 It would be great if I can get an opportunity to attend this conference as there will be innumerable benefits for me as an individual which will in turn impact the organization as well. To list a few:
 
