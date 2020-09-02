@@ -1,8 +1,8 @@
 Title: Call for Sponsors is now open for PyCon India 2020
-Date: 2020-08-31 21:00 
+Date: 2020-09-02 21:00 
 Author: Nikhil Maan(@Sc0rpi0n101)
 Category: 2020 
-Slug: announce-sponsorship
+Slug: call-for-sponsors
 Summary: Want to give back to the Python community and have more reach among the community members? Here's your chance to put your organization in the limelight of the Python community by sponsoring the largest Python conference in India. 
 
 While the PyCon India team is going full speed ahead to make PyCon India 2020 online an amazing conference and a great experience for everyone. We bring to you a golden opportunity for your brand and company to shine and represent themselves at the forefront of the Python India community.
