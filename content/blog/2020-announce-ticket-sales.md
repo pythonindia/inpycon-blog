@@ -38,7 +38,7 @@ Workshop tickets are released and sold separately, we will update this column an
 
 ### Devsprint
 
-Devsprints at PyCon India are free and open to anyone having a ticket to the conference. Although we do need folks to register before the event happens to take care of the logistics. We will be using Zulip for collaboration and will update this section once we have a concrete process in place.
+Devsprints at PyCon India are free and open to everyone. You don't need any ticket for participating in the dev sprints.  Although we do need folks to register before the event happens to take care of the logistics. We will be using Zulip for collaboration and will update this section once we have a concrete process in place.
 
 
 For more updates regarding tickets, please check back this blog, our official twitter account [@pyconindia](https://twitter.com/pyconindia/), or our [mailing list](https://mail.python.org/mailman/listinfo/inpycon)! For any queries, we are happy to help out on [Zulip](https://pyconindia.zulipchat.com/).
