@@ -5,7 +5,7 @@ Category: 2020
 Slug: 2020-keynote-announcement-naomi-ceder
 Summary: We are happy to announce **Naomi Ceder** as a Keynote speaker for PyCon India 2020!
 
-We are happy to announce that **Naomi Ceder** is a Keynote speaker for Pycon India 2020!
+We are happy to announce **Naomi Ceder** as a Keynote speaker for PyCon India 2020!
 
 Naomi Ceder earned a Ph.D in Classics several decades ago, but switched from ancient human languages to computer languages sometime in the last century. Since 2001, she has been learning, teaching, writing about, and using Python.
 
