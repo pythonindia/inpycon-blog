@@ -3,7 +3,7 @@ Date: 2020-09-03 17:00
 Author: Ramya K (@Ramya0701)
 Category: 2020
 Slug: 2020-keynote-announcement-naomi-ceder
-Summary: We are happy to announce that **Naomi Ceder** is a Keynote speaker for Pycon India 2020!
+Summary: We are happy to announce **Naomi Ceder** as a Keynote speaker for PyCon India 2020!
 
 We are happy to announce that **Naomi Ceder** is a Keynote speaker for Pycon India 2020!
 
