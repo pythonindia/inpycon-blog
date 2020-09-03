@@ -15,4 +15,4 @@ By day she leads a team of Python programmers for [Dick Blick Art Materials](htt
 
 She can be reached at her Twitter handle: [@NaomiCeder](https://twitter.com/naomiceder)
 
-![Naomi Ceder]({static}/images/NaomiCeder_speaker.jpg)
+![Naomi Ceder](https://in.pycon.org/2020/assets/images/naomiceder_headshot_web.jpg)
