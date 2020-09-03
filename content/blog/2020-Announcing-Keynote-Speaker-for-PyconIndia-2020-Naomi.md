@@ -13,6 +13,6 @@ An elected fellow of the [Python Software Foundation](https://www.python.org/psf
 
 By day she leads a team of Python programmers for [Dick Blick Art Materials](https://www.dickblick.com/), and in her spare time she enjoys sketching, knitting, and deep philosophical conversations with her dog.
 
-She can be reached at her twitter handle: [@NaomiCeder](https://twitter.com/naomiceder)
+She can be reached at her Twitter handle: [@NaomiCeder](https://twitter.com/naomiceder)
 
 ![Naomi Ceder]({static}/images/NaomiCeder_speaker.jpg)
