@@ -2,7 +2,7 @@ Title:Announcing Keynote Speaker for PyCon India 2020 - James Powell
 Date: 2020-09-08 17:00
 Author: Nikhil Maan (@Sc0rpi0n101)
 Category: 2020
-Slug: 2020-keynote-announcement-james-powell
+Slug: keynote-announcement-james-powell
 Summary: We are happy to announce **James Powell** as a Keynote Speaker for PyCon India 2020!
 
 We are happy to announce **James Powell** as a Keynote Speaker for PyCon India 2020!
