@@ -2,7 +2,7 @@ Title: We have liftoff! The final schedule is out!
 Date: 2020-09-14 00:00
 Author: Vipul Gupta
 Category: 2020 
-Slug: announce-2020-schedule
+Slug: announce-schedule
 Summary: PyCon India 2020 releases its schedule this time having 4 tracks packed to the brim with amazing talks and 6 keynotes for its next online iteration this year!
 
 2020 has been a rollercoaster for all of us. Our team had setbacks, we pushed through them, and what a ride it has been for all of us helping to make PyCon India 2020 a huge success.
