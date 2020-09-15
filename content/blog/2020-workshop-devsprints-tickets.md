@@ -6,7 +6,7 @@ Slug: workshop-devsprint-tickets
 Summary: PyCon India 2020 workshop and devsprint tickets will be open 16th September.
 
 
-We know you all have been waiting for this eagerly. Don't worry, you don't have to wait anymore! The Workshop and devsprint tickets for PyCon India will be available September 16th 5PM IST on [our website](https://in.pycon.org/2020/#ticket).
+We know you all have been waiting for this eagerly. Don't worry, you don't have to wait anymore! The Workshop and devsprint tickets for PyCon India will be available on September 16th, 5 PM IST on [our website](https://in.pycon.org/2020/#ticket).
 
 ## Devsprints
 
@@ -22,4 +22,4 @@ The workshops for this year will be taking place on October 4. Each workshop is 
 
 ## Attending Workshops and Devsprint
 
-It is possible to attend workshops and the devsprints. The devsprint will also be ruuning an extra day then the workshops, so you can also attend the devsprint on the second day if you choose to spend your time on October 4th on Workshops. 
+It is possible to attend workshops and the devsprints. The devsprint will also be running an extra day than the workshops. So, you can also attend the devsprint on the second day if you choose to spend your time on October 4th on Workshops. 
