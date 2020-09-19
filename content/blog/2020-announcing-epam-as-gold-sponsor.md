@@ -10,7 +10,7 @@ We are happy to introduce **EPAM** as a Gold Sponsor for PyCon India 2020.
 <br>
 <div class="text-center">
   <a href="https://welcome.epam.in/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/3849885/93663821-126f4600-fa88-11ea-982a-2d3feaba4843.png" alt="EPAM">
+    <img src="https://in.pycon.org/2020/assets/images/sponsors/epam.png" alt="EPAM">
   </a>
 </div>
 <br>
