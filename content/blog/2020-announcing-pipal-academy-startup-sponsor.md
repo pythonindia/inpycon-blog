@@ -7,7 +7,7 @@ Summary: We are happy to introduce **Pipal Academy** as a Startup Sponsor for Py
 
 We are happy to introduce **Pipal Academy** as a Startup Sponsor for PyCon India 2020.
 
-[![Pipal Academy](https://in.pycon.org/2020/assets/images/sponsors/<>.png)](https://pipal.in/)
+[![Pipal Academy](https://in.pycon.org/2020/assets/images/sponsors/pipal.png)](https://pipal.in/)
 
 Pipal Academy is a collective of experienced technologists, who care deeply about the art of software development. We offer in-depth courses on niche technical topics.
 
