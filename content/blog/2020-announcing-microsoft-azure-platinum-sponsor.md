@@ -7,7 +7,7 @@ Summary: We are happy to introduce **Microsoft Azure** as a Platinum Sponsor for
 
 We are happy to introduce **Microsoft Azure** as a Platinum Sponsor for PyCon India 2020.
 
-[![Microsoft Azure](https://in.pycon.org/2020/assets/images/sponsors/<>.png)](https://azure.microsoft.com/en-in/)
+[![Microsoft Azure](https://in.pycon.org/2020/assets/images/sponsors/azure.png)](https://azure.microsoft.com/en-us/?wt.mc_id=AID3022746_QSG_474804&ocid=AID3022746_QSG_474804&WT.mc_id=pyconindia-azure-cxa)
 
 Microsoft is the leading platform and company for the mobile-first, cloud-first world, and its mission is to empower every person and every organization on the planet to achieve more.
 
