@@ -15,4 +15,4 @@ Microsoft has worked with Python communities to create tools and services which 
 
 Join us at the Microsoft Learning Hub at PyCon India 2020 to learn more about Microsoft Azure.
 
-Website Link: <https://azure.microsoft.com/en-us/?wt.mc_id=AID3022746_QSG_474804&ocid=AID3022746_QSG_474804&WT.mc_id=pyconindia-azure-cxa>
+Website Link: [Microsoft Azure](https://azure.microsoft.com/en-us/?wt.mc_id=AID3022746_QSG_474804&ocid=AID3022746_QSG_474804&WT.mc_id=pyconindia-azure-cxa)
