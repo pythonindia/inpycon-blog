@@ -1,5 +1,5 @@
 Title: Announcing Pipal Academy as a Startup Sponsor
-Date: 2020-09-18 17:00
+Date: 2020-09-24 17:00
 Author: Nikhil Maan (@Sc0rpi0n101)
 Category: 2020
 Slug: sponsor-announcement-pipal-academy
