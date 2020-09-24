@@ -11,4 +11,4 @@ Terri specializes in saying no and explaining things, which either describes her
 
 You can find her on twitter [@terriko](https://twitter.com/terriko).
 
-<img src="https://in.pycon.org/2020/assets/images/terrioda.jpg" height="425"> 
+<img src="https://in.pycon.org/2020/assets/images/terrioda.jpg" alt="Terri Oda" height="425"> 
