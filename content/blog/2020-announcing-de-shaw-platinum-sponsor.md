@@ -5,7 +5,7 @@ Category: 2020
 Slug: sponsor-announcement-de-shaw
 Summary: We are happy to introduce **D.E. Shaw India** as a Platinum Sponsor for PyCon India 2020. 
 
-We are happy to introduce **D.E. Shaw** as a Platinum Sponsor for PyCon India 2020.
+We are happy to introduce **D.E. Shaw India** as a Platinum Sponsor for PyCon India 2020.
 
 [![D.E. Shaw](https://in.pycon.org/2020/assets/images/sponsors/deshaw.png)](www.deshawindia.com)
 
