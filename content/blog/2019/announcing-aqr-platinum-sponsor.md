@@ -1,10 +1,8 @@
 Title: Announcing AQR as Platinum Sponsor
 Date: 2019-08-05 09:00
 Category: 2019
+Summary: We are happy to introduce our Platinum sponsor **AQR Capital India Services LLP**!
 
-We are happy to introduce our Platinum sponsor **AQR Capital India Services LLP**!
-
-<!-- PELICAN_END_SUMMARY -->
 <br>
 <div class="text-center">
   <a href="https://www.aqr.com/" target="_blank">

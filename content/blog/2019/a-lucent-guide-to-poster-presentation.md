@@ -1,10 +1,7 @@
 Title: A Lucent Guide to Poster Presentation
 Date: 2019-08-09 09:00
 Category: 2019
-
-Hello Pythonistas, in this blog, we will discuss about posters and walk you through the process of making a great poster presentation at PyCon India 2019.
-
-<!-- PELICAN_END_SUMMARY -->
+Summary: Hello Pythonistas, in this blog, we will discuss about posters and walk you through the process of making a great poster presentation at PyCon India 2019.
 
 ### What is a Poster?
 
@@ -50,23 +47,23 @@ Now, let’s get into the actual process – The Preparation.
 </div>
 <br>
 
-First, ensure that you select a good title. Conference attendees will use it to determine which posters to attend. Make sure it brings in audience who will be interested in your poster. 
+First, ensure that you select a good title. Conference attendees will use it to determine which posters to attend. Make sure it brings in audience who will be interested in your poster.
 
-Second, for the poster itself, here are a few tips for creating the poster: 
-* While textual representation is good, graphical representation will attract more eyes 
-* Make sure the contents are properly sized and spaced in the poster so that it is viewable from decent distance 
-* Provoke the reader's curiosity which will open up space for further discussions 
-* Provide links for the attendees to know more about the topic and connect with you / the community 
+Second, for the poster itself, here are a few tips for creating the poster:
+* While textual representation is good, graphical representation will attract more eyes
+* Make sure the contents are properly sized and spaced in the poster so that it is viewable from decent distance
+* Provoke the reader's curiosity which will open up space for further discussions
+* Provide links for the attendees to know more about the topic and connect with you / the community
 
 You can refer to the following real poster presentation proposals for inspirations.
 
   * [PySangamam 2018](https://pysangamam.org/blog/2018/08/29/announcing-selected-posters/)
-  
+
   * [PyCon US 2019](https://us.pycon.org/2019/schedule/posters/list/)
 
 ### Submit your proposal:
 
-Now, submit your proposal at [https://in.pycon.org/cfp/posters-2019/proposals/](https://in.pycon.org/cfp/posters-2019/proposals/). 
+Now, submit your proposal at [https://in.pycon.org/cfp/posters-2019/proposals/](https://in.pycon.org/cfp/posters-2019/proposals/).
 
 Last date for submission is **31 August 2019**
 
@@ -74,7 +71,7 @@ Last date for submission is **31 August 2019**
 
 Once your proposal gets selected, you will have time till 11 October 2019 to practice. Get your poster ready and improvise your micro talk. You may even improve your poster. Don't slog but iterate for betterment.
 
-### On 12 October 2019, 
+### On 12 October 2019,
 
 Reach the venue 45 minutes in advance so that you can set up your poster and get comfortable at the venue.
 

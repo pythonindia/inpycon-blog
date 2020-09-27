@@ -1,10 +1,8 @@
 Title: Announcing AirAsia as Associate Sponsor
 Date: 2019-09-26 10:00
 Category: 2019
+Summary: We are happy to introduce our Associate sponsor **AirAsia**!
 
-We are happy to introduce our Associate sponsor **AirAsia**!
-
-<!-- PELICAN_END_SUMMARY -->
 <br>
 <div class="text-center">
   <a href="https://www.airasia.com" target="_blank">

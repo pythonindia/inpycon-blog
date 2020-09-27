@@ -2,10 +2,11 @@ Title: Making PyCon India Women Friendly
 Date: 2019-06-03
 Category: 2019
 Slug: 2019-making-pycon-india-women-friendly
+Summary: The vision of PyCon India 2019 is to create an inclusive environment that promotes knowledge sharing and diversity in thoughts and ideas.
 
 The vision of PyCon India 2019 is to create an inclusive environment
-that promotes knowledge sharing and diversity in thoughts and
-ideas. To quote
+that promotes knowledge sharing and diversity in thoughts and ideas.
+To quote
 
 <blockquote>
 We would like to ensure that the conference approaches everyone with
@@ -23,7 +24,7 @@ women to welcome their participation:
   * For parents travelling with young kids, childcare services will be
     provided at the venue for kids aged 5 years or below. If you want to
     avail childcare for your kid, please mark the checkbox for the
-    same in the ticket registration page. 
+    same in the ticket registration page.
 
   * The organizers will arrange a Kids Corner with games,
     entertainment and activities for kids of age 5 to 12. If you want
@@ -62,4 +63,3 @@ women to welcome their participation:
     would prefer your own caregiver. In such essential cases, you can
     email us at [tickets@in.pycon.org](mailto:tickets@in.pycon.org)
     and we will help you through the necessary details.
-
