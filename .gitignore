@@ -4,3 +4,4 @@
 .idea/
 *.pid
 .DS_Store
+.vscode/
