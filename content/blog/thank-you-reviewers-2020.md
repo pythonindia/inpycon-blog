@@ -79,7 +79,7 @@ His current area of exploration is CPython and is working with Linkedin's Produc
 
 
 ### Girish Joshi
-    Girish  is a polyglot programmer and a free and open source enthusiast from Pune. He has been a part of the Python Pune community since 2015.
+    Girish is a polyglot programmer and a free and open source enthusiast from Pune. He has been a part of the Python Pune community since 2015.
 For many years, he has been hacking on embedded systems and IoT applications.
 [Twitter](twitter.com/girish946)
 
@@ -96,7 +96,6 @@ For many years, he has been hacking on embedded systems and IoT applications.
 ### Manivannan E
     Manivannan is an open source evangelist & a python programmer; He has 17+ years of experience in software development and has performed various roles in organizations. Outside his regular job, he is also a python community leader & organizer in Hyderabad & helped revive the community. He chaired multiple python conferences in India - PyConf Hyd 2017, Pycon India 2018 & Pyconf Hyd 2019. Currently, he is working as a Director in Lifion by ADP Inc based out of NY, building next gen products.
 [Twitter](https://twitter.com/ManithaE)
-
 
 
 ### Nancy Chauhan
@@ -165,7 +164,7 @@ She organised NeuroAI (www.neuroai.in) which is India’s first-ever research sy
 [Twitter](https://twitter.com/URengaraju)
 
 
- ### Vinita Sharma
+### Vinita Sharma
     I work as a member of technical staff at Kubric and have over 6+ years of experience working across startups including Myntra and Jumbotail.
 When I am not building systems or learning about the latest stuff, I will mostly be painting or playing chess. 
 [Linkedin](https://www.linkedin.com/in/vinita-sharma-56887937)
