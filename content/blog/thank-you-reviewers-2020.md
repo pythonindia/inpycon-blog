@@ -25,8 +25,7 @@ We would like to express our appreciation and gratitude for the following people
 
 
 ### Abhishek Mishra
-     He is a backend engineer currently working at Saama Technologies. He mostly works on python and evangelizes for the same.
-He is a organizers of GDG Chennai and a volunteer in Chennaipy, Pyladies chennai meetup group. He has been in PyCon India team since 2019.
+     He is a backend engineer currently working at Saama Technologies. He mostly works on python and evangelizes for the same. He is a organizers of GDG Chennai and a volunteer in Chennaipy, Pyladies chennai meetup group. He has been in PyCon India team since 2019.
 [Linkedin](https://linkedin.com/in/stalwartcoder) 
 [Twitter](https://twitter.com/stalwartcoder)
 
@@ -41,7 +40,7 @@ He is a organizers of GDG Chennai and a volunteer in Chennaipy, Pyladies chennai
 [Twitter](https://twitter.com/anantshri)
 
 
-### Anirudh K
+### Anirudha K
      Anirudha has been active in python community with co-organising BangPypers and DjangoGirls Bangalore. Also cofounded the largest blockchain community in India, Blockchained India. Apart from building blockchain and fintech products as Acyclic Labs, Anirudha also does consulting on backend and product architecture. 
 [website](https://anirudha.dev/) 
 [Twitter](https://twitter.com/kranirudha).
@@ -79,8 +78,7 @@ His current area of exploration is CPython and is working with Linkedin's Produc
 
 
 ### Girish Joshi
-    Girish is a polyglot programmer and a free and open source enthusiast from Pune. He has been a part of the Python Pune community since 2015.
-For many years, he has been hacking on embedded systems and IoT applications.
+    Girish is a polyglot programmer and a free and open source enthusiast from Pune. He has been a part of the Python Pune community since 2015. For many years, he has been hacking on embedded systems and IoT applications.
 [Twitter](twitter.com/girish946)
 
 
@@ -119,8 +117,7 @@ For many years, he has been hacking on embedded systems and IoT applications.
 
 
 ### Shivani Bhardwaj 
-    Shivani is one of the rare developers who do not need caffeine to function. She currently works with The Open Information Security Foundation developing and learning about Suricata - A Network Security
-Monitoring tool. She has been a member of several Open Source communities around the world and is a proud supporter of women in STEM. She got associated with Python and its communities across the country in 2017; and remains a member to the date. She has no particular place of stay but can be found in the mountains or at the beaches for most of the year.
+    Shivani is one of the rare developers who do not need caffeine to function. She currently works with The Open Information Security Foundation developing and learning about Suricata - A Network Security Monitoring tool. She has been a member of several Open Source communities around the world and is a proud supporter of women in STEM. She got associated with Python and its communities across the country in 2017; and remains a member to the date. She has no particular place of stay but can be found in the mountains or at the beaches for most of the year.
 [Twitter](https://twitter.com/tuxish)
 
 
@@ -165,8 +162,7 @@ She organised NeuroAI (www.neuroai.in) which is India’s first-ever research sy
 
 
 ### Vinita Sharma
-    I work as a member of technical staff at Kubric and have over 6+ years of experience working across startups including Myntra and Jumbotail.
-When I am not building systems or learning about the latest stuff, I will mostly be painting or playing chess. 
+    I work as a member of technical staff at Kubric and have over 6+ years of experience working across startups including Myntra and Jumbotail. When I am not building systems or learning about the latest stuff, I will mostly be painting or playing chess. 
 [Linkedin](https://www.linkedin.com/in/vinita-sharma-56887937)
 
 
