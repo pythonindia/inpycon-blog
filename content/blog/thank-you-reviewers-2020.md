@@ -1,8 +1,12 @@
-Title: Thank you PyCon India 2020 reviewers Date: 2020-12-13 Category: 2020 Slug: thank-you-reviewers-2020 Summary: Thank you PyCon India 2020 reviewers
+Title: Thank you PyCon India 2020 reviewers 
+Date: 2020-12-13 
+Category: 2020 
+Slug: thank-you-reviewers-2020 
+Summary: Thanking our humble reviewers who reviewed talks and workshop proposals submitted to PyCon India 2020.
 
 
 
-We would like to express our appreciation and gratitude to the following people who participated in the review panel at PyCon India 2020. The talk selection process would not have been possible without their effort and expertise. The review panel comprised of a few more people, who have chosen to stay anonymous. Many thanks to them too.
+We would like to express our appreciation and gratitude for the following people who participated in the review panel at PyCon India 2020. The talk selection process would not have been possible without their effort, expertise, and time they committed to reviewing each talk. The review panel comprised of a few people, who have chosen to stay anonymous. Many thanks to them too.
 
 
 ### Aananya  Vyas
