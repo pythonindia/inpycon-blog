@@ -3,9 +3,6 @@ Date: 2020-12-13
 Category: 2020 
 Slug: thank-you-reviewers-2020 
 Summary: Thanking our humble reviewers who reviewed talks and workshop proposals submitted to PyCon India 2020.
-
-
-
 We would like to express our appreciation and gratitude for the following people who participated in the review panel at PyCon India 2020. The talk selection process would not have been possible without their effort, expertise, and time they committed to reviewing each talk. The review panel comprised of a few people, who have chosen to stay anonymous. Many thanks to them too.
 
 
@@ -43,7 +40,7 @@ We would like to express our appreciation and gratitude for the following people
 ### Anirudha K
      Anirudha has been active in python community with co-organising BangPypers and DjangoGirls Bangalore. Also cofounded the largest blockchain community in India, Blockchained India. Apart from building blockchain and fintech products as Acyclic Labs, Anirudha also does consulting on backend and product architecture. 
 [website](https://anirudha.dev/) 
-[Twitter](https://twitter.com/kranirudha).
+[Twitter](https://twitter.com/kranirudha)
 
 
 ### Anmol Krishan Sachdeva
@@ -66,8 +63,7 @@ We would like to express our appreciation and gratitude for the following people
 
 
 ### Derrick Joseph
-     Derrick is former PyCon speaker and has been a Pythonista since 2015, he started his career as a Data Scientist and later moved to Engineering. He has experience working with ML, Systems and has implemented business processes automations as generic frameworks.
-His current area of exploration is CPython and is working with Linkedin's Production Infrastructure Engineering team.
+     Derrick is former PyCon speaker and has been a Pythonista since 2015, he started his career as a Data Scientist and later moved to Engineering. He has experience working with ML, Systems and has implemented business processes automations as generic frameworks. His current area of exploration is CPython and is working with Linkedin's Production Infrastructure Engineering team.
 [Twitter](https://twitter.com/C0d3eswaran)
 [Linkedin]( https://www.linkedin.com/in/derrickjosephknatt)
 
