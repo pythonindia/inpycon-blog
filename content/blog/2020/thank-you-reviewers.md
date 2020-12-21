@@ -108,7 +108,7 @@ Joy likes to hack around the CNCF ecosystem, and in the process help startups bu
 
 ### Kuldeep Rishi
 
-Kuldeep is a husband, traveller and a software engineer working on building a hyper-scale social engagement platform at Disney+Hotstar for millions of users around the world. He likes to automate repetitive things and solve complex problems with simple solutions to make life easier for others.
+Kuldeep is a husband, traveller and a software engineer working on building a hyper-scale social engagement platform at Disney+Hotstar for millions of users around the world. Kuldeep likes to automate repetitive things and solve complex problems with simple solutions to make life easier for others.
 
 [Twitter](https://twitter.com/kuldeeprishi)
 
@@ -176,14 +176,14 @@ Soumik pursues an interest in the confluence of data mining and software enginee
 
 ### Soumya Sharma
 
-Soumya is a MS student at IIT KGP working on Machine intelligence using text (NLP). She has previously worked with Myntra and have been developing in Python for about 8 years now. She is a Women Tech Makers scholar and was also an intern for Rails Girls Summer of Code during which she had the chance to solve a bug in CPython! You'll usually find her coding in labs to be able to game on the weekends. :)
+Soumya is a MS student at IIT KGP working on Machine intelligence using text (NLP). Soumya has previously worked with Myntra and have been developing in Python for about 8 years now. Soumya is a Women Tech Makers scholar and was also an intern for Rails Girls Summer of Code during which Soumya had the chance to solve a bug in CPython! You'll usually find Soumya coding in labs to be able to game on the weekends. :)
 
 [Twitter](https://twitter.com/soummyaah)
 
 
 ### Soumyadeep Roy
 
-Soumyadeep is a researcher by profession, and loves to learn and teach coding. He is currently pursuing Ph.D in CSE department of IIT Kharagpur India on the topic of "Developing Knowledge-aware ML Algorithms with application to Healthcare''. He loves public-speaking and playing chess.
+Soumyadeep is a researcher by profession, and loves to learn and teach coding. Soumyadeep is currently pursuing Ph.D in CSE department of IIT Kharagpur India on the topic of "Developing Knowledge-aware ML Algorithms with application to Healthcare''. Soumyadeep loves public-speaking and playing chess.
 
 [Twitter](https://twitter.com/roysoumya1)
 
@@ -211,7 +211,7 @@ Usha is India’s first women Kaggle Grandmaster and she is ranked as top ten Da
 
 ### Vinita Sharma
 
-Vinita works as a member of technical staff at Kubric and have over 6+ years of experience working across startups including Myntra and Jumbotail. When she is not building systems or learning about the latest stuff, she will mostly be painting or playing chess.
+Vinita works as a Member of Technical Staff at Kubric and have over 6+ years of experience working across startups including Myntra and Jumbotail. When not building systems or learning about the latest stuff, Vinita will mostly be painting or playing chess.
 
 [Linkedin](https://www.linkedin.com/in/vinita-sharma-56887937)
 
