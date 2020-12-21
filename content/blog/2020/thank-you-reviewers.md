@@ -1,13 +1,13 @@
-Title: Thank you PyCon India 2020 reviewers 
-Date: 2020-12-13 
-Category: 2020 
-Slug: thank-you-reviewers-2020 
+Title: Thank you PyCon India 2020 reviewers
+Date: 2020-12-13
+Category: 2020
+Slug: thank-you-reviewers
 Summary: Thanking our humble reviewers who reviewed talks and workshop proposals submitted to PyCon India 2020.
 We would like to express our appreciation and gratitude for the following people who participated in the review panel at PyCon India 2020. The talk selection process would not have been possible without their effort, expertise, and time they committed to reviewing each talk. The review panel comprised of a few people, who have chosen to stay anonymous. Many thanks to them too.
 
 
 ### Aananya  Vyas
- 
+
 Aananya is a developer experience engineer (a developer advocate) at Kubric.io. Talk to her - code, communities & creativity! She loves making art & eating idlis & believes ‘to lift as one climbs’ as one of her goals.
 
 [Twitter](https://twitter.com/py_anan)
@@ -15,14 +15,14 @@ Aananya is a developer experience engineer (a developer advocate) at Kubric.io. 
 
 ### Abhiram R
 
-Abhiram is a Machine Learning Engineer who likes to work on all things data - engineering, visualization , analysis and forecasting with the programming vehicles of choice  being Python and R. He relies on the community to teach him things he does not know, which is most things and is therefore currently currently the co-organizer of Bangpypers (the largest Python User group in Bangalore) and has been running a book club in the city, operational from 2017 - Broke Bibliophiles Bangalore (https://twitter.com/BibliophilesBlr). Apart from tech and books, he's very interested in the intermingling of marketing, behavior and psychology and is open to discussing these topics as well. 
+Abhiram is a Machine Learning Engineer who likes to work on all things data - engineering, visualization , analysis and forecasting with the programming vehicles of choice  being Python and R. He relies on the community to teach him things he does not know, which is most things and is therefore currently currently the co-organizer of Bangpypers (the largest Python User group in Bangalore) and has been running a book club in the city, operational from 2017 - Broke Bibliophiles Bangalore (https://twitter.com/BibliophilesBlr). Apart from tech and books, he's very interested in the intermingling of marketing, behavior and psychology and is open to discussing these topics as well.
 
-[Twitter](https://twitter.com/abhicantdraw) 
+[Twitter](https://twitter.com/abhicantdraw)
 
 
 ### Abhishek Dash
 
-Abhisek is a doctoral student in CSE department at IIT Kharagpur. He is currently a member of Complex Network Research Group (CNeRG) at IIT Kharagpur. His research interests lie in the domain of fairness in machine learning and platform governance. 
+Abhisek is a doctoral student in CSE department at IIT Kharagpur. He is currently a member of Complex Network Research Group (CNeRG) at IIT Kharagpur. His research interests lie in the domain of fairness in machine learning and platform governance.
 
 [Twitter](https://twitter.com/AbhisekFair)
 
@@ -50,7 +50,7 @@ Anant Shrivastava is an information security professional with 12+ yrs of corpor
 
 ### Anirudha K
 
-Anirudha has been active in python community with co-organising BangPypers and DjangoGirls Bangalore. Also cofounded the largest blockchain community in India, Blockchained India. Apart from building blockchain and fintech products as Acyclic Labs, Anirudha also does consulting on backend and product architecture. 
+Anirudha has been active in python community with co-organising BangPypers and DjangoGirls Bangalore. Also cofounded the largest blockchain community in India, Blockchained India. Apart from building blockchain and fintech products as Acyclic Labs, Anirudha also does consulting on backend and product architecture.
 
 [Website](https://anirudha.dev/), [Twitter](https://twitter.com/kranirudha)
 
@@ -87,7 +87,7 @@ Derrick is former PyCon speaker and has been a Pythonista since 2015, he started
 [Twitter](https://twitter.com/C0d3eswaran), [Linkedin]( https://www.linkedin.com/in/derrickjosephknatt)
 
 
-### Dhruva Shashtri 
+### Dhruva Shashtri
 
 Her interests as an inquisitive #WomenInTech is to learn new every day so she continually looks out for areas that interest her to work on. Being a facilitator for #IamRemarkable initiative and community passionate, playing a role as an Ambassador at WTM Ahmedabad, enthusiastic about emboldening women in every sphere of their life and enjoys people’s synergy.
 
@@ -108,7 +108,7 @@ Joy likes to hack around the CNCF ecosystem, and in the process help startups bu
 
 ### Kuldeep Rishi
 
-I am a husband, traveller and a software engineer working on building a hyper-scale social engagement platform at Disney+Hotstar for millions of users around the world. I like to automate repetitive things and solve complex problems with simple solutions to make life easier for others. 
+I am a husband, traveller and a software engineer working on building a hyper-scale social engagement platform at Disney+Hotstar for millions of users around the world. I like to automate repetitive things and solve complex problems with simple solutions to make life easier for others.
 
 [Twitter](https://twitter.com/kuldeeprishi)
 
@@ -134,7 +134,7 @@ Raman Balyan is currently working as a DevOps Engineer with Accion Labs Pvt Ltd.
 [Twitter](https://twitter.com/raman_balyan)
 
 
-### Runcy Oommen 
+### Runcy Oommen
 
 Runcy is an accomplished software engineer with strong SDLC experience and a string of projects primarily in the security domain. Runcy strives constantly to build better software with extra focus on data security that would be kept throughout it’s life-cycle and not just as an after-thought. Considers himself to be a perfectionist yet remains practical, knowing where to draw the line and stop.
 
@@ -148,7 +148,7 @@ Sahil Dua is a software engineer at Google. He has been an active speaker at tec
 [Twitter](https://twitter.com/sahildua2305)
 
 
-### Shivani Bhardwaj 
+### Shivani Bhardwaj
 
 Shivani is one of the rare developers who do not need caffeine to function. She currently works with The Open Information Security Foundation developing and learning about Suricata - A Network Security Monitoring tool. She has been a member of several Open Source communities around the world and is a proud supporter of women in STEM. She got associated with Python and its communities across the country in 2017; and remains a member to the date. She has no particular place of stay but can be found in the mountains or at the beaches for most of the year.
 
@@ -202,7 +202,7 @@ Supreet tenured technical professional with significant experience in Python. He
 [Twitter](http://twitter.com/djinn)
 
 
-### Usha Rengaraju 
+### Usha Rengaraju
 
 Usha is India’s first women Kaggle Grandmaster and she is ranked as top ten Data Scientists in India for the year 2020 by Analytics India Magazine.She is Data Science Global Ambassador for HP and NVIDIA. She organised NeuroAI (www.neuroai.in) which is India’s first-ever research symposium in the interface of Neuroscience and Data Science. She specialises in Probabilistic Graphical Models, Machine Learning and Deep Learning. She has prepared curriculum for BITS Pilani’s masters in Data Science program (consumed by 20,000+ students ) and Upgrad’s PGP program in DS(consumed by 10,000+ students).
 
@@ -211,7 +211,7 @@ Usha is India’s first women Kaggle Grandmaster and she is ranked as top ten Da
 
 ### Vinita Sharma
 
-I work as a member of technical staff at Kubric and have over 6+ years of experience working across startups including Myntra and Jumbotail. When I am not building systems or learning about the latest stuff, I will mostly be painting or playing chess. 
+I work as a member of technical staff at Kubric and have over 6+ years of experience working across startups including Myntra and Jumbotail. When I am not building systems or learning about the latest stuff, I will mostly be painting or playing chess.
 
 [Linkedin](https://www.linkedin.com/in/vinita-sharma-56887937)
 
