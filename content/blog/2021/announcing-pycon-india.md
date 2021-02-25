@@ -2,7 +2,7 @@ Title: Rejoice! PyCon India is back for 2021
 Date: 2021-02-25 17:00
 Author: Nikhil Maan (@Sc0rpi0n101)
 Category: 2021
-Slug: announce-pycon-india-2021
+Slug: pycon-india-announcement
 Summary: Announcing the return of PyCon India as an online conference for 2021.
 
 From all of us at the PyCon India team, we wish you've had a safe and prosperous year. As thrilling as 2020 was, we were delighted to see people's response to [PyCon India 2020](https://in.pycon.org/2020)
