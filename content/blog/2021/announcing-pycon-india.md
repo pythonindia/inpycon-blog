@@ -7,7 +7,7 @@ Summary: Announcing the return of PyCon India as an online conference for 2021.
 
 We hope you've had a safe and healthy year. 
 
-We are very excited to announce that [**PyCon India**](https://inpycon21.netlify.app/) is back for the year 2021. The 13th iteration of the mega-conference will be organized online. 
+We are very excited to announce that [**PyCon India**](https://in.pycon.org/) is back for the year 2021. The 13th iteration of the mega-conference will be organized online. 
 
 Get ready for four days of non-stop fun and learning with four conference tracks, multiple sessions, BOFs, community booths, workshops, and devsprints.
 
@@ -23,7 +23,7 @@ The conference will be held from September 16th to 19th, 2021.
 
 **Ticket sales will be going live on April 15, 2021.**
 
-** The format for devsprints is still being planned and can be changed anytime before the conference. 
+**The format for devsprints is still being planned and can be changed anytime before the conference.** 
 
 ## Platform
 
