@@ -5,13 +5,13 @@ Category: 2021
 Slug: announce-pycon-india-2021
 Summary: Announcing the return of PyCon India as an online conference for 2021.
 
-We hope you've had a safe and healthy year. 
+From all of us at the PyCon India team, we wish you've had a safe and prosperous year. As thrilling as 2020 was, we were delighted to see people's response to [PyCon India 2020](https://in.pycon.org/2020)
 
 We are very excited to announce that [**PyCon India**](https://in.pycon.org/) is back for the year 2021. The 13th iteration of the mega-conference will be organized online. 
 
 Get ready for four days of non-stop fun and learning with four conference tracks, multiple sessions, BOFs, community booths, workshops, and devsprints.
 
-Accessing the situation with COVID-19 and the rate of vaccination, we have decided to keep PyCon India 2021 as an online event to ensure the safety of everyone involved. We know you all are excited to meet everyone in person and celebrate Python in the "real world", but everyone's health and safety are the utmost priority at this time. 
+Assessing the situation with COVID-19 and the rate of vaccination, we have decided to keep PyCon India 2021 as an online event to ensure the safety of everyone involved. We know folks were excited to meet everyone in person and celebrate Python in the "real world" by having an offline PyCon India 2021. We do too but maintaining everyone's health and safety is our utmost priority at all times. 
 
 ## Dates
 
@@ -27,17 +27,19 @@ The conference will be held from September 16th to 19th, 2021.
 
 ## Platform
 
-With our amazing experience last year, and great feedback from the attendees, we have decided to use [Hopin](https://hopin.com/) as the platform for the conference again. 
+From the feedback received from the attendees, we have decided to use [Hopin](https://hopin.com/) as the platform to organize the conference again.
+
+Along with Hopin, our communication platform for the conference will be [Zulip](https://zulip.com/). Feel free to join the [PyCon India Zulip channel](https://pyconindia.zulipchat.com/) anytime, if you want to stay updated regarding the conference. 
 
 ## Call for Proposals
 
 We will be starting our call for proposals soon.  In case you are excited about teaching or talking about Python, no matter whether you started recently or have been using Python for a decade, make sure you put in a talk proposal. No one became an expert in a day - neither at presenting nor at programming. So don't be shy and don't think too much, just put in a proposal.
 
-* CFP Opens: March 01
-* CFP Closes: May 15
+* CFP Opens: First week of March 2021
+* CFP Closes: 15th May 2021
 
 ## Sponsorship and Community Partners
 
-From our experience organizing the conference online last year, we have decided to not take any sponsorships for this year.
+This year, the team has collectively decided to not take any sponsorships to improve the logistics and organization of PyCon India 2021.
 
 On the other hand, we are looking forward to the support from the various Python communities across India in helping us organize, and manage the conference. 
