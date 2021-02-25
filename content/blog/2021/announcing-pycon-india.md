@@ -1,4 +1,4 @@
-Title: PyCon India is back online for 2021
+Title: Rejoice! PyCon India is back for 2021
 Date: 2021-02-25 17:00
 Author: Nikhil Maan (@Sc0rpi0n101)
 Category: 2021
@@ -7,15 +7,15 @@ Summary: Announcing the return of PyCon India as an online conference for 2021.
 
 We hope you've had a safe and healthy year. 
 
-We are very excited to announce that [**PyCon India**](https://inpycon21.netlify.app/) is back online for 2021.
+We are very excited to announce that [**PyCon India**](https://inpycon21.netlify.app/) is back for the year 2021. The 13th iteration of the mega-conference will be organized online. 
 
-Get ready for 4 days of non-stop fun and learning with 4 conference tracks, sessions, BOFs, community booths, workshops, and devsprints.
+Get ready for four days of non-stop fun and learning with four conference tracks, multiple sessions, BOFs, community booths, workshops, and devsprints.
 
 Accessing the situation with COVID-19 and the rate of vaccination, we have decided to keep PyCon India 2021 as an online event to ensure the safety of everyone involved. We know you all are excited to meet everyone in person and celebrate Python in the "real world", but everyone's health and safety are the utmost priority at this time. 
 
 ## Dates
 
-The conference will be held from September 16 to 19, 2021.
+The conference will be held from September 16th to 19th, 2021.
 
 * Conference Days: September 16 and 17
 * Workshops: September 18
