@@ -42,4 +42,8 @@ We will be starting our call for proposals soon.  In case you are excited about 
 
 This year, the team has collectively decided to not take any sponsorships to improve the logistics and organization of PyCon India 2021.
 
-On the other hand, we are looking forward to the support from the various Python communities across India in helping us organize, and manage the conference. 
+We are looking forward to the support from the various Python communities across India joining hands to help us prepare, organize, and manage the mega-conference this year! 
+
+Looking forward to meeting you all during the conference. 
+
+**PyCon India 2021 Team**
