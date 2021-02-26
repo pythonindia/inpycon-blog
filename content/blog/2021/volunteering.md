@@ -49,12 +49,12 @@ All the aspects of the conference are managed by the volunteers. There are a var
     - Outreach
 * Diversity WG
 * Finance & Tickets WG
-* Mentorship/Editorial WG
-* Platform WG (track chairs, track volunteers, platform (zulip & hopin) volunteers)
-* Review Panel WG (event scheduling, talk selection, workshop selection)
-* Sessions WG (manage sessions like BoFs, Science and other tracks)
+* Mentorship & Editorial WG
+* Platform WG
+* Review Panel
+* Sessions WG
 * Support WG
-* Technology WG (website, badges, r&d, cfp platform, github org, anything tech)
+* Technology WG
 
 
 We don’t have any specific requirements for our volunteers. Any contributions to any area of the conference which will make the event better are welcome. If you need any help with any work, feel free to reach out to any of us at our [Zulip channel](https://pyconindia.zulipchat.com/).
@@ -75,7 +75,7 @@ Now that you’re aware of what it takes and what it means to volunteer, if you 
 
 * Filling our [Volunteer form](https://forms.gle/vuNphBsEc1KLXUSs9), which will let our team know you are interested in helping out. The leads for the workgroup you're interested in helping will contact you.
 
-* Joining the [mailing list](https://mail.python.org/mailman/listinfo/inpycon)to stay up to date with all the happenings, discussions, and overall progress of the conference preparations.
+* Joining the [mailing list](https://mail.python.org/mailman/listinfo/inpycon) to stay up to date with all the happenings, discussions, and overall progress of the conference preparations.
 
 
 * Join our [Zulip channel](https://pyconindia.zulipchat.com/) and follow the workgroups you would like to contribute to. There you can meet all other volunteers, and discuss and share your work with others.
