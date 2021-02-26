@@ -1,11 +1,11 @@
-Title: Help us PyCon India 2021 even more amazing
+Title: Help us make PyCon India 2021 even more amazing
 Date: 2021-02-26 17:00
 Author: Nikhil Maan (@sc0rpi0n101)
 Category: 2021
 Slug: 2021-call-for-volunteers
 Summary: Want to give back to the Python community? Here’s an awesome opportunity for you to do it with the year's premier Python conference, **PyCon India 2021**.
 
-[PyCon India](https://in.pycon.org/2021/) is a grass-roots, volunteer-driven conference. What that means is every year for the past 13 years, Python communities across the nation have come together to help plan, organize, manage, and run the conference. The conference is operated entirely by volunteers from planning to finding the speakers to managing call for proposals to handling the mega event successfully without fail.
+[PyCon India](https://in.pycon.org/2021/) is a grass-roots, volunteer-driven conference. What that means is every year for the past 12 years, Python communities across the nation have come together to help plan, organize, manage, and run the conference. The conference is operated entirely by volunteers from planning to finding the speakers to managing call for proposals to handling the mega event successfully without fail.
 
 ## Things you should know before volunteering
 
@@ -17,7 +17,7 @@ Before you volunteer to help the community make the conference even more amazing
 * If you are engaged in a volunteering activity while a session is going on, you might not be able to attend that session. If someone needs your assistance with a task, you need to be there. So, plan your conference schedule accordingly.
 
 
-* Volunteering does not provide you a free way into the event. At PyCon, everyone needs to buy a ticket, even the organizers. We volunteer because we love Python and the community, and want to make this event great, not to get a free pass to the conference.
+* Volunteering does not provide you a free way into the event. At PyCon India, everyone needs to buy a ticket, even the organizers. We volunteer because we love the Python programming language and the community, and want to make this event great, not to get a free pass to the conference.
 
 __Workgroup__ - Group of people responsible for the execution of specific tasks focused on a particular aspect of the conference mandated for a given team. The workgroup is also responsible for setting guidelines on the team's working.
 
@@ -72,6 +72,8 @@ You can read more about the program on the [PyCon India Navigator](https://in.py
 ## Getting started with volunteering
 
 Now that you’re aware of what it takes and what it means to volunteer, if you wish to help us make the conference even better with your contributions, you should start with:
+
+* Filling our [Volunteer form](https://forms.gle/vuNphBsEc1KLXUSs9), which will let our team know you are interested in helping out. The leads for the workgroup you're interested in helping will contact you. 
 
 * Joining the [mailing list](https://mail.python.org/mailman/listinfo/inpycon)to stay up to date with all the happenings, discussions, and overall progress of the conference preparations.
 
