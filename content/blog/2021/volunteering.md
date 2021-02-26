@@ -2,7 +2,7 @@ Title: Help us make PyCon India 2021 even more amazing
 Date: 2021-02-26 17:00
 Author: Nikhil Maan (@sc0rpi0n101)
 Category: 2021
-Slug: 2021-call-for-volunteers
+Slug: call-for-volunteers
 Summary: Want to give back to the Python community? Here’s an awesome opportunity for you to do it with the year's premier Python conference, **PyCon India 2021**.
 
 [PyCon India](https://in.pycon.org/2021/) is a grass-roots, volunteer-driven conference. What that means is every year for the past 12 years, Python communities across the nation have come together to help plan, organize, manage, and run the conference. The conference is operated entirely by volunteers from planning to finding the speakers to managing call for proposals to handling the mega event successfully without fail.
@@ -73,7 +73,7 @@ You can read more about the program on the [PyCon India Navigator](https://in.py
 
 Now that you’re aware of what it takes and what it means to volunteer, if you wish to help us make the conference even better with your contributions, you should start with:
 
-* Filling our [Volunteer form](https://forms.gle/vuNphBsEc1KLXUSs9), which will let our team know you are interested in helping out. The leads for the workgroup you're interested in helping will contact you. 
+* Filling our [Volunteer form](https://forms.gle/vuNphBsEc1KLXUSs9), which will let our team know you are interested in helping out. The leads for the workgroup you're interested in helping will contact you.
 
 * Joining the [mailing list](https://mail.python.org/mailman/listinfo/inpycon)to stay up to date with all the happenings, discussions, and overall progress of the conference preparations.
 
@@ -85,7 +85,7 @@ Now that you’re aware of what it takes and what it means to volunteer, if you 
 
     * [Conference task tracking](https://github.com/pythonindia/inpycon2021-tasks)
 
-    * [PyCon 2020 Website](https://github.com/pythonindia/inpycon2021)
+    * [PyCon 2021 Website](https://github.com/pythonindia/inpycon2021)
 
     * [PyCon Blog](https://github.com/pythonindia/inpycon-blog)
 
