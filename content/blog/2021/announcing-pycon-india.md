@@ -26,6 +26,7 @@ The conference will be held from September 16th to 19th, 2021.
 **The format for devsprints is still being planned and can be changed anytime before the conference.**
 
 ** *There have been some updates to the conference structure*
+
 The conference will be taking place from September 17th to 20th, 2021 with the following structure
 
 * Workshops: September 17
