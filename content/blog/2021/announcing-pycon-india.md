@@ -7,11 +7,11 @@ Summary: Announcing the return of PyCon India as an online conference for 2021.
 
 From all of us at the PyCon India team, we wish you've had a safe and prosperous year. As thrilling as 2020 was, we were delighted to see people's response to [PyCon India 2020](https://in.pycon.org/2020).
 
-We are very excited to announce that [**PyCon India**](https://in.pycon.org/) is back for the year 2021. The 13th iteration of the mega-conference will be organized online. 
+We are very excited to announce that [**PyCon India**](https://in.pycon.org/) is back for the year 2021. The 13th iteration of the mega-conference will be organized online.
 
 Get ready for four days of non-stop fun and learning with four conference tracks, multiple sessions, BOFs, community booths, workshops, and devsprints.
 
-Assessing the situation with COVID-19 and the rate of vaccination, we have decided to keep PyCon India 2021 as an online event to ensure the safety of everyone involved. We know folks were excited to meet everyone in person and celebrate Python in the "real world" by having an offline PyCon India 2021. We do too but maintaining everyone's health and safety is our utmost priority at all times. 
+Assessing the situation with COVID-19 and the rate of vaccination, we have decided to keep PyCon India 2021 as an online event to ensure the safety of everyone involved. We know folks were excited to meet everyone in person and celebrate Python in the "real world" by having an offline PyCon India 2021. We do too but maintaining everyone's health and safety is our utmost priority at all times.
 
 ## Dates
 
@@ -23,13 +23,21 @@ The conference will be held from September 16th to 19th, 2021.
 
 **Ticket sales will be going live on April 15, 2021.**
 
-**The format for devsprints is still being planned and can be changed anytime before the conference.** 
+**The format for devsprints is still being planned and can be changed anytime before the conference.**
+
+** *There have been some updates to the conference structure*
+
+The conference will be taking place from September 17th to 20th, 2021 with the following structure
+
+* Workshops: September 17
+* Conference Days: September 18 and 19
+* Devsprints: September 20
 
 ## Platform
 
 From the feedback received from the attendees, we have decided to use [Hopin](https://hopin.com/) as the platform to organize the conference again.
 
-Along with Hopin, our communication platform for the conference will be [Zulip](https://zulip.com/). Feel free to join the [PyCon India Zulip channel](https://pyconindia.zulipchat.com/) anytime, if you want to stay updated regarding the conference. 
+Along with Hopin, our communication platform for the conference will be [Zulip](https://zulip.com/). Feel free to join the [PyCon India Zulip channel](https://pyconindia.zulipchat.com/) anytime, if you want to stay updated regarding the conference.
 
 ## Call for Proposals
 
@@ -42,8 +50,8 @@ We will be starting our call for proposals soon.  In case you are excited about 
 
 This year, the team has collectively decided to not take any sponsorships to improve the logistics and organization of PyCon India 2021.
 
-We are looking forward to the support from the various Python communities across India joining hands to help us prepare, organize, and manage the mega-conference this year! 
+We are looking forward to the support from the various Python communities across India joining hands to help us prepare, organize, and manage the mega-conference this year!
 
-Looking forward to meeting you all during the conference. 
+Looking forward to meeting you all during the conference.
 
 **PyCon India 2021 Team**
