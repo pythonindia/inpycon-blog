@@ -2,7 +2,7 @@ Title: PyCon India 2021: Update to the conference dates and structure
 Date: 2021-03-03 17:00
 Author: Nikhil Maan (@Sc0rpi0n101)
 Category: 2021
-Slug: pycon-india-update-announce
+Slug: schedule-update
 Summary: There have been a few changes to the dates and structure of the conference for PyCon India 2021.
 
 We had recently announced [PyCon India 2021](https://in.pycon.org/blog/2021/pycon-india-announcement.html).
