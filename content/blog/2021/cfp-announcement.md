@@ -14,8 +14,8 @@ We are looking forward to seeing beginner, intermediate, and advanced proposals 
 
 Please make note of some important dates as mentioned below:
 
-- CFP opens on **4th March 2021**
-- CFP closes on **15th May 2021**
+- CFP opens on **5th March 2021**
+- CFP closes on **7th May 2021**
 - Schedule shall be released on **Last week of July**
 
 - Talks will be presented online on **18th and 19th September 2020**
