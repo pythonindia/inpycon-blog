@@ -9,7 +9,8 @@ Summary: PyCon India is back for 2021, it's online and the [call for proposals](
 
 So, whether you are someone submitting a proposal for talks for the first time or just want to share what you have been up to with Python for a long time. This is YOUR time to shine!
 
-We are looking forward to seeing beginner, intermediate, and advanced proposals on topics mentioned below from speakers from a variety of experience levels and fields.  You don’t need to be a veteran who has spoken at dozens of conferences. For making our conference truly diverse, we are looking for all kinds of people. That’s what our community is comprised of, and that’s what this conference’s schedule should be made from.
+We are looking forward to seeing beginner, intermediate, and advanced proposals on diverse topics from speakers of different expertise, and experience. To a submit a proposal, you don’t need to be a veteran who has spoken at a dozen conferences in the past. For making our conference truly diverse, we are looking for all kinds of people. That’s what our community is comprised of, and that’s what this conference’s schedule should be truly made out of.
+
 
 Please make note of some important dates as mentioned below:
 
@@ -27,7 +28,9 @@ Read the [call for proposals editorial](https://in.pycon.org/cfp/2021/proposals/
 
 ## Guide to writing amazing proposals
 
-As you think about your experiences, skills, and knowledge that you would want to bring to the table. We also want you to focus on the proposal that you will be submitting to us. A well-thought-out proposal means everything here at this point. Take your time to go through our team's advice on preparing a kickass proposal that turns heads (virtually):
+As you think about your experiences, skills, and knowledge that you would want to bring to the table. We also want you to focus on the proposal that you will be submitting to us. A well-thought-out proposal could mean a chance for it to be selected and presented at PyCon India 2021. Take your time to go through our team's advice on preparing a kickass proposal that turns heads (virtually):
+
+
 
 When submitting a proposal, you would need to fill in the following details.
 
@@ -94,7 +97,6 @@ Try to keep your voice clear and check that it's being recorded properly. Make s
 
 Feel free to ping us on [Zulip](https://pyconindia.zulipchat.com/) or IRC (#pyconindia) or contact the coordinators through email:
 
--
 - The team: [cfp@in.pycon.org](mailto:cfp@in.pycon.org)
 
 **We look forward to seeing your proposals filling our inboxes in the coming months! Till then stay safe, stay vanilla!**
