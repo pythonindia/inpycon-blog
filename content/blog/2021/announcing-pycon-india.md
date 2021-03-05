@@ -5,13 +5,13 @@ Category: 2021
 Slug: pycon-india-announcement
 Summary: Announcing the return of PyCon India as an online conference for 2021.
 
-** *There have been some updates to the conference structure*
+** *There have been some updates to the conference structure. The updated dates for the conference are __September 17th to 20th__*
 
-The conference will be taking place from September 17th to 20th, 2021 with the following structure
+The conference structure with the new dates will be as follows:
 
-* Workshops: September 17
-* Conference Days: September 18 and 19
-* Devsprints: September 20
+* Workshops: __September 17__
+* Conference Days: __September 18 and 19__
+* Devsprints: __September 20__
 
 You can learn more about the updates from our [PyCon India 2021 Update blog](https://in.pycon.org/blog/2021/schedule-update.html).
 
