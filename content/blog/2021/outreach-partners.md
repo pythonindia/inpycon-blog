@@ -23,7 +23,6 @@ We would like to invite your community to be an outreach partner for PyCon India
 For supporting the conference, our outreach partners can expect the following in return from PyCon India:
 
 * We will Acknowledge your community in opening and closing address
-* We will display your community logo on the conference screen between sessions
 * We will display your Logos and Names on the conference website.
 * We will also promote your community on our social media channels as a supporter of the conference.
 
@@ -33,6 +32,8 @@ For supporting the conference, our outreach partners can expect the following in
 * Outreach partners for PyCon India 2021 will not be carried forward to further years.  
 
 Please be mindful of others and respect each other and be clear in your communication while addressing the audience at the conference/expo booths and follow the conference [Code of Conduct](https://in.pycon.org/2021/coc.html).
+
+The PyCon India team reserves the right to take the necessary action as deemed fit and needed in case of any violation of the Code of Conduct, or if you are found not abiding by the program guidelines.
 
 **Please note that the primary channel for communication will be [Zulip](https://pyconindia.zulipchat.com/), post-confirmation.**
 
