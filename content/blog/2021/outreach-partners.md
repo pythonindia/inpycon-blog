@@ -15,7 +15,7 @@ We would like to invite your community to be an outreach partner for PyCon India
 
 * Introduce your community to PyCon India 2021 by creating an event on your platform and share the event on your Social Media platforms.
 * Share the content from the conference with your community members on your mailing list, social media channels, and messaging groups.
-* Spread the word about our call for proposals for talks, workshops & dev sprint and help us find speakers, mentors, and reviewers from your community for the conference.
+* Spread the word about our call for proposals for talks, workshops & Devsprint and help us find speakers, mentors, and reviewers from your community for the conference.
 * Update the PyCon India team after sharing the content from the conference on your platforms so that the team can keep track of our promotions.
 
 ## What you can expect from us
