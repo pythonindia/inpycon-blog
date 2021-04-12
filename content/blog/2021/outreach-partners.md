@@ -1,5 +1,5 @@
 Title: We are looking for outreach partners for PyCon India 2021
-Date: 2021-04-06 23:00
+Date: 2021-04-12 17:00
 Author: Nikhil Maan (@sc0rpi0n101)
 Category: 2021
 Slug: outreach-partners
@@ -30,6 +30,7 @@ For supporting the conference, our outreach partners can expect the following in
 
 * There will not be any discounts on ticket prices or any other financial benefits of any kind, since PyCon India 2021 is a volunteer-driven event.  
 * Outreach partners for PyCon India 2021 will not be carried forward to further years.  
+* Do not use the conference name for any paid promotions for your community.
 
 Please be mindful of others and respect each other and be clear in your communication while addressing the audience at the conference/expo booths and follow the conference [Code of Conduct](https://in.pycon.org/2021/coc.html).
 
