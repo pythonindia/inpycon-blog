@@ -1,6 +1,5 @@
-Title: Best Practises to look out for when submitting talks
+Title: Best Practises to look out for when submitting talks to PyCon India
 Date: 2021-04-07 17:09
-Author: Vipul Gupta (@vipulgupta2048)
 Category: 2021
 Slug: cfp-best-practises
 Summary: This year, PyCon India 2021 looks out for even more talks to be presented at the conference. Read on to know how you too can make sure your proposal gets selected. 
