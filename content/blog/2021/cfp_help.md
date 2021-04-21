@@ -24,7 +24,7 @@ Prospective speakers of PyCon India can take a look at our curated blog posts on
 
 ### **Join us on Zulip for faster answers to any questions**
 
-You can always contact our mentors on Zulip. You can join them on the [PyCon India Zulip Channel](https://pyconindia.zulipchat.com/#) and drop a text in the [pre-cfp topic](https://pyconindia.zulipchat.com/#narrow/stream/245487-wg.2Fmentorship/topic/pre-cfp) of the #Mentorship stream (Streams are available to choose from the sidebar on the left).
+You can always contact our mentors on Zulip. You can join them on the [PyCon India Zulip Channel](https://pyconindia.zulipchat.com/#) and drop a text in the [pre-cfp topic](https://pyconindia.zulipchat.com/#narrow/stream/245487-wg.2Fmentorship/topic/pre-cfp) of the #wg/mentorship stream (Streams are available to choose from the sidebar on the left).
 
 ### **Open Mentorship calls**
 
@@ -32,7 +32,7 @@ In the hopes of providing better opportunities and assistance for first-time spe
 
 * **Date:** Weekly on Saturdays
 * **Time:** 15:00 to 17:00 IST
-* **Platform:** Google Meet - Join with the [invite link](https://meet.google.com/pot-jzjq-udn)
+* **Platform:** Google Meet - Join with the [invite link](https://meet.jit.si/PyConIndia21Mentorship)
 
 This way you can interact with the mentorship team instantly and clear out queries on a more real-time basis.
 
