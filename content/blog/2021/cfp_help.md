@@ -1,8 +1,8 @@
-Title: How to write a proposal for the talk in PyCon? Our Mentorship team is here to help
+Title: Writing a proposal for PyCon India? Our Mentorship team is here to help!
 Date: 2021-04-14 10:00
 Author: Dinesh Kumar P (@dinuswt22)
 Category: 2021
-Slug: writing-proposal-pycon-mentorship-team-help
+Slug: announce-mentorship
 Summary: Announcing PyCon India Mentorship team's resources, contact links, and weekly calls for first-time speakers as well as veterans.
 
 Do you wish to submit a proposal to PyCon India 2021 but cannot figure out the flow of your talk or how to present it?
@@ -24,7 +24,7 @@ Prospective speakers of PyCon India can take a look at our curated blog posts on
 
 ### **Join us on Zulip for faster answers to any questions**
 
-You can always contact our mentors on Zulip. You can join them on the [PyCon India Zulip Channel](https://pyconindia.zulipchat.com/#) and drop a text in the [pre-cfp topic](https://pyconindia.zulipchat.com/#narrow/stream/245487-wg.2Fmentorship/topic/pre-cfp) of the #wg/mentorship stream (Streams are available to choose from the sidebar on the left).
+You can always contact our mentors on Zulip. You can join them on the [PyCon India Zulip Channel](https://pyconindia.zulipchat.com/#) and drop a text in the [pre-cfp-21 topic](https://pyconindia.zulipchat.com/#narrow/stream/245487-wg.2Fmentorship/topic/pre-cfp-21) of the #wg/mentorship stream (Streams are available to choose from the sidebar on the left).
 
 ### **Open Mentorship calls**
 
@@ -38,7 +38,7 @@ This way you can interact with the mentorship team instantly and clear out queri
 
 ### **Reviewing Proposals**
 
-Whichever platform you choose to opt for interacting with the mentors, you would be asked to share a Google document with comment access to a mentor, who will then review and help you polish the draft. If you don't get any response in 48 hours, please send a direct message to @siddharthvipul on Zulip. And that’s all you need to do.
+Whichever platform you choose to opt for interacting with the mentors, you would be asked to share a Google document with comment access to a mentor, who will then review and help you polish the draft. If you don't get any response in 48 hours, please send a ollow up message to [#wg/mentorship](https://pyconindia.zulipchat.com/#narrow/stream/245487-wg.2Fmentorship/topic/pre-cfp-21) on Zulip. And that’s all you need to do.
 
 Hope this helps in the process of framing a proposal and make it easier for you to apply for a talk at PyCon India. After all, PyCon India is a community-driven event and our foremost priority is to help you learn and grow. So, keep your worries aside and just keep on submitting them proposals. If you need any help, we are just a text away!
 
