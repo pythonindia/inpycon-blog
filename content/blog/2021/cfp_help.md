@@ -1,6 +1,6 @@
 Title: Writing a proposal for PyCon India? Our Mentorship team is here to help!
 Date: 2021-04-14 10:00
-Author: Dinesh Kumar P (@dinuswt22)
+Author: 
 Category: 2021
 Slug: announce-mentorship
 Summary: Announcing PyCon India Mentorship team's resources, contact links, and weekly calls for first-time speakers as well as veterans.
