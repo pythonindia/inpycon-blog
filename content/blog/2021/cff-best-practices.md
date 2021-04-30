@@ -1,7 +1,7 @@
-Title: Best Practises to look out for when submitting talks to PyCon India
+Title: Best Practices to look out for when submitting talks to PyCon India
 Date: 2021-04-07 17:09
 Category: 2021
-Slug: cfp-best-practises
+Slug: cfp-best-practices
 Summary: This year, PyCon India 2021 looks out for even more talks to be presented at the conference. Read on to know how you too can make sure your proposal gets selected. 
 
 [**PyCon India**](https://in.pycon.org/2021/) is the largest gathering of Pythonistas in India for the Python programming language. The 13th edition of PyCon India will be taking place online **from 17th September to 20th September 2021**. So, whether you are someone submitting a proposal for talks for the first time or want to share what you have been up to with Python for a long time. This is *YOUR* time to shine!
