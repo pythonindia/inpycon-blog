@@ -10,6 +10,7 @@ PyCon India 2021 call for proposals (CFP) has received amazing talks and worksho
 
 We understand this is a challenging time for everyone, and some people might not have enough time to complete their proposals in time. So, we have decided to extend our CFP deadline for talks until **May 22nd, 23:59 UTC+5:30**. If you were worried you would not be able to submit your proposal on time, you now have **15 more days** to do it now.
 
-Please take this time to submit new proposals, improve the ones you have already submitted based on the review received, and make sure to fulfill the submission criteria by all means. This will be our final extension to the call for proposals. We hope you make the most of it.
+Please take this time to submit new proposals, improve the ones you have already submitted based on the review received, and make sure to fulfill the submission criteria by all means. This will be our final extension to the call for proposals. We hope you make the most of it. If you want to get assistance regarding your proposal, you can join our [weekly mentorship calls](https://in.pycon.org/blog/2021/announce-mentorship.html).
+
 
 [Submit your proposals now!!](https://in.pycon.org/cfp/2021/proposals/)
