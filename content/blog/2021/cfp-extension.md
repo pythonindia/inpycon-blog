@@ -4,9 +4,9 @@ Category: 2021
 Slug: cfp-extension
 Summary: PyCon India 2021 call for proposal is being extended till May 22 due to the circumstances.
 
-We hope this announcement finds you and your family health and safe.
+We hope this announcement finds you and your family healthy and safe.
 
-PyCon India 2021 call for proposals (CFP) has received amazing talks and workshops from the global Python community. The deadline for the CFP was May 7th, 2021.
+The deadline for PyCon India 2021 call for proposals (CFP) was May 7th, 2021. We have received amazing talks and workshops from the global Python community, even in such turbulent time.
 
 We understand this is a challenging time for everyone, and some people might not have enough time to complete their proposals in time. So, we have decided to extend our CFP deadline for talks until **May 22nd, 23:59 UTC+5:30**. If you were worried you would not be able to submit your proposal on time, you now have **15 more days** to do it now.
 
