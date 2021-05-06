@@ -1,5 +1,5 @@
 Title: PyFlames 2021 - The road to PyCon India 2021
-Date: 2020-05-06 17:00
+Date: 2021-05-06 17:00
 Category: 2021
 Slug: pyflames
 Summary: PyCon communities are coming together to organize a series of mega meetups as a precursor to PyCon India 2021
@@ -21,7 +21,7 @@ _10:40 - 11:00_ - How to get started with Programming? - Hari Sapna Nair
 _11:00 - 11:20_ - The File Server - Vipin Kumar
 _11:20 - 11:40_ - Building web apps for ML/AI using Python StreamLit - Suman Debnath
 _11:40 - 12:00_ - Onwards & Upwards with PYTHON - Subhashree Hazra
-_12:00 - 12:10_ - BYOD(Drink)
+_12:00 - 12:10_ - Bring Your Own Drink
 _12:10 - 12:30_ - The Joy of Programming - Anand C
 _12:30 - 12:50_ - Ethical Considerations While Building AI Systems - Anjali Bhavan
 _12:50 - 1:10_ - Build Serverless Python Applications using AWS Chalice - Harsh Bardhan Mishra
@@ -33,10 +33,10 @@ _Post-event_ - PyCon India Office Hours (AMA regarding PyCon India 2021)
 
 Various Python communities across India have collaborated to make these mega meetups a possibility. We are very grateful to all the communities. You can find out more about the communities:
 
-[PyDelhi](https://pydelhi.org/)
-[HydPy](https://www.hydpy.org/)
-[BangPypers]()
-[Python Pune]()
-[ChennaiPy](https://chennaipy.org/)
-[Pyladies](https://pyladies.com/)
-[PyJaipur](https://www.pyjaipur.org/)
+- [BangPypers](https://www.meetup.com/BangPypers)
+- [ChennaiPy](https://chennaipy.org/)
+- [HydPy](https://www.hydpy.org/)
+- [PyDelhi](https://pydelhi.org/)
+- [PyJaipur](https://www.pyjaipur.org/)
+- [Pyladies India](https://pyladies.com/)
+- [Python Pune](https://pythonpune.in)
