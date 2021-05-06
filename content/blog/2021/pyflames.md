@@ -16,18 +16,17 @@ The event will have 3 hours of interesting and insightful talks on Python follow
 
 ## Agenda
 
-_10:30 - 10:40_ - Intro to PyCon India 2021 and community chapters
-_10:40 - 11:00_ - How to get started with Programming? - Hari Sapna Nair
-_11:00 - 11:20_ - The File Server - Vipin Kumar
-_11:20 - 11:40_ - Building web apps for ML/AI using Python StreamLit - Suman Debnath
-_11:40 - 12:00_ - Onwards & Upwards with PYTHON - Subhashree Hazra
-_12:00 - 12:10_ - Bring Your Own Drink
-_12:10 - 12:30_ - The Joy of Programming - Anand C
-_12:30 - 12:50_ - Ethical Considerations While Building AI Systems - Anjali Bhavan
-_12:50 - 1:10_ - Build Serverless Python Applications using AWS Chalice - Harsh Bardhan Mishra
-_1:10 - 1:30_ - Python and Flutter application for Colouring and Enhancing Old Photos - Utkarsh Mishra
-
-_Post-event_ - PyCon India Office Hours (AMA regarding PyCon India 2021)
+- _10:30 - 10:40_ - Intro to PyCon India 2021 and community chapters
+- _10:40 - 11:00_ - How to get started with Programming? - Hari Sapna Nair
+- _11:00 - 11:20_ - The File Server - Vipin Kumar
+- _11:20 - 11:40_ - Building web apps for ML/AI using Python StreamLit - Suman Debnath
+- _11:40 - 12:00_ - Onwards & Upwards with PYTHON - Subhashree Hazra
+- _12:00 - 12:10_ - Bring Your Own Drink
+- _12:10 - 12:30_ - The Joy of Programming - Anand C
+- _12:30 - 12:50_ - Ethical Considerations While Building AI Systems - Anjali Bhavan
+- _12:50 - 13:10_ - Build Serverless Python Applications using AWS Chalice - Harsh Bardhan Mishra
+- _13:10 - 13:30_ - Python and Flutter application for Colouring and Enhancing Old Photos - Utkarsh Mishra
+- _Post-event_ - PyCon India Office Hours (AMA regarding PyCon India 2021)
 
 ## The Communities
 
