@@ -10,21 +10,21 @@ The conference will be having a packed schedule of workshops, keynotes, talks, a
 
 We have started with the ticket sales of our mega event and the details for the same are available on [PyCon India's official website](https://in.pycon.org/). To make the event inclusive and accessible to all, we have kept the ticket prices to a bare minimum, namely.
 
-**Rush to grab your early bird tickets now from [Townscript]()!**
+**Rush to grab your early bird tickets now from [Townscript](https://www.townscript.com/v2/e/pycon-india-2021/booking/tickets)!**
 
 ## Types of Tickets
 
 ## Early Bird
 
-An Early bird ticket reserves your seat for 2 days of the conference and Devsprints, with the pricing of INR x (GST excluded), the sale of early bird tickets ends in 5 days after their release or when the sale of tickets has been completed, whichever comes earlier.
+An Early bird ticket reserves your seat for 2 days of the conference and Devsprints, with the pricing of INR 450 (GST excluded), the sale of early bird tickets ends in 5 days after their release or when the sale of tickets has been completed, whichever comes earlier.
 
 ## Regular
 
-A regular ticket reserves your seat for 2 days of the conference and Devsprints, with the pricing of INR x (GST excluded), the sale of regular tickets begins after the sale of early bird tickets ends till the sale of tickets has been completed.
+A regular ticket reserves your seat for 2 days of the conference and Devsprints, with the pricing of INR 600 (GST excluded), the sale of regular tickets begins after the sale of early bird tickets ends till the sale of tickets has been completed.
 
 ## Late Bird
 
-A late bird ticket reserves your seat for 2 days of the conference and Devsprints, with the pricing of INR x (GST excluded), the sale of the late bird begins after the sale of regular tickets ends till the ticket sales for the conference close. These are unlimited in number.
+A late bird ticket reserves your seat for 2 days of the conference and Devsprints, with the pricing of INR 1000 (GST excluded), the sale of the late bird begins after the sale of regular tickets ends till the ticket sales for the conference close. These are unlimited in number.
 
 ## Contributor
 
