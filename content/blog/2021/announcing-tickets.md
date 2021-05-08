@@ -23,6 +23,10 @@ An Early bird ticket reserves your seat for 2 days of the conference and Devspri
 
 A regular ticket reserves your seat for 2 days of the conference and Devsprints, with the pricing of INR 600 (GST excluded), the sale of regular tickets begins after the sale of early bird tickets ends till the sale of tickets has been completed.
 
+## Combo 
+
+An Combo ticket reserves your seat for 2 days of the conference, workshops and Devsprints, with the pricing of INR 1260 (GST excluded), the sale of combo tickets begins after the sale of early bird tickets ends till the ticket sales for the conference close.
+
 ## Late Bird
 
 A late bird ticket reserves your seat for 2 days of the conference and Devsprints, with the pricing of INR 1000 (GST excluded), the sale of the late bird begins after the sale of regular tickets ends till the ticket sales for the conference close. These are unlimited in number.
