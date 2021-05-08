@@ -6,7 +6,8 @@ Summary: Tickets for the conference are live! Grab those limited Early Bird tick
 
 PyCon India is a volunteer-driven conference where Python communities across the nation come together to meet, discuss, and learn about their favorite aspects of Python. It's the country's largest premier conference for the Python programming language, unparalleled in the opportunities, knowledge, and networking potential.
 
-The conference will be having a packed schedule of workshops, keynotes, talks, and dev-sprints strung together through multiple parallel tracks. Any person who has a conference ticket is also eligible to attend the Devsprints.
+The conference will be having a packed schedule of workshops, keynotes, talks, and Devsprints strung together through multiple parallel tracks. Any person who has a conference ticket is also eligible to attend the Devsprints.
+
 
 We have started with the ticket sales of our mega event and the details for the same are available on [PyCon India's official website](https://in.pycon.org/). To make the event inclusive and accessible to all, we have kept the ticket prices to a bare minimum, namely.
 
