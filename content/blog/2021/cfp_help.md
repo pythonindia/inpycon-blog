@@ -38,7 +38,7 @@ This way you can interact with the mentorship team instantly and clear out queri
 
 ### **Reviewing Proposals**
 
-Whichever platform you choose to opt for interacting with the mentors, you would be asked to share a Google document with comment access to a mentor, who will then review and help you polish the draft. If you don't get any response in 48 hours, please send a ollow up message to [#wg/mentorship](https://pyconindia.zulipchat.com/#narrow/stream/245487-wg.2Fmentorship/topic/pre-cfp-21) on Zulip. And that’s all you need to do.
+Whichever platform you choose to opt for interacting with the mentors, you would be asked to share a Google document with comment access to a mentor, who will then review and help you polish the draft. If you don't get any response in 48 hours, please send a follow up message to [#wg/mentorship](https://pyconindia.zulipchat.com/#narrow/stream/245487-wg.2Fmentorship/topic/pre-cfp-21) on Zulip. And that’s all you need to do.
 
 Hope this helps in the process of framing a proposal and make it easier for you to apply for a talk at PyCon India. After all, PyCon India is a community-driven event and our foremost priority is to help you learn and grow. So, keep your worries aside and just keep on submitting them proposals. If you need any help, we are just a text away!
 
