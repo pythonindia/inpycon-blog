@@ -1,5 +1,5 @@
 Title:Announcing the first Keynote Speaker for PyCon India 2021 - Alolita Sharma
-Date: 2020-05-20 17:00
+Date: 2021-05-20 17:00
 Category: 2021
 Slug: keynote-announcement-alolita-sharma
 Summary: We are happy to announce **Alolita Sharma** as a Keynote Speaker for PyCon India 2021!
