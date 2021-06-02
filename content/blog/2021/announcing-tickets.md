@@ -1,5 +1,5 @@
 Title: PyCon India 2021 tickets are live
-Date: 2021-054-08 12:00
+Date: 2021-05-08 12:00
 Category: 2021
 Slug: announce-ticket-sales
 Summary: Tickets for the conference are live! Grab those limited Early Bird tickets.

@@ -4,7 +4,7 @@ Category: 2021
 Slug: keynote-announcement-sebastian-ramirez
 Summary: We are happy to announce **Sebastián Ramírez** as a Keynote Speaker for PyCon India 2021!
 
-![Sebastián Ramírez](https://in.pycon.org/2021/images/sebastian.png)
+<p align="center"><img alt="Sebastián Ramírez" src="https://in.pycon.org/2021/images/sebastian.png"></p>
 
 Sebastián Ramírez (@tiangolo) is the creator of FastAPI, Typer, and other open source tools.
 
