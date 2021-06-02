@@ -1,5 +1,5 @@
 Title: PyCon India Call for Proposals is being extended!
-Date: 2020-05-05 17:00
+Date: 2021-05-05 17:00
 Category: 2021
 Slug: cfp-extension
 Summary: PyCon India 2021 call for proposal is being extended till May 22 due to the circumstances.
