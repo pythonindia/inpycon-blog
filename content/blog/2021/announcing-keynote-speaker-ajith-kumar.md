@@ -1,5 +1,5 @@
 Title: Announcing our third Keynote Speaker for PyCon India 2021 - Dr. Ajith Kumar B P
-Date: 2021-06-12 17:00
+Date: 2021-06-24 17:00
 Category: 2021
 Slug: keynote-announcement-ajith-kumar
 Summary: We are happy to announce **Dr. Ajith Kumar B P** as a Keynote Speaker for PyCon India 2021!
