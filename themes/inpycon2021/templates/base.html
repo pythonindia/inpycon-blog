@@ -1,159 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
-
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="keywords" itemprop="keywords" content="" />
-    <meta name="description" itemprop="description" content="">
-    <meta name="robots" content="index, follow">
-    <title>
-      {% block pagetitle %} PyCon India 2021 Online | September 17th to 20th {% endblock %}
-    </title>
-    <link rel="icon" type="image/png" href="{{ SITEURL }}/theme/images/favicon.png">
-    <link href="{{ SITEURL }}/theme/css/style.css" rel="stylesheet">
-    <link href="{{ SITEURL }}/theme/css/font-awesome.min.css" rel="stylesheet">
-    <link href="{{ SITEURL }}/theme/css/aos.css" rel="stylesheet">
-    <link href="{{ SITEURL }}/theme/css/bootstrap.min.css" rel="stylesheet">
-    <link href="{{ SITEURL }}/theme/css/blog-style.css" rel="stylesheet">
-  </head>
   
+  {% include "components/head.html" %}
+
   <body class="enabled-focus">
-    <!-- Header section started -->
-    <header class="bg-header">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-3 col-md d-none d-md-block">
-                    <a href="https://in.pycon.org/2021/" class="logo"><img src="{{ SITEURL }}/theme/images/mainlogo1.png" class="img-fluid" alt="" title=""
-                            style="width:100px;"></a>
-                </div>
+    {% include "components/header.html" %}
 
-                <div class="col-lg-6 col-md-6 navbar navbar-expand-md navbar-light bg-light">
-
-                    <a class="navbar-brand logo-mob d-block d-md-none" href="https://in.pycon.org/2021/">
-                        <img src="{{ SITEURL }}/theme/images/mainlogo1.png" class="img-fluid d-block d-md-none" alt="" title=""
-                            style="width:250px;">
-                    </a>
-
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                        data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-
-                    <div class="collapse navbar-collapse text-md-end" id="navbarSupportedContent">
-                        <ul class="navbar-nav">
-                            <li class="nav-item">
-                                <a class="nav-link text-white" href="https://in.pycon.org/2021/about/">About</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-white" href="https://in.pycon.org/2021/coc/">CoC</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-white" href="/">Blog</a>
-                            </li>
-                            <li class="nav-item d-block d-md-none">
-                                <a href="https://in.pycon.org/2021/#tickets" class="text-decoration-none text-end">
-                                    <div class="violet-white text-center text-end">
-                                        Book ticket
-                                    </div>
-                                </a>
-                            </li>
-                        </ul>
-
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-4 d-none d-md-block">
-                    <a href="https://in.pycon.org/2021/#tickets" class="text-decoration-none text-end">
-                        <div class="violet-white text-center text-end">
-                            Book ticket
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-
-        <div class="container-fluid d-none d-md-block">
-            <div class="row">
-                <div class="yellowline"></div>
-            </div>
-        </div>
-    </header>
-    <!-- header section ended -->
     <div class="blog-page">
       {% block body %}
       {% endblock %}
     </div>
    
-    <!-- footer section started -->
-    <footer class="bg-footer">
-        <div class="container-fluid">
-            <div class="row ml-space">
-                <div class="col-xl-4  col-md-3 col-sm-12 footerlogo p-0 text-center text-md-start">
-                    <!-- <img src="images/mainlogo1.png" class="img-fluid d-none d-md-block" alt="" title="" style="width:250px;"> -->
-                    <img src="{{ SITEURL }}/theme/images/footer-new-logo.png" class="img-fluid" alt="" title="">
-                </div>
-                <div class="col-xl-2  col-md-3 col-6 ml-top ps-lg-3">
-                    <h4 class="text-white footer-head mb-md-4">Follow Us on</h4>
-                    <ul class="list-group list-group-horizontal bg-yellow-hover">
-                        <li class="list-group-item pe-0 pe-md ps-0"><a href="">
-                                <!-- <img src="images/fb.png" class="img-fluid" alt=""
-                                    title="facebook"> -->
-                                <i class="fa fa-facebook text-white" title="facebook"></i>
-                            </a>
-                        </li>
-                        <li class="list-group-item pe-0 pe-md"><a href="">
-                                <!-- <img src="images/insta.png" class="img-fluid" alt=""
-                                    title="instagram"> -->
-                                <i class="fa fa-instagram text-white" title="instagram"></i>
-                            </a></li>
-                        <li class="list-group-item pe-0 pe-md"><a href="">
-                                <!-- <img src="images/twitter.png" class="img-fluid" alt=""
-                                    title="twitter"> -->
-                                <i class="fa fa-twitter text-white" title="twitter"></i>
-                            </a></li>
-                        <li class="list-group-item pe-0 pe-md"><a href="">
-                                <i class="fa fa-linkedin text-white" title="linkedin"></i>
-                            </a></li>
-                    </ul>
-                    <!-- only for mobile -->
-                    <a href="" class="text-decoration-none d-block d-md-none mt-4">
-                        <div class="yellow-white text-center mt-md-5">
-                            Book ticket
-                        </div>
-                    </a>
-                </div>
-                <div class="col-xl-2  col-md-3 col-6 ml-top">
-                    <h4 class="text-white footer-head mb-md-2">Quick Links</h4>
-                    <ul class="list-group quick-hover">
-                        <li class="list-group-item ps-0"><a href="https://in.pycon.org/2021/coc/"
-                                class="text-decoration-none text-white fw-bold">CoC</a></li>
-                        <li class="list-group-item ps-0"><a href="https://in.pycon.org/2021/reporting/"
-                                class="text-decoration-none text-white fw-bold">Reporting</a></li>
-                        <li class="list-group-item ps-0"><a href="https://mail.python.org/mailman/listinfo/inpycon"
-                                class="text-decoration-none text-white fw-bold">Mailing List</a></li>
-                        <li class="list-group-item ps-0"><a href="https://pyconindia.zulipchat.com/"
-                                class="text-decoration-none text-white fw-bold">Zulip</a></li>
-                    </ul>
-                </div>
-                <div class="col-xl-3  col-md-3 ml-top mt-md-3 d-none d-md-block">
-                    <a href="https://in.pycon.org/2021/#tickets" class="text-decoration-none">
-                        <div class="yellow-white text-center mt-md-5">
-                            Book ticket
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-12 text-center  pt-lg-2 pt-md-5 pt-5 pb-md-4">
-                    <p class="text-grey pt-4">copyright © 2021 PyCon India</p>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!-- footer section ended -->
+    {%include "components/footer.html" %}
+
     <script src="{{ SITEURL }}/theme/js/font-awesome.js"></script>
-    
     <script src="{{ SITEURL }}/theme/js/bootstrap.bundle.min.js"></script>
     <script src="{{ SITEURL }}/theme/js/bootstrap.popper.min.js"></script>
 
