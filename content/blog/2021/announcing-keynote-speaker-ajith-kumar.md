@@ -17,3 +17,6 @@ _**ExpEYES** -An open-source science lab, is currently the most affordable tool 
 For the past several years he has been involved in promoting Free Software tools in Education. Has been pursuing academic community to include Python in their syllabus and has written a book 'Python for Education'. Dr. Ajith is involved in teacher training programs and has helped thousands of teachers to have hands-on experience with computer interfaced experiments and to take their first steps in the world of Free Software and Python.
 
 Dr. Ajith is retired from IUAC in FEB 2021 but the scientist and educator in him will never retire. He has continued his work promoting science education and scientific temper through his new project [scischool.in](https://scischool.in/).
+
+
+**Catch his keynote at this year's conference. [Get your tickets now!!](https://www.townscript.com/v2/e/pycon-india-2021/booking/tickets)**
