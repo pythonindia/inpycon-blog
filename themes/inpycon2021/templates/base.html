@@ -1,145 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
+  
+  {% include "components/head.html" %}
 
-  <head>
-    <meta charset="utf-8">
-    <title>
-      {% block pagetitle %} PyCon India 2021 Online | September 17th to 20th {% endblock %}
-    </title>
-    <meta content="width=device-width, initial-scale=1.0" name="Viewport"/>
-    <link rel="shortcut icon" href="{{ SITEURL }}/theme/images/favicon.ico"/>
-    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/styles.css"/>
-    <!-- Font Awesome CDN -->
-    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-    {% if article is defined %}
-    <meta property="og:type" content="article" />
-    <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
-    <meta property="og:title" content="{{ article.title | replace("\"", "&quot;") }}" />
-    <meta property="og:description" content="{{ article.content | striptags | replace("\"", "&quot;") | truncate(124, False, '...') }}" />
-    <meta property="og:image" content="https://in.pycon.org/blog/theme/images/opengraph-default.png" />
-    {% else %}
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="{{ SITEURL }}/{{ output_file }}" />
-    <meta property="og:title" content="{{ SITENAME }}" />
-    <meta property="og:description" content="{{ DESCRIPTION }}" />
-    <meta property="og:image" content="https://in.pycon.org/blog/theme/images/opengraph-default.png" />
-    {% endif %}
-  </head>
+  <body class="enabled-focus">
+    {% include "components/header.html" %}
 
-<body>
-  <header>
-    <div class="header-wrapper">
-      <div class="left-content">
-        <span class="rectangle">
-          <img src="{{ SITEURL }}/theme/images/left-matrix.svg" />
-        </span>
-        <span class="small-circle">
-          <img class="rangoli" src="{{ SITEURL }}/theme/images/rangoli-left-top.svg" />
-        </span>
-        <span class="circle">
-          <img class="rangoli" src="{{ SITEURL }}/theme/images/rangoli-medium.svg" />
-        </span>
-      </div>
-      <div class="center-content">
-        <div class="image-container">
-          <img class="rangoli-shade" src="{{ SITEURL }}/theme/images/rangoli-center.svg" />
-        </div>
-        <div class="center-details">
-          <div class="logo">
-            <img src="{{ SITEURL }}/theme/images/cnf-logo.svg" />
-          </div>
-          <div class="conference-details">
-            <div class="conference-name">
-              <img src="{{ SITEURL }}/theme/images/cnf-name.svg" />
-            </div>
-            <div class="year-wrapper">
-              <span class="year">2021,</span>
-              <span class="status">Online</span>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="right-content">
-        <span class="lamp">
-          <img src="{{ SITEURL }}/theme/images/lamp.svg" />
-        </span>
-        <span class="rectangle">
-          <img src="{{ SITEURL }}/theme/images/right-matrix.svg" />
-        </span>
-        <span class="circle">
-          <img class="rangoli" src="{{ SITEURL }}/theme/images/rangoli-small.svg" />
-        </span>
-      </div>
+    <div class="blog-page">
+      {% block body %}
+      {% endblock %}
     </div>
-    <nav class="navbar navbar-default">
-      <div class="container-fluid">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-        </div>
+   
+    {%include "components/footer.html" %}
 
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-          <ul class="nav navbar-nav main-menu navbar-center">
-            <li><a href="https://in.pycon.org/2021/">Home</a></li>
-            <li><a href="https://in.pycon.org/2021/#about">About</a></li>
-            <li><a href="https://in.pycon.org/2021/#cfp">CFP</a></li>
-            <li class="current"><a href="{{ SITEURL }}/">Blog</a></li>
-            <li><a href="https://in.pycon.org/2021/#sponsor">Sponsors</a></li>
-            <li><a href="https://in.pycon.org/2021/coc/">CoC</a></li>
-          </ul>
-        </div>
-      </div>
-    </nav>
-  </header>
+    <script src="{{ SITEURL }}/theme/js/font-awesome.js"></script>
+    <script src="{{ SITEURL }}/theme/js/bootstrap.bundle.min.js"></script>
+    <script src="{{ SITEURL }}/theme/js/bootstrap.popper.min.js"></script>
 
-  <div class="blog">
-    {% block body %}
-    {% endblock %}
-  </div>
-
-  <footer>
-    <div class="footer-details">
-      <div class="conf-image">
-        <img src="{{ SITEURL }}/theme/images/footer-logo.svg" />
-      </div>
-      <div class="copyright-details">
-        <div class="copyright-text">Copyright 2021 PyCon India</div>
-      </div>
-      <div class="social-media-details">
-        <div>
-          <a href="https://www.facebook.com/PyConIndia/" rel="nofollow noreferrer" target="_blank">
-            <img src="{{ SITEURL }}/theme/images/facebook.svg" alt="facebook" />
-          </a>
-        </div>
-        <div>
-          <a href="https://twitter.com/pyconindia/" rel="nofollow noreferrer" target="_blank">
-            <img src="{{ SITEURL }}/theme/images/twitter.svg" alt="twitter" />
-          </a>
-        </div>
-        <div>
-          <a href="https://pyconindia.zulipchat.com/" rel="nofollow noreferrer" target="_blank">
-            <img src="{{ SITEURL }}/theme/images/chat.svg" alt="Zulip" />
-          </a>
-        </div>
-        <div>
-          <a href="https://mail.python.org/mailman/listinfo/inpycon" rel="nofollow noreferrer" target="_blank">
-            <img src="{{ SITEURL }}/theme/images/email.svg" alt="Mailing List" />
-          </a>
-        </div>
-        <div>
-          <a href="https://www.linkedin.com/company/pyconindia/" rel="nofollow noreferrer" target="_blank">
-            <img src="{{ SITEURL }}/theme/images/linkedin.svg" alt="linkedin" />
-          </a>
-        </div>
-      </div>
-    </div>
-  </footer>
-  <script src="https://in.pycon.org/2019/assets/jquery-2.1.1-93aeb694ecae8dda5d219429e8bbeb3ec854c112a880b41c8241a2e6decd5807.js" type="text/javascript"></script>
-  <script src="https://in.pycon.org/2019/assets/bootstrap.min-f2d64b74536a49f843b022431e37325973468a71c9b362343deb0b6c582e5ba0.js" type="text/javascript"></script>
-</body>
+  </body>
 </html>

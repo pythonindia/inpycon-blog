@@ -3,17 +3,26 @@
 {% block pagetitle %}{{article.title}} - {{ super() }}{% endblock %}
 
 {% block body %}
-<article class='blogpost'>
-    <h1 class="title"> {{article.title}}</h1>
 
-    <div class='meta'>
-      <time datetime="{{article.date}}" itemprop="datePublished">
-	      <small>
-          By {{ article.author | default("PyCon India Content Team", true) }}  |  {{ article.date.strftime('%B %d, %Y') }}
-        </small>
-      </time>
-    </div>
+<div class="container">
+  <div class="row pt-5 justify-content-center">                
+      <div class="col-md-10">
+          <article class="blog-content-page">
+            <h1 class="text-white blog-list-head">{{article.title}}</h1>
 
-    <div>{{ article.content }}</div>
-</article>
+            <div class='meta text-white'>
+              <time datetime="{{article.date}}" itemprop="datePublished">
+              <small>
+                  Published: {{ article.date.strftime('%B %d, %Y') }}  |  Author: {{ article.author | default("PyCon India Content Team", true) }}
+                </small>
+              </time>
+            </div>
+            <hr class="blog-hr">
+            <div class="blog-content">{{ article.content }}</div>
+
+          </article>
+
+      </div>
+  </div>
+</div>
 {% endblock %}
