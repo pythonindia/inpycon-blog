@@ -19,8 +19,12 @@
     font-size: 13pt;
     background:#21292e;
     color: #b7b7b7;
-  }
+    text-align: center;
+    margin-bottom: 0;
+}
+
+
   
-  .paginator i {
+.paginator i {
     color: #DD0E12;
-  }
+}
