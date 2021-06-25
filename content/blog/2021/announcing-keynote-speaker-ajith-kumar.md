@@ -4,7 +4,7 @@ Category: 2021
 Slug: keynote-announcement-ajith-kumar
 Summary: We are happy to announce **Dr. Ajith Kumar B P** as a Keynote Speaker for PyCon India 2021!
 
-<p align="center"><img alt="Dr. Ajith Kumar" src="https://in.pycon.org/2021/images/<location>.png"></p>
+<p align="center"><img alt="Dr. Ajith Kumar" src="https://in.pycon.org/2021/images/ajith.png"></p>
 
 Dr. Ajith worked as a senior scientist with Inter-University Accelerator Centre, New Delhi from 1985-2021.
 
