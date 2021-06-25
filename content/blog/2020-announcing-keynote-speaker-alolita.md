@@ -2,7 +2,7 @@ Title:Announcing Keynote Speaker for PyCon India 2020 - Alolita Sharma
 Date: 2020-09-08 17:00
 Author: Nikhil Maan (@Sc0rpi0n101)
 Category: 2020
-Slug: keynote-announcement-alolita-sharma-2020
+Slug: keynote-announcement-alolita-sharma
 Summary: We are happy to announce **Alolita Sharma** as a Keynote Speaker for PyCon India 2020!
 
 We are happy to announce **Alolita Sharma** as a Keynote Speaker for PyCon India 2020!
