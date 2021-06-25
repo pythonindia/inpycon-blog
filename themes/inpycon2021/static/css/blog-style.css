@@ -23,7 +23,9 @@
     margin-bottom: 0;
 }
 
-
+.paginator-nav {
+    text-decoration: none;
+}
   
 .paginator i {
     color: #DD0E12;
