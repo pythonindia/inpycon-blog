@@ -19,5 +19,3 @@ Zauba Cloud is the first cloud computing company to charge users based on actual
 Zauba Cloud offers free developer accounts. Developers can try and deploy their small projects in production for free.
 
 Zauba Cloud is currently in preview and is invite only. Developers can write an email to [cloud@zauba.company](mailto:cloud@zauba.company) for access to preview.
-
-

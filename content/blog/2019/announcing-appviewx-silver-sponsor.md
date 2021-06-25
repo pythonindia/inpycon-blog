@@ -1,10 +1,8 @@
 Title: Announcing AppViewX as Silver Sponsor
 Date: 2019-10-02 10:00
 Category: 2019
+Summary: We are happy to introduce our Silver sponsor **AppViewX**!
 
-We are happy to introduce our Silver sponsor **AppViewX**!
-
-<!-- PELICAN_END_SUMMARY -->
 <br>
 <div class="text-center">
   <a href="https://www.appviewx.com" target="_blank">
