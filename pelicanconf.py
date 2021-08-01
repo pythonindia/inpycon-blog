@@ -55,3 +55,6 @@ PAGINATION_PATTERNS = (
     (1, '{url}', '{save_as}'),
     (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
 )
+
+# For Atom and RSS feeds
+TIMEZONE="GMT"
