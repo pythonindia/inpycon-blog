@@ -7,16 +7,11 @@ Summary: What is machine learning? Where does Python play its part? What's in st
 
 ## Machine learning: A major cause of the Pythonic buzz
 
-
-<p class="text-center">
-  <img src="/content/images/ml-article-2021-Illustration.png" alt="Python libraries for AI and data"/>
-</p>
+![Python libraries for AI and data]({static}/images/ml-article-2021-Illustration.png)
 
  **“Predicting the future isn’t magic, it’s artificial intelligence.” ~Dave Waters**
 
-<p class="text-center">
-  <img src="/content/images/ml-article-2021-Relations.png" alt="Relations between AI, ML, DL, Big Data and Data Science"/>
-</p>
+![Relations between AI, ML, DL, Big Data and Data Science]({static}/images/ml-article-2021-Relations.png)
 
 Yes, and machine learning is one of the most fascinating aspects of Artificial Intelligence.
 
