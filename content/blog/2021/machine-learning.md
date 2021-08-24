@@ -1,16 +1,22 @@
+Title: Machine learning: A major cause of the Pythonic buzz
+Date: 2021-08-24 12:05
+Author: Anuran Roy (@anuran-roy)
+Category: 2021
+Slug: machine-learning-pycon
+Summary: What is machine learning? Where does Python play its part? What's in store for you at PyCon India 2021 for Machine Learning?
 
-# Machine learning: A major cause of the Pythonic buzz
-
-by: Anuran Roy
-
- ![](https://lh4.googleusercontent.com/FXV0jWI5Sf2O8pLbvh3gA2Wt1W6pi5Sp6oJjrujPCjkSIwqBWyBDBxvHO04BLXNkE8NLCbliW_b0V8n4PTvPzgBCPezS0QHwToR7u0dAddfL4jm1zhLq58Qwz8ZIJaNNr1YIRR6C=s0)
+## Machine learning: A major cause of the Pythonic buzz
 
 
-## “Predicting the future isn’t magic, it’s artificial intelligence.” ~Dave Waters
+<p class="text-center">
+  <img src="/content/images/ml-article-2021-Illustration.png" alt="Python libraries for AI and data"/>
+</p>
 
-  
+ **“Predicting the future isn’t magic, it’s artificial intelligence.” ~Dave Waters**
 
-![](https://lh6.googleusercontent.com/vKimZR917Z_epKINwTtw8dsKo-83VqwEBc2n-BAobF4Y8LTPGk4hReAsV3hqLmVlevvXau2LaKHERwIbdttdLUSkKkTGgCHDD49G5M1TAfLp3-_j4RQ3i11Ja43DnB-WybWUD2kM=s0)
+<p class="text-center">
+  <img src="/content/images/ml-article-2021-Relations.png" alt="Relations between AI, ML, DL, Big Data and Data Science"/>
+</p>
 
 Yes, and machine learning is one of the most fascinating aspects of Artificial Intelligence.
 
@@ -32,7 +38,7 @@ Python being one of the easiest languages to get started with for machine learni
 
 With hundreds of libraries at our disposal like matplotlib, scikit-learn, numpy, pandas and scipy make data visualization, large-scale computation, data manipulation and machine learning accessible like never before. Combine that with a large community base and lots of developments in the field. Machine Learning has quickly become a major conference section where we receive a lot of submissions from both eminent researchers, professionals and students. 
 
-## Talks to look forward to about Machine learning in PyCon India 2021:
+## Talks to look forward to about Machine learning in PyCon India 2021
 
 1.   Reducing technical debt for ML platforms
     
@@ -44,7 +50,7 @@ With hundreds of libraries at our disposal like matplotlib, scikit-learn, numpy,
     
 5.  On Device AI - Deep Learning on Mobile Devices
   
-## Talks in the past that have been delivered by speakers that truly stand out:
+## Talks in the past that have been delivered by speakers that truly stand out
 
 1.  Taking a peek under the hood: Interpreting black box models (PyCon India 2020)
     
