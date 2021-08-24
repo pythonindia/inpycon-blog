@@ -35,7 +35,7 @@ With hundreds of libraries at our disposal like matplotlib, scikit-learn, numpy,
 
 ## Talks to look forward to about Machine learning in PyCon India 2021
 
-1.   Reducing technical debt for ML platforms
+1.  Reducing technical debt for ML platforms
     
 2.  Visualisation & Underlined Psychology
     
