@@ -1,13 +1,11 @@
 Title: Machine learning: A major cause of the Pythonic buzz
 Date: 2021-08-24 12:05
-Author: Anuran Roy (@anuran-roy)
+Author:
 Category: 2021
 Slug: machine-learning-pycon
 Summary: What is machine learning? Where does Python play its part? What's in store for you at PyCon India 2021 for Machine Learning?
 
 ## Machine learning: A major cause of the Pythonic buzz
-
-![Python libraries for AI and data]({static}/images/ml-article-2021-Illustration.png)
 
  **“Predicting the future isn’t magic, it’s artificial intelligence.” ~Dave Waters**
 
@@ -35,24 +33,24 @@ With hundreds of libraries at our disposal like matplotlib, scikit-learn, numpy,
 
 ## Talks to look forward to about Machine learning in PyCon India 2021
 
-1.   Reducing technical debt for ML platforms
+1.   [Reducing technical debt for ML platforms](https://in.pycon.org/cfp/2021/proposals/reducing-technical-debt-for-ml-platforms~bW6Pv/)
     
-2.  Visualisation & Underlined Psychology
+2. [ Visualisation & Underlined Psychology](https://in.pycon.org/cfp/2021/proposals/visualisation-underlined-psychology~bkR8E/)
     
-3.  Touches of Python in Prosthetic Vision : New Generation Computer vision
+3.  [Touches of Python in Prosthetic Vision : New Generation Computer vision](https://in.pycon.org/cfp/2021/proposals/touches-of-python-in-prosthetic-vision-new-generation-computer-vision~e5yQv/)
     
-4.  How To Log ML Experiments
+4.  [How To Log ML Experiments](https://in.pycon.org/cfp/2021/proposals/how-to-log-ml-experiments~dJ6ZJ/)
     
-5.  On Device AI - Deep Learning on Mobile Devices
+5.  [On Device AI - Deep Learning on Mobile Devices](https://in.pycon.org/cfp/2021/proposals/on-device-ai-deep-learning-on-mobile-devices~ejRZl/)
   
 ## Talks in the past that have been delivered by speakers that truly stand out
 
-1.  Taking a peek under the hood: Interpreting black box models (PyCon India 2020)
+1.  [Taking a peek under the hood: Interpreting black box models (PyCon India 2020)](https://in.pycon.org/cfp/2020/proposals/taking-a-peek-under-the-hood-interpreting-black-box-models~b2k4z/)
     
-2.  Towards a more transparent AI - Decrypting ML models using LIME (PyCon India 2020)
+2.  [Towards a more transparent AI - Decrypting ML models using LIME (PyCon India 2020)](https://in.pycon.org/cfp/2020/proposals/towards-a-more-transparent-ai-decrypting-ml-models-using-lime~eV8zb/)
     
-3.  Resource Utilization as a Metric for Machine Learning (PyCon India 2020)
+3.  [Resource Utilization as a Metric for Machine Learning (PyCon India 2020)](https://in.pycon.org/cfp/2020/proposals/resource-utilization-as-a-metric-for-machine-learning~aKP8b/)
     
-4.  Machine Learning for IoT at the Edge (PyCon India 2019)
+4.  [Machine Learning for IoT at the Edge (PyCon India 2019)](https://in.pycon.org/cfp/2019/proposals/machine-learning-for-iot-at-the-edge~bo5Ne/)
     
-5.  IndicNLP - An open data platform to bring Indian languages to the advancements of NLP. (PyCon India 2019)
+5.  [IndicNLP - An open data platform to bring Indian languages to the advancements of NLP. (PyCon India 2019)](https://in.pycon.org/cfp/2019/proposals/indicnlp-an-open-data-platform-to-bring-indian-languages-to-the-advancements-of-nlp~ejm5d/)
