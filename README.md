@@ -35,9 +35,8 @@ git clone https://github.com/<username>/inpycon-blog.git
 
 ```
 Title: Announcing X as Titanium Sponsor
-Date: 2020-05-10 10:00
-Author: John Doe
-Category: 2020
+Date: 2021-05-10 10:00
+Category: 2021
 Slug: announcing-X-as-titanium-sponsor
 Summary: Short version for index and feeds
 
