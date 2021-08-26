@@ -10,6 +10,7 @@ Summary: What is machine learning? Where does Python play its part? What's in st
  **“Predicting the future isn’t magic, it’s artificial intelligence.” ~Dave Waters**
 
 ![Relations between AI, ML, DL, Big Data and Data Science]({static}/images/ml-article-2021-Relations.png)
+(Image credits: https://miro.medium.com/max/650/1*-XKVI5SAEpffNR7BusdvNQ.png)
 
 Yes, and machine learning is one of the most fascinating aspects of Artificial Intelligence.
 
