@@ -1,7 +1,7 @@
-Title: Announcing some of our InKind sponsrs for PyCon India 2021 - IBM Quantum, Fulfil.IO, and DeepSource
+Title: Announcing some of our InKind sponsrs for PyCon India 2021 - DeepSource, EPAM, FulFil.IO, and IBM Quantum
 Date: 2021-08-25 17:00
 Category: 2021
-Slug: keynote-inkind-sponsors
+Slug: announce-inkind-sponsors
 Summary: We are happy to announce some of our InKind Sponsors for PyCon India 2021!
 
 
@@ -9,7 +9,7 @@ The PyCon India team previously decided to have no sponsors for this year's conf
 
 But, due to popular demand, we have decided to have some InKind sponsors to improve our attendees' experience of the conference from home. 
 
-We are very excited to announce  IBM Quantum, <span>Fulfil.IO</span>, and DeepSource as our first 3 In-Kind sponsors. 
+We are very excited to announce DeepSource, EPAM, <span>Fulfil.IO</span>, and IBM Quantum as our first 4 In-Kind sponsors. 
 
 
 ## DeepSource 
