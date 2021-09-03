@@ -7,7 +7,7 @@ Summary: We are happy to announce some of our InKind Sponsors for PyCon India 20
 
 The PyCon India team previously decided to have no sponsors for this year's conference. You can read more about that in our [announcement blog](https://in.pycon.org/blog/2021/pycon-india-announcement.html). 
 
-But, due to popular demand, we have decided to have some InKind sponsors to improve our attendees' experience of the conference from home. 
+Due to popular demand, we have decided to have some InKind sponsors to improve our attendee experience of the conference from their home. 
 
 We are very excited to announce DeepSource, EPAM, <span>Fulfil.IO</span>, and IBM Quantum as our first 4 In-Kind sponsors. 
 
