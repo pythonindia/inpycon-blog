@@ -1,4 +1,4 @@
-Title: Announcing some of our InKind sponsrs for PyCon India 2021 - Packt, Innovaccer, Viprush Technologies, and Toyota Connected India
+Title: Announcing Packt, Innovaccer, Viprush Technologies, and Toyota Connected India as our In-Kind sponsors for PyCon India 2021 (Part 2)
 Date: 2021-09-03 12:00
 Category: 2021
 Slug: announce-inkind-sponsors-2
