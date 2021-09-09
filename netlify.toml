@@ -1,4 +1,4 @@
 [build]
     publish = "output/"
     command = "make build"
-    PYTHON_VERSION = 3.7
+    PYTHON_VERSION = "3.7"
