@@ -1,3 +1,3 @@
 [build]
-publish = "output/"
-command = "make build"
+    publish = "output/"
+    command = "make build"
