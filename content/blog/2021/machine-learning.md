@@ -10,7 +10,6 @@ Summary: What is machine learning? Where does Python play its part? What's in st
  **“Predicting the future isn’t magic, it’s artificial intelligence.” ~Dave Waters**
 
 ![Relations between AI, ML, DL, Big Data and Data Science]({static}/images/ml-article-2021-Relations.png)
-(Image credits: https://miro.medium.com/max/650/1*-XKVI5SAEpffNR7BusdvNQ.png)
 
 Yes, and machine learning is one of the most fascinating aspects of Artificial Intelligence.
 
@@ -56,3 +55,5 @@ With hundreds of libraries at our disposal like matplotlib, scikit-learn, numpy,
 4.  [Machine Learning for IoT at the Edge (PyCon India 2019)](https://in.pycon.org/cfp/2019/proposals/machine-learning-for-iot-at-the-edge~bo5Ne/)
     
 5.  [IndicNLP - An open data platform to bring Indian languages to the advancements of NLP. (PyCon India 2019)](https://in.pycon.org/cfp/2019/proposals/indicnlp-an-open-data-platform-to-bring-indian-languages-to-the-advancements-of-nlp~ejm5d/)
+
+(Image credits: https://miro.medium.com/max/650/1*-XKVI5SAEpffNR7BusdvNQ.png)
