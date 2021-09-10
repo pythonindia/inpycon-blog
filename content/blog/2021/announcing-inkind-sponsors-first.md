@@ -16,7 +16,9 @@ We are very excited to announce DeepSource, EPAM, <span>Fulfil.IO</span>, and IB
 
 <div align="center"><img alt="DeepSource" src="https://in.pycon.org/2021/images/deepsource.png"></div>
 
-DeepSource continuously analyzes source code changes to find and fix issues categorized as security, performance, anti-patterns, and bug risks. It integrates with GitHub/GitLab/Bitbucket and runs analysis on every commit and pull request, discovers and fixes potential issues before they make it to production. With support for Python, Go, Ruby and JavaScript and guaranteed less than 5% false positives in results, DeepSource is trusted by open-source teams at NASA, Slack, Intel, DGraph among many others to ship good code. Free to use for open-source projects and small teams.
+DeepSource is a static analysis platform that helps developers and engineering teams write good code. Thousands of progressive tech companies and open-source projects rely on DeepSource to keep their code clean and automate peer code-reviews.
+
+DeepSource is free for open-source, individual developers, and small teams. Get started today at https://deepsource.io/signup.
 
 Website Link: https://deepsource.io/
 
