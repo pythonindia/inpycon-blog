@@ -1,22 +1,24 @@
-Title: Announcing DeepSource, EPAM, FulFil.IO, and IBM Quantum as our In-Kind sponsors for PyCon India 2021 (Part-1)```
+Title: Announcing DeepSource, EPAM, FulFil.IO, and IBM Quantum as our In-Kind sponsors for PyCon India 2021 (Part-1)
 Date: 2021-08-25 17:00
 Category: 2021
 Slug: announce-inkind-sponsors
 Summary: We are happy to announce some of our InKind Sponsors for PyCon India 2021!
 
 
-The PyCon India team previously decided to have no sponsors for this year's conference. You can read more about that in our [announcement blog](https://in.pycon.org/blog/2021/pycon-india-announcement.html). 
+The PyCon India team previously decided to have no sponsors for this year's conference. You can read more about that in our [announcement blog](https://in.pycon.org/blog/2021/pycon-india-announcement.html).
 
-Due to popular demand, we have decided to have some InKind sponsors to improve our attendee experience of the conference from their home. 
+Due to popular demand, we have decided to have some InKind sponsors to improve our attendee experience of the conference from their home.
 
-We are very excited to announce DeepSource, EPAM, <span>Fulfil.IO</span>, and IBM Quantum as our first 4 In-Kind sponsors. 
+We are very excited to announce DeepSource, EPAM, <span>Fulfil.IO</span>, and IBM Quantum as our first 4 In-Kind sponsors.
 
 
-## DeepSource 
+## DeepSource
 
 <div align="center"><img alt="DeepSource" src="https://in.pycon.org/2021/images/deepsource.png"></div>
 
-DeepSource continuously analyzes source code changes to find and fix issues categorized as security, performance, anti-patterns, and bug risks. It integrates with GitHub/GitLab/Bitbucket and runs analysis on every commit and pull request, discovers and fixes potential issues before they make it to production. With support for Python, Go, Ruby and JavaScript and guaranteed less than 5% false positives in results, DeepSource is trusted by open-source teams at NASA, Slack, Intel, DGraph among many others to ship good code. Free to use for open-source projects and small teams.
+DeepSource is a static analysis platform that helps developers and engineering teams write good code. Thousands of progressive tech companies and open-source projects rely on DeepSource to keep their code clean and automate peer code-reviews.
+
+DeepSource is free for open-source, individual developers, and small teams. Get started today at https://deepsource.io/signup.
 
 Website Link: https://deepsource.io/
 
