@@ -1,10 +1,10 @@
-Title: Extend Track Schedule
-Date: 2021-09-11 17:00
+Title: .Extend Track Schedule is out for PyCon India 2021
+Date: 2021-09-12 17:00
 Category: 2021
 Slug: extend-track-schedule
 Summary: .Extend track schedule for PyCon India 2021
 
-Following the trend of PyCon India 2020, we are continuing with .Extend track providing one more opportunity to the people to present their work.
+Following the trend of PyCon India 2020, we are continuing with .Extend track providing one more opportunity to the people to present their submissions in a 5th additional track that we call the .Extend track. You can read about this track and the concept behind it in this [blog post](https://in.pycon.org/blog/2020/trying-something-different.html) from 2020. 
 Below is the schedule for the same.
 
 ## Day 1 (18th Sept)
@@ -29,7 +29,6 @@ Below is the schedule for the same.
 
 
 ## Day 2 (19th Sept)
-
 
 #### [Fine Grained Image Classification with Bilinear-CNN's](https://in.pycon.org/cfp/2021/proposals/fine-grained-image-classification-with-bilinear-cnns~dNkLp/)
 
@@ -56,15 +55,4 @@ Below is the schedule for the same.
 
 
 We look forward to seeing you all out there with us at PyCon India 2021.
-
-
 [Tickets are selling out](https://in.pycon.org/2021/#tickets). Get yours today.
-
-
-
-
-
-
-
-
-
