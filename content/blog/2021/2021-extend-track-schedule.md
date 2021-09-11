@@ -4,7 +4,7 @@ Category: 2021
 Slug: extend-track-schedule
 Summary: .Extend track schedule for PyCon India 2021
 
-Following the trend of PyCon India 2020, we are continuing with .Extend track providing one more opportunity to the people to present their submissions in a 5th additional track that we call the .Extend track. You can read about this track and the concept behind it in this [blog post](https://in.pycon.org/blog/2020/trying-something-different.html) from 2020. 
+Following the trend of PyCon India 2020, we are continuing with .Extend track providing one more opportunity to the people to present their submissions in an additional track that we call the .Extend track on Stage 4. You can read about this track and the concept behind it in this [blog post](https://in.pycon.org/blog/2020/trying-something-different.html) from 2020. 
 Below is the schedule for the same.
 
 ## Day 1 (18th Sept)
