@@ -21,27 +21,27 @@ Prabhu Ramchandran (@prabhu_r) is the associate professor of aerospace engineeri
 
 Research interests - Particle methods and meshfree methods for computational fluid dynamics, scientific computing, parallel and high-performance computing, machine learning for numerical computation, and applied scientific data visualization. Formerly he was the managing director and later director of Enthought India. Prabhu is an advocate of Free and Open Source software, and in spare time, he develops some free/open software.
 
-- **About**: https://www.aero.iitb.ac.in/~prabhu/
-- **Twitter**: https://twitter.com/prabhu_r
-- **Github**: https://github.com/prabhuramachandran
+- **About**: [https://www.aero.iitb.ac.in/~prabhu/](https://www.aero.iitb.ac.in/~prabhu/)
+- **Twitter**: [https://twitter.com/prabhu_r](https://twitter.com/prabhu_r)
+- **Github**: [https://github.com/prabhuramachandran](https://github.com/prabhuramachandran)
 
 
 ## Prof. Shriram Krishnamurthi
 
 Professor of Computer Science at Brown University, Shriram Krishnamurthi (@ShriramKMurthi) is the recipient of SIGPLAN's Robin Milner Young Researcher Award, SIGSOFT's Influential Educator Award, SIGPLAN's Software Award (jointly), and Brown University's Wriston Fellowship.
 
-- **About**:  https://cs.brown.edu/~sk/
-- **Website**: https://parentheticallyspeaking.org/
-- **Twitter**: https://twitter.com/shriramkmurthi
-- **Github**: https://github.com/shriram
+- **About**:  [https://cs.brown.edu/~sk/](https://cs.brown.edu/~sk/)
+- **Website**: [https://parentheticallyspeaking.org/](https://parentheticallyspeaking.org/)
+- **Twitter**: [https://twitter.com/shriramkmurthi](https://twitter.com/shriramkmurthi)
+- **Github**: [https://github.com/shriram](https://github.com/shriram)
 
 
 ## Pramode C E
 
 Computer Programmer from Kerala, a small South Indian state, Pramode C E (@pramode_ce) Currently working as a developer with a company building a networking product. He has been providing training and consulting on GNU/Linux and related technologies since 1997. Pramode started blogging at a time when “Livejournal” was the craze. Many of those posts document the activities of the Free Software community in Kerala during the early days.
 
-- **About:** https://pramode.net/
-- **Twitter:** http://twitter.com/pramode_ce
+- **About:** [https://pramode.net/](https://pramode.net/)
+- **Twitter:** [http://twitter.com/pramode_ce](http://twitter.com/pramode_ce)
 
 
 ## Ambika Joshi
@@ -52,18 +52,18 @@ Ambika ventured into learning, teaching, and experimenting with creative coding 
 
 She streams on Twitch, creating inclusive spaces and learning opportunities for women makers to explore creative computation.
 
-- **About**: https://www.linkedin.com/in/ambika-joshi-78210221?originalSubdomain=in
-- **Instagram**: https://www.instagram.com/computational_mama/
-- **Work**: https://www.ajaibghar.com/
+- **About**: [https://www.linkedin.com/in/ambika-joshi-78210221?originalSubdomain=in](https://www.linkedin.com/in/ambika-joshi-78210221?originalSubdomain=in)
+- **Instagram**: [https://www.instagram.com/computational_mama/](https://www.instagram.com/computational_mama/)
+- **Work**: [https://www.ajaibghar.com/](https://www.ajaibghar.com/)
 
 
 ## [Moderator] Noufal Ibrahim
 
 An avid Python programmer and active member of the Bangalore Python User Group. A computer science and mathematics enthusiast. Noufal has an interest in programming, poetry, and calligraphy, among other things. A freelance programmer and trainer specializing in infrastructure work - development tools, test harnesses, build infrastructures, etc.
 
-- **About**: http://nibrahim.net.in/
-- **Twitter**: https://twitter.com/noufalibrahim
-- **Github**: https://github.com/nibrahim/
+- **About**: [http://nibrahim.net.in/](http://nibrahim.net.in/)
+- **Twitter**: [https://twitter.com/noufalibrahim](https://twitter.com/noufalibrahim)
+- **Github**: [https://github.com/nibrahim/](https://github.com/nibrahim/)
 
 
 Everyone is welcome to attend. We'll have a brief Q/A session at the end of the panel. Questions for the panel are welcome. Please send them to Noufal [at] nibrahim.net.in. We can't guarantee that we'll ask all of them, but more questions make for a more exciting and fruitful discussion. We are excited to see you all there!
