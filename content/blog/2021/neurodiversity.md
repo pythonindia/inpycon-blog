@@ -15,7 +15,7 @@ This year, we're bringing more ideas and insights to the forefront of the Python
 - **Time**: 14:00 qto 14:30
 - **Theme**: Women in Competitive Coding
 - **Speaker**: Anushi Maheshwari
-- **Session Details** - https://in.pycon.org/cfp/2021/proposals/how-to-ace-problem-solving-perspective-of-a-non-cs-engineer~dyPX7/
+- **Session Details** - [https://in.pycon.org/cfp/2021/proposals/how-to-ace-problem-solving-perspective-of-a-non-cs-engineer~dyPX7/](https://in.pycon.org/cfp/2021/proposals/how-to-ace-problem-solving-perspective-of-a-non-cs-engineer~dyPX7/)
 
 
 **Neurodiversity Demystified**
@@ -23,7 +23,7 @@ This year, we're bringing more ideas and insights to the forefront of the Python
 - **Time**: 15:30 to 16:30
 - **Theme**: Neurodiversity Awareness Building
 - **Speaker**: Joel S Godi
-- **Session Details** - https://in.pycon.org/cfp/2021/proposals/neurodiversity-demystified~dwprR/
+- **Session Details** - [https://in.pycon.org/cfp/2021/proposals/neurodiversity-demystified~dwprR/](https://in.pycon.org/cfp/2021/proposals/neurodiversity-demystified~dwprR/)
 
 
 **PhD - and the many possibilities ahead**
@@ -31,7 +31,7 @@ This year, we're bringing more ideas and insights to the forefront of the Python
 - **Time**: 18:30 to 19:00
 - **Theme**: Women in Research
 - **Speaker**: Ananya Mandal
-- **Session Details** - https://in.pycon.org/cfp/2021/proposals/phd-and-the-many-possibilities-ahead~axk19/
+- **Session Details** - [https://in.pycon.org/cfp/2021/proposals/phd-and-the-many-possibilities-ahead~axk19/](https://in.pycon.org/cfp/2021/proposals/phd-and-the-many-possibilities-ahead~axk19/)
 
 
 ## Day 2 (19th Sept)
@@ -41,7 +41,7 @@ This year, we're bringing more ideas and insights to the forefront of the Python
 - **Time**: 14:00 to 14:30
 - **Theme**: Women in technology
 - **Speaker**: Manaswini Das
-- **Session Details**: https://in.pycon.org/cfp/2021/proposals/women-in-tech-careers-taking-that-extra-leap~azpXY/
+- **Session Details**: [https://in.pycon.org/cfp/2021/proposals/women-in-tech-careers-taking-that-extra-leap~azpXY/](https://in.pycon.org/cfp/2021/proposals/women-in-tech-careers-taking-that-extra-leap~azpXY/)
 
 
 **Panel: Neurodiversity & Inclusion**
@@ -49,7 +49,7 @@ This year, we're bringing more ideas and insights to the forefront of the Python
 - **Theme**: Inclusion Strategies & Best Practices
 - **Time**: 15:30 to 16:30
 - **Moderator and Panelists**: Panchali Banerjee, Joel S Godi, Mark Charlesworth, Asha Sreedhar
-- **Panel Details**: https://in.pycon.org/cfp/2021/proposals/panel-neurodiversity-inclusion~av2Zm/
+- **Panel Details**: [https://in.pycon.org/cfp/2021/proposals/panel-neurodiversity-inclusion~av2Zm/](https://in.pycon.org/cfp/2021/proposals/panel-neurodiversity-inclusion~av2Zm/)
 
 
-We look forward to seeing you all out there with us for the diversity session at PyCon India 2021. [Tickets are selling out](https://in.pycon.org/2021/#tickets). Get yours today.
+We look forward to seeing you all at PyCon India 2021.
