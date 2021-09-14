@@ -12,7 +12,7 @@ This year, we're bringing more ideas and insights to the forefront of the Python
 
 **How to ace problem-solving – perspective of a non-CS engineer**
 
-- **Time**: 14:00 qto 14:30
+- **Time**: 14:00 to 14:30
 - **Theme**: Women in Competitive Coding
 - **Speaker**: Anushi Maheshwari
 - **Session Details** - [https://in.pycon.org/cfp/2021/proposals/how-to-ace-problem-solving-perspective-of-a-non-cs-engineer~dyPX7/](https://in.pycon.org/cfp/2021/proposals/how-to-ace-problem-solving-perspective-of-a-non-cs-engineer~dyPX7/)
