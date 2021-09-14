@@ -15,9 +15,9 @@ This year at PyCon India, we're putting together a panel of people who have been
 
 The participants for the panel will be:
 
-## Prabhu Ramchandran
+## Prabhu Ramachandran
 
-Prabhu Ramchandran (@prabhu_r) is the associate professor of aerospace engineering at IIT Bombay, a Python programmer, and developer of Mayavi, PySPH.
+Prabhu Ramachandran (@prabhu_r) is the associate professor of aerospace engineering at IIT Bombay, a Python programmer, and developer of Mayavi, PySPH.
 
 Research interests - Particle methods and meshfree methods for computational fluid dynamics, scientific computing, parallel and high-performance computing, machine learning for numerical computation, and applied scientific data visualization. Formerly he was the managing director and later director of Enthought India. Prabhu is an advocate of Free and Open Source software, and in spare time, he develops some free/open software.
 

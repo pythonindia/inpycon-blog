@@ -43,9 +43,9 @@ Arthur finds it much fun and rewarding to develop Python applications for ground
 
 Thomas Albin (@MrAstroThomas) is a data scientist, Solar System researcher and a Python developer. He worked as a Space Scientist and now works in the automotive industry. Thomas is an Astrophysicist at heart and does science for fun.
 
--**Popular work**: [Space Science with Python — A Data Science Tutorial Series](https://medium.com/-space-science-in-a-nutshell/space-science-with-python-a-data-science-tutorial-series-57ad95660056)
--**Github**: [https://github.com/ThomasAlbin](https://github.com/ThomasAlbin)
--**Twitter**: [https://twitter.com/MrAstroThomas](https://twitter.com/MrAstroThomas)
+- **Popular work**: [Space Science with Python — A Data Science Tutorial Series](https://medium.com/-space-science-in-a-nutshell/space-science-with-python-a-data-science-tutorial-series-57ad95660056)
+- **Github**: [https://github.com/ThomasAlbin](https://github.com/ThomasAlbin)
+- **Twitter**: [https://twitter.com/MrAstroThomas](https://twitter.com/MrAstroThomas)
 
 
 ## Kazunori Akiyama
@@ -65,9 +65,9 @@ Andrew Chael (@thisgreyspirit) is also the member of the team who got the First 
 
 Andrew is a primary  developer of  ehtim (eht-imaging) a python framework for imaging using EHT data.
 
-**Personal Page**: [https://achael.github.io/](https://achael.github.io/)
-**Twitter**: [https://twitter.com/thisgreyspirit](https://twitter.com/thisgreyspirit)
-**Github**: [https://github.com/achael](https://github.com/achael)
+- **Personal Page**: [https://achael.github.io/](https://achael.github.io/)
+- **Twitter**: [https://twitter.com/thisgreyspirit](https://twitter.com/thisgreyspirit)
+- **Github**: [https://github.com/achael](https://github.com/achael)
 
 
 ## [Moderator] Praveen Patil
