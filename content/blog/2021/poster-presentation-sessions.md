@@ -25,28 +25,28 @@ Speakers will be available for Q&A Session during the break time on day 2 (19th 
 
 ## Posters to be presented.
 
-### Predicting Diabetes Mellitus in ICU Patients 
-**by Hena Ghonia & Shanaya Mehata**
+- ### Predicting Diabetes Mellitus in ICU Patients 
+**by Hena Ghonia & Shanaya Mehata**  
 <https://in.pycon.org/cfp/bofs-and-posters-2021/proposals/predicting-diabetes-mellitus-in-icu-patients~bqxZ2/>
 
-### Thinking Fast and Slow with FastAPI                                         
-**by Aniket Kumar**   
+- ### Thinking Fast and Slow with FastAPI                                       
+**by Aniket Kumar**  
 <https://in.pycon.org/cfp/bofs-and-posters-2021/proposals/thinking-fast-and-slow-with-fastapi~epY22/>
     
-### Data Labeling with Doccano                                          
-**by Soumya Patil & Shreya Parvatikar**
+- ### Data Labeling with Doccano                                          
+**by Soumya Patil & Shreya Parvatikar**  
 <https://in.pycon.org/cfp/bofs-and-posters-2021/proposals/data-labeling-with-doccano~aOYPp/>
 
-### How to learn the Bayesian structure                                         
-**by Vidhi Chug**               
+- ### How to learn the Bayesian structure                                         
+**by Vidhi Chug**  
 <https://in.pycon.org/cfp/bofs-and-posters-2021/proposals/how-to-learn-the-bayesian-structure~elY25/>
  
-### Introduction to distributed computation using dask                          
+- ### Introduction to distributed computation using dask                          
 **by Shreyas Kapale & Siddhi Redekar**              
 <https://in.pycon.org/cfp/bofs-and-posters-2021/proposals/introduction-to-distributed-computation-using-dask~bDkQx/>
 
-### How we dealt with poor code analysis support in our generator, metaclasses, and code generation heavy projects                              
-**by Vladimir Losev**
+- ### How we dealt with poor code analysis support in our generator, metaclasses, and code generation heavy projects                              
+**by Vladimir Losev**  
 <https://in.pycon.org/cfp/bofs-and-posters-2021/proposals/how-we-dealt-with-poor-code-analysis-support-in-our-generator-metaclasses-and-code-generation-heavy-projects~bo2yj/>
 
 
