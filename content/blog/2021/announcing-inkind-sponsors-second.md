@@ -20,14 +20,6 @@ As part of our mission, we have also awarded over $1,000,000 through our Open-So
 
 Website Link: https://www.packtpub.com/
 
-## Innovaccer
-
-<div align="center"><img alt="Innovaccer" src="https://in.pycon.org/2021/images/innovaccer.svg"></div>
-
-Innovaccer Inc is a leading healthcare data activation platform company focused on delivering more efficient and effective healthcare through the use of pioneering analytics and transparent, clean, and accurate data. Innvoaccer’s aim is to simplify complex data from all points of care, streamline the information, and help organizations make powerful decisions and realize strategic goals based on key insights and predictions from their data. Its products have been deployed across more than 500 locations with over 10,000 providers leveraging it at institutions, governmental organizations, and several corporate enterprises such as Mercy ACO, StratiFi Health, Catalyst Health Network, Osler Health Network, and PHIX HIE. Innovaccer is based in San Francisco with offices around the United States and Asia.
-
-Website Link: https://innovaccer.com/
-
 ## Viprush Technologies
 
 <div align="center"><img alt="Viprush Technologies" src="https://in.pycon.org/2021/images/viprush.png"></div>
