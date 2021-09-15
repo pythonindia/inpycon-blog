@@ -50,7 +50,7 @@ Ambika Joshi (@computatnlmama) is the co-founder of Ajaibghar, a management and 
 
 Ambika ventured into learning, teaching, and experimenting with creative coding since 2017. As a co-founder of Ajaibghar and a creative technologist, she combines her past expertise of art direction, museum design, and project management in arts with her computational works that are heavily inspired by generative texts, computer vision, and machine learning.
 
-She streams on Twitch, creating inclusive spaces and learning opportunities for women makers to explore creative computation.
+She streams on Twitch, creating inclusive spaces and learning opportunities for womxn makers to explore creative computation.
 
 - **About**: [https://www.linkedin.com/in/ambika-joshi-78210221?originalSubdomain=in](https://www.linkedin.com/in/ambika-joshi-78210221?originalSubdomain=in)
 - **Instagram**: [https://www.instagram.com/computational_mama/](https://www.instagram.com/computational_mama/)
