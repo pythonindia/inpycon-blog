@@ -19,7 +19,7 @@ Therefore we thought of having a panel discussion **"Python in Space" as a curio
 
 ## Panelists
 
-### Katherine Scott
+## Katherine Scott
 
 Katherine Scott (@kscottz) is currently working with [openrobotics.org](openrobotics.org). She holds a masters degree in computer science from Columbia University and dual engineering degrees from the University of Michigan. Prior to working at open robotics Katherine has worked as the image analytics team lead at Planet labs and she was a co-founder at Tempo Automation and Sight Machine.
 
