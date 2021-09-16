@@ -19,7 +19,7 @@ Therefore we thought of having a panel discussion **"Python in Space" as a curio
 
 ## Panelists
 
-### Katherine Scott
+## Katherine Scott
 
 Katherine Scott (@kscottz) is currently working with [openrobotics.org](openrobotics.org). She holds a masters degree in computer science from Columbia University and dual engineering degrees from the University of Michigan. Prior to working at open robotics Katherine has worked as the image analytics team lead at Planet labs and she was a co-founder at Tempo Automation and Sight Machine.
 
@@ -30,11 +30,9 @@ Katherine Scott (@kscottz) is currently working with [openrobotics.org](openrobo
 
 ## Arthur Scholz
 
-Arthur Scholz is working with the European Space Agency as spacecraft operations engineer. He was involved in  the Cluster-II mission that studies the Earth’s magnetosphere and in the JUICE mission that will explore Jupiter and its icy moons. He has been Promoting the idea of open source, to share code with others, to promote true collaboration. He founded the LibreCube Initiative to promote open source space engineering for the benefit of all.
+Artur Scholz is working with the European Space Agency as Spacecraft Operations Engineer. He is involved in the Cluster-II mission that studies the Earth’s magnetosphere and in the JUICE mission that will explore Jupiter and its icy moons. During his study time in Germany and Taiwan he has been leading student teams to develop two CubeSats (very small satellites), both of which were sent into space in 2008 and 2014.
 
-He mentions... " My passion is programming and space exploration, and some years ago I discovered Python and it has become my favorite programming language”.
-
-Arthur finds it much fun and rewarding to develop Python applications for ground segment (eg. mission control systems, data transfers) as well as on-board the satellite (eg. using MicroPython).
+Artur is actively promoting the idea of open source to space exploration and has given numerous talks on this topic. His vision is that *everyone* with the interest in space should be able to contribute. He founded the LibreCube Initiative to promote open source space engineering with a focus on harnessing the knowledge embodied in openly available international space standards. Almost all LibreCube projects are coded in Python, partly because of it's low entry barrier to new coders, but mostly because of its rich ecosystem.
 
 - **About**: [https://librecube.org/people/artur-scholz/](https://librecube.org/people/artur-scholz/)
 
