@@ -1,4 +1,4 @@
-Title: Announcing Packt, Innovaccer, Viprush Technologies, and Toyota Connected India as our In-Kind sponsors for PyCon India 2021 (Part 2)
+Title: Announcing Packt, Viprush Technologies, and Toyota Connected India as our In-Kind sponsors for PyCon India 2021 (Part 2)
 Date: 2021-09-03 12:00
 Category: 2021
 Slug: announce-inkind-sponsors-2
@@ -7,7 +7,7 @@ Summary: We are happy to announce some of our InKind Sponsors for PyCon India 20
 As you already know from the first [InKind Sponsors blog](https://in.pycon.org/blog/2021/announce-inkind-sponsors.html), we have some InKind sponsors for this year's conference to improve our attendees' experience of the conference from home.
 
 
-We are very excited to announce Packt, Innovaccer, Viprush Technologies, and Toyota Connected India as our InKind sponsors.
+We are very excited to announce Packt, Viprush Technologies, and Toyota Connected India as our InKind sponsors.
 
 
 ## Packt
@@ -19,14 +19,6 @@ Working towards this vision, we have published over 8,000 books and videos so fa
 As part of our mission, we have also awarded over $1,000,000 through our Open-Source Project Royalty scheme, helping numerous projects become household names along the way.
 
 Website Link: https://www.packtpub.com/
-
-## Innovaccer
-
-<div align="center"><img alt="Innovaccer" src="https://in.pycon.org/2021/images/innovaccer.svg"></div>
-
-Innovaccer Inc is a leading healthcare data activation platform company focused on delivering more efficient and effective healthcare through the use of pioneering analytics and transparent, clean, and accurate data. Innvoaccer’s aim is to simplify complex data from all points of care, streamline the information, and help organizations make powerful decisions and realize strategic goals based on key insights and predictions from their data. Its products have been deployed across more than 500 locations with over 10,000 providers leveraging it at institutions, governmental organizations, and several corporate enterprises such as Mercy ACO, StratiFi Health, Catalyst Health Network, Osler Health Network, and PHIX HIE. Innovaccer is based in San Francisco with offices around the United States and Asia.
-
-Website Link: https://innovaccer.com/
 
 ## Viprush Technologies
 
