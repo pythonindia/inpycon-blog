@@ -16,7 +16,7 @@ PyCon Inda 2021 being an online event, a poster presentation will be done with a
 
 - **Platform/Stage**: Hopin Sessions
 - **Date**: 18th and 19th September 2021
-- **Time for Q&A**: 14:30 to 15:30 and 17:30 to 18:00 IST
+- **Time for Q&A**: 14:30 to 15:30 on 19th September 2021
 
 ## Posters to be presented
 
