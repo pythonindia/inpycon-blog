@@ -69,7 +69,7 @@ All aspects of the conference are managed by volunteers. You can choose to contr
 
 - Chair: [Aravind Sekar](https://pyconindia.zulipchat.com/#narrow/pm-with/270428-Aravind-Sekar)
 - Shadow: [Mehboob Subuhani](https://pyconindia.zulipchat.com/#narrow/pm-with/319016-Mehaboob-Subuhani)
-- Zulip Stream: https://pyconindia.zulipchat.com/#narrow/stream/226098-wg.2Fdesign
+- Zulip Stream: <https://pyconindia.zulipchat.com/#narrow/stream/226098-wg.2Fdesign>
 
 ### Content
 
