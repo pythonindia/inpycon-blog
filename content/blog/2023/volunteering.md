@@ -74,8 +74,8 @@ All aspects of the conference are managed by volunteers. You can choose to contr
 ### Content
 
 - Chair: [Nikhil Maan](https://pyconindia.zulipchat.com/#narrow/pm-with/231330-Nikhil-Maan)
-- Shadow: Jahnavi J
-- Zulip Stream: https://pyconindia.zulipchat.com/#narrow/stream/246476-wg.2Fcontent
+- Shadow: [Jahnavi J](https://pyconindia.zulipchat.com/#narrow/pm-with/611198-JahnaviJ)
+- Zulip Stream: <https://pyconindia.zulipchat.com/#narrow/stream/246476-wg.2Fcontent>
 
 ### Sponsorship
 
