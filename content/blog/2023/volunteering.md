@@ -51,7 +51,7 @@ All aspects of the conference are managed by volunteers. You can choose to contr
 
 - Chair: [Bhushan Kapkar](https://pyconindia.zulipchat.com/#narrow/pm-with/608047-BHUSHAN-KAPKAR)
 - Shadow: [Amritha Madam](https://pyconindia.zulipchat.com/#narrow/pm-with/608219-Amritha-Madam)
-- Zulip Stream: https://pyconindia.zulipchat.com/#narrow/stream/236702-wg.2Fcommunications
+- Zulip Stream: <https://pyconindia.zulipchat.com/#narrow/stream/236702-wg.2Fcommunications>
 
 ### Mentorship
 
