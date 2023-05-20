@@ -1,0 +1,44 @@
+{% extends "base.html"%}
+
+{% block body %}
+  <div class="container">
+      <div class="row pt-5 justify-content-center">                
+          <div class="col-md-12 pb-5">
+              <h1 class="text-white blog-head pt-md-5 text-center">Our Blogs </h1>                    
+          </div>
+          <div class="col-md-10">
+              {% for article in articles_page.object_list %}
+                <article class="blog-list">
+                  <a href="{{SITEURL}}/{{article.url}}">
+                    <h1 class="text-white blog-list-head"> {{article.title}}</h1>
+                  </a>
+              
+                  <div class="meta text-white">
+                    <time datetime="{{article.date}}" itemprop="datePublished">
+                      <small class="yellow-text">
+                        Published: {{ article.date.strftime("%B %d, %Y") }} | Author: {{ article.author | default("PyCon India Content Team", true) }}
+                      </small>
+                    </time>
+                  </div>
+
+                  <div class="blog-para text-white pt-4 pb-4">
+                    {{article.summary}}
+                  </div>
+
+                  <div class="white-hovertext yellow-text">
+                      <a href="{{SITEURL}}/{{article.url}}" class="yellow-text text-decoration-none white-hovertext">Read More <i class="fa fa-long-arrow-right"></i></a>
+                  </div>
+
+                </article>
+                
+                <hr class="blog-hr">
+              {% endfor %}
+          </div>
+      </div>
+  </div>        
+
+{% if articles_page.has_other_pages() %}
+  {% include "components/pagination.html" %}
+{% endif %}
+
+{% endblock %}

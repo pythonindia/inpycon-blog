@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+  {% include "components/head.html" %}
+
+  <body class="enabled-focus">
+    {% include "components/header.html" %}
+
+    <div class="blog-page">
+      {% block body %}
+      {% endblock %}
+    </div>
+   
+    {%include "components/footer.html" %}
+
+    <script src="{{ SITEURL }}/theme/js/font-awesome.js"></script>
+    <script src="{{ SITEURL }}/theme/js/bootstrap.bundle.min.js"></script>
+    <script src="{{ SITEURL }}/theme/js/bootstrap.popper.min.js"></script>
+
+  </body>
+</html>
