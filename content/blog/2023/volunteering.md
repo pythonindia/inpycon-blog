@@ -144,6 +144,11 @@ Now that you understand what it means to volunteer and the impact you can make, 
 6. When is the conference?
     - The conference will take place from September 29 to October 2. Workshops will be held on September 29, conference sessions on September 30 and October 1, and devsprints on October 2.
 
+7.  Do I need to still buy a ticket if I volunteer?
+    - Yes. PyCon India is a conference built for the community, by the community. Everyone from the speakers to volunteers, to even the organizers have to pay for their own tickets to attend the conference. Nobody makes a dime during the whole event. All proceedings from the ticket sales go towards making the conference even better for everyone.
+
+    - Here is a beautiful article by [Jesse Noller](https://twitter.com/jessenoller) about the same [http://jessenoller.com/blog/2011/05/25/pycon-everybody-pays](https://in.pycon.org/2020/faq/jessenoller.com/blog/2011/05/25/pycon-everybody-pays).
+
 Feel free to explore the various workgroups and their specific responsibilities. Additionally, we expect all volunteers to adhere to the Code of Conduct, which promotes a respectful and inclusive environment for all participants. Further details on the Code of Conduct can be found on our conference website.
 
 If you have any further questions, please reach out to the [mailing list](https://mail.python.org/mailman/listinfo/inpycon). Ensure to check the [mailing list archives](https://mail.python.org/pipermail/inpycon/) for previous discussions before posting.
