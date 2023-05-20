@@ -33,7 +33,7 @@ All aspects of the conference are managed by volunteers. You can choose to contr
 
 - Chair: [Soumendra](https://pyconindia.zulipchat.com/#narrow/pm-with/231777-Soumendra)
 - Shadow: TBA
-- Zulip Stream: https://pyconindia.zulipchat.com/#narrow/stream/381471-wg.2Freview
+- Zulip Stream: <https://pyconindia.zulipchat.com/#narrow/stream/381471-wg.2Freview>
 
 ### Technology
 
