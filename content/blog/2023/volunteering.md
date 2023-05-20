@@ -39,7 +39,7 @@ All aspects of the conference are managed by volunteers. You can choose to contr
 
 - Chair: [Bharat Saraswat](https://pyconindia.zulipchat.com/#narrow/pm-with/231146-Bharat-Saraswat)
 - Shadow: [Priyanshu Krishnan](https://pyconindia.zulipchat.com/#narrow/pm-with/603863-Priyanshu-Krishnan)
-- Zulip Stream: https://pyconindia.zulipchat.com/#narrow/stream/226092-wg.2Ftechnology
+- Zulip Stream: <https://pyconindia.zulipchat.com/#narrow/stream/226092-wg.2Ftechnology>
 
 ### Platform
 
