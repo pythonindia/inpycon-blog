@@ -63,7 +63,7 @@ All aspects of the conference are managed by volunteers. You can choose to contr
 
 - Chair: TBA
 - Shadow: TBA
-- Zulip Stream: https://pyconindia.zulipchat.com/#narrow/stream/247766-wg.2Fdiversity
+- Zulip Stream: <https://pyconindia.zulipchat.com/#narrow/stream/247766-wg.2Fdiversity>
 
 ### Design
 
