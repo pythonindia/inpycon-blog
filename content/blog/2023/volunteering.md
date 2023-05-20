@@ -45,7 +45,7 @@ All aspects of the conference are managed by volunteers. You can choose to contr
 
 - Chair: [Ananyo Maiti](https://pyconindia.zulipchat.com/#narrow/pm-with/231456-Ananya-Maiti-|-EPAM-India)
 - Shadow: [Shashank Kumar](https://pyconindia.zulipchat.com/#narrow/pm-with/234834-Shashank-(realslimshanky)---Volunteer-Manager)
-- Zulip Stream: https://pyconindia.zulipchat.com/#narrow/stream/226092-wg.2Ftechnology
+- Zulip Stream: <https://pyconindia.zulipchat.com/#narrow/stream/226092-wg.2Ftechnology>
 
 ### Promotions/Communications
 
