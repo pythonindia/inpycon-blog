@@ -1,4 +1,4 @@
-Title: Help us make PyCon India 2023 even more amazing
+Title: Volunteer Guide - Join the Team and Make PyCon India 2023 Unforgettable
 Date: 2023-05-20 17:00
 Author: Sanchit Balchandani (@inovizz)
 Category: 2023
@@ -85,7 +85,8 @@ All aspects of the conference are managed by volunteers. You can choose to contr
 ### R&D (brainstorm new ideas like: poster presentation, digital swags)
 
 - Chair: [Bhanu K](https://pyconindia.zulipchat.com/#narrow/pm-with/335077-Bhanu-K)
-- Shadow: Pradhvan Bisht
+- Shadow: [Pradhvan Bisht](https://pyconindia.zulipchat.com/#narrow/dm/231318-Pradhvan-Bisht)
+- Zulip Stream: <https://pyconindia.zulipchat.com/#narrow/stream/389199-wg.2Fr.26d>
 
 ### Finance & Tickets
 
@@ -127,7 +128,7 @@ Now that you understand what it means to volunteer and the impact you can make, 
 ## Additional Volunteering FAQs
 
 1. Where can I contribute?
-    - Review the list of Zulip workstreams for different WorkGroups (WGs) [here](https://pyconindia.zulipchat.com/#narrow/stream/301938-WG-.2F-Team-Names).
+    - Review the list of Zulip workstreams for different WorkGroups (WGs) [here](https://pyconindia.zulipchat.com/#narrow/streams).
 
 2. How many WGs can I contribute to?
     - If it's your first time, try to focus on no more than two WGs.
