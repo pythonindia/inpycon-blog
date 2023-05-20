@@ -21,7 +21,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 ARTICLE_PATHS = ["blog"]
-THEME = "themes/inpycon2020"
+THEME = "themes/inpycon2021"
 
 # Blogroll
 LINKS = (("InPyCon", "https://in.pycon.org/"), ("PSSI", "http://pssi.org.in/"))
@@ -55,3 +55,6 @@ PAGINATION_PATTERNS = (
     (1, '{url}', '{save_as}'),
     (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
 )
+
+# For Atom and RSS feeds
+TIMEZONE="GMT"
