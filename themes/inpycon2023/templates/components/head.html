@@ -1,0 +1,30 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="keywords" itemprop="keywords" content="" />
+    <meta name="description" itemprop="description" content="">
+    <meta name="robots" content="index, follow">
+    <title>
+    {% block pagetitle %} PyCon India 2023 Online | September 29th to October 2nd {% endblock %}
+    </title>
+    <link rel="icon" type="image/png" href="{{ SITEURL }}/theme/images/favicon.png">
+    <link href="{{ SITEURL }}/theme/css/style.css" rel="stylesheet">
+    <link href="{{ SITEURL }}/theme/css/font-awesome.min.css" rel="stylesheet">
+    <link href="{{ SITEURL }}/theme/css/aos.css" rel="stylesheet">
+    <link href="{{ SITEURL }}/theme/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ SITEURL }}/theme/css/blog-style.css" rel="stylesheet">
+    {% if article is defined %}
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
+        <meta property="og:title" content="{{ article.title | replace("\"", "&quot;") }}" />
+        <meta property="og:description" content="{{ article.content | striptags | replace("\"", "&quot;") | truncate(124, False, '...') }}" />
+        <meta property="og:image" content="https://in.pycon.org/blog/theme/images/opengraph-default.png" />
+    {% else %}
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="{{ SITEURL }}/{{ output_file }}" />
+        <meta property="og:title" content="{{ SITENAME }}" />
+        <meta property="og:description" content="{{ DESCRIPTION }}" />
+        <meta property="og:image" content="https://in.pycon.org/blog/theme/images/opengraph-default.png" />
+    {% endif %}
+</head>
