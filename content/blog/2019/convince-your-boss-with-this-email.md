@@ -1,10 +1,10 @@
-Title:Convince Your Boss With This Email 
-Date:2019-06-01 09:00 
-Category:2019 
-Slug:2019-convince-your-boss-with-this-email 
-Summary:Save time composing an email to convince your boss to send you to PyCon India. We got you covered.
+Title: Convince Your Boss With This Email
+Date: 2019-06-01 09:00
+Category: 2019
+Slug: 2019-convince-your-boss-with-this-email
+Summary: Save time composing an email to convince your boss to send you to PyCon India. We got you covered.
 
-There are a gazillion things to be gained attending PyCon India. Unfortunately, it takes time to sit and compose a neat little email to send to your boss enumerating them. Now consider that atleast half of our attendees attempt to do that, we would lose so many hours of productivity reinventing the wheel ;) . So PyCon India is here to save the day. We have composed a "Convince The Boss" letter to save you time. Of course, feel free to edit it as you like, remove some, add some or use as is. 
+There are a gazillion things to be gained attending PyCon India. Unfortunately, it takes time to sit and compose a neat little email to send to your boss enumerating them. Now consider that atleast half of our attendees attempt to do that, we would lose so many hours of productivity reinventing the wheel ;) . So PyCon India is here to save the day. We have composed a "Convince The Boss" letter to save you time. Of course, feel free to edit it as you like, remove some, add some or use as is.
 
 ## Important Notes
 1. You do not need to keep all the points. Remove ones you deem unnecessay. The shorter it is, the better the chances that your boss will read it.
@@ -19,7 +19,7 @@ I am excited to brief you about PyCon India, India's premier conference on using
 
 It would be great if I get an opportunity to attend this conference as there will be innumerable benefits for me as an individual which will in turn impact the organization as well. To list a few:
 
-* `{OPTIONAL}` I am particularly keen on attending this `{TALK/WORKSHOP/DEVSPRINT}` on `{TOPIC}` presented by `{SPEAKER-NAME}` as our `{PROJECT/UPCOMING PROJECT}` is based on this. 
+* `{OPTIONAL}` I am particularly keen on attending this `{TALK/WORKSHOP/DEVSPRINT}` on `{TOPIC}` presented by `{SPEAKER-NAME}` as our `{PROJECT/UPCOMING PROJECT}` is based on this.
 
 * Exposure to the actionable best practices & tools that we could use in our projects, saving money and time spent exploring different options.
 

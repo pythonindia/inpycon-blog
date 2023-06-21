@@ -1,10 +1,8 @@
 Title: Announcing ATONARP as Associate Sponsor
 Date: 2019-09-23 10:00
 Category: 2019
+Summary: We are happy to introduce our Associate sponsor **ATONARP**!
 
-We are happy to introduce our Associate sponsor **ATONARP**!
-
-<!-- PELICAN_END_SUMMARY -->
 <br>
 <div class="text-center">
   <a href="https://www.atonarp.com" target="_blank">
