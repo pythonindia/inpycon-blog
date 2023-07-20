@@ -14,19 +14,6 @@
     text-decoration: none!important;
 }
 
-/* Pagination */
-.paginator {
-    font-size: 13pt;
-    background:#21292e;
-    color: #b7b7b7;
-    text-align: center;
-    margin-bottom: 0;
-}
-
-.paginator-nav {
-    text-decoration: none;
-}
-  
-.paginator i {
-    color: #DD0E12;
+.speaker-image {
+    border-radius: 50%;
 }

@@ -3,6 +3,7 @@ Date: 2023-05-22 20:00
 Author: Shloka Shah (linktr.ee/shlokashah)
 Category: 2023
 Slug: guide-to-speaking
+image: images/speaker1.png
 Summary: All you need to know about submitting a CFP and Speaking at PyCon India.
 
 **Hello Hello Pythonistas!!!**
