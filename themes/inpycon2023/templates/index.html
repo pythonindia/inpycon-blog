@@ -1,44 +1,61 @@
 {% extends "base.html"%}
 
 {% block body %}
-  <div class="container">
-      <div class="row pt-5 justify-content-center">                
-          <div class="col-md-12 pb-5">
-              <h1 class="text-white blog-head pt-md-5 text-center">Our Blogs </h1>                    
+  <!-- blog section  -->
+  <section class="bg-blog">
+    <div class="container">
+      <div class="row pt-5 pb-5">
+        <div class="col-md-12 pb-5">
+          <h2 class="com-head mb-0 text-center text-md-start" data-aos="fade-right"  data-aos-duration="3000">Our Blogs</h2>
+        </div>
+        {% for article in articles_page.object_list %}
+        <div class="blog-sec pt-3 pb-3">
+          <div class="row pt-4 pb-4">
+            <div class="col-lg-8">
+              <a href="{{SITEURL}}/{{article.url}}">
+                <h3 class="blog-head">{{article.title}}</h3>
+              </a>
+              <p class="blog-para">{{article.summary}}</p>
+              <div class="readmore-blog"><a href="{{SITEURL}}/{{article.url}}">Read More <img src="{{ SITEURL }}/theme/images/arrow-blog.png" class="img-fluid ps-2"></a></div>
+            </div>
+            <div class="col-lg-4 d-none d-lg-block">
+              <time datetime="{{article.date}}" itemprop="datePublished">
+                <h4 class="blog-date">Published: <span class="fw-bold">{{ article.date.strftime("%B %d, %Y") }}</span></h4>
+              </time>
+              <h4 class="blog-date">Author: <span class="fw-bold">{{ article.author | default("PyCon India Content Team", true) }}</span></h4>
+            </div>
           </div>
-          <div class="col-md-10">
-              {% for article in articles_page.object_list %}
-                <article class="blog-list">
-                  <a href="{{SITEURL}}/{{article.url}}">
-                    <h1 class="text-white blog-list-head"> {{article.title}}</h1>
-                  </a>
-              
-                  <div class="meta text-white">
-                    <time datetime="{{article.date}}" itemprop="datePublished">
-                      <small class="yellow-text">
-                        Published: {{ article.date.strftime("%B %d, %Y") }} | Author: {{ article.author | default("PyCon India Content Team", true) }}
-                      </small>
-                    </time>
-                  </div>
-
-                  <div class="blog-para text-white pt-4 pb-4">
-                    {{article.summary}}
-                  </div>
-
-                  <div class="white-hovertext yellow-text">
-                      <a href="{{SITEURL}}/{{article.url}}" class="yellow-text text-decoration-none white-hovertext">Read More <i class="fa fa-long-arrow-right"></i></a>
-                  </div>
-
-                </article>
-                
-                <hr class="blog-hr">
-              {% endfor %}
-          </div>
+        </div>
+        {% endfor %}
+        {% if articles_page.has_other_pages() %}
+          {% include "components/pagination.html" %}
+        {% endif %}
       </div>
-  </div>        
+    </div>
+    
+  </section>
 
-{% if articles_page.has_other_pages() %}
-  {% include "components/pagination.html" %}
-{% endif %}
+  
+
+  <!-- subscribe section started -->
+  <section class="bg-subscribe">
+    <div class="container">
+      <div class="row pt-md-5 pb-5 align-items-end d-flex">
+        <div class="col-md-6">
+          <h2 class="com-head-1 mb-0" data-aos="fade-right"  data-aos-duration="3000">Subscribe <br> For Conference Updates</h2>
+        </div>
+        <div class="col-md-6 pt-3 pt-md-0">
+          <form class="d-flex">
+            <input type="email" placeholder="Enter Your email " id="email" />
+            <div class="arr-img"><img src="{{ SITEURL }}/theme/images/arrow-down.png"></div>
+        </form>
+        </div>
+      </div>
+    </div>
+    <!-- <div class="container-fluid p-0 text-center ">
+      <img src="images/sub.png" class="img-fluid">
+    </div> -->
+  </section>
+  <!-- subscribe section ended -->
 
 {% endblock %}

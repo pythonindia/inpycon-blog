@@ -6,16 +6,26 @@
   <body class="enabled-focus">
     {% include "components/header.html" %}
 
-    <div class="blog-page">
+    <div>
       {% block body %}
       {% endblock %}
     </div>
-   
+
     {%include "components/footer.html" %}
 
-    <script src="{{ SITEURL }}/theme/js/font-awesome.js"></script>
-    <script src="{{ SITEURL }}/theme/js/bootstrap.bundle.min.js"></script>
-    <script src="{{ SITEURL }}/theme/js/bootstrap.popper.min.js"></script>
+    <!-- bootstrap -->
+    <script src="{{ SITEURL }}/theme/js/bootstrap.popper.min.js "></script>
+    <script src="{{ SITEURL }}/theme/js/bootstrap.bundle.min.js "></script>
+    <script src="{{ SITEURL }}/theme/js/font-awesome.js" rel="stylesheet"></script>
+
+    <!-- animation -->
+    <script src="{{ SITEURL }}/theme/js/aos.js "></script>
+
+    <script>
+        AOS.init({
+            once: 'true'
+        });
+    </script>
 
   </body>
 </html>
