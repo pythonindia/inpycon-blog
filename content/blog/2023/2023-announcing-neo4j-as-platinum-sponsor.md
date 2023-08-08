@@ -7,7 +7,7 @@ Summary: We are happy to introduce our Platinum sponsor **Neo4j**!
 <!-- PELICAN_END_SUMMARY -->
 <br>
 <div class="text-center">
-  <a href="http://neo4j.com/" target="_blank">
+  <a href="https://neo4j.com/" target="_blank">
     <img src="{static}/images/sponsors/neo4j.png" alt="Neo4j" class="img-fluid responsive-image">
   </a>
 </div>
@@ -15,6 +15,6 @@ Summary: We are happy to introduce our Platinum sponsor **Neo4j**!
 
 Neo4j Graph Database is a leading database for developing applications that utilize data relationships. Key benefits include fast performance, massive scalability, developer productivity, and operational trust. It enables insights from data that other databases can't, scaling for high-throughput and maintaining elasticity. The data model is intuitive, fostering rapid application development. Neo4j's ACID compliance ensures transactional integrity, and its security is designed for the graph. Databases can be deployed across various clouds or via AuraDB. Top use cases include fraud detection, real-time recommendations, bill of materials, track & trace, and network & IT ops. Additionally, Neo4j Graph Data Science offers a platform for graph analytics and machine learning at scale. Learn more with GraphAcademy's free courses.
 
-Website Link: <a href="http://neo4j.com/" target="_blank">http://neo4j.com/</a>
+Website Link: <a href="https://neo4j.com/" target="_blank">http://neo4j.com/</a>
 
 **[Get your tickets now](https://konfhub.com/pyconindia2023#tickets)**!!
