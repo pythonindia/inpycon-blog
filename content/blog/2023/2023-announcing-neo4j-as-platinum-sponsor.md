@@ -8,7 +8,7 @@ Summary: We are happy to introduce our Platinum sponsor **Neo4j**!
 <br>
 <div class="text-center">
   <a href="http://neo4j.com/" target="_blank">
-    <img src="{static}/images/sponsors/neo4j.png" alt="Neo4j">
+    <img src="{static}/images/sponsors/neo4j.png" alt="Neo4j" class="img-fluid responsive-image">
   </a>
 </div>
 <br>
@@ -17,4 +17,4 @@ Neo4j Graph Database is a leading database for developing applications that util
 
 Website Link: <a href="http://neo4j.com/" target="_blank">http://neo4j.com/</a>
 
-**[Get your tickets now!!](https://konfhub.com/pyconindia2023#tickets)**
+**[Get your tickets now](https://konfhub.com/pyconindia2023#tickets)**!!
