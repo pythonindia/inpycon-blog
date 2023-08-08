@@ -37,4 +37,4 @@ Out of the many submissions we received, the following posters will be presented
 
 We invite everyone to visit these sessions and interact with the speakers. Some of them are students and first-time speakers. Your feedback, guidance, and words of appreciation would mean a lot for folks new to the Python community.
 
-_See you all at Pycon India 2021._
+_See you all at PyCon India 2021._
