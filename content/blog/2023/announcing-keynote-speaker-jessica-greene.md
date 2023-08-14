@@ -2,7 +2,7 @@ Title: Announcing our first Keynote Speaker for PyCon India 2023 - Jessica Green
 Date: 2023-07-20 22:00
 Category: 2023
 Slug: keynote-announcement-jessia-greene
-image: https://in.pycon.org/2023/images/keynote-speakers/jessica-greene.jpg
+image: images/keynote-speakers/jessica-greene.jpg
 Summary: We are happy to announce **Jessica Greene (she/her)** as a Keynote Speaker for PyCon India 2023!
 
 Jessica Greene is a self-taught slash community-taught Software Engineer, with a diverse background that includes film, television, and specialty coffee roasting. In 2017, she made the pivotal decision to retrain and add programming to her skill set, leading her to join the team at Ecosia in 2018. In her role, she leverages her Python and Golang skills to build and operate APIs, perform data analysis, and develop features that inspire users to make more climate-focused choices, thereby contributing to Ecosia's mission of global tree planting and a better planet.
