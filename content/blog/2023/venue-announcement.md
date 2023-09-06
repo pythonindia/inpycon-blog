@@ -6,7 +6,7 @@ Summary: Announcing JNTUH as the venue for PyCon India 2023
 
 **The PyCon India 2023 team is very excited to invite you to our city for this year's conference.**
 
-## Welcome to the city of Nizams
+## Welcome to Hyderabad!
 <br/>
 
 After a long wait of three years, PyCon India is back as an in-person conference, and we are excited to announce that the conference will be held at the **Jawaharlal Nehru Technological University, Hyderabad (JNTUH)** in the beautiful city of Hyderabad, also known as the city of Nizams.
@@ -15,7 +15,7 @@ After a long wait of three years, PyCon India is back as an in-person conference
 
 #### Academic Partner: Blackbucks-CEFT-JNTUH
 
-We are also excited to announce that we have partnered with the Center of Excellence for Emerging Technologies (CEFT) as our academic partner for PyCon India 2023. The CEFT is a joint initiative of BlackBuck and JNTUH to promote research and innovation in the field of emerging technologies. 
+We are also excited to announce that we have partnered with the Center of Excellence for Emerging Technologies (CEFT) as our academic partner for PyCon India 2023. The CEFT is a joint initiative of BlackBucks and JNTUH to promote research and innovation in the field of emerging technologies. 
 
 #### How to reach the venue?
 
