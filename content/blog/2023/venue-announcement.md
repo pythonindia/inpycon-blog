@@ -13,9 +13,9 @@ After a long wait of three years, PyCon India is back as an in-person conference
 
  We are working hard to make this conference a memorable one for you. We are also working on a lot of exciting things for the conference, and we will be announcing them soon.
 
-#### Academic Partner: Blackbucks-CEFT-JNTUH
+#### Academic Partner: Blackbucks-JNTUH CEFT
 
-We are also excited to announce that we have partnered with the Center of Excellence for Emerging Technologies (CEFT) as our academic partner for PyCon India 2023. The CEFT is a joint initiative of BlackBucks and JNTUH to promote research and innovation in the field of emerging technologies. 
+We are also excited to announce that we have partnered with the Center of Excellence for Emerging Technologies (CEFT) as our academic partner for PyCon India 2023. The CEFT is a joint initiative of Blackbucks and JNTUH to promote research and innovation in the field of emerging technologies. 
 
 #### How to reach the venue?
 
