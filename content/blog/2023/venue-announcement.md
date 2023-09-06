@@ -27,6 +27,8 @@ For more details, you can read our [Travel Guide](https://in.pycon.org/2023/trav
 
 We are working on getting the best deals for you. We will be announcing the details soon.
 
+In the meantime, if you would like to share accommodations with your fellow attendees, feel free to start a discussion on the [wg/accommodation Stream on Zulip](https://pyconindia.zulipchat.com/#narrow/stream/403768-wg.2Faccommodation)
+
 #### Important Dates
 
 - Conference Dates: **29th September - 2nd October 2023**
