@@ -22,3 +22,11 @@
     max-width: 100%;
     height: auto;
 }
+
+
+.blog-para a {
+    text-decoration: none!important;
+    font-weight: 700;
+    color: #1f7471!important;
+    border-bottom: 2px solid #1f7471;
+}
