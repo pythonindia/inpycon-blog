@@ -20,13 +20,13 @@ PyCon India 2023 is the perfect place to get started with contributing to open-s
 
 ## When and Where?
 
-**After the conference, we will be organizing DevSprints on 3rd October 2023. The DevSprints will be held at [Phenom People Pvt Ltd, Whitefield, Kondapur.](https://goo.gl/maps/hmHBapTF6bMNJWWx5)**
+**After the conference, we will be organizing DevSprints on 2nd October 2023. The DevSprints will be held at [Phenom People Pvt Ltd, Whitefield, Kondapur.](https://goo.gl/maps/hmHBapTF6bMNJWWx5)**
 
-The timings for the DevSprints will be from 10:00 AM to 5:00 PM.
+The timings for the DevSprints will be from 09:00 AM to 5:00 PM.
 
 ### How to participate?
 
-You do not need any additional tickets to participate in the DevSprints. If you have purchased a conference ticket, you can attend the DevSprints as well. However the capacity of the venue is limited, so we will be sharing a form to register for the DevSprints.
+You do not need any additional tickets to participate in the Devsprints. Any person with a valid Conference ticket is free to attend devsprints. However, the capacity of the venue is limited, up to a maximum of 200 participants. Entry will be permitted on a first come first serve basis at the Venue.
 
 ## Looking for new Contributors for your project?
 
