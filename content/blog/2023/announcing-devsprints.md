@@ -39,3 +39,9 @@ You can head over to [Devsprints CFP](https://in.pycon.org/cfp/devsprint-2023/pr
 **Any maintainer is welcome to add a project. There will be no shortlisting of projects. We are using the CFP platform to make it easier to manage and keep the projects in one place.**
 
 If you have any questions regarding the dev sprints, be sure to reach out to us on Zulip over on the [`#2023/devsprint` stream!](https://pyconindia.zulipchat.com/)
+
+Credits: The content of this blog was inspired by
+
+- [What's different at this year's PyCon India 2020 DevSprints](https://in.pycon.org/blog/2020/announce-devsprints.html)
+- [Understanding Devsprints](https://in.pycon.org/blog/2019/understanding-devsprints.html)
+- [PyCon India Devsprints 2023](https://in.pycon.org/cfp/devsprint-2023/proposals/)
