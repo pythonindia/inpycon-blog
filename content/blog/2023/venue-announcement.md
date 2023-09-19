@@ -23,6 +23,10 @@ The venue is located in the Kukatpally area of Hyderabad. The nearest metro stat
 
 For more details, you can read our [Travel Guide](https://in.pycon.org/2023/travel/).
 
+#### Update: DevSprints Venue - Phenom People Pvt Ltd
+
+**After the conference, we will be organizing DevSprints on 2nd October 2023. The DevSprints will be held at [Phenom People Pvt Ltd, Whitefield, Kondapur.](https://goo.gl/maps/hmHBapTF6bMNJWWx5)**
+
 #### Accommodation
 
 We are working on getting the best deals for you. We will be announcing the details soon.
