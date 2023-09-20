@@ -4,7 +4,7 @@ Category: 2023
 Slug: devsprints
 Summary: Make your first contribution to open source at PyCon India 2023 DevSprints
 
-PyCon India 2023 is the perfect place to get started with contributing to open-source projects. We are organizing DevSprints on 3rd October 2023.
+PyCon India 2023 is the perfect place to get started with contributing to open-source projects. We are organizing DevSprints on 2nd October 2023.
 
 ## What are DevSprints?
 
