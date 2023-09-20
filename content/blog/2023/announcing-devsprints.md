@@ -26,7 +26,7 @@ The timings for the DevSprints will be from 09:00 AM to 5:00 PM.
 
 ### How to participate?
 
-You do not need any additional tickets to participate in the Devsprints. Any person with a valid Conference ticket is free to attend devsprints. However, the capacity of the venue is limited, up to a maximum of 200 participants. Entry will be permitted on a first come first serve basis at the Venue.
+You do not need any additional tickets to participate in the Devsprints. Any person with a valid Conference ticket is free to attend devsprints. However, the capacity of the venue is limited. Entry will be permitted on a first come first serve basis at the Venue.
 
 ## Looking for new Contributors for your project?
 
