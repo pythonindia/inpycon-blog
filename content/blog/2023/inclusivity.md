@@ -48,10 +48,13 @@ We have ensured the following at both the venues:
 ## New Tracks for Young Learners and Families
 
 We have thought deeply and worked hard to make the event more inclusive by creating two new tracks for young learners and families:
-    1. *Young Learners Workshop (YLW)*
-       - YLW aims to nurture school students through hands-on learning experiences with Python and Raspberry Pi devices. You can read more about YLW at <https://in.pycon.org/2023/ylw/>.
-    2. *Tinkering Space*
-        - The track was designed as an inclusive event for parents to spend time with their children tinkering with electronics (Raspberry Pi Pico, STEM kits, etc.) and Python. You can read more about the track here: <https://in.pycon.org/2023/tinkering-space/>.
+
+
+- *Young Learners Workshop (YLW)*
+    - YLW aims to nurture school students through hands-on learning experiences with Python and Raspberry Pi devices. You can read more about YLW at <https://in.pycon.org/2023/ylw/>.
+
+- *Tinkering Space*
+    - The track was designed as an inclusive event for parents to spend time with their children tinkering with electronics (Raspberry Pi Pico, STEM kits, etc.) and Python. You can read more about the track here: <https://in.pycon.org/2023/tinkering-space/>.
 
 ## Diversity efforts
 
@@ -65,7 +68,7 @@ We realize the need for wider adoption of diversity initiatives at organizations
 - Presenters will be reminded that all slides, videos, and visual demos will need to be described as part of the spoken presentation.
 - Volunteers to help with slide advancement.
 - Request presenters to ensure the presence of Closed Captions (CC) if there is any video displayed.
-  
+
 ## Volunteers and Medical Support
 
 - A dedicated contact number to call in case of any need or issue. We will share this with you a few days before the conference.
