@@ -7,7 +7,7 @@ Summary: We are happy to introduce our Gold sponsor **Toyota Connected India**!
 <!-- PELICAN_END_SUMMARY -->
 <br>
 <div class="text-center">
-  <a href="https://toyotaconnected.co.in/" target="_blank">
+  <a href="https://toyotaconnected.co.in/" target="_blank" style="border: none; text-decoration: none;">
     <img src="{static}/images/sponsors/toyota.png" alt="Toyota Connected India" class="img-fluid responsive-image">
   </a>
 </div>

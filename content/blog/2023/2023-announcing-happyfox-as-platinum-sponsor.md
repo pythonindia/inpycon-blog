@@ -7,7 +7,7 @@ Summary: We are happy to introduce our Platinum sponsor **HappyFox**!
 <!-- PELICAN_END_SUMMARY -->
 <br>
 <div class="text-center">
-  <a href="https://happyfox.com/" target="_blank">
+  <a href="https://happyfox.com/" target="_blank" style="border: none; text-decoration: none;">
     <img src="{static}/images/sponsors/happyfox.png" alt="HappyFox" class="img-fluid responsive-image">
   </a>
 </div>

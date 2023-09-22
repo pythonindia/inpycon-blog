@@ -7,7 +7,7 @@ Summary: We are happy to introduce our Gold sponsor **LlamaIndex**!
 <!-- PELICAN_END_SUMMARY -->
 <br>
 <div class="text-center">
-  <a href="https://www.llamaindex.ai/" target="_blank">
+  <a href="https://www.llamaindex.ai/" target="_blank" style="border: none; text-decoration: none;">
     <img src="{static}/images/sponsors/lindex.png" alt="LlamaIndex" class="img-fluid responsive-image">
   </a>
 </div>

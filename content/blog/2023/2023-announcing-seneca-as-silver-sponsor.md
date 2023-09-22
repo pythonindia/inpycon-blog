@@ -7,7 +7,7 @@ Summary: We are happy to introduce our Silver sponsor **SenecaGlobal IT Services
 <!-- PELICAN_END_SUMMARY -->
 <br>
 <div class="text-center">
-  <a href="https://www.senecaglobal.com" target="_blank">
+  <a href="https://www.senecaglobal.com" target="_blank" style="border: none; text-decoration: none;">
     <img src="{static}/images/sponsors/seneca.png" alt="seneca" class="img-fluid responsive-image">
   </a>
 </div>

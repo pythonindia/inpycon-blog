@@ -7,7 +7,7 @@ Summary: We are happy to introduce our Gold sponsor **Rezoomex**!
 <!-- PELICAN_END_SUMMARY -->
 <br>
 <div class="text-center">
-  <a href="https://www.rezoomex.com/" target="_blank">
+  <a href="https://www.rezoomex.com/" target="_blank" style="border: none; text-decoration: none;">
     <img src="{static}/images/sponsors/rezoomex.png" alt="rezoomex" class="img-fluid responsive-image">
   </a>
 </div>

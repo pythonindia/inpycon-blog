@@ -7,7 +7,7 @@ Summary: We are happy to introduce our Gold sponsor **Corteva Agriscience**!
 <!-- PELICAN_END_SUMMARY -->
 <br>
 <div class="text-center">
-  <a href="https://www.corteva.com/" target="_blank">
+  <a href="https://www.corteva.com/" target="_blank" style="border: none; text-decoration: none;">
     <img src="{static}/images/sponsors/corteva.png" alt="Corteva Agriscience" class="img-fluid responsive-image">
   </a>
 </div>

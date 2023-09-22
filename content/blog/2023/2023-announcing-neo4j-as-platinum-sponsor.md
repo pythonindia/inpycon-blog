@@ -7,7 +7,7 @@ Summary: We are happy to introduce our Platinum sponsor **Neo4j**!
 <!-- PELICAN_END_SUMMARY -->
 <br>
 <div class="text-center">
-  <a href="https://neo4j.com/" target="_blank">
+  <a href="https://neo4j.com/" target="_blank" style="border: none; text-decoration: none;">
     <img src="{static}/images/sponsors/neo4j.png" alt="Neo4j" class="img-fluid responsive-image">
   </a>
 </div>
