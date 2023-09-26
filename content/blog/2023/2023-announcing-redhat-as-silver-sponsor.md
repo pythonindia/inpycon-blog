@@ -13,7 +13,7 @@ Summary: We are happy to introduce our Silver sponsor **Red Hat**!
 </div>
 <br>
 
-We’re the world’s leading provider of enterprise open source solutions—including Linux, cloud, container, and Kubernetes. We deliver hardened solutions that make it easier for enterprises to work across platforms and environments, from the core datacenter to the network edge. For more information, please visit [https://www.redhat.com/](https://www.redhat.com/).
+Red Hat is the world’s leading provider of enterprise open source software solutions, using a community-powered approach to deliver reliable and high-performing Linux, hybrid cloud, container, and Kubernetes technologies. Red Hat helps customers develop cloud-native applications, integrate existing and new IT applications, and automate and manage complex environments. A trusted adviser to the Fortune 500, Red Hat provides award-winning support, training, and consulting services that bring the benefits of open innovation to any industry. Red Hat is a connective hub in a global network of enterprises, partners, and communities, helping organizations grow, transform, and prepare for the digital future. For more information, please visit [https://www.redhat.com/](https://www.redhat.com/).
 
 Website Link: <a href="https://www.redhat.com/" target="_blank">https://www.redhat.com/</a>
 
