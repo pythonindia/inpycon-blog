@@ -17,13 +17,13 @@ We are excited to announce that [PyCon India 2024](https://in.pycon.org/2024/) i
 
 We look forward to seeing beginner, intermediate, and advanced proposals on diverse topics from speakers of different expertise and experience. To submit a proposal, you don't need to be a veteran who has spoken at a dozen conferences in the past. We are looking for all kinds of people to make our conference genuinely diverse. That's what our community comprises, and that's what this conference's schedule should be genuinely made of.
 
-So, whether you are submitting a proposal for talks for the first time or just want to share what you have been up to with Python for a long time. This is YOUR time to shine!
+So, whether you are submitting a proposal for talks for the first time or just want to share what you have been doing with Python for a long time, this is YOUR time to shine!
 
 Please make a note of some important dates as mentioned below:
 
 - CFP opens on **10th March 2024**
 - CFP closes on **31st May 2024**
-The schedule shall be released on the Last week of July
+- The schedule shall be released on **1st September 2024**
 - Talks will be presented on **20th - 23rd September 2024**
 
 ### Where can you submit your proposal?
@@ -39,10 +39,10 @@ As you think about the experiences, skills, and knowledge you want to bring, We 
 When submitting a proposal, you must fill in the following details.
 
 1. Title
-Give your talk/workshop a name that accurately describes the focus of the session for potential attendees.
+Give your talk/workshop a name that accurately describes the session's focus for potential attendees.
 
 2. Description
-A brief description of the talk/workshop is needed here. Provide as much detail as you can to guide us through your plans to cover the topic. The workshop duration needs to be 2.5 hours, and the talk duration needs to be 30 minutes. Hence, a rough timeline detailing how you will spend time explaining the concept would be a great idea.
+A brief description of the talk/workshop is needed here. Provide as much detail as possible to guide us through your plans to cover the topic. The workshop should last 2.5 hours, and the talk should last 30 minutes. Hence, a rough timeline detailing how you will spend time explaining the concept would be great.
 
 3. Audience Level
 At what level of Python and other topic-specific experience or expertise is the workshop aiming for? We realize this may be too narrow for a seminar; for example, if the workshop is aimed at experienced programmers but novices to Python, give it your best shot. Reviewers need to know what level of Python experience is targeted and what level(s) of domain-specific expertise is targeted, such as networking, SQL, database, etc.
@@ -64,7 +64,7 @@ You'll be asked to enter your biography, and the information will be made public
 A 1-3 minute video to be recorded, preferably in portrait mode.
 
 2. **Upload to YouTube**  
-The video must be uploaded on YouTube. If you want to prevent other people from finding it, mark it as unlisted. Don't mark it as private or disallow embedding, or we won't be able to see it. ​
+The video must be uploaded on YouTube. If you want to prevent others from finding it, mark it unlisted. Don't mark it as private or disallow embedding, or we won't be able to see it. ​
 
 3. **Only you talking about your talk**  
 The video should contain nothing except you talking about your talk.​ Try to make a video that holds our attention and helps us understand your talk more deeply.
