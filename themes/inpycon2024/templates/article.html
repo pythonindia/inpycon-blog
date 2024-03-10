@@ -1,0 +1,62 @@
+{% extends "base.html"%}
+
+{% block pagetitle %}{{article.title}} - {{ super() }}{% endblock %}
+
+{% block body %} 
+<!-- blog section  -->
+<section class="bg-blog blog-inner">
+  <div class="container">
+    <div class="row pt-5 pb-5">
+      <div class="col-md-12 pb-5">            
+        <div class="blog-sec-inner pt-3 pb-3">
+          <div class="row pt-4 pb-4">
+            <div class="col-md-12">
+              <h3 class="blog-head pb-4">{{article.title}}</h3>
+              <div class='meta blog-para'>
+                <time datetime="{{article.date}}" itemprop="datePublished">
+                <small>
+                    Published: {{ article.date.strftime('%B %d, %Y') }}  |  Author: {{ article.author | default("PyCon India Content Team", true) }}
+                  </small>
+                </time>
+              </div>
+              <hr class="blog-hr">
+              {% if article.image %}
+                <div class="bg-speakerbox bg-white p-3 p-lg-5 mb-3 mb-md-5 row align-items-center" data-aos="fade-right"  data-aos-duration="1000">
+                  <div class="col-4"></div>
+                  <div class="col-4">
+                    <div class="row align-items-center">
+                        <img src="{{ SITEURL }}/{{ article.image }}" alt="" class="img-fluid" style="border-radius: 50%;"/>
+                    </div>
+                  </div>
+                  
+              {% endif %}
+              <div class="blog-para">{{ article.content }}</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- subscribe section started -->
+<section class="bg-subscribe">
+  <div class="container">
+    <div class="row pt-md-5 pb-5 align-items-end d-flex">
+      <div class="col-md-6">
+        <h2 class="com-head-1 mb-0" data-aos="fade-right"  data-aos-duration="3000">Subscribe <br> For Conference Updates</h2>
+      </div>
+      <div class="col-md-6 pt-3 pt-md-0">
+        <form class="d-flex">
+          <input type="email" placeholder="Enter Your email " id="email" />
+          <div class="arr-img"><img src="{{ SITEURL }}/theme/images/arrow-down.png"></div>
+      </form>
+      </div>
+    </div>
+  </div>
+  <!-- <div class="container-fluid p-0 text-center ">
+    <img src="images/sub.png" class="img-fluid">
+  </div> -->
+</section>
+<!-- subscribe section ended -->
+{% endblock %}

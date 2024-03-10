@@ -8,7 +8,7 @@ Summary: PyCon India is back for 2024, and the [call for proposals](https://in.p
 <br/>
 <div class="text-center">
   <a href="https://in.pycon.org/2024/" target="_blank" style="border: none; text-decoration: none;">
-    <img src="{static}/theme/images/logo_2024.png" alt="PyCon India 2024" class="img-fluid responsive-image">
+    <img src="{static}/theme/images/logo.png" alt="PyCon India 2024" class="img-fluid responsive-image">
   </a>
 </div>
 <br/>
