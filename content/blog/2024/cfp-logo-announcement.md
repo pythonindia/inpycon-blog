@@ -24,7 +24,8 @@ Please make a note of some important dates as mentioned below:
 - CFP opens on **10th March 2024**
 - CFP closes on **31st May 2024**
 - The schedule shall be released on **1st September 2024**
-- Talks will be presented on **20th - 23rd September 2024**
+- Talks will be presented on **21st - 22nd September 2024**
+- Workshops are on **20th September 2024**
 
 ### Where can you submit your proposal?
 
