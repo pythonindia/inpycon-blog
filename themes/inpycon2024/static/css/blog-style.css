@@ -1,0 +1,32 @@
+.blog-content {
+    color: #b7b7b7;
+}
+
+.blog-content h2{
+    font-family: "Montserrat", sans-serif !important;
+    font-weight: 600;
+    font-size: 30px!important;
+    color: #fff!important;
+}
+
+.blog-content a {
+    color: #fbc343;
+    text-decoration: none!important;
+}
+
+.speaker-image {
+    border-radius: 50%;
+}
+
+.responsive-image {
+    max-width: 100%;
+    height: auto;
+}
+
+
+.blog-para a {
+    text-decoration: none!important;
+    font-weight: 700;
+    color: #1f7471!important;
+    border-bottom: 2px solid #1f7471;
+}
