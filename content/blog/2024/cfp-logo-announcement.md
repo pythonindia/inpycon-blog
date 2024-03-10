@@ -43,7 +43,7 @@ When submitting a proposal, you must fill in the following details.
 Give your talk/workshop a name that accurately describes the session's focus for potential attendees.
 
 2. Description
-A brief description of the talk/workshop is needed here. Provide as much detail as possible to guide us through your plans to cover the topic. The workshop should last 2.5 hours, and the talk should last 30 minutes. Hence, a rough timeline detailing how you will spend time explaining the concept would be great.
+A brief description of the talk/workshop is needed here. Provide as much detail as possible to guide us through your plans to cover the topic. The workshop should last 3 hours, and the talk should last 30 minutes. Hence, a rough timeline detailing how you will spend time explaining the concept would be great.
 
 3. Audience Level
 At what level of Python and other topic-specific experience or expertise is the workshop aiming for? We realize this may be too narrow for a seminar; for example, if the workshop is aimed at experienced programmers but novices to Python, give it your best shot. Reviewers need to know what level of Python experience is targeted and what level(s) of domain-specific expertise is targeted, such as networking, SQL, database, etc.
