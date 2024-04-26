@@ -13,16 +13,16 @@ We have started selling tickets for our mega event, and details are available on
 
 <br/>
 <div class="text-center">
-  <a href="https://in.pycon.org/2024/" target="_blank" style="border: none; text-decoration: none;">
+  <a href="https://konfhub.com/pyconindia2024" target="_blank" style="border: none; text-decoration: none;">
     <img src="{static}/theme/images/tickets.svg" alt="PyCon India 2024" class="img-fluid responsive-image">
   </a>
 </div>
 <br/>
 
-### **Types of Tickets**
+## **Our Tickets**
 <hr>
 
-## <u>Early Bird</u>
+### <u>Early Bird</u>
 
 <span style="color: #FF0000;">**Sold Out!!**</span>
 
@@ -30,7 +30,7 @@ A regular ticket reserves your seat for 2 days of the conference including food 
 
 **Note: The early bird tickets were sold out within 3 hours of the sale. We thank you for the overwhelming response.**
 
-## <u>Regular</u>
+### <u>Regular</u>
 
 <span style="color: #1f7471;">
 Available Till: 31st Jul 2024, 11:59 PM IST or till stocks last
@@ -40,7 +40,7 @@ Available Till: 31st Jul 2024, 11:59 PM IST or till stocks last
 
 A regular ticket reserves your seat for 2 days of the conference including food for both days and swag, with the pricing of ₹ 1999 (GST excluded), the sale of regular tickets begins after the sale of early bird tickets ends till the sale of tickets has been completed.
 
-## <u>Combo</u>
+### <u>Combo</u>
 
 <span style="color: #1f7471;">
 **Price: ₹2999** (GST excluded)
@@ -48,7 +48,7 @@ A regular ticket reserves your seat for 2 days of the conference including food 
 
 An Combo ticket is a full-access ticket reserving your seat for both days of the conference, workshops, including food for 3 days and all the swags, with the pricing of ₹2999 (GST excluded), the sale of combo tickets begins after the sale of early bird tickets ends till the ticket sales for the conference close.
 
-## <u>Workshop</u>
+### <u>Workshop</u>
 
 <span style="color: #1f7471;">
 **Price: ₹999** (GST excluded)
@@ -58,7 +58,7 @@ A Workshop ticket reserves your seat for the workshop day(20th Sep), with the pr
 
 Please note, there will be no goodies distributed on Workshop Day. You are free to attend any Workshop from the schedule. Also you can switch between Workshops.
 
-## <u>Late Bird</u>
+### <u>Late Bird</u>
 
 <span style="color: #1f7471;">
 Starts On: 1st Aug 2024, 09:00 AM IST or when the regular tickets are sold out
@@ -68,7 +68,7 @@ Starts On: 1st Aug 2024, 09:00 AM IST or when the regular tickets are sold out
 
 A late bird ticket reserves your seat for 2 days of the conference, including food for both days and swags, with the pricing of ₹2699 (GST excluded), the sale of the late bird begins after the sale of regular tickets ends till the ticket sales for the conference close. These are unlimited in number.
 
-## <u>Contributor</u>
+### <u>Contributor</u>
 
 <span style="color: #FFA500; font-weight: bold;">
 Coming Soon!!
@@ -76,7 +76,7 @@ Coming Soon!!
 
 Open to all, Contributor tickets serve as a means for individuals to not only participate in the current conference but also to contribute to the sustainability and inclusivity of future editions. The contributor ticket reserves your seat for 2 days of the conference and dev sprints. The pricing and availability of these tickets will be announced later.
 
-## <u>Dev Sprint</u>
+### <u>Dev Sprint</u>
 
 <span style="color: #FFA500; font-weight: bold;">
 Coming Soon!!
