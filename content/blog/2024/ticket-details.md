@@ -9,7 +9,7 @@ PyCon India is a volunteer-driven conference where Python communities across the
 The conference will include a packed schedule of amazing workshops, keynotes, talks, dev sprints, and much more strung together through multiple parallel tracks. Anyone with a conference ticket is also eligible to attend the dev sprints.
 We have started selling tickets for our mega event, and details are available on the **[PyCon India 2024 website](https://in.pycon.org/2024/).**
 
-**[Get your tickets now Konfhub!](https://konfhub.com/pyconindia2024)**
+**[Get your tickets now on Konfhub!](https://konfhub.com/pyconindia2024)**
 
 <br/>
 <div class="text-center">
