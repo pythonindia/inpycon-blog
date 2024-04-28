@@ -24,7 +24,11 @@ We have started selling tickets for our mega event, and details are available on
 
 ### <u>Early Bird</u>
 
-<span style="color: #FF0000;">**Sold Out!!**</span>
+<span style="color: #FF0000;">
+Apr 22- May 22, 2024
+<br />
+**Sold Out!!**
+</span>
 
 A regular ticket reserves your seat for two days of the conference, including food and swag, and costs ₹1499 (GST excluded); early bird tickets are only available for a limited time.
 
@@ -33,7 +37,7 @@ A regular ticket reserves your seat for two days of the conference, including fo
 ### <u>Regular</u>
 
 <span style="color: #1f7471;">
-Available Till: 31st Jul 2024, 11:59 PM IST or till you buy them all
+Apr 22 - Jul 31, 2024, 11:59 PM IST or till you buy them all
 <br />
 **Price: ₹1999** (GST excluded)
 </span>
@@ -43,6 +47,8 @@ A regular ticket reserves your seat for 2 days of the conference, including food
 ### <u>Combo</u>
 
 <span style="color: #1f7471;">
+Apr 26 - Jul 31, 2024, 11:59 PM IST
+<br />
 **Price: ₹2699** (GST excluded)
 </span>
 
@@ -51,6 +57,8 @@ A Combo ticket is a full-access ticket reserving your seat for both days of the 
 ### <u>Workshop</u>
 
 <span style="color: #1f7471;">
+Apr 26 - Jul 31, 2024, 11:59 PM IST
+<br />
 **Price: ₹999** (GST excluded)
 </span>
 
@@ -61,7 +69,7 @@ Please note: No goodies will be distributed on Workshop Day. You are free to att
 ### <u>Late Bird</u>
 
 <span style="color: #1f7471;">
-Starts On 1st Aug 2024, 09:00 AM IST, or when the regular tickets are sold out
+Starts on: 1st Aug 2024, 09:00 AM IST, or when the regular tickets are sold out
 <br />
 **Price: ₹2999** (GST excluded)
 </span>
