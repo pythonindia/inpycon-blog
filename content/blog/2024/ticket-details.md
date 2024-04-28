@@ -25,7 +25,8 @@ We have started selling tickets for our mega event, and details are available on
 ### <u>Early Bird</u>
 
 <span style="color: #FF0000;">
-Apr 22- May 22, 2024
+Apr 22 - May 22, 2024
+
 <br />
 **Sold Out!!**
 </span>
