@@ -34,4 +34,4 @@ Are you a newly established startup or a small business that wants to give back 
 
 **Interested in sponsoring the conference? Check out our [Sponsorship Prospectus](https://drive.google.com/file/d/18MoAFF148ijpRV_xwU41bT2juEbDkxUx/view)**
 
-If you have any queries whatsoever, please don't hesitate to reach out to <sponsor@in.pycon.org>
+If you have any queries whatsoever, please don't hesitate to reach out to <sponsorship@in.pycon.org>
