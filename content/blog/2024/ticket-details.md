@@ -43,7 +43,7 @@ Apr 22 - Jul 31, 2024, 11:59 PM IST or till you buy them all
 **Price: ₹1999** (GST excluded)
 </span>
 
-A regular ticket reserves your seat for 2 days of the conference, including food for both days and swag, with the pricing of ₹ 1999 (GST excluded); the sale of regular tickets begins after the sale of early bird tickets ends till the sale of tickets has been completed.
+A regular ticket reserves your seat for 2 days of the conference(Sep 21 - Sep 22), including food for both days and swag, with the pricing of ₹ 1999 (GST excluded); the sale of regular tickets begins after the sale of early bird tickets ends till the sale of tickets has been completed.
 
 ### <u>Combo</u>
 
@@ -53,7 +53,7 @@ Apr 26 - Jul 31, 2024, 11:59 PM IST
 **Price: ₹2699** (GST excluded)
 </span>
 
-A Combo ticket is a full-access ticket reserving your seat for both days of the conference and workshops, including food for 3 days and all the swags, with the pricing of ₹2699 (GST excluded). The sale of combo tickets begins after the sale of early bird tickets ends till the ticket sales for the conference close.
+A Combo ticket is a full-access ticket reserving your seat for both days of the conference and workshops(Sep 20 - Sep 22), including food for 3 days and all the swags, with the pricing of ₹2699 (GST excluded). The sale of combo tickets begins after the sale of early bird tickets ends till the ticket sales for the conference close.
 
 ### <u>Workshop</u>
 
@@ -63,7 +63,7 @@ Apr 26 - Jul 31, 2024, 11:59 PM IST
 **Price: ₹999** (GST excluded)
 </span>
 
-A Workshop ticket reserves your seat for the workshop day(20th Sep), with the pricing of ₹999 (GST excluded).
+A Workshop ticket reserves your seat for the workshop day(Sep 20th), with the pricing of ₹999 (GST excluded).
 
 Please note: No goodies will be distributed on Workshop Day. You are free to attend any Workshop from the schedule and switch between Workshops.
 
@@ -75,7 +75,7 @@ Starts on: 1st Aug 2024, 09:00 AM IST, or when the regular tickets are sold out
 **Price: ₹2999** (GST excluded)
 </span>
 
-A late bird ticket reserves your seat for 2 days of the conference, including food for both days and swags, with the pricing of ₹2999 (GST excluded). The sale of the late bird begins after the sale of regular tickets ends till the ticket sales for the conference close. These are unlimited in number.
+A late bird ticket reserves your seat for 2 days of the conference(Sep 21 - Sep 22), including food for both days and swags, with the pricing of ₹2999 (GST excluded). The sale of the late bird begins after the sale of regular tickets ends till the ticket sales for the conference close. These are unlimited in number.
 
 ### <u>Contributor</u>
 
