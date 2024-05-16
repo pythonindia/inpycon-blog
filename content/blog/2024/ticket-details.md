@@ -1,6 +1,5 @@
 Title: Get your PyCon India 2024 tickets now!
 Date: 2024-05-15 17:00
-
 Category: 2024
 Slug: announce-tickets
 Summary: The tickets for the conference are live! Grab yours before they run out.
