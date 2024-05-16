@@ -7,7 +7,7 @@ Summary: We are excited to announce **Kovid Goyal** as a Keynote Speaker for PyC
 We know you have been eagerly waiting to know the keynote speakers for [PyCon India 2024](https://in.pycon.org/2024/). We are excited to announce our first keynote speaker - **Kovid Goyal**.
 
 <p align="center" data-aos="fade-right"  data-aos-duration="1000">
-    <img src="/images/2024/keynote-kovid-goyal.jpg" alt="" class="img-fluid" style="border-radius: 10%; max-height: 350px;">
+    <img src="/blog/images/2024/keynote-kovid-goyal.jpg" alt="" class="img-fluid" style="border-radius: 10%; max-height: 350px;">
 </p>
 
 Kovid Goyal is the creator and ongoing maintainer of dozens of Python projects, with millions of users. Most prominently [calibre](https://calibre-ebook.com/), the e-book management program and [kitty](https://sw.kovidgoyal.net/kitty/), the GPU accelerated terminal. Many of his Python projects are focused speed, for example `html5-parser` which is 30x as fast as the Python alternatives. Or kitty which has best in class performance despite being written partly in Python.
