@@ -13,7 +13,7 @@ We know you have been eagerly waiting to know the keynote speakers for [PyCon In
 I am the creator and ongoing maintainer of dozens of Python projects, with millions of users. Most prominently calibre, the e-book management program and kitty, the GPU accelerated terminal. Many of my Python projects are focused speed, for example html5-parser which is 30x as fast as the Python alternatives. Or kitty which has best in class performance despite being written partly in Python.
 
 You can also find him on:  
-*GitHub*: <>  
+*GitHub*: <https://github.com/kovidgoyal>  
 *LinkedIn*: <>  
 *Mastodon*: <>  
 *Twitter*: <>  
