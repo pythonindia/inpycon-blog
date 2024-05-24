@@ -13,7 +13,7 @@ Summary: PyCon India is back for 2024, and the [call for proposals](https://in.p
 </div>
 <br/>
 
-We are excited to announce that [PyCon India 2024](https://in.pycon.org/2024/) is back in Bangaluru and the [call for proposals](https://in.pycon.org/cfp/2024/proposals/) is officially open! We are looking for proposals on a wide range of topics.
+We are excited to announce that [PyCon India 2024](https://in.pycon.org/2024/) is back in Bengaluru and the [call for proposals](https://in.pycon.org/cfp/2024/proposals/) is officially open! We are looking for proposals on a wide range of topics.
 
 We look forward to seeing beginner, intermediate, and advanced proposals on diverse topics from speakers of different expertise and experience. To submit a proposal, you don't need to be a veteran who has spoken at a dozen conferences in the past. We are looking for all kinds of people to make our conference genuinely diverse. That's what our community comprises, and that's what this conference's schedule should be genuinely made of.
 
