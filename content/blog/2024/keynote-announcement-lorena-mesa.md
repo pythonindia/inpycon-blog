@@ -14,13 +14,13 @@ She hails from the Moon, the Stars and the Cosmos!
 
 That shouldn't be surprising when someone is a fan of both Star Wars & Star Trek and describes themselves as an explorer. However, while her training with lightsabres and battles against the Borgs seem to have contributed to her becoming a Martial Artist, it only takes so much of her time that among many other things, she is a co-organizer of PyLadies Chicago as well.
 
-The list of "many other things" that you can find on her website [1], truly is inspiring considering the one thing we all have in common as human beings, is a ticking clock. A lover of cats, a runner of marathons, you can see how "live long and prosper" is not just a dialogue from a series, but a motto that she lives and breathes by.
+The list of "many other things" that you can find on [her website](https://lorenamesa.com/index.html), truly is inspiring considering the one thing we all have in common as human beings, is a ticking clock. A lover of cats, a runner of marathons, you can see how "live long and prosper" is not just a dialogue from a series, but a motto that she lives and breathes by.
 
 A firm believer of anti-racism, diversity & inclusion in technology, she is always happy to have a chat around any of these topics.
 
 She is...
 
-Loooorena Mesa!
+**Loooorena Mesa!**
 
 A Former Chair & Director of the Python Software Foundation, we are enthralled and excited to have her as a Keynote Speaker at PyCon India this year.
 
