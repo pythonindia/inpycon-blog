@@ -1,6 +1,6 @@
 Title: Bringing to you our first Keynote Speaker for PyCon India 2024 - Kovid Goyal
 Date: 2024-05-16 17:00
-Category: 2023
+Category: 2024
 Slug: keynote-announcement-kovid-goyal
 Summary: We are excited to announce **Kovid Goyal** as a Keynote Speaker for PyCon India 2024!
 
