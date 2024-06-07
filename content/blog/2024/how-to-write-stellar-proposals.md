@@ -1,11 +1,12 @@
 Title: Speak, Share, Inspire: Join PyCon India 2024 as a Speaker
 Date: 2024-06-07 17:00
 Category: 2024
+Author: Praveen Patil & Riya Dutta
 Slug: how-to-write-stellar-proposals
 Summary: Haven't finalized your proposal for PyCon India 2024? Here are some tips to help you write stellar proposals and stand out as a speaker.
 
 
-```quote
+``` quote
 "I came for the language, but I stayed for the community."
 - Brett Cannon
 ```
