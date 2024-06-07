@@ -85,3 +85,4 @@ Leverage the speaker bio to showcase your qualifications and why you're suited t
 - [Amaze your friends by painting images on Google Sheets using Python](https://in.pycon.org/cfp/pycon-india-2023/proposals/amaze-your-friends-by-painting-images-on-google-sheets-using-python~eER80/) - expertise
 - [OpenAI Whisper and it’s amazing power to do fine-tuning demonstrated on my mother tongue](https://in.pycon.org/cfp/pycon-india-2023/proposals/openai-whisper-and-its-amazing-power-to-do-fine-tuning-demonstrated-on-my-mother-tongue~eENWa/) - unique, tailored for diverse audience 
 
+If you need any help with submitting your proposal. Please register for the upcoming mentorship call here: <https://bit.ly/mnts>
