@@ -56,7 +56,7 @@ Leverage the speaker bio to showcase your qualifications and why you're suited t
 - Demonstrate your expertise in the topic with evidence of contributions to the Python community. Mention relevant publications, talks, or projects you would have worked on. 
 - Proofread your proposal for errors and clarity before submission.
 - Ensure that your talk content does not appear promotional. Keep it neutral and objective, discussing both commercial and open-source projects. Cover alternative perspectives and consider all sides of the topic. Use neutral language and avoid bias.
-- Adhere to the conference's code of conduct.
+- Adhere to the [conference's code of conduct](https://in.pycon.org/2024/code-of-conduct/).
 
 ### Example proposals:
 
