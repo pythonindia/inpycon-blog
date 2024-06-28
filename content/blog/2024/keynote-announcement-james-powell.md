@@ -8,7 +8,7 @@ Summary: We are excited to announce **James Powell** as a Keynote Speaker for Py
 **We are introducing our next Keynote Speaker for 2024!**
 
 <p align="center" data-aos="fade-right"  data-aos-duration="1000">
-    <img src="/blog/images/2024/keynote-james-powell.jpg" alt="" class="img-fluid" style="border-radius: 10%; max-height: 350px;">
+    <img src="/blog/images/2024/keynote-james-powell.jpg" alt="" class="img-fluid" style="border-radius: 10%; max-height: 200px;">
 </p>
 
 **James Powell** is a professional Python programmer and enthusiast. He started working with Python in the finance industry building reporting and analysis systems for prop trading front offices. He currently works as a consultant building data engineering and scientific computing platforms for a wide-range of clients using cutting-edge open source tools like Python and React. He also offers a variety of corporate training courses and coaching sessions in all areas of
