@@ -5,6 +5,7 @@ Slug: keynote-announcement-james-powell
 Summary: We are excited to announce **James Powell** as a Keynote Speaker for PyCon India 2024!
 
 *Drumroll, please* 🥁
+
 **We are introducing our next Keynote Speaker for 2024!**
 
 <p align="center" data-aos="fade-right"  data-aos-duration="1000">
