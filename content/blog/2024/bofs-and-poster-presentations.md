@@ -1,5 +1,5 @@
 Title: Share, Learn, and Connect: Introducing BoF Sessions and Poster Presentations at PyCon India 2024
-Date: 2024-06-13 17:00
+Date: 2024-07-15 21:00
 Category: 2024
 Author: Praveen Patil
 Slug: bofs-and-poster-presentations
