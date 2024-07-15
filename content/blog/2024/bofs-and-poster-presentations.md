@@ -15,6 +15,7 @@ These sessions strike a unique balance between seriousness and fun, providing th
 #### Session Format:
 
 - BoFs will take the form of relaxed panel discussions with active audience participation.
+- The discussions will follow the *Chatham House Rule.* [Please read the rules before joining a session](https://www.chathamhouse.org/about-us/chatham-house-rule).
 - The session proposer will serve as the moderator, guiding the discussion to ensure it remains focused and engaging, and encouraging participation from all attendees.
 
 #### Call for Moderators:
