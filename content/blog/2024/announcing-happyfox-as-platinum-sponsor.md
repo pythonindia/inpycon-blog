@@ -2,7 +2,7 @@ Title: Announcing our first Platinum Sponsor - HappyFox
 Date: 2024-07-19 15:00
 Category: 2024
 Slug: sponsor-announcement-happyfox
-Summary: We are happy to introduce  **HappyFox** as our fist Platinum sponsor!
+Summary: We are happy to introduce  **HappyFox** as our first Platinum sponsor!
 
 <!-- PELICAN_END_SUMMARY -->
 <br>
@@ -22,4 +22,4 @@ Trusted by over 2,000 companies in 70+ countries, HappyFox empowers support team
 Careers at HappyFox: We prioritize meaningful connections and career growth, offering flexibility, autonomy, and transparency. Our dynamic environment supports development and our motto is: Happy employees, happy customers. Explore job openings at happyfox.com/jobs in Chennai, Bangalore and Hyderabad.
 
 
-You can connect with HappyFox on [Twitter](https://x.com/HappyFoxApp) and [LinkedIn](https://www.linkedin.com/company/happyfox-inc-/), and learn more about their products and services on their [website](https://happyfox.com/).
+You can connect with HappyFox on [X](https://x.com/HappyFoxApp) and [LinkedIn](https://www.linkedin.com/company/happyfox-inc-/), and learn more about their products and services on their [website](https://happyfox.com/).
