@@ -1,14 +1,7 @@
 Title: PyCon India 2019 Vision
 Date: 2019-05-03 00:00
 Category: 2019
-
-The vision of PyCon India 2019 team is to create a *responsible* and
-*inclusive* framework, that brings together Pythonistas from *diverse*
-backgrounds and provides them *multiple avenues* to interact
-effectively, so that *the beauty and the magic* of the community can
-happen.
-
-<!-- PELICAN_END_SUMMARY -->
+Summary: The vision of PyCon India 2019 team is to create a *responsible* and *inclusive* framework, that brings together Pythonistas from *diverse* backgrounds and provides them *multiple avenues* to interact effectively, so that *the beauty and the magic* of the community can happen.
 
 ## Responsible
 
