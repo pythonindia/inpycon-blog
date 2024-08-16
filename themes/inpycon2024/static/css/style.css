@@ -45,7 +45,7 @@ body
         left: 0;
         width: 20px;
         height: 20px;
-        background: url("../image/Group 5740(1).svg");
+        background: url("../images/Group 5740(1).svg");
         background-size: 100%;
         transform-style: preserve-3d;
         backface-visibility: visible;
@@ -200,7 +200,7 @@ display: none;
     z-index: 9999!important;
 }
 .banner-sec{
-    background:#eff9f7 url("../image/Group 5881.svg");
+    background:#eff9f7 url("../images/Group 5881.svg");
     background-repeat:repeat-x;
     background-size:auto!important;
     background-position: bottom center!important;
@@ -273,7 +273,7 @@ display: none;
   left: -25px;
   right: 0;
   height: 379px !important;
-  background: url("../image/Mask Group 40.svg")no-repeat !important;
+  background: url("../images/Mask Group 40.svg")no-repeat !important;
 }
 .banner-sec::after {
   position: absolute;
@@ -283,7 +283,7 @@ display: none;
   left: 0%;
   right: 0%!important;
   height: 379px !important;
-  background: url("../image/Mask Group 41.svg")no-repeat !important;
+  background: url("../images/Mask Group 41.svg")no-repeat !important;
   background-position: right!important;
   width: 100%!important;
 }
@@ -327,7 +327,7 @@ thead th{
     left:0;
     right:0;
     background-color: white!important;
-    background-image: url("../image/Mask Group 28.svg")!important;
+    background-image: url("../images/Mask Group 28.svg")!important;
     background-repeat: repeat-x!important;
 }
 .list-group-horizontal 
@@ -362,14 +362,14 @@ thead th{
     color:#ff724b !important;
 }
 .carosel-sec{
-    background:#b8dfd8 url("../image/bg-bluebuilding.png")no-repeat!important;
+    background:#b8dfd8 url("../images/bg-bluebuilding.png")no-repeat!important;
     background-size: contain;
     background-position: bottom left!important;
     position: relative;
 }
 
 .marquee-bg{
-    background: url("../image/marq-board.png")no-repeat!important;
+    background: url("../images/marq-board.png")no-repeat!important;
     background-size: contain;
     background-position: bottom right!important;
     position: relative;
@@ -464,7 +464,7 @@ font-weight: 600;
     top:unset!important;
 }
 .carousel-control-prev-icon{
-   background-image: url("../image/a-left.png")!important;
+   background-image: url("../images/a-left.png")!important;
 }
 .carousel-control-next-icon, .carousel-control-prev-icon {
     display: inline-block;
@@ -475,7 +475,7 @@ font-weight: 600;
     background-size: 97% 95%!important;
   }
 .carousel-control-next-icon{
-    background-image: url("../image/a-right.png")!important;
+    background-image: url("../images/a-right.png")!important;
  }
 .carousel-control-prev {
     left: 4%!important;
@@ -616,13 +616,13 @@ color: #180404;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     border-radius:15px!important;
     padding:20px 20px 0 20px!important;
-    background:#fff url("../image/key-bg-2.png")no-repeat!important;
+    background:#fff url("../images/key-bg-2.png")no-repeat!important;
     background-position: bottom center!important;
     min-height: 208px!Important;
 }
 .speaker-laybox:hover
 {
-    background:#fff url("../image/key-bg.png")no-repeat!important; 
+    background:#fff url("../images/key-bg.png")no-repeat!important; 
     background-position: bottom center!important;
 }
 .dropdown-item:focus, .dropdown-item:hover
@@ -647,17 +647,17 @@ color: #180404;
   backdrop-filter: blur(1px);
 }
 .bg-reg-ele{
-    background:url("../image/Repeat Grid 12.svg")!important;
+    background:url("../images/Repeat Grid 12.svg")!important;
     height:44px!important;
 }
 .bg-reg{
-    background:#ff724b url("../image/reg-bg.png")no-repeat;
+    background:#ff724b url("../images/reg-bg.png")no-repeat;
     background-position: top center;
     min-height:470px!important;
     background-size:auto;
 }
 .bg-reg-diamond{
-    background:url("../image/Repeat Grid 8.svg")!important;
+    background:url("../images/Repeat Grid 8.svg")!important;
     height:28px!important;
 }
 .sponsor-img-box a
@@ -871,7 +871,7 @@ tbody td{
   margin: 0 auto;
 }
 .footer::after{
-    background: url("../image/footer-rangoli.png")no-repeat !important;
+    background: url("../images/footer-rangoli.png")no-repeat !important;
     position: absolute;
     content: '';
     bottom: 0px;
@@ -886,7 +886,7 @@ tbody td{
 }
 .footer-top
 {
-    background:#fff url("../image/Mask Group 33.svg")no-repeat!important;
+    background:#fff url("../images/Mask Group 33.svg")no-repeat!important;
     background-repeat: repeat-x!important;
     height:65px!important;
 }
@@ -959,7 +959,7 @@ thead th{
     bottom: 0;
     left:auto;
     width: 160%;
-    background-image: url("../image/Group 4860.svg");
+    background-image: url("../images/Group 4860.svg");
     background-size:contain;
     background-position:bottom;
     background-repeat: no-repeat;
@@ -979,7 +979,7 @@ thead th{
     /* right:auto; */
     left:-300px;
     width: 100%;
-    background-image: url("../image/Group 4860.svg");
+    background-image: url("../images/Group 4860.svg");
     background-size:contain;
     background-position:50% bottom;
     background-repeat: no-repeat;
@@ -1338,7 +1338,7 @@ path{
   /*blog page css - 14/05/24  */
   .blog-banner
   {
-    background: url("../image/Repeat Grid 8.svg") !important;
+    background: url("../images/Repeat Grid 8.svg") !important;
     background-repeat:repeat-x!important;
     background-position: bottom center!important;
   }
@@ -1452,7 +1452,7 @@ path{
   .blog-details
   {
     padding-top: 90px!important;
-    background: url("../image/Repeat Grid 8.svg") !important;
+    background: url("../images/Repeat Grid 8.svg") !important;
     background-repeat:repeat-x!important;
     background-position: top center!important;
   }
