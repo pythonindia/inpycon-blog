@@ -1,61 +1,56 @@
-{% extends "base.html"%}
-
-{% block body %}
-  <!-- blog section  -->
-  <section class="bg-blog">
+{% extends "base.html"%} {% block body %}
+<!-- blog section  -->
+<section class="blog-banner py-5 py-md-4">
     <div class="container">
-      <div class="row pt-5 pb-5">
-        <div class="col-md-12 pb-5">
-          <h2 class="com-head mb-0 text-center text-md-start" data-aos="fade-right"  data-aos-duration="3000">Our Blogs</h2>
+        <div class="col-md-12 text-center">
+            <h2
+                class="title-2 text-center mb-0 mb-md-5 pt-0 pt-md-5 pb-5"
+                data-aos="fade-up"
+                data-aos-duration="1000">
+                Our Blogs
+            </h2>
         </div>
-        {% for article in articles_page.object_list %}
-        <div class="blog-sec pt-3 pb-3">
-          <div class="row pt-4 pb-4">
-            <div class="col-lg-8">
-              <a href="{{SITEURL}}/{{article.url}}">
-                <h3 class="blog-head">{{article.title}}</h3>
-              </a>
-              <p class="blog-para">{{article.summary}}</p>
-              <div class="readmore-blog"><a href="{{SITEURL}}/{{article.url}}">Read More <img src="{{ SITEURL }}/theme/images/arrow-blog.png" class="img-fluid ps-2"></a></div>
+    </div>
+</section>
+<!-- blog-list -->
+<section class="blog-list">
+    <div class="container">
+        <div class="row">
+            {% for article in articles_page.object_list %}
+            <div class="col-md-12 my-3">
+                <div class="bg-box">
+                    <div class="bg-tit">
+                        <h3>{{article.title}}</h3>
+                        <p>{{article.summary}}</p>
+                        <a href="{{SITEURL}}/{{article.url}}">Read More</a>
+                    </div>
+                    <div class="bg-detail">
+                        <div class="bg-date">
+                            <img src="{{ SITEURL }}/theme/images/calendar.png" alt="" />
+                            <time
+                                datetime="{{article.date}}"
+                                itemprop="datePublished">
+                                <p class="blog-date">
+                                    {{ article.date.strftime("%B %d, %Y")}}
+                                </p>
+                            </time>
+                        </div>
+                        <div class="author">
+                            <img src="{{ SITEURL }}/theme/images/writer.png" alt="" />
+                            <p>
+                                {{ article.author | default("PyCon India Content Team", true) }}
+                            </p>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="col-lg-4 d-none d-lg-block">
-              <time datetime="{{article.date}}" itemprop="datePublished">
-                <h4 class="blog-date">Published: <span class="fw-bold">{{ article.date.strftime("%B %d, %Y") }}</span></h4>
-              </time>
-              <h4 class="blog-date">Author: <span class="fw-bold">{{ article.author | default("PyCon India Content Team", true) }}</span></h4>
-            </div>
-          </div>
+            {% endfor %}
         </div>
-        {% endfor %}
         {% if articles_page.has_other_pages() %}
-          {% include "components/pagination.html" %}
+        {% include "components/pagination.html" %} 
         {% endif %}
-      </div>
     </div>
-    
-  </section>
-
-  
-
-  <!-- subscribe section started -->
-  <section class="bg-subscribe">
-    <div class="container">
-      <div class="row pt-md-5 pb-5 align-items-end d-flex">
-        <div class="col-md-6">
-          <h2 class="com-head-1 mb-0" data-aos="fade-right"  data-aos-duration="3000">Subscribe <br> For Conference Updates</h2>
-        </div>
-        <div class="col-md-6 pt-3 pt-md-0">
-          <form class="d-flex">
-            <input type="email" placeholder="Enter Your email " id="email" />
-            <div class="arr-img"><img src="{{ SITEURL }}/theme/images/arrow-down.png"></div>
-        </form>
-        </div>
-      </div>
-    </div>
-    <!-- <div class="container-fluid p-0 text-center ">
-      <img src="images/sub.png" class="img-fluid">
-    </div> -->
-  </section>
-  <!-- subscribe section ended -->
+</section>
+<!-- subscribe section ended -->
 
 {% endblock %}
