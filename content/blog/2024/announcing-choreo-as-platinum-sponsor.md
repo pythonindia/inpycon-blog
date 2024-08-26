@@ -1,5 +1,5 @@
 Title: Announcing our next Platinum Sponsor - Choreo by WSO2
-Date: 2024-08-23 19:00
+Date: 2024-08-26 15:00
 Category: 2024
 Slug: sponsor-announcement-choreo
 Summary: We are so excited to announce **Choreo by WSO2** as next second Platinum sponsor!
