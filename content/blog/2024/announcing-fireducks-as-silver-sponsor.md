@@ -1,7 +1,7 @@
 Title: Announcing FireDucks as our next Silver Sponsor
-Date: 2024-08-29 19:00
+Date: 2024-09-02 19:00
 Category: 2024
-Slug: sponsor-announcement-e2e
+Slug: sponsor-announcement-fireducks
 Summary: We are so excited to announce **FireDucks** as our next Silver sponsor!
 
 We are so excited to announce **FireDucks** as our next Silver sponsor!
