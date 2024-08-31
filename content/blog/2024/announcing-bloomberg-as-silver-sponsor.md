@@ -7,7 +7,7 @@ Summary: We are excited to bring Bloomberg on board as our next Silver Sponsor f
 We are excited to announce our next Silver Sponsor for PyCon India 2024 - Bloomberg.
 <br>
 <div class="text-center">
-  <a href="https://indee.tv/" target="_blank" style="border: none; text-decoration: none;">
+  <a href="https://www.techatbloomberg.com/" target="_blank" style="border: none; text-decoration: none;">
     <img src="{static}/images/2024/sponsor-bloomberg.png" alt="Bloomberg" class="img-fluid responsive-image">
   </a>
 </div>
