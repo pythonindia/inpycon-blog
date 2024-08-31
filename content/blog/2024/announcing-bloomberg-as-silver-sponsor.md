@@ -1,5 +1,5 @@
 Title: Announcing our next Silver Sponsor - Bloomberg
-Date: 2024-08-27 17:00
+Date: 2024-08-31 17:00
 Category: 2024
 Slug: sponsor-announcement-bloomberg
 Summary: We are excited to bring Bloomberg on board as our next Silver Sponsor for PyCon India 2024.
