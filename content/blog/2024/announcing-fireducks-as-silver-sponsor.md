@@ -18,6 +18,6 @@ Many applications related to data analysis developed using pandas are in high de
 
 You can read more about them on their social media channels [X](https://x.com/fireducksdev) and check out their [website](https://fireducks-dev.github.io/).
 
-We are immensely grateful to E2E Networks for their generous support.
+We are immensely grateful to Fireducks for their generous support.
 
 Stay tuned for more exciting updates!
