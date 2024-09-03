@@ -16,7 +16,7 @@ We are excited to announce our next Gold Sponsor for PyCon India 2024 - **Manage
 
 ManageEngine Site24x7 is an AI-powered observability platform for DevOps and IT operations. The cloud-based platform’s broad capabilities help predict, analyze, and troubleshoot problems with end-user experience, applications, microservices, servers, containers, multi-cloud, and network infrastructure, all from a single console. For more information about Site24x7, please visit <https://www.site24x7.com/>.
 
-You can read more about them on their social media channels [LinkedIn](https://www.linkedin.com/company/e2enetworks) and check out their [website](https://www.site24x7.com/).
+You can read more about them on their social media channels [LinkedIn](https://www.linkedin.com/company/site24x7/) and check out their [website](https://www.site24x7.com/).
 
 We are immensely grateful to ManageEngine Site24x7 for their generous support.
 
