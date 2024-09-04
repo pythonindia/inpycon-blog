@@ -1,4 +1,4 @@
-Title: Announcing PSF as our next Gold Sponsor
+Title: Announcing Python Software Foundation as our next Gold Sponsor
 Date: 2024-09-04 19:00
 Category: 2024
 Slug: sponsor-announcement-psf
@@ -10,7 +10,7 @@ We are excited to announce our next Gold Sponsor for PyCon India 2024 - Python S
 <br>
 <div class="text-center">
   <a href="https://www.e2enetworks.com/" target="_blank" style="border: none; text-decoration: none;">
-    <img src="{static}/images/2024/sponsor-psf.png" alt="E2E" class="img-fluid responsive-image">
+    <img src="{static}/images/2024/sponsor-psf.png" alt="PSF" class="img-fluid responsive-image">
   </a>
 </div>
 <br>
