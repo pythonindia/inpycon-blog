@@ -2,9 +2,9 @@ Title: Announcing PSF as our next Gold Sponsor
 Date: 2024-09-04 19:00
 Category: 2024
 Slug: sponsor-announcement-psf
-Summary: We are so excited to announce **PSF** as our next Gold sponsor!
+Summary: We are so excited to announce **Python Software Foundation** as our next Gold sponsor!
 
-We are excited to announce our next Gold Sponsor for PyCon India 2024 - PSF
+We are excited to announce our next Gold Sponsor for PyCon India 2024 - Python Software Foundation
 
 <!-- PELICAN_END_SUMMARY -->
 <br>
