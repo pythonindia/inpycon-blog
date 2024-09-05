@@ -21,7 +21,7 @@ Follow them below on their social media channels and read more on their [website
 
 - [X](https://x.com/e2enetworks)
 - [LinkedIn](https://www.linkedin.com/company/e2enetworks)
-- [Facebok](https://facebook.com/e2enetworks)
+- [Facebook](https://facebook.com/e2enetworks)
 - [Instagram](https://www.instagram.com/e2e_networks/)
 
 We are immensely grateful to E2E Networks for their generous support.
