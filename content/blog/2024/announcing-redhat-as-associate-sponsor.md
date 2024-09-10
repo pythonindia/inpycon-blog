@@ -1,15 +1,15 @@
-Title: Announcing RedHat as our next Associate Sponsor
+Title: Announcing Red Hat as our next Associate Sponsor
 Date: 2024-09-10 17:00
 Category: 2024
 Slug: sponsor-announcement-redhat
-Summary: We are so excited to announce **RedHat** as our next Associate sponsor!
+Summary: We are so excited to announce **Red Hat** as our next Associate sponsor!
 
-We are excited to announce our next Associate Sponsor for PyCon India 2024 - RedHat
+We are excited to announce our next Associate Sponsor for PyCon India 2024 - Red Hat
 
 <br>
 <div class="text-center">
   <a href="https://www.redhat.com/" target="_blank" style="border: none; text-decoration: none;">
-    <img src="{static}/images/2024/sponsor-redhat.png" alt="RedHat" class="img-fluid responsive-image">
+    <img src="{static}/images/2024/sponsor-redhat.png" alt="Red Hat" class="img-fluid responsive-image">
   </a>
 </div>
 <br>
@@ -25,6 +25,6 @@ Follow them below on their social media channels and read more on their [website
 
 Follow them on their social media channels X [0], LinkedIn [1], Facebook [2], Instagram [3] and read more on their website [4].
 
-We are immensely grateful to RedHat for their generous support.
+We are immensely grateful to Red Hat for their generous support.
 
 Stay tuned for more exciting updates!
