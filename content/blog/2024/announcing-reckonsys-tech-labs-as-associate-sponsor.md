@@ -9,7 +9,7 @@ We are excited to announce our Associate Sponsor for PyCon India 2024 - Reckonsy
 <br>
 <div class="text-center">
   <a href="https://www.reckonsys.com/" target="_blank" style="border: none; text-decoration: none;">
-    <img src="{static}/images/2024/sponsor-reckonsys.png" alt="E2E" class="img-fluid responsive-image">
+    <img src="{static}/images/2024/sponsor-reckonsys.png" alt="Reckonsys Tech Labs" class="img-fluid responsive-image">
   </a>
 </div>
 <br>
