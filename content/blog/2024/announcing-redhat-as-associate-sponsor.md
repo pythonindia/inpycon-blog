@@ -23,8 +23,6 @@ Follow them below on their social media channels and read more on their [website
 - [Facebook](https://www.facebook.com/redhatinc)
 - [Instagram](https://www.instagram.com/redhatinc/)
 
-Follow them on their social media channels X [0], LinkedIn [1], Facebook [2], Instagram [3] and read more on their website [4].
-
 We are immensely grateful to Red Hat for their generous support.
 
 Stay tuned for more exciting updates!
