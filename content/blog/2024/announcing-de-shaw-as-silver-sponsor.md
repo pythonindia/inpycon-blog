@@ -9,7 +9,7 @@ We are excited to announce **D. E. Shaw India** as our next Silver Sponsor for P
 <br>
 <div class="text-center">
   <a href="https://deshawindia.com" target="_blank" style="border: none; text-decoration: none;">
-    <img src="{static}/images/2024/sponsor-deshaw.jpg" alt="Bloomberg" class="img-fluid responsive-image">
+    <img src="{static}/images/2024/sponsor-deshaw.jpg" alt="D. E. Shaw India" class="img-fluid responsive-image">
   </a>
 </div>
 <br>
