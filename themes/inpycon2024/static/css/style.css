@@ -17,7 +17,7 @@ body
     border-radius: 50px;
     overflow: hidden;
   }
-  
+
   .main-title
   {
     font-size: 6rem;
@@ -38,7 +38,7 @@ body
       bottom: 0;
       width: 100%;
       transform-style: preserve-3d;
-  
+
       div {
         position: absolute;
         top: 0;
@@ -94,7 +94,7 @@ a:focus
     background: #b8dfd8;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
- } 
+ }
  #carouselExampleInterval .carousel-inner
  {
     overflow: visible;
@@ -130,7 +130,7 @@ margin: 0 auto!important;
   .horizontal-scrolling-items__item {
     white-space: nowrap;
   }
- 
+
 .bg-light{
     background-color:unset!important;
 }
@@ -147,7 +147,7 @@ header
 .navbar-light .navbar-nav .nav-link{
     color: black!important;
 }
-header .navbar-light .navbar-nav .nav-link.active, 
+header .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .show > .nav-link,
 .navbar-light .navbar-nav  .nav-link:hover,
 .navbar-light .navbar-nav .show > .nav-link:hover{
@@ -223,7 +223,7 @@ display: none;
     position: absolute;
   top: -270px;
   z-index: 1;
-    
+
 }
 .img-split-2
 {
@@ -231,7 +231,7 @@ display: none;
     justify-content: space-between;
     position: absolute;
   top: 0px;
-  z-index: 1;   
+  z-index: 1;
 }
 .img-split-3
 {
@@ -313,7 +313,7 @@ thead th{
     {
         position: relative;
         background: rgb(255,255,255);
-        background: linear-gradient(0deg, rgba(255,255,255,1) 47%, rgba(255,114,75,1) 78%); 
+        background: linear-gradient(0deg, rgba(255,255,255,1) 47%, rgba(255,114,75,1) 78%);
     }
     .table
     {
@@ -330,7 +330,7 @@ thead th{
     background-image: url("../images/Mask Group 28.svg")!important;
     background-repeat: repeat-x!important;
 }
-.list-group-horizontal 
+.list-group-horizontal
 {
     overflow: hidden!important;
 }
@@ -343,8 +343,8 @@ thead th{
     text-decoration: none!Important;
     border-radius: 10px;
     width:fit-content!important;
-    text-align: center!important;   
-    font-size:15px!important; 
+    text-align: center!important;
+    font-size:15px!important;
 }
  .ticket-btnlay a:hover{
     background: #b8dfd8 !important;
@@ -373,12 +373,12 @@ thead th{
     background-size: contain;
     background-position: bottom right!important;
     position: relative;
-    
+
 }
 
 .slide-head{
     color:#25627e!important;
-    
+
 }
 .tilt-img{
     padding-top:5%!important;
@@ -418,7 +418,7 @@ transform: rotate(7deg);
 }
 .tilt-img img
 {
-    transform: rotate(-15deg); 
+    transform: rotate(-15deg);
 }
 .date h6, .location h6
 {
@@ -622,7 +622,7 @@ color: #180404;
 }
 .speaker-laybox:hover
 {
-    background:#fff url("../images/key-bg.png")no-repeat!important; 
+    background:#fff url("../images/key-bg.png")no-repeat!important;
     background-position: bottom center!important;
 }
 .dropdown-item:focus, .dropdown-item:hover
@@ -662,11 +662,11 @@ color: #180404;
 }
 .sponsor-img-box a
 {
-    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;  
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     display: block;
     height: fit-content;
     background: white!important;
-    border-radius: 10px; 
+    border-radius: 10px;
     transition: 0.5s;
 }
 .sponsor-img-box a:hover
@@ -685,7 +685,7 @@ transition: 0.5s;
 }
 
 .sponsor
-{  
+{
   border-top: 2px solid #eaeaea;
   background: #fff;
   margin-top: -15px;
@@ -818,7 +818,7 @@ transition: 0.5s;
     position: absolute;
     bottom: -15px;
   right: -15px;
-  z-index: 1; 
+  z-index: 1;
 }
 .plusbox-bottom-left
 {
@@ -832,7 +832,7 @@ transition: 0.5s;
     position: absolute;
     bottom: -15px;
   left: -15px;
-  z-index: 1; 
+  z-index: 1;
 }
 .list-group-item{
     border:none!important;
@@ -882,7 +882,7 @@ tbody td{
     height: 133px !important;
     opacity: 0.5!important;
     z-index: 1;
-    
+
 }
 .footer-top
 {
@@ -922,8 +922,8 @@ font-size: 8px!important;
 }
 .contact ul li a
 {
-    padding: 10px;  
-    color:#205d7a!important;  
+    padding: 10px;
+    color:#205d7a!important;
 }
 thead th{
     width:20%!important;
@@ -1041,7 +1041,7 @@ path{
     .navbar-collapse{
         border-radius: 10px;
     }
-    .navbar-collapse ul li 
+    .navbar-collapse ul li
     {
         width: 100%!important;
         text-align: center!important;
@@ -1115,7 +1115,7 @@ path{
     .bg-speaker::before{
         background-size: contain!important;
         background-repeat:repeat-x!important;
-        
+
     }
     .title-1,.title-2{
         font-size:43px!important;
@@ -1174,7 +1174,7 @@ path{
 {
     width: 160%!important;
 }
-   
+
 }
 @media(min-width:768px) and (max-width:991px){
     /* .banner-sec::before{
@@ -1263,10 +1263,10 @@ path{
       }
       .title-1 {
         font-size:55px!important;
-    }   
+    }
     .title-2 {
         font-size:55px!important;
-    } 
+    }
     .bg-speaker::before {
         height: 47px !important;
         }
@@ -1323,8 +1323,8 @@ path{
     .marquee-bg::after{
         left: -30%!important;
     }
-   
-   
+
+
 }
 
 @media(min-width:1200px)
@@ -1334,7 +1334,7 @@ path{
         background-size: cover!important;
     }
 }
- 
+
   /*blog page css - 14/05/24  */
   .blog-banner
   {
@@ -1352,17 +1352,18 @@ path{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     padding: 20px 40px;
     background-color:#fff;
     border-radius: 20px;
     border: 1.5px solid #cccccc;
   }
   .bg-tit {
-    width: 80%;
+    flex: 1 1 60%;
   }
   .bg-detail {
-    width: 20%;
+    flex: 1;
+    min-width: 200px;
   }
   .bg-box p
   {
@@ -1382,9 +1383,9 @@ path{
   }
   .bg-tit a
   {
-    color: #ff724b!important;
+    color: #25627e!important;
     font-weight: 500;
-    font-size: 15px;
+    display: inline-block;
   }
   .bg-date
   {
@@ -1411,7 +1412,7 @@ path{
   {
     color: #9b96f5!important;
     font-size: 14px!important;
-  } 
+  }
   .bg-date,.author
   {
     margin: 20px 0px;
@@ -1458,7 +1459,7 @@ path{
   }
   .blog-details a
   {
-    color:#25627e !important; 
+    color:#25627e !important;
   }
   .blog-details p
   {
