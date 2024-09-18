@@ -1,6 +1,9 @@
-# Conversations That Matter: Discussing Ethics in AI and Stories of Empowering Leadership at PyCon India 2024
-
-**Authors: Praveen Patil, Koti Velanki**
+Title: Conversations That Matter: Discussing Ethics in AI and Stories of Empowering Leadership at PyCon India 2024
+Date: 2024-09-18 17:00
+Category: 2024
+Slug: panel-discussions-pycon-india-2024
+Author: Praveen Patil, Koti Velanki
+Summary: Join us for two impactful panel discussions at PyCon India 2024, where we'll explore the ethical dilemmas of AI and the transformative power of inclusive leadership.
 
 At PyCon India, we believe in the power of conversations. Conversations that challenge our thinking, inspire us to do better, and bring us closer as a community. This year, we’re excited to continue our tradition of hosting impactful discussions, diving deep into topics that resonate with all of us. From the ethical dilemmas of AI to the transformative power of inclusive leadership, these panels are designed to spark meaningful dialogue and empower us all to make a difference.
 
@@ -9,11 +12,13 @@ At PyCon India, we believe in the power of conversations. Conversations that cha
 Artificial Intelligence is more than just lines of code; it’s a force that’s shaping the world around us. But as AI’s influence grows, so does the need to ensure it serves humanity responsibly. This fireside chat on "Ethics and Responsible AI" brings together experts who are deeply involved in navigating the complex landscape of AI ethics. Together, we’ll explore the tough questions: How do we build fair and unbiased models? How can we protect privacy while driving innovation? And most importantly, how do we make sure AI remains a tool for good?
 
 ### Fireside Chat Details:
+
 - **Date:** 21 September 2024
 - **Time:** 15:25 to 15:55
 - **Stage:** Track 1
 
 ### Meet the Panellists:
+
 - **Moderator: Jaidev Deshpande**  
   A seasoned data scientist with a passion for applying machine learning and statistics to real-world problems, Jaidev brings his expertise in ethical AI practices to lead this critical discussion.  
   [LinkedIn](https://www.linkedin.com/in/jaidevd/)
@@ -31,11 +36,13 @@ Artificial Intelligence is more than just lines of code; it’s a force that’s
 Leadership isn’t just about making decisions—it’s about creating environments where everyone feels valued and heard. Our second panel, "Inclusive Leadership: Stories of Empowerment and Impact," shines a light on leaders who are breaking barriers, championing diversity, and inspiring change within their communities and beyond. This discussion isn’t just for those in leadership roles; it’s for anyone who believes in the power of inclusivity and wants to make a positive impact.
 
 ### Panel Details:
+
 - **Date:** 22 September 2024
 - **Time:** 14:45 to 15:15
 - **Stage:** Track 1
 
 ### Meet the Panellists:
+
 - **Moderator: Hitesha Mukherjee**  
   Hitesha is a passionate advocate for inclusive leadership, blending her background in data science with a commitment to social impact. She is dedicated to using technology to create a better world and empower those around her.  
   [LinkedIn](https://www.linkedin.com/in/hitesha-mukherjee-3bb37115/)
