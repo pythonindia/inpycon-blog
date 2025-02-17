@@ -1,0 +1,55 @@
+{% extends "base.html"%} {% block body %}
+<!-- blog section  -->
+<section class="blog-banner py-5 py-md-4">
+    <div class="container">
+        <div class="col-md-12 text-center">
+            <h2
+                class="title-2 text-center mb-0 mb-md-5 pt-0 pt-md-5 pb-5"
+                data-aos="fade-up"
+                data-aos-duration="1000">
+                Our Blogs
+            </h2>
+        </div>
+    </div>
+</section>
+<!-- blog-list -->
+<section class="blog-list">
+    <div class="container">
+        <div class="row">
+            {% for article in articles_page.object_list %}
+            <div class="col-md-12 my-3">
+                <div class="bg-box">
+                    <div class="bg-tit">
+                        <a href="{{SITEURL}}/{{article.url}}"><h3>{{article.title}}</h3></a>
+                        <p>{{article.summary}}</p>
+                    </div>
+                    <div class="bg-detail">
+                        <div class="bg-date">
+                            <img src="{{ SITEURL }}/theme/images/calendar.png" alt="" />
+                            <time
+                                datetime="{{article.date}}"
+                                itemprop="datePublished">
+                                <p class="blog-date">
+                                    {{ article.date.strftime("%B %d, %Y")}}
+                                </p>
+                            </time>
+                        </div>
+                        <div class="author">
+                            <img src="{{ SITEURL }}/theme/images/writer.png" alt="" />
+                            <p>
+                                {{ article.author | default("PyCon India Content Team", true) }}
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% if articles_page.has_other_pages() %}
+        {% include "components/pagination.html" %}
+        {% endif %}
+    </div>
+</section>
+<!-- subscribe section ended -->
+
+{% endblock %}

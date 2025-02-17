@@ -1,0 +1,14 @@
+{% if DEFAULT_PAGINATION %}
+<section class="bg-blog paginator">
+    {% if articles_page.has_previous() %}
+        <a class="paginator-nav" href="{{ SITEURL }}/{{ articles_previous_page.url }}" aria-label="Previous page">
+            <i class="fa fa-solid fa-angles-left fa-lg" aria-hidden="true"></i></a>
+    {% endif %}
+    Page {{ articles_page.number }} / {{ articles_paginator.num_pages }}
+    {% if articles_page.has_next() %}
+        <a class="paginator-nav" href="{{ SITEURL }}/{{ articles_next_page.url }}" aria-label="Next page">
+            <i class="fa fa-solid fa-angles-right fa-lg" aria-hidden="true"></i>
+        </a>
+    {% endif %}
+</section>
+{% endif %}

@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+  {% include "components/head.html" %}
+
+  <body class="enabled-focus">
+    {% include "components/header.html" %}
+
+    <div>
+      {% block body %}
+      {% endblock %}
+    </div>
+
+    {%include "components/footer.html" %}
+
+    <!-- bootstrap -->
+    <script src="{{ SITEURL }}/theme/js/bootstrap.popper.min.js "></script>
+    <script src="{{ SITEURL }}/theme/js/bootstrap.bundle.min.js "></script>
+    <script src="{{ SITEURL }}/theme/js/font-awesome.js" rel="stylesheet"></script>
+
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>   
+    <script src="{{ SITEURL }}/theme/js/aos.js" rel="stylesheet"></script>
+    <script src="{{ SITEURL }}/theme/js/jquery.min.js" type="text/javascript"></script>
+    <script src="{{ SITEURL }}/theme/js/owl.carousel.js" type="text/javascript"></script>
+
+    <!-- animation -->
+    <script>
+      var LeafScene = function(el) {
+        this.viewport = el;
+        this.world = document.createElement('div');
+        this.leaves = [];
+
+        this.options = {
+          numLeaves:5,
+          wind: {
+            magnitude:1.2,
+            maxSpeed:2,
+            duration:300,
+            start: 0,
+            speed:0
+          },
+        };
+
+        this.width = this.viewport.offsetWidth;
+        this.height = this.viewport.offsetHeight;
+
+        // animation helper
+        this.timer = 0;
+
+        this._resetLeaf = function(leaf) {
+
+          // place leaf towards the top left
+          leaf.x = this.width * 2 - Math.random()*this.width*1.75;
+          leaf.y = -10;
+          leaf.z = Math.random()*200;
+          if (leaf.x > this.width) {
+            leaf.x = this.width + 10;
+            leaf.y = Math.random()*this.height/2;
+          }
+          // at the start, the leaf can be anywhere
+          if (this.timer == 0) {
+            leaf.y = Math.random()*this.height;
+          }
+
+          // Choose axis of rotation.
+          // If axis is not X, chose a random static x-rotation for greater variability
+          leaf.rotation.speed = Math.random()*10;
+          var randomAxis = Math.random();
+          if (randomAxis > 0.5) {
+            leaf.rotation.axis = 'X';
+          } else if (randomAxis > 0.25) {
+            leaf.rotation.axis = 'Y';
+            leaf.rotation.x = Math.random()*180 + 90;
+          } else {
+            leaf.rotation.axis = 'Z';
+            leaf.rotation.x = Math.random()*360 - 180;
+            // looks weird if the rotation is too fast around this axis
+            leaf.rotation.speed = Math.random()*3;
+          }
+
+          // random speed
+          leaf.xSpeedVariation = Math.random() ;
+          leaf.ySpeed = Math.random() + 0.2;
+
+          return leaf;
+        }
+
+        this._updateLeaf = function(leaf) {
+          var leafWindSpeed = this.options.wind.speed(this.timer - this.options.wind.start, leaf.y);
+
+          var xSpeed = leafWindSpeed + leaf.xSpeedVariation;
+          leaf.x -= xSpeed;
+          leaf.y += leaf.ySpeed;
+          leaf.rotation.value += leaf.rotation.speed;
+
+          var t = 'translateX( ' + leaf.x + 'px ) translateY( ' + leaf.y + 'px ) translateZ( ' + leaf.z + 'px )  rotate' + leaf.rotation.axis + '( ' + leaf.rotation.value + 'deg )';
+          if (leaf.rotation.axis !== 'X') {
+            t += ' rotateX(' + leaf.rotation.x + 'deg)';
+          }
+          leaf.el.style.webkitTransform = t;
+          leaf.el.style.MozTransform = t;
+          leaf.el.style.oTransform = t;
+          leaf.el.style.transform = t;
+
+          // reset if out of view
+          if (leaf.x < -10 || leaf.y > this.height + 10) {
+            this._resetLeaf(leaf);
+          }
+        }
+
+        this._updateWind = function() {
+          // wind follows a sine curve: asin(b*time + c) + a
+          // where a = wind magnitude as a function of leaf position, b = wind.duration, c = offset
+          // wind duration should be related to wind magnitude, e.g. higher windspeed means longer gust duration
+
+          if (this.timer === 0 || this.timer > (this.options.wind.start + this.options.wind.duration)) {
+
+            this.options.wind.magnitude = Math.random() * this.options.wind.maxSpeed;
+            this.options.wind.duration = this.options.wind.magnitude * 50 + (Math.random() * 20 - 10);
+            this.options.wind.start = this.timer;
+
+            var screenHeight = this.height;
+
+            this.options.wind.speed = function(t, y) {
+              // should go from full wind speed at the top, to 1/2 speed at the bottom, using leaf Y
+              var a = this.magnitude/2 * (screenHeight - 2*y/3)/screenHeight;
+              return a * Math.sin(2*Math.PI/this.duration * t + (3 * Math.PI/2)) + a;
+            }
+          }
+        }
+      }
+
+      LeafScene.prototype.init = function() {
+
+        for (var i = 0; i < this.options.numLeaves; i++) {
+          var leaf = {
+            el: document.createElement('div'),
+            x: 0,
+            y: 0,
+            z: 0,
+            rotation: {
+              axis: 'X',
+              value: 0,
+              speed: 0,
+              x: 0
+            },
+            xSpeedVariation: 0,
+            ySpeed: 0,
+            path: {
+              type: 1,
+              start: 0,
+
+            },
+            image: 1
+          };
+          this._resetLeaf(leaf);
+          this.leaves.push(leaf);
+          this.world.appendChild(leaf.el);
+        }
+
+        this.world.className = 'leaf-scene';
+        this.viewport.appendChild(this.world);
+
+        // set perspective
+        this.world.style.webkitPerspective = "400px";
+        this.world.style.MozPerspective = "400px";
+        this.world.style.oPerspective = "400px";
+        this.world.style.perspective = "400px";
+        
+        // reset window height/width on resize
+        var self = this;
+        window.onresize = function(event) {
+          self.width = self.viewport.offsetWidth;
+          self.height = self.viewport.offsetHeight;
+        };
+      }
+
+      LeafScene.prototype.render = function() {
+        this._updateWind();
+        for (var i = 0; i < this.leaves.length; i++) {
+          this._updateLeaf(this.leaves[i]);
+        }
+
+        this.timer++;
+
+        requestAnimationFrame(this.render.bind(this));
+      }
+
+      // start up leaf scene
+      var leafContainer = document.querySelector('.falling-leaves'),
+          leaves = new LeafScene(leafContainer);
+
+      leaves.init();
+      leaves.render();
+        </script>
+        <script>
+            $(document).on("scroll", function(){
+                    if
+                  ($(document).scrollTop() > 100){
+              $("header").addClass("shrink");
+                    }
+                    else
+                    {
+                        $("header").removeClass("shrink");
+                    }
+                });
+            </script>
+        <script>
+        // Function to handle scroll event
+        function handleScroll() {
+          var ball = document.getElementById('ball');
+          var scrollPercentage = (document.documentElement.scrollTop + document.body.scrollTop) / (document.documentElement.scrollHeight - document.documentElement.clientHeight);
+          var newSize = 100 + scrollPercentage * 1000; // Adjust this value to control the maximum size of the ball
+          ball.style.width = newSize + 'px';
+          ball.style.height = newSize + 'px';
+        }
+
+        // Add scroll event listener
+        window.addEventListener('scroll', handleScroll);
+        </script>
+
+        <script>
+            $(window).on('load resize scroll', function() {
+            $('.trainbg').each(function() {
+            var windowTop = $(window).scrollTop();
+            var elementTop = $(this).offset().top;
+            var leftPosition =elementTop - windowTop;
+            $(this)
+                .find('.bg-move')
+                .css({ left: leftPosition });
+        });
+        });
+        </script>
+        <script>
+            $(window).on('load resize scroll', function() {
+            $('.trainbg-rt').each(function() {
+            var windowTop = $(window).scrollTop();
+            var elementTop = $(this).offset().top;
+            var leftPosition =windowTop - elementTop;
+            $(this)
+                .find('.bg-move-rt')
+                .css({ left: leftPosition });
+        });
+        });
+    </script>
+    <script>
+        AOS.init({
+            once: 'true'
+        });
+    </script>
+
+  </body>
+</html>
