@@ -2,7 +2,7 @@ Title: The Python Effect: How PyCon India Fuels Community Growth
 Date: 2025-06-01 12:00
 Category: 2025
 Slug: how-pycon-india-fuels-community-growth
-Statement: Python has significantly shaped the Indian tech community, with PyCon India playing a major role in promoting its growth and fostering collaboration.
+Summary: Python has significantly shaped the Indian tech community, with PyCon India playing a major role in promoting its growth and fostering collaboration.
 
 *India's tech landscape is increasingly powered by Python, with its influence spanning diverse industries such as fintech, healthcare, education, e-commerce, artificial intelligence, and data science. From building cutting-edge tools to launching groundbreaking products, Python's versatility enables innovation across these domains, making it a cornerstone of technological advancement in the country.*
 
