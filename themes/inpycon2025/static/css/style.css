@@ -154,7 +154,7 @@ header .navbar-expand-lg .navbar-nav .nav-link{
 .banner-sec .container
 {
     position: relative;
-    z-index: 99!important;
+    /* z-index: 99!important; */
 }
 .banner-sec .container-fluid
 {
@@ -199,6 +199,12 @@ display: none;
 {
     padding: 0px!important;
 }
+ @media (min-width: 375px) {
+    .w-sm-100 {
+      width: 70% !important;
+     
+    }
+  }
 .banner-sec .p-10
 {
     padding: 0px 30px!important;
@@ -1028,9 +1034,7 @@ path{
     .navbar-toggler:focus{
         box-shadow: none!important;
     }
-    .navbar-brand img{
-        width:60%!important;
-        }
+    
         .marquee-bg
         {
             background-position: 100% 110%!important;
@@ -1053,6 +1057,7 @@ path{
         }
     .navbar-collapse{
         border-radius: 10px;
+
         
     }
     .navbar-collapse ul li
@@ -1368,6 +1373,7 @@ path{
      line-height: 1.5;
     letter-spacing: -0.03rem;
     font-size: 1.125rem;
+   text-decoration: none;
   }
   .bg-detail {
     flex: 1;
@@ -1500,6 +1506,17 @@ path{
         
     }
   }
+  @media(max-width:1200px)
+  {
+    .blog-list
+    {
+        padding-top: 300px;
+        
+    }
+  }
+  .bg-box:hover {
+    background-color: #D7FF7B;
+  }
   .img-fluid{
     width: auto;
     height: 2.5rem!important;
@@ -1621,6 +1638,7 @@ path{
   .floating-logo {
     animation: floating-logo 2s ease-in-out infinite;
   }
+  
 
   @keyframes floating-logo {
     0%, 100% { transform: translateY(0); }
