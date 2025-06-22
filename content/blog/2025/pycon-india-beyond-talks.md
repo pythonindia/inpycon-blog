@@ -1,5 +1,5 @@
 Title: Beyond the Talks: Networking and Community at PyCon India
-Date: 2025-06-21 20:00
+Date: 2025-06-27 12:00
 Category: 2025
 Slug: pycon-india-beyond-talks
 Summary: Pycon India 2025 beyond talks, tips for first-time attendees to make the most of networking opportunities.
