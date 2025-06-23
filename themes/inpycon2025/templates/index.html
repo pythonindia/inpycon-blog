@@ -1,55 +1,105 @@
 {% extends "base.html"%} {% block body %}
 <!-- blog section  -->
-<section class="blog-banner py-5 py-md-4">
-    <div class="container">
-        <div class="col-md-12 text-center">
-            <h2
-                class="title-2 text-center mb-0 mb-md-5 pt-0 pt-md-5 pb-5"
-                data-aos="fade-up"
-                data-aos-duration="1000">
-                Our Blogs
-            </h2>
-        </div>
+ <div>
+<section class="blog-banner pt-5 py-md-4">
+  <div class="container">
+    <div class="row align-items-center">
+      <!-- Left Column: Title -->
+      <div class="col-md-6 text-center text-md-start mb-4 mb-md-0">
+        <h2 class="title-2" data-aos="fade-up" data-aos-duration="1000">
+          Our Blogs
+        </h2>
+        <!-- <div class="title-3">
+          Conversations That Matter: Discussing Ethics in AI and Stories of
+          Empowering Leadership at PyCon India 2024
+        </div> -->
+      </div>
+
+      <!-- Right Column: Floating Images -->
+      <div class="col-md-6 text-center position-relative">
+        <img
+          src="{{ SITEURL }}/theme/images/plane.svg"
+          alt="Plane"
+          class="position-absolute floating-logo img-2"
+        />
+        <img
+          src="{{ SITEURL }}/theme/images/planet.svg"
+          alt="Planet"
+          class="position-absolute floating-logo img-planet"
+        />
+        <img
+          src="{{ SITEURL }}/theme/images/smallPlanet-1.svg"
+          alt="Small Planet 1"
+          class="position-absolute floating-logo img-small-1"
+        />
+        <img
+          src="{{ SITEURL }}/theme/images/smallPlanet-2.svg"
+          alt="Small Planet 2"
+          class="position-absolute floating-logo img-small-2"
+        />
+      </div>
     </div>
+  </div>
 </section>
+
 <!-- blog-list -->
 <section class="blog-list">
-    <div class="container">
-        <div class="row">
-            {% for article in articles_page.object_list %}
-            <div class="col-md-12 my-3">
-                <div class="bg-box">
-                    <div class="bg-tit">
-                        <a href="{{SITEURL}}/{{article.url}}"><h3>{{article.title}}</h3></a>
-                        <p>{{article.summary}}</p>
-                    </div>
-                    <div class="bg-detail">
-                        <div class="bg-date">
-                            <img src="{{ SITEURL }}/theme/images/calendar.png" alt="" />
-                            <time
-                                datetime="{{article.date}}"
-                                itemprop="datePublished">
-                                <p class="blog-date">
-                                    {{ article.date.strftime("%B %d, %Y")}}
-                                </p>
-                            </time>
-                        </div>
-                        <div class="author">
-                            <img src="{{ SITEURL }}/theme/images/writer.png" alt="" />
-                            <p>
-                                {{ article.author | default("PyCon India Content Team", true) }}
-                            </p>
-                        </div>
-                    </div>
-                </div>
+  <div class="container">
+    <div class="row flex-wrap ">
+      {% for article in articles_page.object_list %}
+      <div class="col-12 col-md-6 col-xl-4 mb-4 flex-wrap d-flex">
+        {# Added col-lg-3 for larger screens #}
+        <div class="bg-box flex-wrap">
+          <div class="bg-tit">
+            <a style="text-decoration: none;" href="{{SITEURL}}/{{article.url}}">
+              <div class="blog-title text-clip">{{article.title}}</div>
+            </a>
+            <div class="text-clip pt-2">{{article.summary}}</div>
+          </div>
+          <div
+            class="bg-detail justify-content-between align-items-center flex-wrap"
+          >
+            {# Added flexbox classes #}
+            <div class="bg-date d-flex align-items-center mb-2 mb-md-0">
+              {# Added flexbox and margin #}
+              <img
+                src="{{ SITEURL }}/theme/images/calendar.png"
+                alt="Calendar icon"
+                class="img-small me-2"
+                style="height: auto"
+              />
+              {# Added img-small and custom style #}
+              <time datetime="{{article.date}}" itemprop="datePublished">
+                <p class="blog-date mb-0">
+                  {{ article.date.strftime("%B %d, %Y")}}
+                </p>
+                {# Removed default margin #}
+              </time>
             </div>
-            {% endfor %}
+            <div class="author d-flex align-items-center">
+              {# Added flexbox #}
+              <img
+                src="{{ SITEURL }}/theme/images/writer.png"
+                alt="Writer icon"
+                class="img-small me-2"
+                style="height: auto"
+              />
+              {# Added img-small and custom style #}
+              <p class="mb-0">
+                {# Removed default margin #} {{ article.author | default("PyCon
+                India Content Team", true) }}
+              </p>
+            </div>
+          </div>
         </div>
-        {% if articles_page.has_other_pages() %}
-        {% include "components/pagination.html" %}
-        {% endif %}
+      </div>
+      {% endfor %}
     </div>
+    {% if articles_page.has_other_pages() %} {% include
+    "components/pagination.html" %} {% endif %}
+  </div>
 </section>
+</div>
 <!-- subscribe section ended -->
 
 {% endblock %}

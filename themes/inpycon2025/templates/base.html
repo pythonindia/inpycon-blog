@@ -6,7 +6,7 @@
   <body class="enabled-focus">
     {% include "components/header.html" %}
 
-    <div>
+    <div class="body-content">
       {% block body %}
       {% endblock %}
     </div>
@@ -14,29 +14,13 @@
     {%include "components/footer.html" %}
 
     <!-- bootstrap -->
-    <script src="{{ SITEURL }}/theme/js/bootstrap.popper.min.js "></script>
-    <script src="{{ SITEURL }}/theme/js/bootstrap.bundle.min.js "></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
     <script src="{{ SITEURL }}/theme/js/font-awesome.js" rel="stylesheet"></script>
-
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-    
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>   
     <script src="{{ SITEURL }}/theme/js/aos.js" rel="stylesheet"></script>
     <script src="{{ SITEURL }}/theme/js/jquery.min.js" type="text/javascript"></script>
     <script src="{{ SITEURL }}/theme/js/owl.carousel.js" type="text/javascript"></script>
-
     <!-- animation -->
-        <script>
-          $(document).on("scroll", function () {
-            if
-              ($(document).scrollTop() > 100) {
-              $("header").addClass("shrink");
-            }
-            else {
-              $("header").removeClass("shrink");
-            }
-          });
-        </script>
         <script>
         // Function to handle scroll event
         function handleScroll() {
@@ -46,16 +30,24 @@
           ball.style.width = newSize + 'px';
           ball.style.height = newSize + 'px';
         }
-
         // Add scroll event listener
         window.addEventListener('scroll', handleScroll);
         </script>
-
+        <script>
+          // on clicking element with id "navbar-toggler-icon", add class "show" to element with id navbarSupportedContent
+          document.getElementById("navbar-toggler-icon").addEventListener("click", function() {
+            var navbarContent = document.getElementById("navbarSupportedContent");
+            if (navbarContent.classList.contains("show")) {
+              navbarContent.classList.remove("show");
+            } else {
+              navbarContent.classList.add("show");
+            }
+          });
+        </script>
     <script>
         AOS.init({
             once: 'true'
         });
     </script>
-
   </body>
 </html>
