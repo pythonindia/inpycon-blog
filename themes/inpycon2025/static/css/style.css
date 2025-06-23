@@ -536,12 +536,12 @@ thead th {
 .title-2 {
     position: absolute;
     color: white;
-    font-size: 3rem;
+    font-size: 4rem;
     font-weight: 400;
     max-width: 47.875rem;
     height: 3.5rem;
     top: 198px;
-    left: 144px;
+/*     left: 144px; */
     gap: 14px;
 }
 .title-3 {
