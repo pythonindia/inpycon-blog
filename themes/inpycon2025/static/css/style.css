@@ -1622,6 +1622,11 @@ path {
     padding-bottom: 18rem;
 } /* 72 × 0.25rem */
 
+@media (min-width: 408px) {
+    .pb-sm-56 {
+        padding-bottom: 14rem;
+    }
+}
 @media (min-width: 768px) {
     .pb-md-16 {
         padding-bottom: 4rem;
