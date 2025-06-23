@@ -27,8 +27,11 @@
           var ball = document.getElementById('ball');
           var scrollPercentage = (document.documentElement.scrollTop + document.body.scrollTop) / (document.documentElement.scrollHeight - document.documentElement.clientHeight);
           var newSize = 100 + scrollPercentage * 1000; // Adjust this value to control the maximum size of the ball
-          ball.style.width = newSize + 'px';
-          ball.style.height = newSize + 'px';
+          if (ball !== null) {
+            // Set the new size of the ball
+            ball.style.width = newSize + 'px';
+            ball.style.height = newSize + 'px';
+          }
         }
         // Add scroll event listener
         window.addEventListener('scroll', handleScroll);
