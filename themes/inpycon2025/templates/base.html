@@ -6,7 +6,7 @@
   <body class="enabled-focus">
     {% include "components/header.html" %}
 
-    <div>
+    <div class="body-content">
       {% block body %}
       {% endblock %}
     </div>
@@ -32,6 +32,17 @@
         }
         // Add scroll event listener
         window.addEventListener('scroll', handleScroll);
+        </script>
+        <script>
+          // on clicking element with id "navbar-toggler-icon", add class "show" to element with id navbarSupportedContent
+          document.getElementById("navbar-toggler-icon").addEventListener("click", function() {
+            var navbarContent = document.getElementById("navbarSupportedContent");
+            if (navbarContent.classList.contains("show")) {
+              navbarContent.classList.remove("show");
+            } else {
+              navbarContent.classList.add("show");
+            }
+          });
         </script>
     <script>
         AOS.init({

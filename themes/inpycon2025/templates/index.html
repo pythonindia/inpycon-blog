@@ -1,7 +1,7 @@
 {% extends "base.html"%} {% block body %}
 <!-- blog section  -->
  <div>
-<section class="blog-banner py-5 py-md-4 m-b-5">
+<section class="blog-banner pt-5 py-md-4">
   <div class="container">
     <div class="row align-items-center">
       <!-- Left Column: Title -->
@@ -9,10 +9,10 @@
         <h2 class="title-2" data-aos="fade-up" data-aos-duration="1000">
           Our Blogs
         </h2>
-        <div class="title-3">
+        <!-- <div class="title-3">
           Conversations That Matter: Discussing Ethics in AI and Stories of
           Empowering Leadership at PyCon India 2024
-        </div>
+        </div> -->
       </div>
 
       <!-- Right Column: Floating Images -->
@@ -47,17 +47,17 @@
   <div class="container">
     <div class="row flex-wrap ">
       {% for article in articles_page.object_list %}
-      <div class="col-12 col-md-6 col-xl-4 mb-4 flex-wrap">
+      <div class="col-12 col-md-6 col-xl-4 mb-4 flex-wrap d-flex">
         {# Added col-lg-3 for larger screens #}
         <div class="bg-box flex-wrap">
           <div class="bg-tit">
             <a style="text-decoration: none;" href="{{SITEURL}}/{{article.url}}">
-              <div class="blog-title">{{article.title}}</div>
+              <div class="blog-title text-clip">{{article.title}}</div>
             </a>
-            <p>{{article.summary}}</p>
+            <div class="text-clip pt-2">{{article.summary}}</div>
           </div>
           <div
-            class="bg-detail d-flex justify-content-between align-items-center flex-wrap"
+            class="bg-detail justify-content-between align-items-center flex-wrap"
           >
             {# Added flexbox classes #}
             <div class="bg-date d-flex align-items-center mb-2 mb-md-0">
@@ -65,10 +65,10 @@
               <img
                 src="{{ SITEURL }}/theme/images/calendar.png"
                 alt="Calendar icon"
-                class="img-fluid me-2"
+                class="img-small me-2"
                 style="height: auto"
               />
-              {# Added img-fluid and custom style #}
+              {# Added img-small and custom style #}
               <time datetime="{{article.date}}" itemprop="datePublished">
                 <p class="blog-date mb-0">
                   {{ article.date.strftime("%B %d, %Y")}}
@@ -81,10 +81,10 @@
               <img
                 src="{{ SITEURL }}/theme/images/writer.png"
                 alt="Writer icon"
-                class="img-fluid me-2"
+                class="img-small me-2"
                 style="height: auto"
               />
-              {# Added img-fluid and custom style #}
+              {# Added img-small and custom style #}
               <p class="mb-0">
                 {# Removed default margin #} {{ article.author | default("PyCon
                 India Content Team", true) }}
