@@ -14,7 +14,7 @@
     {%include "components/footer.html" %}
 
     <!-- bootstrap -->
-    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="{{ SITEURL }}/theme/js/bootstrap.bundle.min.js"></script>
     <script src="{{ SITEURL }}/theme/js/font-awesome.js" rel="stylesheet"></script>
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
     <script src="{{ SITEURL }}/theme/js/aos.js" rel="stylesheet"></script>
@@ -37,14 +37,29 @@
         window.addEventListener('scroll', handleScroll);
         </script>
         <script>
-          // on clicking element with id "navbar-toggler-icon", add class "show" to element with id navbarSupportedContent
-          document.getElementById("navbar-toggler-icon").addEventListener("click", function() {
+          document.addEventListener('DOMContentLoaded', function() {
             var navbarContent = document.getElementById("navbarSupportedContent");
-            if (navbarContent.classList.contains("show")) {
-              navbarContent.classList.remove("show");
-            } else {
-              navbarContent.classList.add("show");
-            }
+            var togglerButton = document.getElementById("navbar-toggler-icon");
+            var isToggling = false;
+            
+            // Listen for Bootstrap collapse events - these fire at the right time
+            navbarContent.addEventListener('show.bs.collapse', function() {
+              togglerButton.setAttribute("aria-expanded", "true");
+              isToggling = true;
+            });
+            
+            navbarContent.addEventListener('shown.bs.collapse', function() {
+              isToggling = false;
+            });
+            
+            navbarContent.addEventListener('hide.bs.collapse', function() {
+              togglerButton.setAttribute("aria-expanded", "false");
+              isToggling = true;
+            });
+            
+            navbarContent.addEventListener('hidden.bs.collapse', function() {
+              isToggling = false;
+            });
           });
         </script>
     <script>
