@@ -5,7 +5,7 @@
       class="w-full d-flex align-items-center justify-content-center"
       id="main-navbar"
     >
-      <div class="col-lg-2 col-md-2 d-none d-lg-block">
+      <div class="col-lg-1 col-md-1 d-none d-lg-block">
         <a href="https://in.pycon.org/2025/" class="no-focus">
           <img
             src="{{ SITEURL }}/theme/images/logo 2.png"
@@ -14,7 +14,7 @@
           />
         </a>
       </div>
-      <div class="col-lg-8 col-md-12 w-full">
+      <div class="col-lg-9 col-md-12 w-full">
         <nav class="navbar navbar-expand-lg navbar-light">
           <div class="container-fluid">
             <a
@@ -37,26 +37,56 @@
               aria-label="Toggle navigation"
               id="navbar-toggler-icon"
             >
-              <span class="navbar-toggler-icon"></span>
+              <img src="{{ SITEURL }}/images/2025/mobile_nav_burger.svg" alt="Menu" width="24" height="24" class="hamburger-icon">
+              <div id="mobile-close-btn" class="close-icon" style="display: none;">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-white">
+                  <line x1="18" y1="6" x2="6" y2="18"></line>
+                  <line x1="6" y1="6" x2="18" y2="18"></line>
+                </svg>
+              </div>
             </button>
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav m-auto align-items-center mb-2 mb-lg-0">
-                <li class="nav-item">
-                  <a class="nav-link" href="https://in.pycon.org/2025/">Home</a>
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="aboutDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    About
+                  </a>
+                  <ul class="dropdown-menu" aria-labelledby="aboutDropdown">
+                    <li class="dropdown-list"><a class="dropdown-item" href="https://in.pycon.org/2025/about/faqs">FAQs</a></li>
+                  </ul>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="https://in.pycon.org/2025/cfp/"
-                    >Call for Proposal</a
-                  >
+                  <a class="nav-link" href="https://in.pycon.org/2025/cfp/">CFP</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="https://in.pycon.org/2025/coc/"
-                    >Code of Conduct</a
-                  >
+                  <a class="nav-link" href="https://in.pycon.org/2025/venue/">Venue</a>
+                </li>
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="programDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Program
+                  </a>
+                  <ul class="dropdown-menu" aria-labelledby="programDropdown">
+                    <li class="dropdown-list"><a class="dropdown-item" href="https://in.pycon.org/2025/program/lightning-talks">Lightning Talks</a></li>
+                  </ul>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="https://in.pycon.org/2025/why-sponsor/">Sponsors</a>
+                </li>
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="cocDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    CoC
+                  </a>
+                  <ul class="dropdown-menu" aria-labelledby="cocDropdown">
+                    <li class="dropdown-list"><a class="dropdown-item" href="https://in.pycon.org/2025/coc/guidelines">Code of Conduct Policy</a></li>
+                    <li class="dropdown-list"><a class="dropdown-item" href="https://in.pycon.org/2025/coc/reporting">Code of Conduct Reporting</a></li>
+                  </ul>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link active" href="{{ SITEURL }}">Blog</a>
+                </li>
+                <li class="nav-item ms-lg-3">
+                  <a class="btn-lime" href="https://in.pycon.org/2025/tickets/">Get Tickets</a>
                 </li>
               </ul>
             </div>
