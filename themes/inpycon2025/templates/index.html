@@ -6,13 +6,9 @@
     <div class="row align-items-center">
       <!-- Left Column: Title -->
       <div class="col-md-6 text-center text-md-start mb-4 mb-md-0">
-        <h2 class="title-2" data-aos="fade-up" data-aos-duration="1000">
+        <h2 class="title-2 heading-title">
           Our Blogs
         </h2>
-        <!-- <div class="title-3">
-          Conversations That Matter: Discussing Ethics in AI and Stories of
-          Empowering Leadership at PyCon India 2024
-        </div> -->
       </div>
 
       <!-- Right Column: Floating Images -->
@@ -47,14 +43,14 @@
   <div class="container">
     <div class="row flex-wrap ">
       {% for article in articles_page.object_list %}
-      <div class="col-12 col-md-6 col-xl-4 mb-4 flex-wrap d-flex">
+      <div class="col-12 col-md-6 col-xl-4 mb-4 flex-wrap d-flex rounded-0">
         {# Added col-lg-3 for larger screens #}
         <div class="bg-box flex-wrap">
           <div class="bg-tit">
             <a style="text-decoration: none;" href="{{SITEURL}}/{{article.url}}">
-              <div class="blog-title text-clip">{{article.title}}</div>
+              <div class="blog-title text-clip-2">{{article.title}}</div>
             </a>
-            <div class="text-clip pt-2">{{article.summary}}</div>
+            <div class="text-clip-3 pt-3 mb-0">{{article.summary}}</div>
           </div>
           <div
             class="bg-detail justify-content-between align-items-center flex-wrap"
@@ -62,12 +58,7 @@
             {# Added flexbox classes #}
             <div class="bg-date d-flex align-items-center mb-2 mb-md-0">
               {# Added flexbox and margin #}
-              <img
-                src="{{ SITEURL }}/theme/images/calendar.png"
-                alt="Calendar icon"
-                class="img-small me-2"
-                style="height: auto"
-              />
+              <i class="fas fa-calendar fs-4 pe-1 text-icon-orange"></i>
               {# Added img-small and custom style #}
               <time datetime="{{article.date}}" itemprop="datePublished">
                 <p class="blog-date mb-0">
@@ -78,12 +69,7 @@
             </div>
             <div class="author d-flex align-items-center">
               {# Added flexbox #}
-              <img
-                src="{{ SITEURL }}/theme/images/writer.png"
-                alt="Writer icon"
-                class="img-small me-2"
-                style="height: auto"
-              />
+              <i class="fas fa-pen-to-square fs-4 text-icon-orange"></i>
               {# Added img-small and custom style #}
               <p class="mb-0">
                 {# Removed default margin #} {{ article.author | default("PyCon
