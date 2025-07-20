@@ -1,5 +1,5 @@
 Title: Your First Byte: Kickstart Open Source at PyCon India 2025 DevSprints!
-Date: 2025-07-20 12:00
+Date: 2025-07-21 12:00
 Category: 2025
 Slug: beginners-guide-to-opensource
 Summary: PyCon India devsprints are a great way to kickstart your open-source journey, offering a chance to collaborate directly with the maintainers of popular open-source projects.
