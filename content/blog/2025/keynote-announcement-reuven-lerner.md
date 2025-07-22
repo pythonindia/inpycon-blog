@@ -1,5 +1,5 @@
 Title: Introducing our third Keynote Speaker for PyCon India 2025 - Reuven Lerner
-Date: 2025-07-23 17:00
+Date: 2025-07-22 18:00
 Category: 2025
 Slug: keynote-announcement-reuven-lerner
 Summary: We are excited to announce **Reuven Lerner** as a Keynote Speaker for PyCon India 2025!
