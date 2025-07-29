@@ -7,7 +7,7 @@ Summary: We are excited to announce **Shakthi Kannan** as a Keynote Speaker for 
 Introducing our next Keynote Speaker for PyCon India 2025
 
 <p align="center" data-aos="fade-right"  data-aos-duration="1000">
-    <img src="{static}/images/2025/shakthi-kannan.png" alt="" class="img-fluid" style="border-radius: 10%; max-height: 350px;">
+    <img src="{static}/images/2025/shakthikannan.png" alt="" class="img-fluid" style="border-radius: 10%; max-height: 350px;">
 </p>
 
 Shakthi Kannan is a Free/Libre and Open Source Software developer, who has been actively working with the community, industry and Government for more than two decades. He has organized numerous workshops and given technical talks at various colleges and universities across India and abroad. He holds a Masters degree in Information Technology from Rochester Institute of Technology, New York, US.
