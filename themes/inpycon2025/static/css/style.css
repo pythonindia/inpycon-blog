@@ -1528,7 +1528,7 @@ path {
     text-overflow: ellipsis;
 }
 .bg-tit a {
-    color: #25627e !important;
+    color: #000000 !important;
     font-weight: 500;
     display: inline-block;
 }
@@ -1556,6 +1556,7 @@ path {
 }
 .bg-date,
 .author {
+    color: #475569 !important;
     margin: 20px 0px;
 }
 
@@ -1728,6 +1729,9 @@ path {
 
 .text-icon-orange {
     color: #ff7b3e;
+}
+.text-icon-slate {
+    color: #475569;
 }
 .outline-lime {
     outline: 1px solid #c5f700;

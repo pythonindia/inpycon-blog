@@ -58,7 +58,7 @@
             {# Added flexbox classes #}
             <div class="bg-date d-flex align-items-center mb-2 mb-md-0">
               {# Added flexbox and margin #}
-              <i class="fas fa-calendar fs-4 pe-1 text-icon-orange"></i>
+              <img src="{{ SITEURL }}/theme/images/calendar.svg" alt="Calendar" class="fs-4 pe-1 text-icon-slate"  />
               {# Added img-small and custom style #}
               <time datetime="{{article.date}}" itemprop="datePublished">
                 <p class="blog-date mb-0">
@@ -69,7 +69,7 @@
             </div>
             <div class="author d-flex align-items-center">
               {# Added flexbox #}
-              <i class="fas fa-pen-to-square fs-4 text-icon-orange"></i>
+              <img src="{{ SITEURL }}/theme/images/person.svg" alt="Person" class="fs-4 text-icon-slate" style="width: 1em; height: 1em;"></i>
               {# Added img-small and custom style #}
               <p class="mb-0">
                 {# Removed default margin #} {{ article.author | default("PyCon
