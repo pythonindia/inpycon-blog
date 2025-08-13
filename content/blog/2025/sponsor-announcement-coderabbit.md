@@ -1,5 +1,5 @@
 Title: Announcing CodeRabbit as our first Gold Sponsor for PyCon India 2025
-Date: 2025-08-14 10:00
+Date: 2025-08-14 17:00
 Category: 2025
 Slug: sponsor-announcement-coderabbit
 Summary: We are excited to announce CodeRabbit as a Gold Sponsor for PyCon India 2025!
