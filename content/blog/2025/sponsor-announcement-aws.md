@@ -1,4 +1,4 @@
-Title: Announcing Amazon Web Services (AWS) as a Platinum for PyCon India 2025
+Title: Announcing Amazon Web Services (AWS) as a Platinum Sponsor for PyCon India 2025
 Date: 2025-08-28 17:00
 Category: 2025
 Slug: sponsor-announcement-aws
