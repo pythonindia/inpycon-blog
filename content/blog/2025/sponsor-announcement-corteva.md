@@ -1,4 +1,4 @@
-Title: Announcing Corteva Agriscience as Silver Sponsor for PyCon India
+Title: Announcing Corteva Agriscience as Silver Sponsor for PyCon India 2025
 Date: 2025-09-04 17:00
 Category: 2025
 Slug: sponsor-announcement-corteva
