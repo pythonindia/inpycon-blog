@@ -1556,6 +1556,7 @@ path {
 }
 .bg-date,
 .author {
+    color: #475569 !important;
     margin: 20px 0px;
 }
 
@@ -1728,6 +1729,9 @@ path {
 
 .text-icon-orange {
     color: #ff7b3e;
+}
+.text-icon-slate {
+    color: #475569;
 }
 .outline-lime {
     outline: 1px solid #c5f700;
